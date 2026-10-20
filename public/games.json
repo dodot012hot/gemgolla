@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20",
+ "updatedAt": "2026-10-21",
  "games": [
   {
    "appid": 4656000,
@@ -72,8 +72,6 @@
    ],
    "desc": "허세와 거짓말로 위험한 거래를 이익으로 바꾸는 3~6인 경매 게임. 앞서 해보기.",
    "kind": "new",
-   "finalPrice": 8050,
-   "discount": 10,
    "release": "2026-10-13",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/0d770690dad82dbc74f06a656db3b5b16c8dab42/header.jpg"
   },
@@ -527,8 +525,10 @@
    ],
    "desc": "곰팡이 괴물을 쓸어버리는 4인 협동 슈터. 무기 개조가 핵심.",
    "kind": "gem",
-   "release": "2025-07-10",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/8942779bb6b901ccea4bb6fa275891207dbaef8e/header_alt_assets_3.jpg"
+   "release": "2026-10-20",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/67b1dc819a93d4e855b213b518f25a9700f46434/header.jpg",
+   "finalPrice": 8250,
+   "discount": 50
   },
   {
    "appid": 865360,
@@ -618,7 +618,7 @@
    "desc": "작아져서 공원에서 살아남는 생존 협동 후속작. 앞서 해보기.",
    "kind": "gem",
    "release": "2025-07-29",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b52405d3dd3d4bfd356cd9af7b399bcbc5a23f7e/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/94fdfb835c4fc70037f6abf052d909579b9c8539/header.jpg"
   },
   {
    "appid": 1203620,
@@ -653,7 +653,9 @@
    "desc": "보석상 털러 갔다가 괴물 소굴에 갇히는 강도 공포 협동.",
    "kind": "gem",
    "release": "2025-10-23",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208570/64de5d8de8cc16b27b4de3026a9a7df934ca2552/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208570/64de5d8de8cc16b27b4de3026a9a7df934ca2552/header.jpg",
+   "finalPrice": 6900,
+   "discount": 40
   },
   {
    "appid": 1987080,
@@ -1894,8 +1896,6 @@
    ],
    "desc": "1대1 펜싱 줄다리기 대전. 한 판이 짧고 치열함.",
    "kind": "gem",
-   "finalPrice": 3850,
-   "discount": 65,
    "release": "2014-01-13",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/94400/header.jpg"
   },
