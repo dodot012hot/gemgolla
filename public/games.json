@@ -1,0 +1,1698 @@
+{
+ "updatedAt": "2026-10-20",
+ "games": [
+  {
+   "appid": 4656000,
+   "name": "BOMBANANA!",
+   "min": 3,
+   "max": 3,
+   "mode": "coop",
+   "price": 8700,
+   "len": "short",
+   "tags": [
+    "puzzle",
+    "party",
+    "funny"
+   ],
+   "desc": "원숭이 셋이 정보를 나눠 갖고 폭탄을 해체하는 대화 퍼즐. 딱 3명 전용.",
+   "kind": "new"
+  },
+  {
+   "appid": 4108000,
+   "name": "Machine Party",
+   "min": 2,
+   "max": 4,
+   "mode": "pvp",
+   "price": 8800,
+   "len": "short",
+   "tags": [
+    "party",
+    "funny"
+   ],
+   "desc": "지면 죽는 잔혹한 미니게임 모음. 서로 방해하는 맛.",
+   "kind": "new"
+  },
+  {
+   "appid": 3883570,
+   "name": "인보키어: 마의 주사위",
+   "min": 1,
+   "max": 6,
+   "mode": "coop",
+   "price": 11900,
+   "len": "mid",
+   "tags": [
+    "horror",
+    "strategy"
+   ],
+   "desc": "저주받은 70년대 보드게임 속 저택에서 주사위 굴리며 살아남는 협동 공포. 앞서 해보기.",
+   "kind": "new"
+  },
+  {
+   "appid": 4218620,
+   "name": "Double Dealers",
+   "min": 3,
+   "max": 6,
+   "mode": "pvp",
+   "price": 8950,
+   "len": "mid",
+   "tags": [
+    "deduction",
+    "strategy",
+    "party"
+   ],
+   "desc": "허세와 거짓말로 위험한 거래를 이익으로 바꾸는 3~6인 경매 게임. 앞서 해보기.",
+   "kind": "new"
+  },
+  {
+   "appid": 3645890,
+   "name": "GONE Fishing",
+   "min": 1,
+   "max": 8,
+   "mode": "coop",
+   "price": 10000,
+   "len": "mid",
+   "tags": [
+    "horror",
+    "survival"
+   ],
+   "desc": "호수 괴물한테 물고기를 바쳐야 살아남는 공포 낚시 게임.",
+   "kind": "new"
+  },
+  {
+   "appid": 2871520,
+   "name": "Deep Dish Dungeon",
+   "min": 1,
+   "max": 3,
+   "mode": "coop",
+   "price": 16000,
+   "len": "long",
+   "tags": [
+    "survival",
+    "puzzle"
+   ],
+   "desc": "퍼즐 던전을 탐험하며 재료 모으고 요리하는 생존 던전 크롤러. 최대 3명.",
+   "kind": "new"
+  },
+  {
+   "appid": 4660280,
+   "name": "DUAL PROTOCOL: The Case of Eva & Miles",
+   "min": 2,
+   "max": 2,
+   "mode": "coop",
+   "price": 9650,
+   "len": "mid",
+   "tags": [
+    "puzzle",
+    "story"
+   ],
+   "desc": "한 명은 저택을 수사하고 한 명은 단말기로 안내하는 2인 비대칭 추리 퍼즐.",
+   "kind": "new"
+  },
+  {
+   "appid": 3892270,
+   "name": "Gamble With Your Friends",
+   "min": 1,
+   "max": 6,
+   "mode": "coop",
+   "price": 8900,
+   "len": "mid",
+   "tags": [
+    "funny",
+    "party"
+   ],
+   "desc": "빚더미 공용 계좌로 카지노를 돌며 매일 빚을 갚아야 하는 협동 도박 로그라이크.",
+   "kind": "new"
+  },
+  {
+   "appid": 4704690,
+   "name": "MECCHA CHAMELEON",
+   "min": 2,
+   "max": 10,
+   "mode": "pvp",
+   "price": 6550,
+   "len": "short",
+   "tags": [
+    "party",
+    "funny"
+   ],
+   "desc": "몸에 색을 칠해 배경에 숨는 숨바꼭질. 술래 팀 대 숨는 팀.",
+   "kind": "new"
+  },
+  {
+   "appid": 4001890,
+   "name": "낚시 방법 (How to Fish)",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 8400,
+   "len": "mid",
+   "tags": [
+    "funny",
+    "chill"
+   ],
+   "desc": "배 파티하다 무인도에 떨어진 친구들이 물리 엔진 낚시로 집에 가는 게임.",
+   "kind": "new"
+  },
+  {
+   "appid": 3834090,
+   "name": "YAPYAP",
+   "min": 1,
+   "max": 5,
+   "mode": "coop",
+   "price": 11000,
+   "len": "mid",
+   "tags": [
+    "funny",
+    "horror"
+   ],
+   "desc": "마법사의 하수인이 되어 라이벌 탑에 잠입해 주문으로 난장판 만드는 협동.",
+   "kind": "new"
+  },
+  {
+   "appid": 3099190,
+   "name": "Anomaly Company",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 8900,
+   "len": "mid",
+   "tags": [
+    "horror",
+    "puzzle"
+   ],
+   "desc": "이상현상을 보고 타임라인을 지울지 판단하는 협동 공포. 한 번 틀리면 처음부터.",
+   "kind": "new"
+  },
+  {
+   "appid": 4279630,
+   "name": "Friendly Steps",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 10900,
+   "len": "short",
+   "tags": [
+    "funny",
+    "skill"
+   ],
+   "desc": "다리를 하나씩 따로 조종하며 밧줄로 묶인 채 장애물 코스를 걷는 하드코어 협동.",
+   "kind": "new"
+  },
+  {
+   "appid": 3844970,
+   "name": "노움 강도단 (Burglin' Gnomes)",
+   "min": 1,
+   "max": 6,
+   "mode": "coop",
+   "price": 10500,
+   "len": "mid",
+   "tags": [
+    "funny",
+    "puzzle"
+   ],
+   "desc": "노움이 되어 집에 몰래 들어가 훔치고 제작하는 잠입 협동.",
+   "kind": "new"
+  },
+  {
+   "appid": 4981570,
+   "name": "Wand & Order",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 6550,
+   "len": "short",
+   "tags": [
+    "chill",
+    "puzzle"
+   ],
+   "desc": "마법 가게의 어질러진 방을 수다 떨며 정리하는 힐링 협동.",
+   "kind": "new"
+  },
+  {
+   "appid": 2790700,
+   "name": "SWAPMEAT",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 18500,
+   "len": "mid",
+   "tags": [
+    "action",
+    "shooter"
+   ],
+   "desc": "적의 신체 부위를 뜯어 조합해 싸우는 빠른 액션 협동.",
+   "kind": "new"
+  },
+  {
+   "appid": 2315050,
+   "name": "We Were Here Tomorrow",
+   "min": 2,
+   "max": 2,
+   "mode": "coop",
+   "price": 21000,
+   "len": "mid",
+   "tags": [
+    "puzzle"
+   ],
+   "desc": "무전기로만 소통하며 푸는 2인 협동 퍼즐 시리즈 신작.",
+   "kind": "new"
+  },
+  {
+   "appid": 1374490,
+   "name": "RuneScape: Dragonwilds",
+   "min": 1,
+   "max": 6,
+   "mode": "coop",
+   "price": 32000,
+   "len": "long",
+   "tags": [
+    "survival",
+    "rpg"
+   ],
+   "desc": "새 대륙에서 기지 짓고 드래곤 잡는 생존 크래프팅.",
+   "kind": "new"
+  },
+  {
+   "appid": 2692990,
+   "name": "DON'T SCREAM TOGETHER",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 8900,
+   "len": "short",
+   "tags": [
+    "horror",
+    "funny"
+   ],
+   "desc": "소리 내면 들키는 캄캄한 숲을 캠코더 들고 탈출하는 협동 공포.",
+   "kind": "gem"
+  },
+  {
+   "appid": 2827200,
+   "name": "미메시스 (MIMESIS)",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 11000,
+   "len": "mid",
+   "tags": [
+    "horror"
+   ],
+   "desc": "팀원 목소리를 흉내 내는 괴물을 피해 물건을 모으는 공포 생존. 국내 개발사 작품.",
+   "kind": "gem"
+  },
+  {
+   "appid": 3097560,
+   "name": "Liar's Bar",
+   "min": 2,
+   "max": 4,
+   "mode": "pvp",
+   "price": 7800,
+   "len": "short",
+   "tags": [
+    "deduction",
+    "funny"
+   ],
+   "desc": "수상한 술집에서 카드·주사위로 허세 부리는 4인 블러핑 게임. 지면 벌칙.",
+   "kind": "gem"
+  },
+  {
+   "appid": 1943950,
+   "name": "Escape the Backrooms",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 10500,
+   "len": "mid",
+   "tags": [
+    "horror",
+    "puzzle"
+   ],
+   "desc": "백룸 레벨 30여 개를 같이 탈출하는 1인칭 공포 탐험.",
+   "kind": "gem"
+  },
+  {
+   "appid": 2683150,
+   "name": "Ale & Tale Tavern",
+   "min": 1,
+   "max": 6,
+   "mode": "coop",
+   "price": 13500,
+   "len": "long",
+   "tags": [
+    "chill",
+    "survival"
+   ],
+   "desc": "버려진 선술집을 맡아 요리·사냥·농사하며 운영하는 판타지 경영 협동.",
+   "kind": "gem"
+  },
+  {
+   "appid": 3949040,
+   "name": "RV There Yet?",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 8900,
+   "len": "mid",
+   "tags": [
+    "funny"
+   ],
+   "desc": "캠핑카를 몰고 험한 길을 같이 넘어가는 물리 협동. 사고가 반은 재미.",
+   "kind": "gem"
+  },
+  {
+   "appid": 427410,
+   "name": "Abiotic Factor",
+   "min": 1,
+   "max": 6,
+   "mode": "coop",
+   "price": 37500,
+   "len": "long",
+   "tags": [
+    "survival",
+    "horror"
+   ],
+   "desc": "지하 연구소에 갇힌 과학자들의 생존 크래프팅.",
+   "kind": "gem"
+  },
+  {
+   "appid": 2780980,
+   "name": "LOCKDOWN Protocol",
+   "min": 3,
+   "max": 8,
+   "mode": "pvp",
+   "price": 11000,
+   "len": "short",
+   "tags": [
+    "deduction",
+    "party"
+   ],
+   "desc": "보이스챗으로 하는 마피아. 기지 임무를 하며 배신자를 찾아냄.",
+   "kind": "gem"
+  },
+  {
+   "appid": 3146520,
+   "name": "WEBFISHING",
+   "min": 1,
+   "max": 12,
+   "mode": "coop",
+   "price": 5600,
+   "len": "long",
+   "tags": [
+    "chill"
+   ],
+   "desc": "동물 캐릭터로 모여 수다 떨며 낚시하는 힐링 소셜 게임.",
+   "kind": "gem"
+  },
+  {
+   "appid": 2963880,
+   "name": "Murky Divers",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 11200,
+   "len": "mid",
+   "tags": [
+    "horror",
+    "funny"
+   ],
+   "desc": "심해에서 괴생명체 사체를 수거하는 청소부 공포 협동.",
+   "kind": "gem"
+  },
+  {
+   "appid": 2709570,
+   "name": "Supermarket Together",
+   "min": 1,
+   "max": 8,
+   "mode": "coop",
+   "price": 0,
+   "len": "long",
+   "tags": [
+    "chill"
+   ],
+   "desc": "같이 마트를 차려 진열하고 계산하는 경영 협동. 무료.",
+   "kind": "gem"
+  },
+  {
+   "appid": 3247750,
+   "name": "Mycopunk",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 16500,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "action"
+   ],
+   "desc": "곰팡이 괴물을 쓸어버리는 4인 협동 슈터. 무기 개조가 핵심.",
+   "kind": "gem"
+  },
+  {
+   "appid": 865360,
+   "name": "We Were Here Together",
+   "min": 2,
+   "max": 2,
+   "mode": "coop",
+   "price": 14500,
+   "len": "mid",
+   "tags": [
+    "puzzle"
+   ],
+   "desc": "서로 보이는 게 달라서 말로 설명해야 풀리는 2인 퍼즐.",
+   "kind": "gem"
+  },
+  {
+   "appid": 1621690,
+   "name": "Core Keeper",
+   "min": 1,
+   "max": 8,
+   "mode": "coop",
+   "price": 21500,
+   "len": "long",
+   "tags": [
+    "chill",
+    "survival"
+   ],
+   "desc": "지하 동굴을 파고 농사·보스전 하는 탑뷰 샌드박스.",
+   "kind": "gem"
+  },
+  {
+   "appid": 632360,
+   "name": "Risk of Rain 2",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 26000,
+   "len": "mid",
+   "tags": [
+    "action",
+    "shooter"
+   ],
+   "desc": "아이템 쌓을수록 강해지는 3D 로그라이크 협동.",
+   "kind": "gem"
+  },
+  {
+   "appid": 493520,
+   "name": "GTFO",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 49990,
+   "len": "mid",
+   "tags": [
+    "horror",
+    "shooter",
+    "skill"
+   ],
+   "desc": "소통 안 되면 바로 전멸하는 하드코어 공포 협동 슈팅.",
+   "kind": "gem"
+  },
+  {
+   "appid": 2661300,
+   "name": "Grounded 2",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 34800,
+   "len": "long",
+   "tags": [
+    "survival"
+   ],
+   "desc": "작아져서 공원에서 살아남는 생존 협동 후속작. 앞서 해보기.",
+   "kind": "gem"
+  },
+  {
+   "appid": 1203620,
+   "name": "Enshrouded",
+   "min": 1,
+   "max": 16,
+   "mode": "coop",
+   "price": 42900,
+   "len": "long",
+   "tags": [
+    "survival",
+    "rpg"
+   ],
+   "desc": "안개 덮인 세계에서 건축하고 탐험하는 생존 RPG. 최대 16명.",
+   "kind": "gem"
+  },
+  {
+   "appid": 2208570,
+   "name": "Dark Hours",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 11500,
+   "len": "mid",
+   "tags": [
+    "horror"
+   ],
+   "desc": "보석상 털러 갔다가 괴물 소굴에 갇히는 강도 공포 협동.",
+   "kind": "gem"
+  },
+  {
+   "appid": 1987080,
+   "name": "Inside the Backrooms",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 9000,
+   "len": "mid",
+   "tags": [
+    "horror",
+    "puzzle"
+   ],
+   "desc": "백룸에서 퍼즐 풀며 괴물을 피하는 협동 공포.",
+   "kind": "gem"
+  },
+  {
+   "appid": 1302240,
+   "name": "Labyrinthine",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 11000,
+   "len": "mid",
+   "tags": [
+    "horror",
+    "puzzle"
+   ],
+   "desc": "미로 같은 맵에서 괴물 피해 퍼즐 푸는 협동 공포.",
+   "kind": "gem"
+  },
+  {
+   "appid": 673750,
+   "name": "Super Bunny Man",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 15250,
+   "len": "short",
+   "tags": [
+    "funny",
+    "puzzle"
+   ],
+   "desc": "토끼 옷 입고 굴러다니며 같이 골까지 가는 물리 플랫포머.",
+   "kind": "gem"
+  },
+  {
+   "appid": 3228590,
+   "name": "Deadzone: Rogue",
+   "min": 1,
+   "max": 3,
+   "mode": "coop",
+   "price": 27000,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "action"
+   ],
+   "desc": "우주정거장을 뚫고 나가는 로그라이트 FPS. 최대 3명.",
+   "kind": "gem"
+  },
+  {
+   "appid": 2444750,
+   "name": "Shape of Dreams",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 27000,
+   "len": "mid",
+   "tags": [
+    "action",
+    "strategy"
+   ],
+   "desc": "AOS식 스킬 조작의 로그라이트 액션. 국내 개발사 작품.",
+   "kind": "gem"
+  },
+  {
+   "appid": 699130,
+   "name": "World War Z",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 34800,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "action"
+   ],
+   "desc": "좀비 떼를 막는 4인 협동 슈터. 할인을 자주 함.",
+   "kind": "gem"
+  },
+  {
+   "appid": 1568590,
+   "name": "Goose Goose Duck",
+   "min": 3,
+   "max": 16,
+   "mode": "pvp",
+   "price": 0,
+   "len": "short",
+   "tags": [
+    "deduction",
+    "party",
+    "funny"
+   ],
+   "desc": "어몽어스와 비슷한 오리 마피아 게임. 직업이 많아 판마다 다름. 무료.",
+   "kind": "gem"
+  },
+  {
+   "appid": 2567870,
+   "name": "Chained Together",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 4000,
+   "len": "mid",
+   "tags": [
+    "funny",
+    "skill"
+   ],
+   "desc": "사슬로 묶여서 지옥 탑을 오르는 플랫포머. 우정 테스트용.",
+   "kind": "gem"
+  },
+  {
+   "appid": 1509960,
+   "name": "PICO PARK",
+   "min": 2,
+   "max": 8,
+   "mode": "coop",
+   "price": 5500,
+   "len": "short",
+   "tags": [
+    "puzzle",
+    "funny",
+    "party"
+   ],
+   "desc": "단순한 협동 퍼즐인데 인원 많을수록 혼돈. 싸고 가벼움.",
+   "kind": "gem"
+  },
+  {
+   "appid": 1016920,
+   "name": "Unrailed!",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 21000,
+   "len": "short",
+   "tags": [
+    "party",
+    "funny"
+   ],
+   "desc": "기차가 오기 전에 선로를 깔아야 하는 정신없는 협동.",
+   "kind": "gem"
+  },
+  {
+   "appid": 341800,
+   "name": "Keep Talking and Nobody Explodes",
+   "min": 2,
+   "max": 6,
+   "mode": "coop",
+   "price": 16500,
+   "len": "short",
+   "tags": [
+    "puzzle",
+    "party"
+   ],
+   "desc": "한 명은 폭탄을 보고, 나머지는 매뉴얼로 해체법을 알려주는 대화 퍼즐.",
+   "kind": "gem"
+  },
+  {
+   "appid": 286160,
+   "name": "Tabletop Simulator",
+   "min": 1,
+   "max": 10,
+   "mode": "both",
+   "price": 21500,
+   "len": "mid",
+   "tags": [
+    "strategy",
+    "party"
+   ],
+   "desc": "보드게임을 온라인으로. 창작마당에 게임이 무한.",
+   "kind": "gem"
+  },
+  {
+   "appid": 431240,
+   "name": "Golf With Your Friends",
+   "min": 1,
+   "max": 12,
+   "mode": "pvp",
+   "price": 16000,
+   "len": "short",
+   "tags": [
+    "party",
+    "chill",
+    "funny"
+   ],
+   "desc": "말도 안 되는 코스에서 미니골프 대결. 떠들면서 하기 좋음.",
+   "kind": "gem"
+  },
+  {
+   "appid": 386940,
+   "name": "Ultimate Chicken Horse",
+   "min": 2,
+   "max": 4,
+   "mode": "pvp",
+   "price": 16500,
+   "len": "short",
+   "tags": [
+    "party",
+    "funny",
+    "puzzle"
+   ],
+   "desc": "서로 함정을 깔면서 골인하는 플랫포머 대결.",
+   "kind": "gem"
+  },
+  {
+   "appid": 1557740,
+   "name": "ROUNDS",
+   "min": 2,
+   "max": 4,
+   "mode": "pvp",
+   "price": 6400,
+   "len": "short",
+   "tags": [
+    "shooter",
+    "party",
+    "fighting"
+   ],
+   "desc": "이기면 진 쪽이 카드를 골라 강해지는 슈팅 대결.",
+   "kind": "gem"
+  },
+  {
+   "appid": 674940,
+   "name": "Stick Fight: The Game",
+   "min": 2,
+   "max": 4,
+   "mode": "pvp",
+   "price": 5500,
+   "len": "short",
+   "tags": [
+    "fighting",
+    "funny",
+    "party"
+   ],
+   "desc": "막대 인간 물리 난투. 싸고 짧고 시끄러움.",
+   "kind": "gem"
+  },
+  {
+   "appid": 291550,
+   "name": "Brawlhalla",
+   "min": 1,
+   "max": 8,
+   "mode": "pvp",
+   "price": 0,
+   "len": "short",
+   "tags": [
+    "fighting",
+    "party"
+   ],
+   "desc": "스매시브라더스 스타일 플랫폼 격투. 무료.",
+   "kind": "gem"
+  },
+  {
+   "appid": 945360,
+   "name": "Among Us",
+   "min": 4,
+   "max": 15,
+   "mode": "pvp",
+   "price": 5500,
+   "len": "short",
+   "tags": [
+    "deduction",
+    "party",
+    "funny"
+   ],
+   "desc": "우주선 안의 임포스터를 찾아내는 마피아 게임. 말발과 눈치 싸움.",
+   "kind": "hit"
+  },
+  {
+   "appid": 1966720,
+   "name": "Lethal Company",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 11000,
+   "len": "mid",
+   "tags": [
+    "horror",
+    "funny"
+   ],
+   "desc": "버려진 행성에서 고철을 주워 오는 공포 협동. 무서운데 계속 웃김.",
+   "kind": "hit"
+  },
+  {
+   "appid": 3241660,
+   "name": "R.E.P.O.",
+   "min": 1,
+   "max": 6,
+   "mode": "coop",
+   "price": 10700,
+   "len": "mid",
+   "tags": [
+    "horror",
+    "funny"
+   ],
+   "desc": "괴물 피해서 물건을 옮기는 물리 공포 협동. 깨뜨리면 돈이 깎임.",
+   "kind": "hit"
+  },
+  {
+   "appid": 2881650,
+   "name": "Content Warning",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 8000,
+   "len": "short",
+   "tags": [
+    "horror",
+    "funny"
+   ],
+   "desc": "괴물을 찍어서 조회수를 버는 공포 촬영 게임.",
+   "kind": "hit"
+  },
+  {
+   "appid": 3527290,
+   "name": "PEAK",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 8400,
+   "len": "mid",
+   "tags": [
+    "funny",
+    "survival"
+   ],
+   "desc": "섬의 산을 같이 오르는 등반 협동. 서로 끌어주고 떨어지고.",
+   "kind": "hit"
+  },
+  {
+   "appid": 739630,
+   "name": "Phasmophobia",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 21500,
+   "len": "mid",
+   "tags": [
+    "horror"
+   ],
+   "desc": "유령 증거를 모아 종류를 맞히는 본격 공포 협동.",
+   "kind": "hit"
+  },
+  {
+   "appid": 1426210,
+   "name": "It Takes Two",
+   "min": 2,
+   "max": 2,
+   "mode": "coop",
+   "price": 44000,
+   "len": "long",
+   "tags": [
+    "story",
+    "puzzle",
+    "action"
+   ],
+   "desc": "둘이서만 하는 스토리 협동 명작. 한 명만 사면 친구 패스로 같이 가능.",
+   "kind": "hit"
+  },
+  {
+   "appid": 2001120,
+   "name": "Split Fiction",
+   "min": 2,
+   "max": 2,
+   "mode": "coop",
+   "price": 56000,
+   "len": "long",
+   "tags": [
+    "story",
+    "action"
+   ],
+   "desc": "It Takes Two 제작진의 2인 협동 신작. 친구 패스 지원.",
+   "kind": "hit"
+  },
+  {
+   "appid": 728880,
+   "name": "Overcooked! 2",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 26000,
+   "len": "short",
+   "tags": [
+    "party",
+    "funny",
+    "puzzle"
+   ],
+   "desc": "주방에서 요리 주문을 쳐내는 협동. 소리 지르게 되는 게임.",
+   "kind": "hit"
+  },
+  {
+   "appid": 477160,
+   "name": "Human: Fall Flat",
+   "min": 1,
+   "max": 8,
+   "mode": "coop",
+   "price": 21000,
+   "len": "mid",
+   "tags": [
+    "puzzle",
+    "funny"
+   ],
+   "desc": "흐물흐물한 몸으로 물리 퍼즐 풀기.",
+   "kind": "hit"
+  },
+  {
+   "appid": 548430,
+   "name": "Deep Rock Galactic",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 32000,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "action"
+   ],
+   "desc": "드워프 광부가 되어 벌레 잡고 광석 캐는 협동 슈팅.",
+   "kind": "hit"
+  },
+  {
+   "appid": 553850,
+   "name": "Helldivers 2",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 44800,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "action"
+   ],
+   "desc": "아군 오사가 일상인 협동 슈팅.",
+   "kind": "hit"
+  },
+  {
+   "appid": 550,
+   "name": "Left 4 Dead 2",
+   "min": 1,
+   "max": 8,
+   "mode": "both",
+   "price": 11000,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "horror",
+    "action"
+   ],
+   "desc": "좀비 협동 슈팅의 고전. 4대4 대전 모드도 있음.",
+   "kind": "hit"
+  },
+  {
+   "appid": 892970,
+   "name": "Valheim",
+   "min": 1,
+   "max": 10,
+   "mode": "coop",
+   "price": 32000,
+   "len": "long",
+   "tags": [
+    "survival",
+    "chill"
+   ],
+   "desc": "바이킹 생존·건축. 같이 집 짓고 보스 잡는 장기 플레이.",
+   "kind": "hit"
+  },
+  {
+   "appid": 105600,
+   "name": "Terraria",
+   "min": 1,
+   "max": 8,
+   "mode": "coop",
+   "price": 11000,
+   "len": "long",
+   "tags": [
+    "survival",
+    "action"
+   ],
+   "desc": "2D 탐험·건축·보스전. 싸고 콘텐츠가 엄청 많음.",
+   "kind": "hit"
+  },
+  {
+   "appid": 413150,
+   "name": "Stardew Valley",
+   "min": 1,
+   "max": 8,
+   "mode": "coop",
+   "price": 16000,
+   "len": "long",
+   "tags": [
+    "chill"
+   ],
+   "desc": "같이 농장 꾸리는 힐링 게임.",
+   "kind": "hit"
+  },
+  {
+   "appid": 322330,
+   "name": "Don't Starve Together",
+   "min": 1,
+   "max": 6,
+   "mode": "coop",
+   "price": 15500,
+   "len": "long",
+   "tags": [
+    "survival",
+    "horror"
+   ],
+   "desc": "굶지 않고 살아남는 생존 협동. 처음엔 많이 죽음.",
+   "kind": "hit"
+  },
+  {
+   "appid": 648800,
+   "name": "Raft",
+   "min": 1,
+   "max": 8,
+   "mode": "coop",
+   "price": 21000,
+   "len": "long",
+   "tags": [
+    "survival",
+    "chill"
+   ],
+   "desc": "바다 위 뗏목을 키워가는 생존 협동.",
+   "kind": "hit"
+  },
+  {
+   "appid": 1623730,
+   "name": "Palworld",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 32000,
+   "len": "long",
+   "tags": [
+    "survival",
+    "rpg"
+   ],
+   "desc": "몬스터를 잡아 일 시키는 생존 크래프팅.",
+   "kind": "hit"
+  },
+  {
+   "appid": 962130,
+   "name": "Grounded",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 39900,
+   "len": "long",
+   "tags": [
+    "survival"
+   ],
+   "desc": "개미만큼 작아져서 뒷마당에서 살아남는 생존 협동.",
+   "kind": "hit"
+  },
+  {
+   "appid": 1172620,
+   "name": "Sea of Thieves",
+   "min": 1,
+   "max": 4,
+   "mode": "both",
+   "price": 42000,
+   "len": "long",
+   "tags": [
+    "action",
+    "funny"
+   ],
+   "desc": "같이 배 몰고 보물 찾는 해적 게임. 다른 배랑 싸우기도 함.",
+   "kind": "hit"
+  },
+  {
+   "appid": 1086940,
+   "name": "Baldur's Gate 3",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 66000,
+   "len": "long",
+   "tags": [
+    "rpg",
+    "story",
+    "strategy"
+   ],
+   "desc": "턴제 RPG 대작을 같이 진행.",
+   "kind": "hit"
+  },
+  {
+   "appid": 2246340,
+   "name": "Monster Hunter Wilds",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 45800,
+   "len": "long",
+   "tags": [
+    "action",
+    "rpg",
+    "skill"
+   ],
+   "desc": "거대 몬스터를 같이 사냥하는 액션.",
+   "kind": "hit"
+  },
+  {
+   "appid": 1097150,
+   "name": "Fall Guys",
+   "min": 1,
+   "max": 60,
+   "mode": "pvp",
+   "price": 0,
+   "len": "short",
+   "tags": [
+    "party",
+    "funny"
+   ],
+   "desc": "젤리 캐릭터로 장애물 레이스. 무료.",
+   "kind": "hit"
+  },
+  {
+   "appid": 1260320,
+   "name": "Party Animals",
+   "min": 1,
+   "max": 8,
+   "mode": "pvp",
+   "price": 25900,
+   "len": "short",
+   "tags": [
+    "fighting",
+    "party",
+    "funny"
+   ],
+   "desc": "말랑한 동물들로 서로 던지고 때리는 난투 파티.",
+   "kind": "hit"
+  },
+  {
+   "appid": 285900,
+   "name": "Gang Beasts",
+   "min": 1,
+   "max": 8,
+   "mode": "pvp",
+   "price": 21500,
+   "len": "short",
+   "tags": [
+    "fighting",
+    "party",
+    "funny"
+   ],
+   "desc": "흐물거리는 캐릭터로 서로 밀고 던지는 난투.",
+   "kind": "hit"
+  },
+  {
+   "appid": 880940,
+   "name": "Pummel Party",
+   "min": 4,
+   "max": 8,
+   "mode": "pvp",
+   "price": 16500,
+   "len": "mid",
+   "tags": [
+    "party",
+    "funny"
+   ],
+   "desc": "보드판 위 미니게임 대결. 우정 파괴형 파티 게임.",
+   "kind": "hit"
+  },
+  {
+   "appid": 381210,
+   "name": "Dead by Daylight",
+   "min": 2,
+   "max": 5,
+   "mode": "pvp",
+   "price": 21500,
+   "len": "mid",
+   "tags": [
+    "horror",
+    "skill"
+   ],
+   "desc": "살인마 1명 대 생존자 4명 비대칭 공포 대전.",
+   "kind": "hit"
+  },
+  {
+   "appid": 1808500,
+   "name": "ARC Raiders",
+   "min": 1,
+   "max": 3,
+   "mode": "pvp",
+   "price": 60900,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "skill"
+   ],
+   "desc": "로봇이 지배한 지상에서 물자 챙겨 탈출하는 3인 익스트랙션 슈터.",
+   "kind": "hit"
+  },
+  {
+   "appid": 730,
+   "name": "Counter-Strike 2",
+   "min": 2,
+   "max": 10,
+   "mode": "pvp",
+   "price": 0,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "skill",
+    "strategy"
+   ],
+   "desc": "5대5 전술 FPS. 무료.",
+   "kind": "hit"
+  },
+  {
+   "appid": 2357570,
+   "name": "Overwatch 2",
+   "min": 2,
+   "max": 5,
+   "mode": "pvp",
+   "price": 0,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "skill",
+    "action"
+   ],
+   "desc": "영웅 골라 5대5 팀 대전. 무료.",
+   "kind": "hit"
+  },
+  {
+   "appid": 1172470,
+   "name": "Apex Legends",
+   "min": 2,
+   "max": 3,
+   "mode": "pvp",
+   "price": 0,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "skill",
+    "action"
+   ],
+   "desc": "3인 스쿼드 배틀로얄. 무료.",
+   "kind": "hit"
+  },
+  {
+   "appid": 578080,
+   "name": "PUBG: BATTLEGROUNDS",
+   "min": 1,
+   "max": 4,
+   "mode": "pvp",
+   "price": 0,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "skill"
+   ],
+   "desc": "스쿼드 배틀로얄. 무료, 4인 파티.",
+   "kind": "hit"
+  },
+  {
+   "appid": 570,
+   "name": "Dota 2",
+   "min": 2,
+   "max": 5,
+   "mode": "pvp",
+   "price": 0,
+   "len": "long",
+   "tags": [
+    "strategy",
+    "skill"
+   ],
+   "desc": "5대5 AOS. 무료, 진입 장벽 높고 한 판이 김.",
+   "kind": "hit"
+  },
+  {
+   "appid": 5053820,
+   "name": "Mimic Party",
+   "min": 2,
+   "max": 5,
+   "mode": "pvp",
+   "price": 7600,
+   "len": "short",
+   "tags": [
+    "party",
+    "funny"
+   ],
+   "desc": "제시된 소리를 한 번에 따라 하고 AI가 점수를 매기는 목소리 파티 게임.",
+   "kind": "new"
+  },
+  {
+   "appid": 3989960,
+   "name": "Frog Sqwad",
+   "min": 1,
+   "max": 8,
+   "mode": "coop",
+   "price": 8700,
+   "len": "mid",
+   "tags": [
+    "funny",
+    "party",
+    "puzzle"
+   ],
+   "desc": "최대 8마리 개구리가 먹고 커지고 서로 던지며 하수구를 탈출하는 물리 파티 협동.",
+   "kind": "new"
+  },
+  {
+   "appid": 4286040,
+   "name": "Unicycle Together",
+   "min": 2,
+   "max": 4,
+   "mode": "both",
+   "price": 5600,
+   "len": "short",
+   "tags": [
+    "funny",
+    "skill"
+   ],
+   "desc": "외발자전거 탄 소시지들이 터지기 전에 폭탄을 산 위로 옮기는 게임. 돕거나 밀거나.",
+   "kind": "new"
+  },
+  {
+   "appid": 5127370,
+   "name": "Who's Cheating?",
+   "min": 3,
+   "max": 8,
+   "mode": "pvp",
+   "price": 8480,
+   "len": "short",
+   "tags": [
+    "deduction",
+    "party"
+   ],
+   "desc": "카지노 테이블에서 몰래 사기 치는 한 명을 찾아내는 3~8인 마피아 게임.",
+   "kind": "new"
+  },
+  {
+   "appid": 4069520,
+   "name": "Super Battle Golf",
+   "min": 1,
+   "max": 8,
+   "mode": "pvp",
+   "price": 13800,
+   "len": "short",
+   "tags": [
+    "party",
+    "funny"
+   ],
+   "desc": "공격 아이템으로 방해하면서 먼저 홀에 넣는 난장판 골프 대결.",
+   "kind": "new"
+  },
+  {
+   "appid": 5061170,
+   "name": "Hide and Moo!",
+   "min": 2,
+   "max": 8,
+   "mode": "pvp",
+   "price": 6550,
+   "len": "short",
+   "tags": [
+    "party",
+    "funny"
+   ],
+   "desc": "녹음한 소리를 반복하며 동물 사이에 숨는 숨바꼭질. 사냥꾼은 가짜를 찾아냄.",
+   "kind": "new"
+  },
+  {
+   "appid": 2560240,
+   "name": "Biped 2",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 15500,
+   "len": "mid",
+   "tags": [
+    "puzzle",
+    "funny"
+   ],
+   "desc": "두 발 로봇이 되어 외계 행성에서 퍼즐을 푸는 물리 협동 어드벤처.",
+   "kind": "gem"
+  },
+  {
+   "appid": 3572800,
+   "name": "Duo Quest",
+   "min": 2,
+   "max": 2,
+   "mode": "coop",
+   "price": 16500,
+   "len": "mid",
+   "tags": [
+    "strategy",
+    "funny"
+   ],
+   "desc": "서로에 대한 질문에 답하며 덱을 쌓는 2인 협동 덱빌딩 로그라이크.",
+   "kind": "new"
+  },
+  {
+   "appid": 4290170,
+   "name": "Mudventure",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 12900,
+   "len": "long",
+   "tags": [
+    "chill",
+    "survival"
+   ],
+   "desc": "두더지가 되어 갯벌을 파고 배를 고치며 거대 몬스터를 잡는 협동 샌드박스.",
+   "kind": "new"
+  },
+  {
+   "appid": 4190710,
+   "name": "Shady Job",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 8700,
+   "len": "mid",
+   "tags": [
+    "funny"
+   ],
+   "desc": "공사장 인부들이 살아 있는 '시체 가방'을 들고 짓다 만 빌딩을 오르는 4인 협동.",
+   "kind": "new"
+  },
+  {
+   "appid": 5228920,
+   "name": "Brick by Brick: Tidy Up the Small Town!",
+   "min": 1,
+   "max": 5,
+   "mode": "coop",
+   "price": 8700,
+   "len": "mid",
+   "tags": [
+    "chill",
+    "puzzle"
+   ],
+   "desc": "블록 1만 8천여 개를 정리해 작은 마을을 다시 짓는 힐링 정리 게임.",
+   "kind": "new"
+  },
+  {
+   "appid": 2071280,
+   "name": "Ravenswatch",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 27000,
+   "len": "mid",
+   "tags": [
+    "action",
+    "strategy"
+   ],
+   "desc": "동화 속 영웅들로 싸우는 탑뷰 협동 로그라이크.",
+   "kind": "gem"
+  },
+  {
+   "appid": 527230,
+   "name": "For The King",
+   "min": 1,
+   "max": 3,
+   "mode": "coop",
+   "price": 20500,
+   "len": "long",
+   "tags": [
+    "strategy",
+    "rpg"
+   ],
+   "desc": "보드게임 같은 턴제 협동 RPG. 최대 3명.",
+   "kind": "gem"
+  },
+  {
+   "appid": 1290000,
+   "name": "PowerWash Simulator",
+   "min": 1,
+   "max": 6,
+   "mode": "coop",
+   "price": 29800,
+   "len": "long",
+   "tags": [
+    "chill"
+   ],
+   "desc": "고압 세척기로 더러운 걸 싹 닦아내는 힐링 협동.",
+   "kind": "gem"
+  },
+  {
+   "appid": 1222700,
+   "name": "A Way Out",
+   "min": 2,
+   "max": 2,
+   "mode": "coop",
+   "price": 33000,
+   "len": "long",
+   "tags": [
+    "story",
+    "action"
+   ],
+   "desc": "탈옥수 두 명의 이야기를 둘이 같이 진행하는 협동 스토리. 친구 패스 지원.",
+   "kind": "gem"
+  },
+  {
+   "appid": 1243830,
+   "name": "Overcooked! All You Can Eat",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 41000,
+   "len": "short",
+   "tags": [
+    "party",
+    "funny",
+    "puzzle"
+   ],
+   "desc": "오버쿡드 1·2 리마스터 합본. 맵이 훨씬 많음.",
+   "kind": "hit"
+  },
+  {
+   "appid": 251570,
+   "name": "7 Days to Die",
+   "min": 1,
+   "max": 8,
+   "mode": "coop",
+   "price": 47000,
+   "len": "long",
+   "tags": [
+    "survival",
+    "horror"
+   ],
+   "desc": "7일마다 좀비 떼가 몰려오는 생존 건축 협동.",
+   "kind": "hit"
+  },
+  {
+   "appid": 252490,
+   "name": "Rust",
+   "min": 1,
+   "max": 8,
+   "mode": "pvp",
+   "price": 42000,
+   "len": "long",
+   "tags": [
+    "survival",
+    "skill"
+   ],
+   "desc": "다른 사람과 약탈하고 싸우는 하드코어 생존 PvP.",
+   "kind": "hit"
+  },
+  {
+   "appid": 94400,
+   "name": "Nidhogg",
+   "min": 2,
+   "max": 2,
+   "mode": "pvp",
+   "price": 11000,
+   "len": "short",
+   "tags": [
+    "fighting",
+    "skill"
+   ],
+   "desc": "1대1 펜싱 줄다리기 대전. 한 판이 짧고 치열함.",
+   "kind": "gem"
+  },
+  {
+   "appid": 230410,
+   "name": "Warframe",
+   "min": 1,
+   "max": 4,
+   "mode": "coop",
+   "price": 0,
+   "len": "long",
+   "tags": [
+    "action",
+    "shooter",
+    "rpg"
+   ],
+   "desc": "우주 닌자로 임무 도는 4인 협동 액션. 무료.",
+   "kind": "hit"
+  },
+  {
+   "appid": 2073850,
+   "name": "THE FINALS",
+   "min": 1,
+   "max": 3,
+   "mode": "pvp",
+   "price": 0,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "skill",
+    "action"
+   ],
+   "desc": "맵을 부수면서 싸우는 3인 팀 FPS. 무료.",
+   "kind": "hit"
+  },
+  {
+   "appid": 2767030,
+   "name": "마블 라이벌즈",
+   "min": 1,
+   "max": 6,
+   "mode": "pvp",
+   "price": 0,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "skill",
+    "action"
+   ],
+   "desc": "마블 영웅으로 하는 6대6 팀 슈터. 무료.",
+   "kind": "hit"
+  },
+  {
+   "appid": 359550,
+   "name": "레인보우식스 시즈",
+   "min": 1,
+   "max": 5,
+   "mode": "pvp",
+   "price": 0,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "skill",
+    "strategy"
+   ],
+   "desc": "벽을 뚫고 들어가는 5대5 전술 FPS. 무료.",
+   "kind": "hit"
+  },
+  {
+   "appid": 440,
+   "name": "Team Fortress 2",
+   "min": 1,
+   "max": 12,
+   "mode": "pvp",
+   "price": 0,
+   "len": "mid",
+   "tags": [
+    "shooter",
+    "funny"
+   ],
+   "desc": "병맛 클래스 팀 슈터의 고전. 무료.",
+   "kind": "hit"
+  }
+ ]
+}
