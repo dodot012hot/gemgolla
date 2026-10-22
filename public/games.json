@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22",
+ "updatedAt": "2026-10-23",
  "games": [
   {
    "appid": 4656000,
@@ -52,8 +52,6 @@
    ],
    "desc": "저주받은 70년대 보드게임 속 저택에서 주사위 굴리며 살아남는 협동 공포. 앞서 해보기.",
    "kind": "new",
-   "finalPrice": 8920,
-   "discount": 25,
    "release": "2026-10-08",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg"
   },
@@ -560,8 +558,6 @@
    ],
    "desc": "지하 동굴을 파고 농사·보스전 하는 탑뷰 샌드박스.",
    "kind": "gem",
-   "finalPrice": 12900,
-   "discount": 40,
    "release": "2024-08-27",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg"
   },
@@ -579,8 +575,6 @@
    ],
    "desc": "아이템 쌓을수록 강해지는 3D 로그라이크 협동.",
    "kind": "gem",
-   "finalPrice": 8580,
-   "discount": 67,
    "release": "2020-08-11",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg"
   },
@@ -705,8 +699,6 @@
    ],
    "desc": "토끼 옷 입고 굴러다니며 같이 골까지 가는 물리 플랫포머.",
    "kind": "gem",
-   "finalPrice": 7620,
-   "discount": 50,
    "release": "2023-05-16",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673750/header.jpg"
   },
@@ -797,8 +789,6 @@
    ],
    "desc": "사슬로 묶여서 지옥 탑을 오르는 플랫포머. 우정 테스트용.",
    "kind": "gem",
-   "finalPrice": 4480,
-   "discount": 20,
    "release": "2024-06-19",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/9989d3793429ffa481cc3228bb66d65565b9ce2b/header.jpg"
   },
@@ -924,8 +914,6 @@
    ],
    "desc": "이기면 진 쪽이 카드를 골라 강해지는 슈팅 대결.",
    "kind": "gem",
-   "finalPrice": 3200,
-   "discount": 50,
    "release": "2021-04-01",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/header.jpg"
   },
@@ -944,8 +932,6 @@
    ],
    "desc": "막대 인간 물리 난투. 싸고 짧고 시끄러움.",
    "kind": "gem",
-   "finalPrice": 2160,
-   "discount": 60,
    "release": "2017-09-28",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/header.jpg"
   },
@@ -981,8 +967,6 @@
    ],
    "desc": "우주선 안의 임포스터를 찾아내는 마피아 게임. 말발과 눈치 싸움.",
    "kind": "hit",
-   "finalPrice": 3300,
-   "discount": 40,
    "release": "2018-11-16",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/d611f3f87743b5121532023b1d3ee2dd0e96e772/header.jpg"
   },
@@ -1034,8 +1018,6 @@
    ],
    "desc": "괴물을 찍어서 조회수를 버는 공포 촬영 게임.",
    "kind": "hit",
-   "finalPrice": 5330,
-   "discount": 38,
    "release": "2024-04-01",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg"
   },
@@ -1159,7 +1141,7 @@
    "desc": "드워프 광부가 되어 벌레 잡고 광석 캐는 협동 슈팅.",
    "kind": "hit",
    "release": "2020-05-13",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/bc070678ce5c33e86ff818b3e9a51479b53f52f5/header_alt_assets_30.jpg",
    "finalPrice": 9600,
    "discount": 70
   },
@@ -1263,7 +1245,9 @@
    "desc": "굶지 않고 살아남는 생존 협동. 처음엔 많이 죽음.",
    "kind": "hit",
    "release": "2016-04-21",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/51e5f44e4e38ce02a985687df4fdc8feb678219b/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/050ea9c51a4e96f707309d33b7cdd38e0a6cbfff/header_alt_assets_51.jpg",
+   "finalPrice": 5270,
+   "discount": 66
   },
   {
    "appid": 648800,
@@ -1296,8 +1280,6 @@
    ],
    "desc": "몬스터를 잡아 일 시키는 생존 크래프팅.",
    "kind": "hit",
-   "finalPrice": 22400,
-   "discount": 30,
    "release": "2026-07-09",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg"
   },
@@ -1422,8 +1404,6 @@
    ],
    "desc": "흐물거리는 캐릭터로 서로 밀고 던지는 난투.",
    "kind": "hit",
-   "finalPrice": 8600,
-   "discount": 60,
    "release": "2017-12-12",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg"
   },
@@ -1651,8 +1631,6 @@
    ],
    "desc": "공격 아이템으로 방해하면서 먼저 홀에 넣는 난장판 골프 대결.",
    "kind": "new",
-   "finalPrice": 8970,
-   "discount": 35,
    "release": "2026-02-19",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/60b052f108998c01fed147d07578a2aed9bcd4ee/header.jpg"
   },
@@ -1779,8 +1757,6 @@
    ],
    "desc": "동화 속 영웅들로 싸우는 탑뷰 협동 로그라이크.",
    "kind": "gem",
-   "finalPrice": 13500,
-   "discount": 50,
    "release": "2024-09-26",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/a685fb6373db43ecc4d6309d1ca41dd89694f430/header_alt_assets_11.jpg"
   },
@@ -1849,8 +1825,6 @@
    ],
    "desc": "오버쿡드 1·2 리마스터 합본. 맵이 훨씬 많음.",
    "kind": "hit",
-   "finalPrice": 12300,
-   "discount": 70,
    "release": "2021-03-23",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg"
   },

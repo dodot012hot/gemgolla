@@ -148,5 +148,23 @@
   "name": "라스베이거스 시뮬레이터",
   "url": "https://store.steampowered.com/app/3412160/",
   "found": "2026-10-21"
+ },
+ {
+  "appid": 881020,
+  "name": "Granblue Fantasy: Relink",
+  "url": "https://store.steampowered.com/app/881020/",
+  "found": "2026-10-22"
+ },
+ {
+  "appid": 1282270,
+  "name": "Strinova",
+  "url": "https://store.steampowered.com/app/1282270/",
+  "found": "2026-10-22"
+ },
+ {
+  "appid": 289070,
+  "name": "Sid Meier’s Civilization® VI",
+  "url": "https://store.steampowered.com/app/289070/",
+  "found": "2026-10-22"
  }
 ]
