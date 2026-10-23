@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23",
+ "updatedAt": "2026-10-24",
  "games": [
   {
    "appid": 4656000,
@@ -16,8 +16,6 @@
    ],
    "desc": "원숭이 셋이 정보를 나눠 갖고 폭탄을 해체하는 대화 퍼즐. 딱 3명 전용.",
    "kind": "new",
-   "finalPrice": 5220,
-   "discount": 40,
    "release": "2026-09-02",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg"
   },
@@ -744,7 +742,7 @@
    "min": 1,
    "max": 4,
    "mode": "coop",
-   "price": 34800,
+   "price": 34900,
    "len": "mid",
    "tags": [
     "shooter",
@@ -752,8 +750,6 @@
    ],
    "desc": "좀비 떼를 막는 4인 협동 슈터. 할인을 자주 함.",
    "kind": "gem",
-   "finalPrice": 8700,
-   "discount": 75,
    "release": "2021-09-21",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/b35277055fbb7e07c26c5e31e4398684c6461d53/header.jpg"
   },
@@ -1097,7 +1093,7 @@
    "min": 1,
    "max": 4,
    "mode": "coop",
-   "price": 26000,
+   "price": 50670,
    "len": "short",
    "tags": [
     "party",
@@ -1107,7 +1103,9 @@
    "desc": "주방에서 요리 주문을 쳐내는 협동. 소리 지르게 되는 게임.",
    "kind": "hit",
    "release": "2018-08-07",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/9305414f49b2f7aee7f7198dc507d6b66383fdd6/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/9305414f49b2f7aee7f7198dc507d6b66383fdd6/header.jpg",
+   "finalPrice": 17230,
+   "discount": 66
   },
   {
    "appid": 477160,
@@ -1612,8 +1610,6 @@
    ],
    "desc": "카지노 테이블에서 몰래 사기 치는 한 명을 찾아내는 3~8인 마피아 게임.",
    "kind": "new",
-   "finalPrice": 6360,
-   "discount": 25,
    "release": "2026-10-16",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5127370/2337f8b06c1e990fef49d00c3e20cdfb0a8430ae/header.jpg"
   },
