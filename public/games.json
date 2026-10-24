@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24",
+ "updatedAt": "2026-10-25",
  "games": [
   {
    "appid": 4656000,
@@ -246,8 +246,6 @@
    ],
    "desc": "노움이 되어 집에 몰래 들어가 훔치고 제작하는 잠입 협동.",
    "kind": "new",
-   "finalPrice": 7870,
-   "discount": 25,
    "release": "2026-06-10",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d6127e4eabda23e1d1c727a1875e6b6cb0e634ae/header.jpg"
   },
@@ -1681,7 +1679,7 @@
    "desc": "서로에 대한 질문에 답하며 덱을 쌓는 2인 협동 덱빌딩 로그라이크.",
    "kind": "new",
    "release": "2026-09-16",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572800/5b1da2ee2f70b150d27f551b22922b328c4155ab/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572800/a001c9b29038788f839f8f688f0d3a0c7c259609/header.jpg"
   },
   {
    "appid": 4290170,
