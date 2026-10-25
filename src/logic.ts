@@ -31,9 +31,10 @@ export interface Query {
   tags: string[];
   disc: Disc | null;
   ko: "text" | null; // text=한국어 지원 게임만
+  sale: boolean; // 지금 할인 중인 게임만
 }
 
-export const EMPTY: Query = { players: null, price: null, mode: null, len: null, tags: [], disc: null, ko: null };
+export const EMPTY: Query = { players: null, price: null, mode: null, len: null, tags: [], disc: null, ko: null, sale: false };
 
 export const TAGN: Record<string, string> = {
   party: "파티", funny: "웃김", horror: "공포", chill: "잔잔", shooter: "슈팅", survival: "생존",
@@ -73,6 +74,7 @@ export function parse(t: string): Query {
   if (/신작|새로 나온|최신|요즘 나온/.test(t)) r.disc = "new";
   else if (/숨은|원석|안 ?유명|모르는|마이너|덜 알려/.test(t)) r.disc = "nohit";
   if (/한국어|한글|더빙/.test(t)) r.ko = "text";
+  if (/할인|세일/.test(t)) r.sale = true;
   for (const [k, re] of VIBE) if (re.test(t)) r.tags.push(k);
   if (r.tags.includes("deduction") && !r.mode) r.mode = "pvp";
   return r;
@@ -89,6 +91,7 @@ export function kindOf(g: Game, today = new Date()): Kind {
   return g.kind;
 }
 export const nowPrice = (g: Game) => g.finalPrice ?? g.price;
+export const onSale = (g: Game) => !!g.discount && g.finalPrice !== undefined;
 
 export function fits(g: Game, r: Query, relax: boolean): boolean {
   if (r.players && (r.players < g.min || r.players > g.max)) return false;
@@ -99,6 +102,7 @@ export function fits(g: Game, r: Query, relax: boolean): boolean {
   if (r.disc === "nohit" && k === "hit") return false;
   // 스팀의 "음성 지원" 표시는 개발사 자체 체크라 부정확해서, 음성/자막 구분 없이 한국어 지원 여부만 봄
   if (r.ko === "text" && g.ko !== "audio" && g.ko !== "text") return false;
+  if (r.sale && !onSale(g)) return false;
   if (relax) return true;
   if (r.mode && !(g.mode === r.mode || g.mode === "both")) return false;
   if (r.len && g.len !== r.len) return false;
@@ -114,7 +118,7 @@ export function score(g: Game, r: Query): number {
   if (r.players && g.max === r.players) s += 1;
   const k = kindOf(g);
   if (k === "new") s += 1.5; else if (k === "gem") s += 1;
-  if (g.discount) s += 0.5;
+  if (g.discount) s += r.sale ? g.discount / 20 : 0.5; // 할인만 볼 때는 많이 깎인 순으로
   s += r.price === null ? -nowPrice(g) / 100000 : 0.5;
   return s;
 }

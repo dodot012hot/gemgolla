@@ -48,6 +48,10 @@ select{font:inherit;font-size:.88rem;padding:5px 8px;border:1px solid var(--line
 .seg:hover,.tag:hover{background:var(--panel-hi)}
 .seg[aria-checked="true"],.tag[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);font-weight:700}
 
+.sale-toggle{display:inline-flex;align-items:center;gap:6px}
+.sale-toggle .cnt{background:var(--sale-bg);color:var(--sale-ink);font-family:var(--mono);font-size:.72rem;border-radius:3px;padding:0 5px}
+.sale-toggle[aria-pressed="true"]{background:var(--sale-bg);color:var(--sale-ink)}
+.sale-toggle[aria-pressed="true"] .cnt{background:var(--bg-deep)}
 .notice{font-size:.86rem;color:var(--muted);margin:0}
 
 /* results grid */

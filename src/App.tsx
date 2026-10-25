@@ -1,12 +1,12 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   EMPTY, LEN, TAGN, type Game, type Query, type Disc, type Len,
-  headerUrl, kindOf, parse, recommend, won,
+  headerUrl, kindOf, onSale, parse, recommend, won,
 } from "./logic";
 
 const EXAMPLES = [
   "3명이서 할 신작 협동", "유명한 거 말고 4명 공포", "둘이서 할 스토리 협동 게임",
-  "4명이서 무서운 거 2만원 이하", "한국어 되는 2인 협동", "친구 5명 무료로 웃긴 거", "6명 마피아 게임",
+  "4명이서 무서운 거 2만원 이하", "할인 중인 4명 협동", "한국어 되는 2인 협동", "친구 5명 무료로 웃긴 거", "6명 마피아 게임",
 ];
 const PRICES = [["", "상관없음"], ["0", "무료만"], ["5000", "5천원 이하"], ["10000", "1만원 이하"],
   ["20000", "2만원 이하"], ["30000", "3만원 이하"], ["50000", "5만원 이하"]];
@@ -94,10 +94,11 @@ export default function App() {
   }, []);
 
   const result = useMemo(() => recommend(games, q), [games, q]);
+  const saleCount = useMemo(() => games.filter(onSale).length, [games]);
 
   const ask = (t: string) => {
     const r = parse(t);
-    const any = r.players || r.price !== null || r.mode || r.len || r.tags.length || r.disc || r.ko;
+    const any = r.players || r.price !== null || r.mode || r.len || r.tags.length || r.disc || r.ko || r.sale;
     setHint(any ? "문장에서 읽은 조건을 채웠어요. 직접 바꿔도 돼요." : "조건을 못 찾았어요. 아래에서 직접 골라 주세요.");
     setQ(r);
   };
@@ -146,6 +147,9 @@ export default function App() {
             onChange={(e) => edit({ price: e.target.value === "" ? null : +e.target.value })}>
             {priceOpts.map(([v, t]) => <option key={v} value={v}>{t}</option>)}
           </select>
+          <button type="button" className="tag sale-toggle" aria-pressed={q.sale} onClick={() => edit({ sale: !q.sale })}>
+            할인 중만{saleCount > 0 && <span className="cnt">{saleCount}</span>}
+          </button>
         </div>
         <Seg label="방식" value={q.mode} onChange={(mode) => edit({ mode })}
           options={[["", "전체"], ["pvp", "경쟁"], ["coop", "협동"]]} />
