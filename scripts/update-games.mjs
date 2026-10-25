@@ -43,6 +43,16 @@ export function toIsoDate(s) {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
 }
 
+/** 스팀 supported_languages(HTML 문자열)에서 한국어 지원 수준을 읽음.
+ *  "audio"=한국어 음성, "text"=한국어 자막/인터페이스, "none"=미지원. 정보가 없으면 undefined */
+export function koSupport(langs) {
+  if (typeof langs !== "string" || !langs.trim()) return undefined;
+  const items = langs.split(/<br\s*\/?>/i)[0].split(",");
+  const ko = items.find((x) => /korean|한국어/i.test(x.replace(/<[^>]+>/g, "")));
+  if (!ko) return "none";
+  return /<strong>\*<\/strong>|\*/.test(ko) ? "audio" : "text";
+}
+
 /** 스팀 price_overview(원 단위×100)를 우리 필드로 변환 */
 export function priceFields(data) {
   if (data.is_free) return { price: 0, finalPrice: undefined, discount: undefined };
@@ -65,6 +75,8 @@ async function refresh(games) {
       const rel = data.release_date;
       if (rel && !rel.coming_soon) g.release = toIsoDate(rel.date) ?? g.release;
       if (data.header_image) g.header = data.header_image.split("?")[0];
+      const ko = koSupport(data.supported_languages);
+      if (ko) g.ko = ko;
       for (const k of ["finalPrice", "discount"]) if (g[k] === undefined) delete g[k];
       ok++;
     } catch (err) { fail++; console.warn("갱신 실패", g.name, err.message); }
@@ -144,7 +156,7 @@ async function main() {
           appid, name: data.name, ...info, price: pf.price,
           ...(pf.discount ? { finalPrice: pf.finalPrice, discount: pf.discount } : {}),
           kind: "gem", release: rel && !rel.coming_soon ? toIsoDate(rel.date) : undefined,
-          header: data.header_image?.split("?")[0], auto: true,
+          header: data.header_image?.split("?")[0], ko: koSupport(data.supported_languages), auto: true,
         });
         added++;
       } else {

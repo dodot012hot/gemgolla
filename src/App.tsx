@@ -6,7 +6,7 @@ import {
 
 const EXAMPLES = [
   "3명이서 할 신작 협동", "유명한 거 말고 4명 공포", "둘이서 할 스토리 협동 게임",
-  "4명이서 무서운 거 2만원 이하", "친구 5명 무료로 웃긴 거", "6명 마피아 게임",
+  "4명이서 무서운 거 2만원 이하", "한국어 되는 2인 협동", "친구 5명 무료로 웃긴 거", "6명 마피아 게임",
 ];
 const PRICES = [["", "상관없음"], ["0", "무료만"], ["5000", "5천원 이하"], ["10000", "1만원 이하"],
   ["20000", "2만원 이하"], ["30000", "3만원 이하"], ["50000", "5만원 이하"]];
@@ -62,7 +62,12 @@ function Card({ g, want }: { g: Game; want: number }) {
           {g.max > 8 && <span className="cap">최대 {g.max}명</span>}
         </div>
         <p className="desc">{g.desc}</p>
-        <div className="tags">{chips.map((c) => <span key={c}>{c}</span>)}</div>
+        <div className="tags">
+          {g.ko === "audio" && <span className="ko">한국어 음성</span>}
+          {g.ko === "text" && <span className="ko">한국어</span>}
+          {g.ko === "none" && <span className="ko-no">한국어 미지원</span>}
+          {chips.map((c) => <span key={c}>{c}</span>)}
+        </div>
       </div>
     </li>
   );
@@ -87,7 +92,7 @@ export default function App() {
 
   const ask = (t: string) => {
     const r = parse(t);
-    const any = r.players || r.price !== null || r.mode || r.len || r.tags.length || r.disc;
+    const any = r.players || r.price !== null || r.mode || r.len || r.tags.length || r.disc || r.ko;
     setHint(any ? "문장에서 읽은 조건을 채웠어요. 직접 바꿔도 돼요." : "조건을 못 찾았어요. 아래에서 직접 골라 주세요.");
     setQ(r);
   };
@@ -143,6 +148,8 @@ export default function App() {
           options={[["", "전체"], ["short", "짧게"], ["mid", "30분 안팎"], ["long", "오래"]]} />
         <Seg<Disc> label="발견" value={q.disc} onChange={(disc) => edit({ disc })}
           options={[["", "전체"], ["new", "신작"], ["gem", "숨은 명작"], ["nohit", "유명작 빼기"]]} />
+        <Seg<"text" | "audio"> label="언어" value={q.ko} onChange={(ko) => edit({ ko })}
+          options={[["", "전체"], ["text", "한국어 지원"], ["audio", "한국어 음성"]]} />
         <div className="frow">
           <span className="lab">분위기</span>
           {Object.entries(TAGN).map(([k, v]) => (

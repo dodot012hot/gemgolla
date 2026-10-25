@@ -2,6 +2,7 @@ export type Mode = "coop" | "pvp" | "both";
 export type Len = "short" | "mid" | "long";
 export type Kind = "new" | "gem" | "hit";
 export type Disc = "new" | "gem" | "nohit";
+export type Ko = "audio" | "text" | "none";
 
 export interface Game {
   appid: number;
@@ -19,6 +20,7 @@ export interface Game {
   discount?: number; // 할인율(%)
   release?: string; // YYYY-MM-DD
   header?: string; // 스팀 표지 이미지 URL
+  ko?: Ko; // 한국어 지원: audio=음성, text=자막·인터페이스, none=미지원
 }
 
 export interface Query {
@@ -28,9 +30,10 @@ export interface Query {
   len: Len | null;
   tags: string[];
   disc: Disc | null;
+  ko: "text" | "audio" | null; // text=한국어 지원 이상, audio=한국어 음성
 }
 
-export const EMPTY: Query = { players: null, price: null, mode: null, len: null, tags: [], disc: null };
+export const EMPTY: Query = { players: null, price: null, mode: null, len: null, tags: [], disc: null, ko: null };
 
 export const TAGN: Record<string, string> = {
   party: "파티", funny: "웃김", horror: "공포", chill: "잔잔", shooter: "슈팅", survival: "생존",
@@ -69,6 +72,8 @@ export function parse(t: string): Query {
   if (/짧|한 ?판|가볍|잠깐/.test(t)) r.len = "short"; else if (/오래|장기|길게|꾸준/.test(t)) r.len = "long";
   if (/신작|새로 나온|최신|요즘 나온/.test(t)) r.disc = "new";
   else if (/숨은|원석|안 ?유명|모르는|마이너|덜 알려/.test(t)) r.disc = "nohit";
+  if (/한국어 ?음성|더빙|한국어 ?보이스/.test(t)) r.ko = "audio";
+  else if (/한국어|한글/.test(t)) r.ko = "text";
   for (const [k, re] of VIBE) if (re.test(t)) r.tags.push(k);
   if (r.tags.includes("deduction") && !r.mode) r.mode = "pvp";
   return r;
@@ -93,6 +98,8 @@ export function fits(g: Game, r: Query, relax: boolean): boolean {
   if (r.disc === "new" && k !== "new") return false;
   if (r.disc === "gem" && k !== "gem") return false;
   if (r.disc === "nohit" && k === "hit") return false;
+  if (r.ko === "audio" && g.ko !== "audio") return false;
+  if (r.ko === "text" && g.ko !== "audio" && g.ko !== "text") return false;
   if (relax) return true;
   if (r.mode && !(g.mode === r.mode || g.mode === "both")) return false;
   if (r.len && g.len !== r.len) return false;
