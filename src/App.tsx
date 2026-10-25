@@ -63,8 +63,7 @@ function Card({ g, want }: { g: Game; want: number }) {
         </div>
         <p className="desc">{g.desc}</p>
         <div className="tags">
-          {g.ko === "audio" && <span className="ko">한국어 음성</span>}
-          {g.ko === "text" && <span className="ko">한국어</span>}
+          {(g.ko === "audio" || g.ko === "text") && <span className="ko">한국어</span>}
           {g.ko === "none" && <span className="ko-no">한국어 미지원</span>}
           {chips.map((c) => <span key={c}>{c}</span>)}
         </div>
@@ -148,8 +147,8 @@ export default function App() {
           options={[["", "전체"], ["short", "짧게"], ["mid", "30분 안팎"], ["long", "오래"]]} />
         <Seg<Disc> label="발견" value={q.disc} onChange={(disc) => edit({ disc })}
           options={[["", "전체"], ["new", "신작"], ["gem", "숨은 명작"], ["nohit", "유명작 빼기"]]} />
-        <Seg<"text" | "audio"> label="언어" value={q.ko} onChange={(ko) => edit({ ko })}
-          options={[["", "전체"], ["text", "한국어 지원"], ["audio", "한국어 음성"]]} />
+        <Seg<"text"> label="언어" value={q.ko} onChange={(ko) => edit({ ko })}
+          options={[["", "전체"], ["text", "한국어 지원"]]} />
         <div className="frow">
           <span className="lab">분위기</span>
           {Object.entries(TAGN).map(([k, v]) => (
