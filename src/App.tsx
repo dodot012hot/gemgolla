@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   EMPTY, LEN, TAGN, type Game, type Query, type Disc, type Len,
-  headerUrl, kindOf, onSale, parse, recommend, won,
+  fromParams, headerUrl, kindOf, onSale, parse, recommend, summary, toParams, won,
 } from "./logic";
 
 const EXAMPLES = [
@@ -76,15 +76,40 @@ export default function App() {
   const [games, setGames] = useState<Game[]>([]);
   const [updatedAt, setUpdatedAt] = useState("");
   const [error, setError] = useState("");
+  const [shared] = useState(() => fromParams(new URLSearchParams(window.location.search)));
   const [text, setText] = useState("");
-  const [q, setQ] = useState<Query>(() => ({ ...EMPTY, tags: [] }));
-  const [hint, setHint] = useState("말로 물어보거나 아래에서 직접 골라 보세요.");
+  const [q, setQ] = useState<Query>(() => shared ?? { ...EMPTY, tags: [] });
+  const [hint, setHint] = useState(shared ? "친구가 공유한 조건이에요. 바꿔도 돼요." : "말로 물어보거나 아래에서 직접 골라 보세요.");
+  const [shareMsg, setShareMsg] = useState("");
   const inputRef = useRef<HTMLTextAreaElement>(null);
 
   // PC에서는 들어오자마자 바로 입력할 수 있게 커서를 둠 (폰은 키보드가 튀어나와서 제외)
   useEffect(() => {
     if (window.matchMedia("(pointer: fine)").matches) inputRef.current?.focus();
   }, []);
+
+  // 조건이 바뀔 때마다 주소에도 반영해서, 지금 주소를 그대로 보내도 같은 목록이 보이게 함
+  useEffect(() => {
+    const sp = toParams(q).toString();
+    window.history.replaceState(null, "", sp ? `?${sp}` : window.location.pathname);
+  }, [q]);
+
+  const share = async () => {
+    const url = window.location.href;
+    const title = `겜골라 · ${summary(q) || "친구랑 할 게임"}`;
+    // 폰에서는 카톡 등으로 바로 보내는 공유창을 띄움
+    if (navigator.share && window.matchMedia("(pointer: coarse)").matches) {
+      try { await navigator.share({ title, text: title, url }); return; }
+      catch (e) { if ((e as Error).name === "AbortError") return; }
+    }
+    try {
+      await navigator.clipboard.writeText(url);
+      setShareMsg("링크를 복사했어요. 단톡방에 붙여넣으면 친구도 같은 목록을 봐요.");
+    } catch {
+      setShareMsg(`복사가 안 돼서 주소를 직접 복사해 주세요: ${url}`);
+    }
+    window.setTimeout(() => setShareMsg(""), 5000);
+  };
 
   useEffect(() => {
     fetch("/games.json")
@@ -170,6 +195,13 @@ export default function App() {
 
       {error && <p className="notice">{error}</p>}
       {!error && !games.length && <p className="notice">게임 목록을 불러오는 중…</p>}
+      {games.length > 0 && (
+        <div className="resbar">
+          <span>{summary(q) ? <>추천 · <b>{summary(q)}</b></> : "조건 없이 추천"}</span>
+          <button type="button" className="share" onClick={share}>이 결과 공유</button>
+        </div>
+      )}
+      {shareMsg && <p className="notice share-msg" role="status">{shareMsg}</p>}
       {result.note && <p className="notice">{result.note}</p>}
       <ul className="list">
         {result.list.map((g) => <Card key={g.appid} g={g} want={q.players ?? 0} />)}

@@ -138,3 +138,50 @@ export function recommend(games: Game[], r: Query): { list: Game[]; note: string
 export const won = (n: number) => (n === 0 ? "무료" : n.toLocaleString("ko-KR") + "원");
 export const headerUrl = (g: Game) =>
   g.header ?? `https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/${g.appid}/header.jpg`;
+
+// ── 링크 공유: 조건을 주소(?p=3&m=pvp...)에 담고 다시 읽기 ──
+const MODES = ["coop", "pvp"], LENS = ["short", "mid", "long"], DISCS = ["new", "gem", "nohit"];
+
+export function toParams(q: Query): URLSearchParams {
+  const sp = new URLSearchParams();
+  if (q.players) sp.set("p", String(q.players));
+  if (q.price !== null) sp.set("c", String(q.price));
+  if (q.mode) sp.set("m", q.mode);
+  if (q.len) sp.set("l", q.len);
+  if (q.disc) sp.set("d", q.disc);
+  if (q.tags.length) sp.set("t", q.tags.join(","));
+  if (q.ko) sp.set("k", "1");
+  if (q.sale) sp.set("s", "1");
+  return sp;
+}
+
+/** 주소에 조건이 하나도 없으면 null. 이상한 값은 무시 */
+export function fromParams(sp: URLSearchParams): Query | null {
+  const q: Query = { ...EMPTY, tags: [] };
+  const n = (v: string | null) => (v !== null && /^\d{1,6}$/.test(v) ? +v : null);
+  const p = n(sp.get("p")); if (p && p <= 100) q.players = p;
+  q.price = n(sp.get("c"));
+  const m = sp.get("m"); if (m && MODES.includes(m)) q.mode = m as Query["mode"];
+  const l = sp.get("l"); if (l && LENS.includes(l)) q.len = l as Len;
+  const d = sp.get("d"); if (d && DISCS.includes(d)) q.disc = d as Disc;
+  q.tags = (sp.get("t") ?? "").split(",").filter((t) => t in TAGN);
+  if (sp.get("k") === "1") q.ko = "text";
+  if (sp.get("s") === "1") q.sale = true;
+  return toParams(q).toString() ? q : null;
+}
+
+const DISCN: Record<Disc, string> = { new: "신작", gem: "숨은 명작", nohit: "유명작 빼고" };
+const LENN: Record<Len, string> = { short: "짧게", mid: "30분 안팎", long: "오래" };
+/** "3명 · 경쟁 · 2만원 이하" 같은 한 줄 요약. 조건이 없으면 빈 문자열 */
+export function summary(q: Query): string {
+  const parts: string[] = [];
+  if (q.players) parts.push(`${q.players}명`);
+  if (q.mode) parts.push(q.mode === "pvp" ? "경쟁" : "협동");
+  if (q.price !== null) parts.push(q.price === 0 ? "무료" : `${won(q.price)} 이하`);
+  if (q.sale) parts.push("할인 중");
+  if (q.len) parts.push(LENN[q.len]);
+  if (q.disc) parts.push(DISCN[q.disc]);
+  if (q.ko) parts.push("한국어");
+  q.tags.forEach((t) => parts.push(TAGN[t]));
+  return parts.join(" · ");
+}
