@@ -17,7 +17,8 @@
    "desc": "원숭이 셋이 정보를 나눠 갖고 폭탄을 해체하는 대화 퍼즐. 딱 3명 전용.",
    "kind": "new",
    "release": "2026-09-02",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/d26ac7a7fb6e1bcc2a89cbbaefcb359dfd5d1eeb/header_alt_assets_0.jpg",
+   "ko": "text"
   },
   {
    "appid": 4108000,
@@ -34,7 +35,8 @@
    "desc": "지면 죽는 잔혹한 미니게임 모음. 서로 방해하는 맛.",
    "kind": "new",
    "release": "2026-07-30",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 3883570,
@@ -51,7 +53,8 @@
    "desc": "저주받은 70년대 보드게임 속 저택에서 주사위 굴리며 살아남는 협동 공포. 앞서 해보기.",
    "kind": "new",
    "release": "2026-10-08",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 4218620,
@@ -69,7 +72,8 @@
    "desc": "허세와 거짓말로 위험한 거래를 이익으로 바꾸는 3~6인 경매 게임. 앞서 해보기.",
    "kind": "new",
    "release": "2026-10-13",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/0d770690dad82dbc74f06a656db3b5b16c8dab42/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/0d770690dad82dbc74f06a656db3b5b16c8dab42/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 3645890,
@@ -88,7 +92,8 @@
    "finalPrice": 6700,
    "discount": 33,
    "release": "2026-10-20",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645890/ccf41cdf893f47a5a692f05e2344df5e2fdeb3d9/header_alt_assets_0.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645890/ccf41cdf893f47a5a692f05e2344df5e2fdeb3d9/header_alt_assets_0.jpg",
+   "ko": "text"
   },
   {
    "appid": 2871520,
@@ -107,7 +112,8 @@
    "finalPrice": 13600,
    "discount": 15,
    "release": "2026-10-13",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/a941857720d5b6a62a2e0a7646f2ca46b00039b6/header_alt_assets_1.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/a941857720d5b6a62a2e0a7646f2ca46b00039b6/header_alt_assets_1.jpg",
+   "ko": "none"
   },
   {
    "appid": 4660280,
@@ -124,7 +130,8 @@
    "desc": "한 명은 저택을 수사하고 한 명은 단말기로 안내하는 2인 비대칭 추리 퍼즐.",
    "kind": "new",
    "release": "2026-10-02",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660280/706812c0feb71db9f9a24692a907a01f0ccd7be9/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660280/706812c0feb71db9f9a24692a907a01f0ccd7be9/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 3892270,
@@ -143,7 +150,8 @@
    "finalPrice": 5520,
    "discount": 38,
    "release": "2026-05-01",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 4704690,
@@ -160,7 +168,8 @@
    "desc": "몸에 색을 칠해 배경에 숨는 숨바꼭질. 술래 팀 대 숨는 팀.",
    "kind": "new",
    "release": "2026-06-09",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 4001890,
@@ -177,7 +186,8 @@
    "desc": "배 파티하다 무인도에 떨어진 친구들이 물리 엔진 낚시로 집에 가는 게임.",
    "kind": "new",
    "release": "2026-08-20",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg",
+   "ko": "audio"
   },
   {
    "appid": 3834090,
@@ -194,7 +204,8 @@
    "desc": "마법사의 하수인이 되어 라이벌 탑에 잠입해 주문으로 난장판 만드는 협동.",
    "kind": "new",
    "release": "2026-02-03",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834090/399b7aa5bd9ea359e6d77cec3032758ea27c597b/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834090/399b7aa5bd9ea359e6d77cec3032758ea27c597b/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 3099190,
@@ -211,7 +222,8 @@
    "desc": "이상현상을 보고 타임라인을 지울지 판단하는 협동 공포. 한 번 틀리면 처음부터.",
    "kind": "new",
    "release": "2026-09-11",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3099190/2acbd195c17db48662a46221e3677977bf45c4c6/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3099190/2acbd195c17db48662a46221e3677977bf45c4c6/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 4279630,
@@ -230,7 +242,8 @@
    "finalPrice": 8170,
    "discount": 25,
    "release": "2026-09-03",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279630/d649d4743f436dd3a82c1de496bff1d29c5bf26e/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279630/d649d4743f436dd3a82c1de496bff1d29c5bf26e/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 3844970,
@@ -247,7 +260,8 @@
    "desc": "노움이 되어 집에 몰래 들어가 훔치고 제작하는 잠입 협동.",
    "kind": "new",
    "release": "2026-06-10",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d6127e4eabda23e1d1c727a1875e6b6cb0e634ae/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d6127e4eabda23e1d1c727a1875e6b6cb0e634ae/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 4981570,
@@ -264,7 +278,8 @@
    "desc": "마법 가게의 어질러진 방을 수다 떨며 정리하는 힐링 협동.",
    "kind": "new",
    "release": "2026-09-23",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981570/220cdaf5171fb86917cd0f288c4fd551d89f24f9/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981570/220cdaf5171fb86917cd0f288c4fd551d89f24f9/header.jpg",
+   "ko": "audio"
   },
   {
    "appid": 2790700,
@@ -281,7 +296,8 @@
    "desc": "적의 신체 부위를 뜯어 조합해 싸우는 빠른 액션 협동.",
    "kind": "new",
    "release": "2026-06-17",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790700/99508a3c5d7bd26ab1a2a9333c1f510bfd4d4881/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790700/99508a3c5d7bd26ab1a2a9333c1f510bfd4d4881/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2315050,
@@ -299,7 +315,8 @@
    "finalPrice": 18900,
    "discount": 10,
    "release": "2026-10-20",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/1e74865089e86e73fe7abefec0f5b59c1ce48305/header_alt_assets_3.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/1e74865089e86e73fe7abefec0f5b59c1ce48305/header_alt_assets_3.jpg",
+   "ko": "text"
   },
   {
    "appid": 1374490,
@@ -318,7 +335,8 @@
    "finalPrice": 22400,
    "discount": 30,
    "release": "2026-09-15",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2692990,
@@ -335,7 +353,8 @@
    "desc": "소리 내면 들키는 캄캄한 숲을 캠코더 들고 탈출하는 협동 공포.",
    "kind": "gem",
    "release": "2025-12-03",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/af1cd4647409efd4c9cd3afe70e0444ebd8fde2c/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/af1cd4647409efd4c9cd3afe70e0444ebd8fde2c/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2827200,
@@ -351,7 +370,8 @@
    "desc": "팀원 목소리를 흉내 내는 괴물을 피해 물건을 모으는 공포 생존. 국내 개발사 작품.",
    "kind": "gem",
    "release": "2025-10-27",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/8a2a6edc97fbf23ea6941974bdf4ed9a6ab34eb4/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/8a2a6edc97fbf23ea6941974bdf4ed9a6ab34eb4/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 3097560,
@@ -368,7 +388,8 @@
    "desc": "수상한 술집에서 카드·주사위로 허세 부리는 4인 블러핑 게임. 지면 벌칙.",
    "kind": "gem",
    "release": "2024-10-02",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097560/054cf90dfb2e0de8bf595fcd2cfd1b6853bf2556/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097560/054cf90dfb2e0de8bf595fcd2cfd1b6853bf2556/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 1943950,
@@ -385,7 +406,8 @@
    "desc": "백룸 레벨 30여 개를 같이 탈출하는 1인칭 공포 탐험.",
    "kind": "gem",
    "release": "2025-10-23",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f3dac53a5d3e68a4bb67786872b4693260049b26/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f3dac53a5d3e68a4bb67786872b4693260049b26/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2683150,
@@ -404,7 +426,8 @@
    "finalPrice": 5260,
    "discount": 61,
    "release": "2024-09-05",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/2c88381f5697bb0d925a44c0db17f7778bac6a88/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/2c88381f5697bb0d925a44c0db17f7778bac6a88/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 3949040,
@@ -420,7 +443,8 @@
    "desc": "캠핑카를 몰고 험한 길을 같이 넘어가는 물리 협동. 사고가 반은 재미.",
    "kind": "gem",
    "release": "2025-10-21",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/cae24b4ed7f4531be51f0d63f785b7d253f92dc3/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/cae24b4ed7f4531be51f0d63f785b7d253f92dc3/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 427410,
@@ -437,7 +461,8 @@
    "desc": "지하 연구소에 갇힌 과학자들의 생존 크래프팅.",
    "kind": "gem",
    "release": "2025-07-22",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/afe0e6c04aaa67d511a7fffe630aa8a54788c3b3/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/afe0e6c04aaa67d511a7fffe630aa8a54788c3b3/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 2780980,
@@ -454,7 +479,8 @@
    "desc": "보이스챗으로 하는 마피아. 기지 임무를 하며 배신자를 찾아냄.",
    "kind": "gem",
    "release": "2025-11-18",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780980/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780980/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 3146520,
@@ -470,7 +496,8 @@
    "desc": "동물 캐릭터로 모여 수다 떨며 낚시하는 힐링 소셜 게임.",
    "kind": "gem",
    "release": "2024-10-11",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 2963880,
@@ -487,7 +514,8 @@
    "desc": "심해에서 괴생명체 사체를 수거하는 청소부 공포 협동.",
    "kind": "gem",
    "release": "2024-12-12",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963880/582e04c544ef60fb5e3e35f0cdd8f7e8522393a0/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963880/582e04c544ef60fb5e3e35f0cdd8f7e8522393a0/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2709570,
@@ -503,7 +531,8 @@
    "desc": "같이 마트를 차려 진열하고 계산하는 경영 협동. 무료.",
    "kind": "gem",
    "release": "2024-08-09",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 3247750,
@@ -522,7 +551,8 @@
    "release": "2026-10-20",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/67b1dc819a93d4e855b213b518f25a9700f46434/header.jpg",
    "finalPrice": 8250,
-   "discount": 50
+   "discount": 50,
+   "ko": "text"
   },
   {
    "appid": 865360,
@@ -538,7 +568,8 @@
    "desc": "서로 보이는 게 달라서 말로 설명해야 풀리는 2인 퍼즐.",
    "kind": "gem",
    "release": "2019-10-10",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865360/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865360/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 1621690,
@@ -555,7 +586,8 @@
    "desc": "지하 동굴을 파고 농사·보스전 하는 탑뷰 샌드박스.",
    "kind": "gem",
    "release": "2024-08-27",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 632360,
@@ -572,7 +604,8 @@
    "desc": "아이템 쌓을수록 강해지는 3D 로그라이크 협동.",
    "kind": "gem",
    "release": "2020-08-11",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg",
+   "ko": "text"
   },
   {
    "appid": 493520,
@@ -592,7 +625,8 @@
    "finalPrice": 13000,
    "discount": 74,
    "release": "2021-12-09",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493520/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493520/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2661300,
@@ -608,7 +642,8 @@
    "desc": "작아져서 공원에서 살아남는 생존 협동 후속작. 앞서 해보기.",
    "kind": "gem",
    "release": "2025-07-29",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/91c758b9591805d15b26d9fa185a8b9ebab0a334/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/91c758b9591805d15b26d9fa185a8b9ebab0a334/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 1203620,
@@ -627,7 +662,8 @@
    "finalPrice": 38610,
    "discount": 10,
    "release": "2026-10-15",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg",
+   "ko": "text"
   },
   {
    "appid": 2208570,
@@ -645,7 +681,8 @@
    "release": "2025-10-23",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208570/64de5d8de8cc16b27b4de3026a9a7df934ca2552/header.jpg",
    "finalPrice": 6900,
-   "discount": 40
+   "discount": 40,
+   "ko": "text"
   },
   {
    "appid": 1987080,
@@ -662,7 +699,8 @@
    "desc": "백룸에서 퍼즐 풀며 괴물을 피하는 협동 공포.",
    "kind": "gem",
    "release": "2022-06-20",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1987080/51dab996a62cacdc321c349b5f6268b6ddf5000d/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1987080/51dab996a62cacdc321c349b5f6268b6ddf5000d/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 1302240,
@@ -679,7 +717,8 @@
    "desc": "미로 같은 맵에서 괴물 피해 퍼즐 푸는 협동 공포.",
    "kind": "gem",
    "release": "2023-08-18",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 673750,
@@ -696,7 +735,8 @@
    "desc": "토끼 옷 입고 굴러다니며 같이 골까지 가는 물리 플랫포머.",
    "kind": "gem",
    "release": "2023-05-16",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673750/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673750/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 3228590,
@@ -715,7 +755,8 @@
    "finalPrice": 13500,
    "discount": 50,
    "release": "2025-08-11",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/e96bd8ad3067f931a3b8008c4453c58d0d2acd19/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/e96bd8ad3067f931a3b8008c4453c58d0d2acd19/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2444750,
@@ -732,7 +773,8 @@
    "desc": "AOS식 스킬 조작의 로그라이트 액션. 국내 개발사 작품.",
    "kind": "gem",
    "release": "2025-09-10",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/cb79c21477092b71ba4f8558bbcead5f6b234837/header_alt_assets_5.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/cb79c21477092b71ba4f8558bbcead5f6b234837/header_alt_assets_5.jpg",
+   "ko": "text"
   },
   {
    "appid": 699130,
@@ -749,7 +791,8 @@
    "desc": "좀비 떼를 막는 4인 협동 슈터. 할인을 자주 함.",
    "kind": "gem",
    "release": "2021-09-21",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/b35277055fbb7e07c26c5e31e4398684c6461d53/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/b35277055fbb7e07c26c5e31e4398684c6461d53/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 1568590,
@@ -767,7 +810,8 @@
    "desc": "어몽어스와 비슷한 오리 마피아 게임. 직업이 많아 판마다 다름. 무료.",
    "kind": "gem",
    "release": "2021-10-03",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/header.jpg",
+   "ko": "audio"
   },
   {
    "appid": 2567870,
@@ -784,7 +828,8 @@
    "desc": "사슬로 묶여서 지옥 탑을 오르는 플랫포머. 우정 테스트용.",
    "kind": "gem",
    "release": "2024-06-19",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/9989d3793429ffa481cc3228bb66d65565b9ce2b/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/9989d3793429ffa481cc3228bb66d65565b9ce2b/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 1509960,
@@ -802,7 +847,8 @@
    "desc": "단순한 협동 퍼즐인데 인원 많을수록 혼돈. 싸고 가벼움.",
    "kind": "gem",
    "release": "2021-05-07",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 1016920,
@@ -821,7 +867,8 @@
    "finalPrice": 3600,
    "discount": 85,
    "release": "2020-09-23",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 341800,
@@ -838,7 +885,8 @@
    "desc": "한 명은 폭탄을 보고, 나머지는 매뉴얼로 해체법을 알려주는 대화 퍼즐.",
    "kind": "gem",
    "release": "2015-10-08",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/341800/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/341800/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 286160,
@@ -855,7 +903,8 @@
    "desc": "보드게임을 온라인으로. 창작마당에 게임이 무한.",
    "kind": "gem",
    "release": "2015-06-05",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 431240,
@@ -873,7 +922,8 @@
    "desc": "말도 안 되는 코스에서 미니골프 대결. 떠들면서 하기 좋음.",
    "kind": "gem",
    "release": "2020-05-19",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 386940,
@@ -891,7 +941,8 @@
    "desc": "서로 함정을 깔면서 골인하는 플랫포머 대결.",
    "kind": "gem",
    "release": "2016-03-04",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/header.jpg",
+   "ko": "audio"
   },
   {
    "appid": 1557740,
@@ -909,7 +960,8 @@
    "desc": "이기면 진 쪽이 카드를 골라 강해지는 슈팅 대결.",
    "kind": "gem",
    "release": "2021-04-01",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 674940,
@@ -927,7 +979,8 @@
    "desc": "막대 인간 물리 난투. 싸고 짧고 시끄러움.",
    "kind": "gem",
    "release": "2017-09-28",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 291550,
@@ -944,7 +997,8 @@
    "desc": "스매시브라더스 스타일 플랫폼 격투. 무료.",
    "kind": "gem",
    "release": "2017-10-17",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291550/f6dd1b0a6a2b6e161604b36788276b18d36909cf/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291550/f6dd1b0a6a2b6e161604b36788276b18d36909cf/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 945360,
@@ -962,7 +1016,8 @@
    "desc": "우주선 안의 임포스터를 찾아내는 마피아 게임. 말발과 눈치 싸움.",
    "kind": "hit",
    "release": "2018-11-16",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/d611f3f87743b5121532023b1d3ee2dd0e96e772/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/d611f3f87743b5121532023b1d3ee2dd0e96e772/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 1966720,
@@ -979,7 +1034,8 @@
    "desc": "버려진 행성에서 고철을 주워 오는 공포 협동. 무서운데 계속 웃김.",
    "kind": "hit",
    "release": "2023-10-23",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 3241660,
@@ -996,7 +1052,8 @@
    "desc": "괴물 피해서 물건을 옮기는 물리 공포 협동. 깨뜨리면 돈이 깎임.",
    "kind": "hit",
    "release": "2025-02-26",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 2881650,
@@ -1013,7 +1070,8 @@
    "desc": "괴물을 찍어서 조회수를 버는 공포 촬영 게임.",
    "kind": "hit",
    "release": "2024-04-01",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 3527290,
@@ -1030,7 +1088,8 @@
    "desc": "섬의 산을 같이 오르는 등반 협동. 서로 끌어주고 떨어지고.",
    "kind": "hit",
    "release": "2025-06-16",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 739630,
@@ -1048,7 +1107,8 @@
    "finalPrice": 15050,
    "discount": 30,
    "release": "2020-09-18",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg",
+   "ko": "text"
   },
   {
    "appid": 1426210,
@@ -1066,7 +1126,8 @@
    "desc": "둘이서만 하는 스토리 협동 명작. 한 명만 사면 친구 패스로 같이 가능.",
    "kind": "hit",
    "release": "2021-03-25",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2001120,
@@ -1083,7 +1144,8 @@
    "desc": "It Takes Two 제작진의 2인 협동 신작. 친구 패스 지원.",
    "kind": "hit",
    "release": "2025-03-06",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 728880,
@@ -1103,7 +1165,8 @@
    "release": "2018-08-07",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/9305414f49b2f7aee7f7198dc507d6b66383fdd6/header.jpg",
    "finalPrice": 17230,
-   "discount": 66
+   "discount": 66,
+   "ko": "text"
   },
   {
    "appid": 477160,
@@ -1120,7 +1183,8 @@
    "desc": "흐물흐물한 몸으로 물리 퍼즐 풀기.",
    "kind": "hit",
    "release": "2016-07-22",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/9258286b309480a3ce438c07cb51fadf3ea2f1d1/header_alt_assets_27.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/9258286b309480a3ce438c07cb51fadf3ea2f1d1/header_alt_assets_27.jpg",
+   "ko": "text"
   },
   {
    "appid": 548430,
@@ -1139,7 +1203,8 @@
    "release": "2020-05-13",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/bc070678ce5c33e86ff818b3e9a51479b53f52f5/header_alt_assets_30.jpg",
    "finalPrice": 9600,
-   "discount": 70
+   "discount": 70,
+   "ko": "text"
   },
   {
    "appid": 553850,
@@ -1156,7 +1221,8 @@
    "desc": "아군 오사가 일상인 협동 슈팅.",
    "kind": "hit",
    "release": "2024-02-08",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 550,
@@ -1174,7 +1240,8 @@
    "desc": "좀비 협동 슈팅의 고전. 4대4 대전 모드도 있음.",
    "kind": "hit",
    "release": "2009-11-16",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 892970,
@@ -1191,7 +1258,8 @@
    "desc": "바이킹 생존·건축. 같이 집 짓고 보스 잡는 장기 플레이.",
    "kind": "hit",
    "release": "2026-09-09",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg",
+   "ko": "text"
   },
   {
    "appid": 105600,
@@ -1208,7 +1276,8 @@
    "desc": "2D 탐험·건축·보스전. 싸고 콘텐츠가 엄청 많음.",
    "kind": "hit",
    "release": "2011-05-16",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 413150,
@@ -1224,7 +1293,8 @@
    "desc": "같이 농장 꾸리는 힐링 게임.",
    "kind": "hit",
    "release": "2016-02-26",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 322330,
@@ -1243,7 +1313,8 @@
    "release": "2016-04-21",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/050ea9c51a4e96f707309d33b7cdd38e0a6cbfff/header_alt_assets_51.jpg",
    "finalPrice": 5270,
-   "discount": 66
+   "discount": 66,
+   "ko": "audio"
   },
   {
    "appid": 648800,
@@ -1260,7 +1331,8 @@
    "desc": "바다 위 뗏목을 키워가는 생존 협동.",
    "kind": "hit",
    "release": "2022-06-20",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 1623730,
@@ -1277,7 +1349,8 @@
    "desc": "몬스터를 잡아 일 시키는 생존 크래프팅.",
    "kind": "hit",
    "release": "2026-07-09",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 962130,
@@ -1293,7 +1366,8 @@
    "desc": "개미만큼 작아져서 뒷마당에서 살아남는 생존 협동.",
    "kind": "hit",
    "release": "2022-09-27",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 1172620,
@@ -1310,7 +1384,8 @@
    "desc": "같이 배 몰고 보물 찾는 해적 게임. 다른 배랑 싸우기도 함.",
    "kind": "hit",
    "release": "2020-06-03",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 1086940,
@@ -1328,7 +1403,8 @@
    "desc": "턴제 RPG 대작을 같이 진행.",
    "kind": "hit",
    "release": "2023-08-03",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2246340,
@@ -1348,7 +1424,8 @@
    "release": "2025-02-27",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg",
    "finalPrice": 34350,
-   "discount": 25
+   "discount": 25,
+   "ko": "text"
   },
   {
    "appid": 1097150,
@@ -1365,7 +1442,8 @@
    "desc": "젤리 캐릭터로 장애물 레이스. 무료.",
    "kind": "hit",
    "release": "2020-08-03",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 1260320,
@@ -1383,7 +1461,8 @@
    "desc": "말랑한 동물들로 서로 던지고 때리는 난투 파티.",
    "kind": "hit",
    "release": "2023-09-20",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/14b53fc1e5d888e5690221350d83eb133b7af683/header_alt_assets_10.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/14b53fc1e5d888e5690221350d83eb133b7af683/header_alt_assets_10.jpg",
+   "ko": "text"
   },
   {
    "appid": 285900,
@@ -1401,7 +1480,8 @@
    "desc": "흐물거리는 캐릭터로 서로 밀고 던지는 난투.",
    "kind": "hit",
    "release": "2017-12-12",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 880940,
@@ -1418,7 +1498,8 @@
    "desc": "보드판 위 미니게임 대결. 우정 파괴형 파티 게임.",
    "kind": "hit",
    "release": "2018-09-20",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg",
+   "ko": "audio"
   },
   {
    "appid": 381210,
@@ -1437,7 +1518,8 @@
    "finalPrice": 8600,
    "discount": 60,
    "release": "2016-06-14",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg",
+   "ko": "text"
   },
   {
    "appid": 1808500,
@@ -1454,7 +1536,8 @@
    "desc": "로봇이 지배한 지상에서 물자 챙겨 탈출하는 3인 익스트랙션 슈터.",
    "kind": "hit",
    "release": "2025-10-30",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/29e8af9fbf06833558758f94cfb406746f338c45/header_alt_assets_8.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/29e8af9fbf06833558758f94cfb406746f338c45/header_alt_assets_8.jpg",
+   "ko": "text"
   },
   {
    "appid": 730,
@@ -1472,7 +1555,8 @@
    "desc": "5대5 전술 FPS. 무료.",
    "kind": "hit",
    "release": "2012-08-21",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2357570,
@@ -1506,7 +1590,8 @@
    "desc": "3인 스쿼드 배틀로얄. 무료.",
    "kind": "hit",
    "release": "2020-11-04",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg",
+   "ko": "audio"
   },
   {
    "appid": 578080,
@@ -1523,7 +1608,8 @@
    "desc": "스쿼드 배틀로얄. 무료, 4인 파티.",
    "kind": "hit",
    "release": "2017-12-21",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 570,
@@ -1540,7 +1626,8 @@
    "desc": "5대5 AOS. 무료, 진입 장벽 높고 한 판이 김.",
    "kind": "hit",
    "release": "2013-07-09",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
+   "ko": "audio"
   },
   {
    "appid": 5053820,
@@ -1557,7 +1644,8 @@
    "desc": "제시된 소리를 한 번에 따라 하고 AI가 점수를 매기는 목소리 파티 게임.",
    "kind": "new",
    "release": "2026-08-27",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/cb42d784567e89c1c409e49856ece32c9cf8ab36/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/cb42d784567e89c1c409e49856ece32c9cf8ab36/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 3989960,
@@ -1575,7 +1663,8 @@
    "desc": "최대 8마리 개구리가 먹고 커지고 서로 던지며 하수구를 탈출하는 물리 파티 협동.",
    "kind": "new",
    "release": "2026-06-11",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/7cf40cfaff04f6a192df76a81d9f38463b73c50e/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/7cf40cfaff04f6a192df76a81d9f38463b73c50e/header.jpg",
+   "ko": "audio"
   },
   {
    "appid": 4286040,
@@ -1592,7 +1681,8 @@
    "desc": "외발자전거 탄 소시지들이 터지기 전에 폭탄을 산 위로 옮기는 게임. 돕거나 밀거나.",
    "kind": "new",
    "release": "2026-08-05",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/7ba93ad19f40a39830d696385ce3f21a44d87e3a/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/7ba93ad19f40a39830d696385ce3f21a44d87e3a/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 5127370,
@@ -1609,7 +1699,8 @@
    "desc": "카지노 테이블에서 몰래 사기 치는 한 명을 찾아내는 3~8인 마피아 게임.",
    "kind": "new",
    "release": "2026-10-16",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5127370/2337f8b06c1e990fef49d00c3e20cdfb0a8430ae/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5127370/2337f8b06c1e990fef49d00c3e20cdfb0a8430ae/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 4069520,
@@ -1626,7 +1717,8 @@
    "desc": "공격 아이템으로 방해하면서 먼저 홀에 넣는 난장판 골프 대결.",
    "kind": "new",
    "release": "2026-02-19",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/60b052f108998c01fed147d07578a2aed9bcd4ee/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/60b052f108998c01fed147d07578a2aed9bcd4ee/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 5061170,
@@ -1643,7 +1735,8 @@
    "desc": "녹음한 소리를 반복하며 동물 사이에 숨는 숨바꼭질. 사냥꾼은 가짜를 찾아냄.",
    "kind": "new",
    "release": "2026-08-25",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5061170/22211f11ef489645c73ec484ea29f782f0a95433/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5061170/22211f11ef489645c73ec484ea29f782f0a95433/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2560240,
@@ -1662,7 +1755,8 @@
    "release": "2025-11-05",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2560240/header.jpg",
    "finalPrice": 6820,
-   "discount": 56
+   "discount": 56,
+   "ko": "text"
   },
   {
    "appid": 3572800,
@@ -1679,7 +1773,8 @@
    "desc": "서로에 대한 질문에 답하며 덱을 쌓는 2인 협동 덱빌딩 로그라이크.",
    "kind": "new",
    "release": "2026-09-16",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572800/a001c9b29038788f839f8f688f0d3a0c7c259609/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572800/a001c9b29038788f839f8f688f0d3a0c7c259609/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 4290170,
@@ -1698,7 +1793,8 @@
    "finalPrice": 7740,
    "discount": 40,
    "release": "2026-10-14",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290170/6b55bbef8356ccc5d962e1cbf7c9c8035088e035/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290170/6b55bbef8356ccc5d962e1cbf7c9c8035088e035/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 4190710,
@@ -1716,7 +1812,8 @@
    "finalPrice": 5220,
    "discount": 40,
    "release": "2026-09-10",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190710/c467f0b9feacd07f139cbfe7a9ea71979353c006/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190710/c467f0b9feacd07f139cbfe7a9ea71979353c006/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 5228920,
@@ -1735,7 +1832,8 @@
    "finalPrice": 5390,
    "discount": 38,
    "release": "2026-10-15",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/8c57f18ab6a1940b328584fe5556f4c87839e1a0/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/8c57f18ab6a1940b328584fe5556f4c87839e1a0/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2071280,
@@ -1752,7 +1850,8 @@
    "desc": "동화 속 영웅들로 싸우는 탑뷰 협동 로그라이크.",
    "kind": "gem",
    "release": "2024-09-26",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/a685fb6373db43ecc4d6309d1ca41dd89694f430/header_alt_assets_11.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/a685fb6373db43ecc4d6309d1ca41dd89694f430/header_alt_assets_11.jpg",
+   "ko": "text"
   },
   {
    "appid": 527230,
@@ -1769,7 +1868,8 @@
    "desc": "보드게임 같은 턴제 협동 RPG. 최대 3명.",
    "kind": "gem",
    "release": "2018-04-19",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/166aff558fda0f7e13df1970c7e825805c6e52b0/header_alt_assets_14.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/166aff558fda0f7e13df1970c7e825805c6e52b0/header_alt_assets_14.jpg",
+   "ko": "text"
   },
   {
    "appid": 1290000,
@@ -1785,7 +1885,8 @@
    "desc": "고압 세척기로 더러운 걸 싹 닦아내는 힐링 협동.",
    "kind": "gem",
    "release": "2022-07-14",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 1222700,
@@ -1802,7 +1903,8 @@
    "desc": "탈옥수 두 명의 이야기를 둘이 같이 진행하는 협동 스토리. 친구 패스 지원.",
    "kind": "gem",
    "release": "2020-06-18",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg",
+   "ko": "none"
   },
   {
    "appid": 1243830,
@@ -1820,7 +1922,8 @@
    "desc": "오버쿡드 1·2 리마스터 합본. 맵이 훨씬 많음.",
    "kind": "hit",
    "release": "2021-03-23",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 251570,
@@ -1837,7 +1940,8 @@
    "desc": "7일마다 좀비 떼가 몰려오는 생존 건축 협동.",
    "kind": "hit",
    "release": "2024-07-25",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 252490,
@@ -1854,7 +1958,8 @@
    "desc": "다른 사람과 약탈하고 싸우는 하드코어 생존 PvP.",
    "kind": "hit",
    "release": "2018-02-08",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+   "ko": "audio"
   },
   {
    "appid": 94400,
@@ -1871,7 +1976,8 @@
    "desc": "1대1 펜싱 줄다리기 대전. 한 판이 짧고 치열함.",
    "kind": "gem",
    "release": "2014-01-13",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/94400/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/94400/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 230410,
@@ -1889,7 +1995,8 @@
    "desc": "우주 닌자로 임무 도는 4인 협동 액션. 무료.",
    "kind": "hit",
    "release": "2013-03-25",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/1a3e7c2a05ce4e5cad5ac4c7e858cf5b0934704e/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/1a3e7c2a05ce4e5cad5ac4c7e858cf5b0934704e/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2073850,
@@ -1907,7 +2014,8 @@
    "desc": "맵을 부수면서 싸우는 3인 팀 FPS. 무료.",
    "kind": "hit",
    "release": "2023-12-07",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/4b0efa1275c8cedc030209eb174af726a5ca1776/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/4b0efa1275c8cedc030209eb174af726a5ca1776/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 2767030,
@@ -1925,7 +2033,8 @@
    "desc": "마블 영웅으로 하는 6대6 팀 슈터. 무료.",
    "kind": "hit",
    "release": "2024-12-05",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/c61f65c5968af5d85b0393005991ecee0184fcaf/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/c61f65c5968af5d85b0393005991ecee0184fcaf/header.jpg",
+   "ko": "text"
   },
   {
    "appid": 359550,
@@ -1943,7 +2052,8 @@
    "desc": "벽을 뚫고 들어가는 5대5 전술 FPS. 무료.",
    "kind": "hit",
    "release": "2015-12-01",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/555b5051d332c5f6b86f88ba5dfd80404dc91aaa/header_alt_assets_27.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/555b5051d332c5f6b86f88ba5dfd80404dc91aaa/header_alt_assets_27.jpg",
+   "ko": "text"
   },
   {
    "appid": 440,
@@ -1960,7 +2070,8 @@
    "desc": "병맛 클래스 팀 슈터의 고전. 무료.",
    "kind": "hit",
    "release": "2007-10-10",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg"
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg",
+   "ko": "text"
   }
  ]
 }
