@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
   EMPTY, LEN, TAGN, type Game, type Query, type Disc, type Len,
   headerUrl, kindOf, parse, recommend, won,
@@ -10,7 +10,7 @@ const EXAMPLES = [
 ];
 const PRICES = [["", "상관없음"], ["0", "무료만"], ["5000", "5천원 이하"], ["10000", "1만원 이하"],
   ["20000", "2만원 이하"], ["30000", "3만원 이하"], ["50000", "5만원 이하"]];
-const FIRST = "친구 3명이서 할 건데 경쟁 게임이면 좋겠어";
+const PLACEHOLDER = "EX: 친구 3명이서 할 건데 경쟁 게임이면 좋겠어";
 
 function Seg<T extends string>({ label, value, options, onChange }: {
   label: string; value: T | null; options: [T | "", string][]; onChange: (v: T | null) => void;
@@ -76,9 +76,15 @@ export default function App() {
   const [games, setGames] = useState<Game[]>([]);
   const [updatedAt, setUpdatedAt] = useState("");
   const [error, setError] = useState("");
-  const [text, setText] = useState(FIRST);
-  const [q, setQ] = useState<Query>(() => parse(FIRST));
-  const [hint, setHint] = useState("문장에서 읽은 조건을 채웠어요. 직접 바꿔도 돼요.");
+  const [text, setText] = useState("");
+  const [q, setQ] = useState<Query>(() => ({ ...EMPTY, tags: [] }));
+  const [hint, setHint] = useState("말로 물어보거나 아래에서 직접 골라 보세요.");
+  const inputRef = useRef<HTMLTextAreaElement>(null);
+
+  // PC에서는 들어오자마자 바로 입력할 수 있게 커서를 둠 (폰은 키보드가 튀어나와서 제외)
+  useEffect(() => {
+    if (window.matchMedia("(pointer: fine)").matches) inputRef.current?.focus();
+  }, []);
 
   useEffect(() => {
     fetch("/games.json")
@@ -111,7 +117,7 @@ export default function App() {
       <form onSubmit={(e) => { e.preventDefault(); ask(text); }}>
         <label htmlFor="q">어떤 게임을 원하나요?</label>
         <div className="ask">
-          <textarea id="q" rows={1} placeholder="예: 친구 4명이서 2만원 이하 공포 게임" value={text} onChange={(e) => setText(e.target.value)}
+          <textarea id="q" ref={inputRef} rows={1} placeholder={PLACEHOLDER} value={text} onChange={(e) => setText(e.target.value)}
             onKeyDown={(e) => {
               if (e.key === "Enter" && !e.shiftKey && !e.nativeEvent.isComposing) { e.preventDefault(); ask(text); }
             }} />
