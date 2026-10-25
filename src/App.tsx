@@ -31,21 +31,29 @@ function Card({ g, want }: { g: Game; want: number }) {
   const k = kindOf(g);
   const slots = Math.min(g.max, 8);
   const hasSale = !!g.discount && g.finalPrice !== undefined;
+  const url = `https://store.steampowered.com/app/${g.appid}/`;
+  const chips = [g.min === g.max ? `${g.max}명 전용` : `${g.min}~${g.max}명`,
+    g.mode === "pvp" ? "경쟁" : g.mode === "coop" ? "협동" : "협동+대전",
+    LEN[g.len], ...g.tags.slice(0, 3).map((t) => TAGN[t])];
   return (
     <li className="card">
+      <a className="cover" href={url} target="_blank" rel="noopener noreferrer" tabIndex={-1} aria-hidden="true">
+        {imgOk
+          ? <img src={headerUrl(g)} alt="" loading="lazy" onError={() => setImgOk(false)} />
+          : <span className="noimg">{g.name}</span>}
+        {k === "new" && <span className="badge new">신작</span>}
+        {k === "gem" && <span className="badge gem">숨은 명작</span>}
+      </a>
       <div className="body">
         <div className="top">
-          <h2>
-            {g.name}
-            {k === "new" && <span className="badge new">신작</span>}
-            {k === "gem" && <span className="badge gem">숨은 명작</span>}
-          </h2>
-        </div>
-        <div className="price">
-          {hasSale ? (<>
-            <span className="sale">-{g.discount}%</span>
-            <s>{won(g.price)}</s> <b>{won(g.finalPrice!)}</b>
-          </>) : <b>{won(g.price)}</b>}
+          <h2><a href={url} target="_blank" rel="noopener noreferrer">{g.name}</a></h2>
+          <div className={"price" + (hasSale ? " sale-on" : "")}>
+            {hasSale && <span className="sale">-{g.discount}%</span>}
+            <span className="amt">
+              {hasSale && <s>{won(g.price)}</s>}
+              <b>{won(hasSale ? g.finalPrice! : g.price)}</b>
+            </span>
+          </div>
         </div>
         <div className="slots" aria-label={`${g.min}명부터 ${g.max}명까지`}>
           {Array.from({ length: slots }, (_, i) => (
@@ -54,21 +62,8 @@ function Card({ g, want }: { g: Game; want: number }) {
           {g.max > 8 && <span className="cap">최대 {g.max}명</span>}
         </div>
         <p className="desc">{g.desc}</p>
-        <p className="why">
-          {[g.min === g.max ? `${g.max}명 전용` : `${g.min}~${g.max}명`,
-            g.mode === "pvp" ? "경쟁" : g.mode === "coop" ? "협동" : "협동+대전",
-            LEN[g.len], ...g.tags.slice(0, 3).map((t) => TAGN[t])].join(" · ")}
-        </p>
-        <a href={`https://store.steampowered.com/app/${g.appid}/`} target="_blank" rel="noopener noreferrer">
-          스팀에서 보기 →
-        </a>
+        <div className="tags">{chips.map((c) => <span key={c}>{c}</span>)}</div>
       </div>
-      {imgOk && (
-        <a className="cover" href={`https://store.steampowered.com/app/${g.appid}/`} target="_blank"
-          rel="noopener noreferrer" tabIndex={-1} aria-hidden="true">
-          <img src={headerUrl(g)} alt="" loading="lazy" onError={() => setImgOk(false)} />
-        </a>
-      )}
     </li>
   );
 }
@@ -112,7 +107,7 @@ export default function App() {
       <form onSubmit={(e) => { e.preventDefault(); ask(text); }}>
         <label htmlFor="q">어떤 게임을 원하나요?</label>
         <div className="ask">
-          <textarea id="q" rows={2} value={text} onChange={(e) => setText(e.target.value)}
+          <textarea id="q" rows={1} placeholder="예: 친구 4명이서 2만원 이하 공포 게임" value={text} onChange={(e) => setText(e.target.value)}
             onKeyDown={(e) => {
               if (e.key === "Enter" && !e.shiftKey && !e.nativeEvent.isComposing) { e.preventDefault(); ask(text); }
             }} />

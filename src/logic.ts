@@ -74,12 +74,13 @@ export function parse(t: string): Query {
   return r;
 }
 
-/** 출시 1년 이내면 신작. 출시일이 아직 없으면 수동 분류를 따름 */
+/** 유명작(hit)은 그대로. 나머지는 출시 1년 이내면 신작, 아니면 숨은 명작 */
 export function kindOf(g: Game, today = new Date()): Kind {
+  if (g.kind === "hit") return "hit"; // 유명작은 출시일과 상관없이 유명작
   if (g.release) {
     const days = (today.getTime() - new Date(g.release).getTime()) / 86400000;
     if (days <= 365) return "new";
-    return g.kind === "hit" ? "hit" : "gem";
+    return "gem";
   }
   return g.kind;
 }
