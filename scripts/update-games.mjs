@@ -7,6 +7,7 @@ const GAMES = "public/games.json";
 const CANDIDATES = "data/candidates.json";
 const REJECTED = "data/rejected.json"; // 추가하지 않을 appid 목록(직접 관리)
 const DELAY = 1600; // 스팀 appdetails 요청 제한(대략 5분 200회) 아래로 유지
+const REVIEW_DELAY = 800; // 리뷰 API는 별도 요청이라 조금 짧게
 const MAX_NEW_PER_RUN = 15;
 const TAGS = ["party","funny","horror","chill","shooter","survival","puzzle","strategy","deduction","fighting","rpg","story","action","skill"];
 // 협동(3843), 파티 게임(7178) 태그의 인기 신작
@@ -93,11 +94,22 @@ export function isMajorPublisher(publishers) {
   });
 }
 
-/** 다운로드 수는 스팀이 공개하지 않아서, 대신 스팀 리뷰(추천) 수를 씀. 인기 규모를 가늠하는 흔한 지표 */
+/** 다운로드 수는 스팀이 공개하지 않아서, 대신 전체 리뷰 수(긍정+부정)를 씀. 많을수록 대작으로 봄.
+ *  리뷰 API의 긍정/부정 합계가 정확하고 무료 게임도 제대로 나옴. 실패하면 게임 정보의 추천 수로 대신함 */
 const reviewsOf = (data) => { const n = Number(data?.recommendations?.total); return Number.isFinite(n) && n >= 0 ? n : undefined; };
+async function reviewTotals(appid) {
+  const d = await getJson(`https://store.steampowered.com/appreviews/${appid}?json=1&language=all&purchase_type=all&filter=all&num_per_page=1`);
+  const q = d?.query_summary;
+  if (!q) return undefined;
+  const pos = Number(q.total_positive), neg = Number(q.total_negative);
+  if (Number.isFinite(pos) && Number.isFinite(neg)) return { total: pos + neg, pos, neg };
+  const t = Number(q.total_reviews);
+  return Number.isFinite(t) ? { total: t } : undefined;
+}
 
 async function refresh(games) {
-  let ok = 0, fail = 0;
+  let ok = 0, fail = 0, rvApi = 0, rvFallback = 0;
+  const samples = [];
   for (const g of games) {
     try {
       const data = await appDetails(g.appid);
@@ -108,7 +120,11 @@ async function refresh(games) {
       if (rel && !rel.coming_soon) g.release = toIsoDate(rel.date) ?? g.release;
       if (data.header_image) g.header = data.header_image.split("?")[0];
       if (Array.isArray(data.publishers)) { g.publisher = data.publishers[0]; g.major = isMajorPublisher(data.publishers); }
-      const rv = reviewsOf(data); if (rv !== undefined) g.reviews = rv;
+      let rt;
+      try { rt = await reviewTotals(g.appid); } catch { /* 아래에서 대체값 사용 */ }
+      await sleep(REVIEW_DELAY);
+      if (rt) { g.reviews = rt.total; rvApi++; if (samples.length < 3 && rt.pos !== undefined) samples.push(`${g.name} ${rt.total}(긍정 ${rt.pos}/부정 ${rt.neg})`); }
+      else { const rv = reviewsOf(data); if (rv !== undefined) { g.reviews = rv; rvFallback++; } }
       const ko = koSupport(data.supported_languages);
       if (ko) g.ko = ko;
       for (const k of ["finalPrice", "discount"]) if (g[k] === undefined) delete g[k];
@@ -116,7 +132,9 @@ async function refresh(games) {
     } catch (err) { fail++; console.warn("갱신 실패", g.name, err.message); }
     await sleep(DELAY);
   }
-  console.log(`가격 갱신: 성공 ${ok}, 실패 ${fail}`);
+  const msg = `가격 갱신 성공 ${ok}, 실패 ${fail} · 리뷰 수: 리뷰 API ${rvApi}개, 대체값 ${rvFallback}개 · 예: ${samples.join(", ")}`;
+  console.log(msg);
+  if (process.env.GITHUB_ACTIONS) console.log(`::notice title=갱신 요약::${msg}`); // Actions 실행 화면에 요약으로 표시
 }
 
 async function discover(known) {
