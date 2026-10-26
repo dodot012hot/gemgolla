@@ -80,6 +80,26 @@ export function priceFields(data) {
     : { price: initial, finalPrice: undefined, discount: undefined };
 }
 
+// 이 배급사 게임은 가격과 상관없이 대작으로 봄(무료 게임 제외). 인디도 많이 내는 KRAFTON·NetEase·Valve 등은 일부러 뺌
+const MAJOR_PUBLISHERS = [
+  "electronic arts", "ubisoft", "capcom", "activision", "blizzard", "sony interactive", "playstation",
+  "xbox game studios", "microsoft", "bethesda", "bandai namco", "sega", "square enix", "2k", "rockstar",
+  "take-two", "warner bros", "konami", "koei tecmo", "ncsoft",
+];
+export function isMajorPublisher(publishers) {
+  return (publishers ?? []).some((p) => {
+    const n = norm(p);
+    return MAJOR_PUBLISHERS.some((m) => n === m || n.startsWith(m + " ") || n.includes(" " + m + " ") || n.endsWith(" " + m));
+  });
+}
+
+/** 다운로드 수는 스팀이 공개하지 않아서, 대신 전체 리뷰 수를 받아옴(인기 규모를 가늠하는 흔한 지표) */
+async function reviewCount(appid) {
+  const d = await getJson(`https://store.steampowered.com/appreviews/${appid}?json=1&language=all&purchase_type=all&num_per_page=0`);
+  const n = d?.query_summary?.total_reviews;
+  return Number.isFinite(n) ? n : undefined;
+}
+
 async function refresh(games) {
   let ok = 0, fail = 0;
   for (const g of games) {
@@ -91,6 +111,9 @@ async function refresh(games) {
       const rel = data.release_date;
       if (rel && !rel.coming_soon) g.release = toIsoDate(rel.date) ?? g.release;
       if (data.header_image) g.header = data.header_image.split("?")[0];
+      if (Array.isArray(data.publishers)) { g.publisher = data.publishers[0]; g.major = isMajorPublisher(data.publishers); }
+      try { const n = await reviewCount(g.appid); if (n !== undefined) g.reviews = n; } catch { /* 리뷰 수는 없어도 됨 */ }
+      await sleep(DELAY);
       const ko = koSupport(data.supported_languages);
       if (ko) g.ko = ko;
       for (const k of ["finalPrice", "discount"]) if (g[k] === undefined) delete g[k];
@@ -172,7 +195,8 @@ async function main() {
           appid, name: data.name, ...info, price: pf.price,
           ...(pf.discount ? { finalPrice: pf.finalPrice, discount: pf.discount } : {}),
           kind: "gem", release: rel && !rel.coming_soon ? toIsoDate(rel.date) : undefined,
-          header: data.header_image?.split("?")[0], ko: koSupport(data.supported_languages), auto: true,
+          header: data.header_image?.split("?")[0], ko: koSupport(data.supported_languages),
+          publisher: data.publishers?.[0], major: isMajorPublisher(data.publishers), auto: true,
         });
         added++;
       } else {

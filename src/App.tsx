@@ -178,7 +178,7 @@ export default function App() {
             할인 중만{saleCount > 0 && <span className="cnt">{saleCount}</span>}
           </button>
           <button type="button" className="tag big-toggle" aria-pressed={q.big} onClick={() => edit({ big: !q.big })}
-            title="본편 정가 5만 원 이상 게임은 기본으로 숨겨져 있어요">
+            title="대형 배급사 게임과 정가 5만 원 이상 게임은 기본으로 숨겨져 있어요">
             대작 포함{bigCount > 0 && <span className="cnt">{bigCount}</span>}
           </button>
         </div>

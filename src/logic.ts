@@ -20,7 +20,10 @@ export interface Game {
   discount?: number; // 할인율(%)
   release?: string; // YYYY-MM-DD
   header?: string; // 스팀 표지 이미지 URL
-  big?: boolean; // 대작 여부를 직접 지정할 때만 씀. 없으면 정가로 판단
+  big?: boolean; // 대작 여부를 직접 지정할 때만 씀. 없으면 아래 규칙으로 판단
+  publisher?: string; // 배급사 (매일 갱신)
+  major?: boolean; // 대형 배급사 게임인지 (매일 갱신)
+  reviews?: number; // 스팀 전체 리뷰 수. 다운로드 수 대신 인기 규모를 가늠하는 용도 (매일 갱신)
   ko?: Ko; // 한국어 지원: audio=음성, text=자막·인터페이스, none=미지원
 }
 
@@ -96,9 +99,10 @@ export function kindOf(g: Game, today = new Date()): Kind {
 export const nowPrice = (g: Game) => g.finalPrice ?? g.price;
 export const onSale = (g: Game) => !!g.discount && g.finalPrice !== undefined;
 
-/** 본편 정가가 이 금액 이상이면 대작으로 봄. 대작은 "대작 포함"을 켰을 때만 추천에 나옴 */
+/** 대작: 대형 배급사 게임이거나 본편 정가 5만 원 이상. 무료 게임은 부담이 없으니 제외.
+ *  대작은 "대작 포함"을 켰을 때만 추천에 나옴. games.json에 "big"을 적으면 그게 우선 */
 export const BIG_PRICE = 50000;
-export const isBig = (g: Game) => g.big ?? g.price >= BIG_PRICE;
+export const isBig = (g: Game) => g.big ?? (g.price > 0 && (g.price >= BIG_PRICE || g.major === true));
 
 export function fits(g: Game, r: Query, relax: boolean): boolean {
   if (r.players && (r.players < g.min || r.players > g.max)) return false;
