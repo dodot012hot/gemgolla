@@ -18,7 +18,9 @@
    "kind": "new",
    "release": "2026-09-02",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/d26ac7a7fb6e1bcc2a89cbbaefcb359dfd5d1eeb/header_alt_assets_0.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "TARK",
+   "major": false
   },
   {
    "appid": 4108000,
@@ -36,7 +38,9 @@
    "kind": "new",
    "release": "2026-07-30",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Oro Interactive",
+   "major": false
   },
   {
    "appid": 3883570,
@@ -54,7 +58,9 @@
    "kind": "new",
    "release": "2026-10-08",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Ludogram",
+   "major": false
   },
   {
    "appid": 4218620,
@@ -73,7 +79,9 @@
    "kind": "new",
    "release": "2026-10-13",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/0d770690dad82dbc74f06a656db3b5b16c8dab42/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Miklagard Studios",
+   "major": false
   },
   {
    "appid": 3645890,
@@ -93,7 +101,9 @@
    "discount": 33,
    "release": "2026-10-20",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645890/ccf41cdf893f47a5a692f05e2344df5e2fdeb3d9/header_alt_assets_0.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "GONE Studios",
+   "major": false
   },
   {
    "appid": 2871520,
@@ -113,7 +123,9 @@
    "discount": 15,
    "release": "2026-10-13",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/a941857720d5b6a62a2e0a7646f2ca46b00039b6/header_alt_assets_1.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "Raw Fury",
+   "major": false
   },
   {
    "appid": 4660280,
@@ -131,7 +143,9 @@
    "kind": "new",
    "release": "2026-10-02",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660280/706812c0feb71db9f9a24692a907a01f0ccd7be9/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Rock Paper Publisher",
+   "major": false
   },
   {
    "appid": 3892270,
@@ -151,7 +165,9 @@
    "discount": 38,
    "release": "2026-05-01",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "TENSTACK",
+   "major": false
   },
   {
    "appid": 4704690,
@@ -169,7 +185,9 @@
    "kind": "new",
    "release": "2026-06-09",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "lemorion_1224",
+   "major": false
   },
   {
    "appid": 4001890,
@@ -187,7 +205,9 @@
    "kind": "new",
    "release": "2026-08-20",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg",
-   "ko": "audio"
+   "ko": "audio",
+   "publisher": "Dazed Games",
+   "major": false
   },
   {
    "appid": 3834090,
@@ -205,7 +225,9 @@
    "kind": "new",
    "release": "2026-02-03",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834090/399b7aa5bd9ea359e6d77cec3032758ea27c597b/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Maison Bap",
+   "major": false
   },
   {
    "appid": 3099190,
@@ -223,7 +245,9 @@
    "kind": "new",
    "release": "2026-09-11",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3099190/2acbd195c17db48662a46221e3677977bf45c4c6/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "Kekdot",
+   "major": false
   },
   {
    "appid": 4279630,
@@ -243,7 +267,9 @@
    "discount": 25,
    "release": "2026-09-03",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279630/d649d4743f436dd3a82c1de496bff1d29c5bf26e/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Ytopia",
+   "major": false
   },
   {
    "appid": 3844970,
@@ -261,7 +287,9 @@
    "kind": "new",
    "release": "2026-06-10",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d6127e4eabda23e1d1c727a1875e6b6cb0e634ae/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Fobri",
+   "major": false
   },
   {
    "appid": 4981570,
@@ -279,7 +307,9 @@
    "kind": "new",
    "release": "2026-09-23",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981570/220cdaf5171fb86917cd0f288c4fd551d89f24f9/header.jpg",
-   "ko": "audio"
+   "ko": "audio",
+   "publisher": "OnSkull Games",
+   "major": false
   },
   {
    "appid": 2790700,
@@ -297,7 +327,9 @@
    "kind": "new",
    "release": "2026-06-17",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790700/99508a3c5d7bd26ab1a2a9333c1f510bfd4d4881/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "One More Game",
+   "major": false
   },
   {
    "appid": 2315050,
@@ -316,7 +348,9 @@
    "discount": 10,
    "release": "2026-10-20",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/1e74865089e86e73fe7abefec0f5b59c1ce48305/header_alt_assets_3.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Total Mayhem Games",
+   "major": false
   },
   {
    "appid": 1374490,
@@ -336,7 +370,9 @@
    "discount": 30,
    "release": "2026-09-15",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Jagex Ltd",
+   "major": false
   },
   {
    "appid": 2692990,
@@ -354,7 +390,9 @@
    "kind": "gem",
    "release": "2025-12-03",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/af1cd4647409efd4c9cd3afe70e0444ebd8fde2c/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Digital Cybercherries",
+   "major": false
   },
   {
    "appid": 2827200,
@@ -371,7 +409,9 @@
    "kind": "gem",
    "release": "2025-10-27",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/113ba0aea608eaac6b27d1d20017d384bef82b9f/header_alt_assets_2.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "ReLU Games, Inc.",
+   "major": false
   },
   {
    "appid": 3097560,
@@ -389,7 +429,9 @@
    "kind": "gem",
    "release": "2024-10-02",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097560/054cf90dfb2e0de8bf595fcd2cfd1b6853bf2556/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "Curve Animation",
+   "major": false
   },
   {
    "appid": 1943950,
@@ -407,7 +449,9 @@
    "kind": "gem",
    "release": "2025-10-23",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f3dac53a5d3e68a4bb67786872b4693260049b26/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Secret Mode",
+   "major": false
   },
   {
    "appid": 2683150,
@@ -427,7 +471,9 @@
    "discount": 61,
    "release": "2024-09-05",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/2c88381f5697bb0d925a44c0db17f7778bac6a88/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "GrabTheGames",
+   "major": false
   },
   {
    "appid": 3949040,
@@ -444,7 +490,9 @@
    "kind": "gem",
    "release": "2025-10-21",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/cae24b4ed7f4531be51f0d63f785b7d253f92dc3/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Nuggets Entertainment",
+   "major": false
   },
   {
    "appid": 427410,
@@ -462,7 +510,9 @@
    "kind": "gem",
    "release": "2025-07-22",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/afe0e6c04aaa67d511a7fffe630aa8a54788c3b3/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "Playstack",
+   "major": false
   },
   {
    "appid": 2780980,
@@ -480,7 +530,9 @@
    "kind": "gem",
    "release": "2025-11-18",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780980/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "Mirage Creative Lab",
+   "major": false
   },
   {
    "appid": 3146520,
@@ -497,7 +549,9 @@
    "kind": "gem",
    "release": "2024-10-11",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "lamedeveloper",
+   "major": false
   },
   {
    "appid": 2963880,
@@ -515,7 +569,9 @@
    "kind": "gem",
    "release": "2024-12-12",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963880/582e04c544ef60fb5e3e35f0cdd8f7e8522393a0/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Embers",
+   "major": false
   },
   {
    "appid": 2709570,
@@ -532,7 +588,9 @@
    "kind": "gem",
    "release": "2024-08-09",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "DeadDevsTellNoLies",
+   "major": false
   },
   {
    "appid": 3247750,
@@ -552,7 +610,9 @@
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/67b1dc819a93d4e855b213b518f25a9700f46434/header.jpg",
    "finalPrice": 8250,
    "discount": 50,
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Devolver Digital",
+   "major": false
   },
   {
    "appid": 865360,
@@ -569,7 +629,9 @@
    "kind": "gem",
    "release": "2019-10-10",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865360/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Total Mayhem Games",
+   "major": false
   },
   {
    "appid": 1621690,
@@ -587,7 +649,9 @@
    "kind": "gem",
    "release": "2024-08-27",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Fireshine Games",
+   "major": false
   },
   {
    "appid": 632360,
@@ -605,7 +669,9 @@
    "kind": "gem",
    "release": "2020-08-11",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Gearbox Publishing",
+   "major": true
   },
   {
    "appid": 493520,
@@ -626,7 +692,9 @@
    "discount": 74,
    "release": "2021-12-09",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493520/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "10 Chambers",
+   "major": false
   },
   {
    "appid": 2661300,
@@ -643,7 +711,9 @@
    "kind": "gem",
    "release": "2025-07-29",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/91c758b9591805d15b26d9fa185a8b9ebab0a334/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Xbox Game Studios",
+   "major": true
   },
   {
    "appid": 1203620,
@@ -663,7 +733,9 @@
    "discount": 10,
    "release": "2026-10-15",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Keen Games GmbH",
+   "major": false
   },
   {
    "appid": 2208570,
@@ -682,7 +754,9 @@
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208570/64de5d8de8cc16b27b4de3026a9a7df934ca2552/header.jpg",
    "finalPrice": 6900,
    "discount": 40,
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Piece of Cake studios",
+   "major": false
   },
   {
    "appid": 1987080,
@@ -700,7 +774,9 @@
    "kind": "gem",
    "release": "2022-06-20",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1987080/51dab996a62cacdc321c349b5f6268b6ddf5000d/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "MrFatcat",
+   "major": false
   },
   {
    "appid": 1302240,
@@ -718,7 +794,9 @@
    "kind": "gem",
    "release": "2023-08-18",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Valko Game Studios",
+   "major": false
   },
   {
    "appid": 673750,
@@ -736,7 +814,9 @@
    "kind": "gem",
    "release": "2023-05-16",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673750/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Catobyte Ltd",
+   "major": false
   },
   {
    "appid": 3228590,
@@ -756,7 +836,9 @@
    "discount": 50,
    "release": "2025-08-11",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/e96bd8ad3067f931a3b8008c4453c58d0d2acd19/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Prophecy Games",
+   "major": false
   },
   {
    "appid": 2444750,
@@ -774,7 +856,9 @@
    "kind": "gem",
    "release": "2025-09-10",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/cb79c21477092b71ba4f8558bbcead5f6b234837/header_alt_assets_5.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "NEOWIZ",
+   "major": false
   },
   {
    "appid": 699130,
@@ -792,7 +876,9 @@
    "kind": "gem",
    "release": "2021-09-21",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/b35277055fbb7e07c26c5e31e4398684c6461d53/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Saber Interactive Inc",
+   "major": false
   },
   {
    "appid": 1568590,
@@ -811,7 +897,9 @@
    "kind": "gem",
    "release": "2021-10-03",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/header.jpg",
-   "ko": "audio"
+   "ko": "audio",
+   "publisher": "Gaggle Studios, Inc.",
+   "major": false
   },
   {
    "appid": 2567870,
@@ -829,7 +917,9 @@
    "kind": "gem",
    "release": "2024-06-19",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/9989d3793429ffa481cc3228bb66d65565b9ce2b/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "Secret Mode",
+   "major": false
   },
   {
    "appid": 1509960,
@@ -848,7 +938,9 @@
    "kind": "gem",
    "release": "2021-05-07",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "TECOPARK",
+   "major": false
   },
   {
    "appid": 1016920,
@@ -868,7 +960,9 @@
    "discount": 85,
    "release": "2020-09-23",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Daedalic Entertainment",
+   "major": false
   },
   {
    "appid": 341800,
@@ -886,7 +980,9 @@
    "kind": "gem",
    "release": "2015-10-08",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/341800/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Steel Crate Games",
+   "major": false
   },
   {
    "appid": 286160,
@@ -904,7 +1000,9 @@
    "kind": "gem",
    "release": "2015-06-05",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "Berserk Games",
+   "major": false
   },
   {
    "appid": 431240,
@@ -923,7 +1021,9 @@
    "kind": "gem",
    "release": "2020-05-19",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "Team17",
+   "major": false
   },
   {
    "appid": 386940,
@@ -942,7 +1042,9 @@
    "kind": "gem",
    "release": "2016-03-04",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/header.jpg",
-   "ko": "audio"
+   "ko": "audio",
+   "publisher": "Clever Endeavour Games",
+   "major": false
   },
   {
    "appid": 1557740,
@@ -961,7 +1063,9 @@
    "kind": "gem",
    "release": "2021-04-01",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "Landfall",
+   "major": false
   },
   {
    "appid": 674940,
@@ -980,7 +1084,9 @@
    "kind": "gem",
    "release": "2017-09-28",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "Landfall",
+   "major": false
   },
   {
    "appid": 291550,
@@ -998,7 +1104,9 @@
    "kind": "gem",
    "release": "2017-10-17",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291550/f6dd1b0a6a2b6e161604b36788276b18d36909cf/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Ubisoft",
+   "major": true
   },
   {
    "appid": 945360,
@@ -1017,7 +1125,9 @@
    "kind": "hit",
    "release": "2018-11-16",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/d611f3f87743b5121532023b1d3ee2dd0e96e772/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Innersloth",
+   "major": false
   },
   {
    "appid": 1966720,
@@ -1035,7 +1145,9 @@
    "kind": "hit",
    "release": "2023-10-23",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "Zeekerss",
+   "major": false
   },
   {
    "appid": 3241660,
@@ -1053,7 +1165,9 @@
    "kind": "hit",
    "release": "2025-02-26",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "semiwork",
+   "major": false
   },
   {
    "appid": 2881650,
@@ -1071,7 +1185,9 @@
    "kind": "hit",
    "release": "2024-04-01",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Evil Landfall?",
+   "major": false
   },
   {
    "appid": 3527290,
@@ -1089,7 +1205,9 @@
    "kind": "hit",
    "release": "2025-06-16",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Aggro Crab",
+   "major": false
   },
   {
    "appid": 739630,
@@ -1108,7 +1226,9 @@
    "discount": 30,
    "release": "2020-09-18",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Kinetic Games",
+   "major": false
   },
   {
    "appid": 1426210,
@@ -1127,7 +1247,9 @@
    "kind": "hit",
    "release": "2021-03-25",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Electronic Arts",
+   "major": true
   },
   {
    "appid": 2001120,
@@ -1145,7 +1267,9 @@
    "kind": "hit",
    "release": "2025-03-06",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Electronic Arts",
+   "major": true
   },
   {
    "appid": 728880,
@@ -1164,7 +1288,9 @@
    "kind": "hit",
    "release": "2018-08-07",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/9305414f49b2f7aee7f7198dc507d6b66383fdd6/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Team17",
+   "major": false
   },
   {
    "appid": 477160,
@@ -1182,7 +1308,9 @@
    "kind": "hit",
    "release": "2016-07-22",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/9258286b309480a3ce438c07cb51fadf3ea2f1d1/header_alt_assets_27.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Curve Games",
+   "major": false
   },
   {
    "appid": 548430,
@@ -1202,7 +1330,9 @@
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/bc070678ce5c33e86ff818b3e9a51479b53f52f5/header_alt_assets_30.jpg",
    "finalPrice": 9600,
    "discount": 70,
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Coffee Stain Publishing",
+   "major": false
   },
   {
    "appid": 553850,
@@ -1220,7 +1350,9 @@
    "kind": "hit",
    "release": "2024-02-08",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "PlayStation Publishing LLC",
+   "major": true
   },
   {
    "appid": 550,
@@ -1239,7 +1371,9 @@
    "kind": "hit",
    "release": "2009-11-16",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Valve",
+   "major": false
   },
   {
    "appid": 892970,
@@ -1257,7 +1391,9 @@
    "kind": "hit",
    "release": "2026-09-09",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Coffee Stain Publishing",
+   "major": false
   },
   {
    "appid": 105600,
@@ -1275,7 +1411,9 @@
    "kind": "hit",
    "release": "2011-05-16",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Re-Logic",
+   "major": false
   },
   {
    "appid": 413150,
@@ -1292,7 +1430,9 @@
    "kind": "hit",
    "release": "2016-02-26",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "ConcernedApe",
+   "major": false
   },
   {
    "appid": 322330,
@@ -1312,7 +1452,9 @@
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/050ea9c51a4e96f707309d33b7cdd38e0a6cbfff/header_alt_assets_51.jpg",
    "finalPrice": 5270,
    "discount": 66,
-   "ko": "audio"
+   "ko": "audio",
+   "publisher": "Klei Entertainment",
+   "major": false
   },
   {
    "appid": 648800,
@@ -1330,7 +1472,9 @@
    "kind": "hit",
    "release": "2022-06-20",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Axolot Games",
+   "major": false
   },
   {
    "appid": 1623730,
@@ -1348,7 +1492,9 @@
    "kind": "hit",
    "release": "2026-07-09",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Pocketpair",
+   "major": false
   },
   {
    "appid": 962130,
@@ -1365,7 +1511,9 @@
    "kind": "hit",
    "release": "2022-09-27",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Xbox Game Studios",
+   "major": true
   },
   {
    "appid": 1172620,
@@ -1383,7 +1531,9 @@
    "kind": "hit",
    "release": "2020-06-03",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Xbox Game Studios",
+   "major": true
   },
   {
    "appid": 1086940,
@@ -1402,7 +1552,9 @@
    "kind": "hit",
    "release": "2023-08-03",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Larian Studios",
+   "major": false
   },
   {
    "appid": 2246340,
@@ -1423,7 +1575,9 @@
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg",
    "finalPrice": 34350,
    "discount": 25,
-   "ko": "text"
+   "ko": "text",
+   "publisher": "CAPCOM Co., Ltd.",
+   "major": true
   },
   {
    "appid": 1097150,
@@ -1460,7 +1614,9 @@
    "kind": "hit",
    "release": "2023-09-20",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/14b53fc1e5d888e5690221350d83eb133b7af683/header_alt_assets_10.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Source Technology",
+   "major": false
   },
   {
    "appid": 285900,
@@ -1479,7 +1635,9 @@
    "kind": "hit",
    "release": "2017-12-12",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Boneloaf",
+   "major": false
   },
   {
    "appid": 880940,
@@ -1497,7 +1655,9 @@
    "kind": "hit",
    "release": "2018-09-20",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg",
-   "ko": "audio"
+   "ko": "audio",
+   "publisher": "Rebuilt Games",
+   "major": false
   },
   {
    "appid": 381210,
@@ -1517,7 +1677,9 @@
    "discount": 60,
    "release": "2016-06-14",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Behaviour Interactive Inc.",
+   "major": false
   },
   {
    "appid": 1808500,
@@ -1535,7 +1697,9 @@
    "kind": "hit",
    "release": "2025-10-30",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/29e8af9fbf06833558758f94cfb406746f338c45/header_alt_assets_8.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Embark Studios",
+   "major": false
   },
   {
    "appid": 730,
@@ -1554,7 +1718,9 @@
    "kind": "hit",
    "release": "2012-08-21",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Valve",
+   "major": false
   },
   {
    "appid": 2357570,
@@ -1589,7 +1755,9 @@
    "kind": "hit",
    "release": "2020-11-04",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg",
-   "ko": "audio"
+   "ko": "audio",
+   "publisher": "Electronic Arts",
+   "major": true
   },
   {
    "appid": 578080,
@@ -1607,7 +1775,9 @@
    "kind": "hit",
    "release": "2017-12-21",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "KRAFTON, Inc.",
+   "major": false
   },
   {
    "appid": 570,
@@ -1625,7 +1795,9 @@
    "kind": "hit",
    "release": "2013-07-09",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
-   "ko": "audio"
+   "ko": "audio",
+   "publisher": "Valve",
+   "major": false
   },
   {
    "appid": 5053820,
@@ -1643,7 +1815,9 @@
    "kind": "new",
    "release": "2026-08-27",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/cb42d784567e89c1c409e49856ece32c9cf8ab36/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "FoliesAPP",
+   "major": false
   },
   {
    "appid": 3989960,
@@ -1662,7 +1836,9 @@
    "kind": "new",
    "release": "2026-06-11",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/7cf40cfaff04f6a192df76a81d9f38463b73c50e/header.jpg",
-   "ko": "audio"
+   "ko": "audio",
+   "publisher": "Panic Stations",
+   "major": false
   },
   {
    "appid": 4286040,
@@ -1680,7 +1856,9 @@
    "kind": "new",
    "release": "2026-08-05",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/7ba93ad19f40a39830d696385ce3f21a44d87e3a/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Slugshot Games",
+   "major": false
   },
   {
    "appid": 5127370,
@@ -1698,7 +1876,9 @@
    "kind": "new",
    "release": "2026-10-16",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5127370/2337f8b06c1e990fef49d00c3e20cdfb0a8430ae/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "LumenLabs",
+   "major": false
   },
   {
    "appid": 4069520,
@@ -1716,7 +1896,9 @@
    "kind": "new",
    "release": "2026-02-19",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/60b052f108998c01fed147d07578a2aed9bcd4ee/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Oro Interactive",
+   "major": false
   },
   {
    "appid": 5061170,
@@ -1734,7 +1916,9 @@
    "kind": "new",
    "release": "2026-08-25",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5061170/22211f11ef489645c73ec484ea29f782f0a95433/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Black Sea Studios",
+   "major": false
   },
   {
    "appid": 2560240,
@@ -1754,7 +1938,9 @@
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2560240/header.jpg",
    "finalPrice": 6820,
    "discount": 56,
-   "ko": "text"
+   "ko": "text",
+   "publisher": "META Publishing",
+   "major": false
   },
   {
    "appid": 3572800,
@@ -1772,7 +1958,9 @@
    "kind": "new",
    "release": "2026-09-16",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572800/a001c9b29038788f839f8f688f0d3a0c7c259609/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Rising Tide",
+   "major": false
   },
   {
    "appid": 4290170,
@@ -1792,7 +1980,9 @@
    "discount": 40,
    "release": "2026-10-14",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290170/6b55bbef8356ccc5d962e1cbf7c9c8035088e035/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Alula",
+   "major": false
   },
   {
    "appid": 4190710,
@@ -1811,7 +2001,9 @@
    "discount": 40,
    "release": "2026-09-10",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190710/c467f0b9feacd07f139cbfe7a9ea71979353c006/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "GAZE IN GAMES",
+   "major": false
   },
   {
    "appid": 5228920,
@@ -1831,7 +2023,9 @@
    "discount": 38,
    "release": "2026-10-15",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/8c57f18ab6a1940b328584fe5556f4c87839e1a0/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "PaperPixel Games",
+   "major": false
   },
   {
    "appid": 2071280,
@@ -1849,7 +2043,9 @@
    "kind": "gem",
    "release": "2024-09-26",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/a685fb6373db43ecc4d6309d1ca41dd89694f430/header_alt_assets_11.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Nacon",
+   "major": false
   },
   {
    "appid": 527230,
@@ -1867,7 +2063,9 @@
    "kind": "gem",
    "release": "2018-04-19",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/166aff558fda0f7e13df1970c7e825805c6e52b0/header_alt_assets_14.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Curve Games",
+   "major": false
   },
   {
    "appid": 1290000,
@@ -1884,7 +2082,9 @@
    "kind": "gem",
    "release": "2022-07-14",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "FuturLab",
+   "major": false
   },
   {
    "appid": 1222700,
@@ -1902,7 +2102,9 @@
    "kind": "gem",
    "release": "2020-06-18",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg",
-   "ko": "none"
+   "ko": "none",
+   "publisher": "Electronic Arts",
+   "major": true
   },
   {
    "appid": 1243830,
@@ -1921,7 +2123,9 @@
    "kind": "hit",
    "release": "2021-03-23",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Team17 Digital",
+   "major": false
   },
   {
    "appid": 251570,
@@ -1939,7 +2143,9 @@
    "kind": "hit",
    "release": "2024-07-25",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "The Fun Pimps Entertainment LLC",
+   "major": false
   },
   {
    "appid": 252490,
@@ -1957,7 +2163,9 @@
    "kind": "hit",
    "release": "2018-02-08",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
-   "ko": "audio"
+   "ko": "audio",
+   "publisher": "Facepunch Studios",
+   "major": false
   },
   {
    "appid": 94400,
@@ -1975,7 +2183,9 @@
    "kind": "gem",
    "release": "2014-01-13",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/94400/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Messhof",
+   "major": false
   },
   {
    "appid": 230410,
@@ -1994,7 +2204,9 @@
    "kind": "hit",
    "release": "2013-03-25",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/1a3e7c2a05ce4e5cad5ac4c7e858cf5b0934704e/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Digital Extremes",
+   "major": false
   },
   {
    "appid": 2073850,
@@ -2013,7 +2225,9 @@
    "kind": "hit",
    "release": "2023-12-07",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/4b0efa1275c8cedc030209eb174af726a5ca1776/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Embark Studios",
+   "major": false
   },
   {
    "appid": 2767030,
@@ -2032,7 +2246,9 @@
    "kind": "hit",
    "release": "2024-12-05",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/c61f65c5968af5d85b0393005991ecee0184fcaf/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "NetEase Games",
+   "major": false
   },
   {
    "appid": 359550,
@@ -2051,7 +2267,9 @@
    "kind": "hit",
    "release": "2015-12-01",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/555b5051d332c5f6b86f88ba5dfd80404dc91aaa/header_alt_assets_27.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Ubisoft",
+   "major": true
   },
   {
    "appid": 440,
@@ -2069,7 +2287,9 @@
    "kind": "hit",
    "release": "2007-10-10",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg",
-   "ko": "text"
+   "ko": "text",
+   "publisher": "Valve",
+   "major": false
   }
  ]
 }
