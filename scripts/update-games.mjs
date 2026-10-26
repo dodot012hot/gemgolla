@@ -53,14 +53,32 @@ export function koSupport(langs) {
   return /<strong>\*<\/strong>|\*/.test(ko) ? "audio" : "text";
 }
 
-/** 스팀 price_overview(원 단위×100)를 우리 필드로 변환 */
+const wonOf = (txt) => { const d = String(txt ?? "").replace(/[^\d]/g, ""); return d ? +d : undefined; };
+
+/** 가격을 원 단위로 정리. DLC·디럭스 묶음이 아니라 "본편만" 가격을 씀.
+ *  스팀 price_overview가 가끔 DLC 포함 묶음 가격을 돌려줘서(예: Overcooked! 2),
+ *  상점의 구매 옵션(package_groups) 중 가장 싼 유료 옵션(=보통 본편)이 더 싸면 그걸 씀 */
 export function priceFields(data) {
   if (data.is_free) return { price: 0, finalPrice: undefined, discount: undefined };
   const p = data.price_overview;
   if (!p || p.currency !== "KRW") return null;
-  const initial = Math.round(p.initial / 100), final = Math.round(p.final / 100);
-  return p.discount_percent > 0
-    ? { price: initial, finalPrice: final, discount: p.discount_percent }
+  let initial = Math.round(p.initial / 100), final = Math.round(p.final / 100), pct = p.discount_percent;
+
+  const subs = (data.package_groups ?? []).filter((g) => g.name === "default").flatMap((g) => g.subs ?? [])
+    .filter((x) => !x.is_free_license && x.price_in_cents_with_discount > 0);
+  if (subs.length) {
+    const base = subs.reduce((a, b) => (b.price_in_cents_with_discount < a.price_in_cents_with_discount ? b : a));
+    const baseFinal = Math.round(base.price_in_cents_with_discount / 100);
+    if (baseFinal < final) {
+      const basePct = Number(base.percent_savings) || 0;
+      const orig = wonOf(String(base.option_text ?? "").match(/discount_original_price[^>]*>([^<]+)</)?.[1]);
+      final = baseFinal;
+      pct = basePct;
+      initial = orig ?? (basePct > 0 ? Math.round(baseFinal / (1 - basePct / 100) / 10) * 10 : baseFinal);
+    }
+  }
+  return pct > 0 && initial > final
+    ? { price: initial, finalPrice: final, discount: pct }
     : { price: initial, finalPrice: undefined, discount: undefined };
 }
 

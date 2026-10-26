@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   EMPTY, LEN, TAGN, type Game, type Query, type Disc, type Len,
-  fromParams, headerUrl, kindOf, onSale, parse, recommend, summary, toParams, won,
+  fromParams, headerUrl, isBig, kindOf, onSale, parse, recommend, summary, toParams, won,
 } from "./logic";
 
 const EXAMPLES = [
@@ -43,6 +43,7 @@ function Card({ g, want }: { g: Game; want: number }) {
           : <span className="noimg">{g.name}</span>}
         {k === "new" && <span className="badge new">신작</span>}
         {k === "gem" && <span className="badge gem">숨은 명작</span>}
+        {isBig(g) && <span className="badge big">대작</span>}
       </a>
       <div className="body">
         <div className="top">
@@ -119,11 +120,12 @@ export default function App() {
   }, []);
 
   const result = useMemo(() => recommend(games, q), [games, q]);
-  const saleCount = useMemo(() => games.filter(onSale).length, [games]);
+  const saleCount = useMemo(() => games.filter((g) => onSale(g) && (q.big || !isBig(g))).length, [games, q.big]);
+  const bigCount = useMemo(() => games.filter(isBig).length, [games]);
 
   const ask = (t: string) => {
     const r = parse(t);
-    const any = r.players || r.price !== null || r.mode || r.len || r.tags.length || r.disc || r.ko || r.sale;
+    const any = r.players || r.price !== null || r.mode || r.len || r.tags.length || r.disc || r.ko || r.sale || r.big;
     setHint(any ? "문장에서 읽은 조건을 채웠어요. 직접 바꿔도 돼요." : "조건을 못 찾았어요. 아래에서 직접 골라 주세요.");
     setQ(r);
   };
@@ -174,6 +176,10 @@ export default function App() {
           </select>
           <button type="button" className="tag sale-toggle" aria-pressed={q.sale} onClick={() => edit({ sale: !q.sale })}>
             할인 중만{saleCount > 0 && <span className="cnt">{saleCount}</span>}
+          </button>
+          <button type="button" className="tag big-toggle" aria-pressed={q.big} onClick={() => edit({ big: !q.big })}
+            title="본편 정가 5만 원 이상 게임은 기본으로 숨겨져 있어요">
+            대작 포함{bigCount > 0 && <span className="cnt">{bigCount}</span>}
           </button>
         </div>
         <Seg label="방식" value={q.mode} onChange={(mode) => edit({ mode })}

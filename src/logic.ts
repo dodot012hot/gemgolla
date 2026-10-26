@@ -20,6 +20,7 @@ export interface Game {
   discount?: number; // 할인율(%)
   release?: string; // YYYY-MM-DD
   header?: string; // 스팀 표지 이미지 URL
+  big?: boolean; // 대작 여부를 직접 지정할 때만 씀. 없으면 정가로 판단
   ko?: Ko; // 한국어 지원: audio=음성, text=자막·인터페이스, none=미지원
 }
 
@@ -32,9 +33,10 @@ export interface Query {
   disc: Disc | null;
   ko: "text" | null; // text=한국어 지원 게임만
   sale: boolean; // 지금 할인 중인 게임만
+  big: boolean; // 대작도 포함해서 보기 (기본은 숨김)
 }
 
-export const EMPTY: Query = { players: null, price: null, mode: null, len: null, tags: [], disc: null, ko: null, sale: false };
+export const EMPTY: Query = { players: null, price: null, mode: null, len: null, tags: [], disc: null, ko: null, sale: false, big: false };
 
 export const TAGN: Record<string, string> = {
   party: "파티", funny: "웃김", horror: "공포", chill: "잔잔", shooter: "슈팅", survival: "생존",
@@ -75,6 +77,7 @@ export function parse(t: string): Query {
   else if (/숨은|원석|안 ?유명|모르는|마이너|덜 알려/.test(t)) r.disc = "nohit";
   if (/한국어|한글|더빙/.test(t)) r.ko = "text";
   if (/할인|세일/.test(t)) r.sale = true;
+  if (/대작|aaa|트리플 ?a/i.test(t)) r.big = true;
   for (const [k, re] of VIBE) if (re.test(t)) r.tags.push(k);
   if (r.tags.includes("deduction") && !r.mode) r.mode = "pvp";
   return r;
@@ -92,6 +95,10 @@ export function kindOf(g: Game, today = new Date()): Kind {
 }
 export const nowPrice = (g: Game) => g.finalPrice ?? g.price;
 export const onSale = (g: Game) => !!g.discount && g.finalPrice !== undefined;
+
+/** 본편 정가가 이 금액 이상이면 대작으로 봄. 대작은 "대작 포함"을 켰을 때만 추천에 나옴 */
+export const BIG_PRICE = 50000;
+export const isBig = (g: Game) => g.big ?? g.price >= BIG_PRICE;
 
 export function fits(g: Game, r: Query, relax: boolean): boolean {
   if (r.players && (r.players < g.min || r.players > g.max)) return false;
@@ -123,7 +130,8 @@ export function score(g: Game, r: Query): number {
   return s;
 }
 
-export function recommend(games: Game[], r: Query): { list: Game[]; note: string } {
+export function recommend(all: Game[], r: Query): { list: Game[]; note: string } {
+  const games = r.big ? all : all.filter((g) => !isBig(g));
   let pool = games.filter((g) => fits(g, r, false));
   let note = "";
   if (pool.length < 3) {
@@ -152,6 +160,7 @@ export function toParams(q: Query): URLSearchParams {
   if (q.tags.length) sp.set("t", q.tags.join(","));
   if (q.ko) sp.set("k", "1");
   if (q.sale) sp.set("s", "1");
+  if (q.big) sp.set("b", "1");
   return sp;
 }
 
@@ -167,6 +176,7 @@ export function fromParams(sp: URLSearchParams): Query | null {
   q.tags = (sp.get("t") ?? "").split(",").filter((t) => t in TAGN);
   if (sp.get("k") === "1") q.ko = "text";
   if (sp.get("s") === "1") q.sale = true;
+  if (sp.get("b") === "1") q.big = true;
   return toParams(q).toString() ? q : null;
 }
 
@@ -182,6 +192,7 @@ export function summary(q: Query): string {
   if (q.len) parts.push(LENN[q.len]);
   if (q.disc) parts.push(DISCN[q.disc]);
   if (q.ko) parts.push("한국어");
+  if (q.big) parts.push("대작 포함");
   q.tags.forEach((t) => parts.push(TAGN[t]));
   return parts.join(" · ");
 }
