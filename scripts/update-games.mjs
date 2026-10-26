@@ -98,9 +98,11 @@ export function isMajorPublisher(publishers) {
  *  리뷰 API의 긍정/부정 합계가 정확하고 무료 게임도 제대로 나옴. 실패하면 게임 정보의 추천 수로 대신함 */
 const reviewsOf = (data) => { const n = Number(data?.recommendations?.total); return Number.isFinite(n) && n >= 0 ? n : undefined; };
 async function reviewTotals(appid) {
-  const d = await getJson(`https://store.steampowered.com/appreviews/${appid}?json=1&language=all&purchase_type=all&filter=all&num_per_page=1`);
+  const res = await fetch(`https://store.steampowered.com/appreviews/${appid}?json=1&language=all&purchase_type=all&filter=all&num_per_page=1`);
+  const body = await res.text();
+  let d; try { d = JSON.parse(body); } catch { throw new Error(`HTTP ${res.status}, JSON 아님: ${body.slice(0, 80)}`); }
   const q = d?.query_summary;
-  if (!q) return undefined;
+  if (!q) throw new Error(`HTTP ${res.status}, success=${d?.success}, keys=${Object.keys(d ?? {}).join("/")}`);
   const pos = Number(q.total_positive), neg = Number(q.total_negative);
   if (Number.isFinite(pos) && Number.isFinite(neg)) return { total: pos + neg, pos, neg };
   const t = Number(q.total_reviews);
@@ -109,7 +111,7 @@ async function reviewTotals(appid) {
 
 async function refresh(games) {
   let ok = 0, fail = 0, rvApi = 0, rvFallback = 0;
-  const samples = [];
+  const samples = []; let rvErr = "";
   for (const g of games) {
     try {
       const data = await appDetails(g.appid);
@@ -121,7 +123,8 @@ async function refresh(games) {
       if (data.header_image) g.header = data.header_image.split("?")[0];
       if (Array.isArray(data.publishers)) { g.publisher = data.publishers[0]; g.major = isMajorPublisher(data.publishers); }
       let rt;
-      try { rt = await reviewTotals(g.appid); } catch { /* 아래에서 대체값 사용 */ }
+      try { rt = await reviewTotals(g.appid); if (!rt && !rvErr) rvErr = "query_summary 없음"; }
+      catch (e) { if (!rvErr) rvErr = String(e.message).slice(0, 160); }
       await sleep(REVIEW_DELAY);
       if (rt) { g.reviews = rt.total; rvApi++; if (samples.length < 3 && rt.pos !== undefined) samples.push(`${g.name} ${rt.total}(긍정 ${rt.pos}/부정 ${rt.neg})`); }
       else { const rv = reviewsOf(data); if (rv !== undefined) { g.reviews = rv; rvFallback++; } }
@@ -132,7 +135,7 @@ async function refresh(games) {
     } catch (err) { fail++; console.warn("갱신 실패", g.name, err.message); }
     await sleep(DELAY);
   }
-  const msg = `가격 갱신 성공 ${ok}, 실패 ${fail} · 리뷰 수: 리뷰 API ${rvApi}개, 대체값 ${rvFallback}개 · 예: ${samples.join(", ")}`;
+  const msg = `가격 갱신 성공 ${ok}, 실패 ${fail} · 리뷰 수: 리뷰 API ${rvApi}개, 대체값 ${rvFallback}개 · 예: ${samples.join(", ")}${rvErr ? ` · 리뷰 API 오류: ${rvErr}` : ""}`;
   console.log(msg);
   if (process.env.GITHUB_ACTIONS) console.log(`::notice title=갱신 요약::${msg}`); // Actions 실행 화면에 요약으로 표시
 }
