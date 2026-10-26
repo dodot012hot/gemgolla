@@ -1,0 +1,246 @@
+{
+ "550": {
+  "name": "Left 4 Dead 2",
+  "price_overview": {
+   "currency": "KRW",
+   "initial": 1100000,
+   "final": 1100000,
+   "discount_percent": 0,
+   "initial_formatted": "",
+   "final_formatted": "₩ 11,000"
+  },
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Left 4 Dead 2",
+    "subs": [
+     {
+      "packageid": 220726,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Left 4 Dead 2 - Commercial License - ₩ 10,500",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 1050000
+     },
+     {
+      "packageid": 2481,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Left 4 Dead 2 - ₩ 11,000",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 1100000
+     }
+    ]
+   }
+  ]
+ },
+ "105600": {
+  "name": "Terraria",
+  "price_overview": {
+   "currency": "KRW",
+   "initial": 1100000,
+   "final": 1100000,
+   "discount_percent": 0,
+   "initial_formatted": "",
+   "final_formatted": "₩ 11,000"
+  },
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Terraria",
+    "subs": [
+     {
+      "packageid": 356628,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Terraria - Commercial License - ₩ 10,500",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 1050000
+     },
+     {
+      "packageid": 8183,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Terraria - ₩ 11,000",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 1100000
+     },
+     {
+      "packageid": 8184,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Terraria 4-Pack - ₩ 32,000",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 3200000
+     }
+    ]
+   }
+  ]
+ },
+ "286160": {
+  "name": "Tabletop Simulator",
+  "price_overview": {
+   "currency": "KRW",
+   "initial": 2150000,
+   "final": 2150000,
+   "discount_percent": 0,
+   "initial_formatted": "",
+   "final_formatted": "₩ 21,500"
+  },
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Tabletop Simulator",
+    "subs": [
+     {
+      "packageid": 485983,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Tabletop Simulator - Commercial License - ₩ 21,000",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 2100000
+     },
+     {
+      "packageid": 39685,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Tabletop Simulator - ₩ 21,500",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 2150000
+     },
+     {
+      "packageid": 42325,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Tabletop Simulator 4-pack - ₩ 63,000",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 6300000
+     }
+    ]
+   }
+  ]
+ },
+ "386940": {
+  "name": "Ultimate Chicken Horse",
+  "price_overview": {
+   "currency": "KRW",
+   "initial": 1650000,
+   "final": 1650000,
+   "discount_percent": 0,
+   "initial_formatted": "",
+   "final_formatted": "₩ 16,500"
+  },
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Ultimate Chicken Horse",
+    "subs": [
+     {
+      "packageid": 340444,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Ultimate Chicken Horse - Commercial License - ₩ 15,500",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 1550000
+     },
+     {
+      "packageid": 73106,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Ultimate Chicken Horse - ₩ 16,500",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 1650000
+     }
+    ]
+   }
+  ]
+ },
+ "728880": {
+  "name": "Overcooked! 2",
+  "price_overview": {
+   "currency": "KRW",
+   "initial": 5067000,
+   "final": 1723000,
+   "discount_percent": 66,
+   "initial_formatted": "₩ 50,670",
+   "final_formatted": "₩ 17,230"
+  },
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Overcooked! 2",
+    "subs": [
+     {
+      "packageid": 1066582,
+      "percent_savings_text": "-66% ",
+      "percent_savings": 0,
+      "option_text": "Overcooked! 2 - Gourmet Edition - <span class=\"discount_original_price\">₩ 50,670</span> ₩ 17,230",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 1723000
+     },
+     {
+      "packageid": 279940,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Overcooked! 2 - ₩ 26,000",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 2600000
+     }
+    ]
+   }
+  ]
+ },
+ "4656000": {
+  "name": "BOMBANANA!",
+  "price_overview": {
+   "currency": "KRW",
+   "initial": 870000,
+   "final": 870000,
+   "discount_percent": 0,
+   "initial_formatted": "",
+   "final_formatted": "₩ 8,700"
+  },
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy BOMBANANA!",
+    "subs": [
+     {
+      "packageid": 1621152,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "BOMBANANA! - ₩ 8,700",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 870000
+     }
+    ]
+   }
+  ]
+ }
+}
