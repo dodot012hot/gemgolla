@@ -39,6 +39,9 @@ async function appDetails(appid, lang = "english") {
 /** "20 Oct, 2026" / "Oct 20, 2026" → "2026-10-20". 못 읽으면 undefined */
 export function toIsoDate(s) {
   if (!s) return undefined;
+  const pad = (n) => String(n).padStart(2, "0");
+  const ko = String(s).match(/(\d{4})\s*년\s*(\d{1,2})\s*월(?:\s*(\d{1,2})\s*일)?/); // 한국어 상점: "2026년 10월 1일"
+  if (ko) return `${ko[1]}-${pad(ko[2])}-${pad(ko[3] ?? 1)}`;
   const t = Date.parse(s.replace(",", ""));
   if (Number.isNaN(t)) return undefined;
   const d = new Date(t);
