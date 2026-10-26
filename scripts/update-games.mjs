@@ -54,28 +54,26 @@ export function koSupport(langs) {
 }
 
 const wonOf = (txt) => { const d = String(txt ?? "").replace(/[^\d]/g, ""); return d ? +d : undefined; };
+const norm = (t) => String(t ?? "").toLowerCase().replace(/[™®©:]/g, "").replace(/\s+/g, " ").trim();
+const optionName = (sub) => String(sub.option_text ?? "").replace(/<[^>]+>/g, "").split(" - ").slice(0, -1).join(" - ");
 
-/** 가격을 원 단위로 정리. DLC·디럭스 묶음이 아니라 "본편만" 가격을 씀.
- *  스팀 price_overview가 가끔 DLC 포함 묶음 가격을 돌려줘서(예: Overcooked! 2),
- *  상점의 구매 옵션(package_groups) 중 가장 싼 유료 옵션(=보통 본편)이 더 싸면 그걸 씀 */
+/** 가격을 원 단위로 정리. 항상 "본편만" 가격을 씀.
+ *  스팀 price_overview는 지금 가장 싼 구매 옵션을 주는데, 그게 DLC 포함 에디션 할인가이거나
+ *  (예: Overcooked! 2 Gourmet Edition) PC방용 Commercial License일 수 있음.
+ *  그래서 구매 옵션 중 이름이 게임 이름과 똑같은 것(=본편)을 찾아 그 가격을 씀. 없으면 price_overview */
 export function priceFields(data) {
   if (data.is_free) return { price: 0, finalPrice: undefined, discount: undefined };
   const p = data.price_overview;
   if (!p || p.currency !== "KRW") return null;
   let initial = Math.round(p.initial / 100), final = Math.round(p.final / 100), pct = p.discount_percent;
 
-  const subs = (data.package_groups ?? []).filter((g) => g.name === "default").flatMap((g) => g.subs ?? [])
-    .filter((x) => !x.is_free_license && x.price_in_cents_with_discount > 0);
-  if (subs.length) {
-    const base = subs.reduce((a, b) => (b.price_in_cents_with_discount < a.price_in_cents_with_discount ? b : a));
-    const baseFinal = Math.round(base.price_in_cents_with_discount / 100);
-    if (baseFinal < final) {
-      const basePct = Number(base.percent_savings) || 0;
-      const orig = wonOf(String(base.option_text ?? "").match(/discount_original_price[^>]*>([^<]+)</)?.[1]);
-      final = baseFinal;
-      pct = basePct;
-      initial = orig ?? (basePct > 0 ? Math.round(baseFinal / (1 - basePct / 100) / 10) * 10 : baseFinal);
-    }
+  const subs = (data.package_groups ?? []).filter((g) => g.name === "default").flatMap((g) => g.subs ?? []);
+  const base = subs.find((x) => !x.is_free_license && x.price_in_cents_with_discount > 0 && norm(optionName(x)) === norm(data.name));
+  if (base) {
+    final = Math.round(base.price_in_cents_with_discount / 100);
+    const orig = wonOf(String(base.option_text ?? "").match(/discount_original_price[^>]*>([^<]+)</)?.[1]);
+    initial = orig && orig > final ? orig : final;
+    pct = initial > final ? (Number(base.percent_savings) || Math.round((1 - final / initial) * 100)) : 0;
   }
   return pct > 0 && initial > final
     ? { price: initial, finalPrice: final, discount: pct }
