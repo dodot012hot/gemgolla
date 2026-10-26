@@ -144,6 +144,20 @@ async function* discover(known) {
   }
 }
 
+/** 후보 게임을 사람(또는 Claude)이 보고 정리할 수 있게 판단 재료를 모아둠 */
+export function detailOf(data, pf) {
+  const strip = (h) => String(h ?? "").replace(/<br\s*\/?>/gi, "\n").replace(/<[^>]+>/g, " ").replace(/&quot;/g, '"').replace(/&amp;/g, "&").replace(/[ \t]+/g, " ").replace(/\n\s*\n+/g, "\n").trim();
+  return {
+    short: strip(data.short_description),
+    text: strip(data.detailed_description).slice(0, 1500),
+    cats: (data.categories ?? []).map((c) => c.description),
+    genres: (data.genres ?? []).map((g) => g.description),
+    ...(pf ?? {}), release: toIsoDate(data.release_date?.date), header: data.header_image?.split("?")[0],
+    ko: koSupport(data.supported_languages), publisher: data.publishers?.[0], major: isMajorPublisher(data.publishers),
+    reviews: reviewsOf(data),
+  };
+}
+
 // 온라인으로 같이 할 수 있는 게임인지: 멀티플레이어(1)·온라인 PvP(36)·온라인 협동(38)·크로스플랫폼 멀티(27)
 const ONLINE_CATEGORIES = new Set([1, 27, 36, 38]);
 const isOnlineMulti = (data) => (data.categories ?? []).some((c) => ONLINE_CATEGORIES.has(Number(c.id)));
@@ -197,17 +211,19 @@ export async function main() {
   const inDb = new Set(db.games.map((g) => g.appid));
   const known = new Set([...inDb, ...rejected, ...Object.keys(skipped).map(Number), ...candidates.map((c) => c.appid)]);
   // AI 키가 없어서 못 넣었던 후보는 바로, 출시 전이라 기다리던 후보는 RETRY_DAYS마다 다시 확인
-  const retry = hasAI
-    ? candidates.filter((c) => !c.why || c.why === "AI 키 없음" || daysSince(c.tried ?? c.found) >= RETRY_DAYS).map((c) => c.appid)
-    : [];
+  const waitingForSort = (c) => !c.why || c.why === "AI 키 없음" || c.why === "정리 대기";
+  const retry = candidates
+    .filter((c) => (hasAI ? waitingForSort(c) : !c.info) || daysSince(c.tried ?? c.found) >= RETRY_DAYS)
+    .map((c) => c.appid);
   async function* queue() { yield* retry; yield* discover(known); }
 
   let added = 0, checked = 0, newSkipped = 0, waiting = 0;
   const byId = new Map(candidates.map((c) => [c.appid, c]));
   const dropCandidate = (appid) => { candidates = candidates.filter((c) => c.appid !== appid); byId.delete(appid); };
-  const keepCandidate = (appid, name, why) => {
+  const keepCandidate = (appid, name, why, data, pf) => {
     const c = byId.get(appid) ?? { appid, name, url: `https://store.steampowered.com/app/${appid}/`, found: today };
-    c.tried = today; c.why = why;
+    c.name = name; c.tried = today; c.why = why;
+    if (data) c.info = detailOf(data, pf);
     if (!byId.has(appid)) { byId.set(appid, c); candidates.push(c); }
     waiting++;
   };
@@ -225,8 +241,8 @@ export async function main() {
       if (!isOnlineMulti(data)) { skip(appid, "온라인 멀티 없음"); continue; }
       const pf = priceFields(data);
       const rel = data.release_date;
-      if (!pf || rel?.coming_soon) { keepCandidate(appid, data.name, "출시 전 또는 가격 없음"); continue; }
-      if (!hasAI) { keepCandidate(appid, data.name, "AI 키 없음"); continue; }
+      if (!pf || rel?.coming_soon) { keepCandidate(appid, data.name, "출시 전 또는 가격 없음", data, pf); continue; }
+      if (!hasAI) { keepCandidate(appid, data.name, "정리 대기", data, pf); continue; }
       const info = await classify(data);
       if (!info) { skip(appid, "인원 정보 없음"); continue; }
       db.games.push({
@@ -247,7 +263,7 @@ export async function main() {
   await mkdir("data", { recursive: true });
   await writeFile(CANDIDATES, JSON.stringify(candidates, null, 1) + "\n");
   await writeFile(SKIPPED, JSON.stringify(skipped, null, 1) + "\n");
-  const msg = `새 게임 ${checked}개 확인 → 자동 추가 ${added}개, 대기 ${waiting}개, 제외 ${newSkipped}개 · 전체 ${db.games.length}개${hasAI ? "" : " · AI 키가 없어서 자동 추가 안 함"}`;
+  const msg = `새 게임 ${checked}개 확인 → 자동 추가 ${added}개, 대기 ${waiting}개, 제외 ${newSkipped}개 · 전체 ${db.games.length}개${hasAI ? "" : " · AI 키 없음: 후보는 정리 대기로 저장"}`;
   console.log(msg);
   if (process.env.GITHUB_ACTIONS) console.log(`::notice title=새 게임 추가::${msg}`);
 }
