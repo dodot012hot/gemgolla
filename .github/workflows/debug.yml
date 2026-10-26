@@ -1,0 +1,17 @@
+name: debug prices
+on: { push: { branches: [debug-prices] } }
+permissions: { contents: write }
+jobs:
+  dump:
+    if: "!contains(github.event.head_commit.message, 'dump result')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          node -e '
+          const ids=[728880,105600,550,386940,286160,4656000];
+          (async()=>{const out={};for(const id of ids){const r=await fetch(`https://store.steampowered.com/api/appdetails?appids=${id}&cc=kr&l=english`);const d=(await r.json())[id].data;
+          out[id]={name:d.name,price_overview:d.price_overview,package_groups:(d.package_groups||[]).map(g=>({name:g.name,title:g.title,subs:g.subs}))};await new Promise(r=>setTimeout(r,1500));}
+          require("fs").writeFileSync("dump.json",JSON.stringify(out,null,1));})();'
+          git config user.name bot; git config user.email bot@users.noreply.github.com
+          git add dump.json; git commit -m "dump result"; git push
