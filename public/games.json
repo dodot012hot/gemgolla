@@ -370,7 +370,7 @@
    "desc": "팀원 목소리를 흉내 내는 괴물을 피해 물건을 모으는 공포 생존. 국내 개발사 작품.",
    "kind": "gem",
    "release": "2025-10-27",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/8a2a6edc97fbf23ea6941974bdf4ed9a6ab34eb4/header.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/113ba0aea608eaac6b27d1d20017d384bef82b9f/header_alt_assets_2.jpg",
    "ko": "text"
   },
   {
@@ -894,7 +894,7 @@
    "min": 1,
    "max": 10,
    "mode": "both",
-   "price": 21500,
+   "price": 21000,
    "len": "mid",
    "tags": [
     "strategy",
@@ -931,7 +931,7 @@
    "min": 2,
    "max": 4,
    "mode": "pvp",
-   "price": 16500,
+   "price": 15500,
    "len": "short",
    "tags": [
     "party",
@@ -1230,7 +1230,7 @@
    "min": 1,
    "max": 8,
    "mode": "both",
-   "price": 11000,
+   "price": 10500,
    "len": "mid",
    "tags": [
     "shooter",
@@ -1267,7 +1267,7 @@
    "min": 1,
    "max": 8,
    "mode": "coop",
-   "price": 11000,
+   "price": 10500,
    "len": "long",
    "tags": [
     "survival",
