@@ -11,7 +11,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 180 # 게임이 늘수록 갱신이 길어짐 (게임당 약 1.6초)
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -25,6 +25,6 @@ jobs:
         run: |
           git config user.name "gemgolla-bot"
           git config user.email "gemgolla-bot@users.noreply.github.com"
-          git add public/games.json data/candidates.json
+          git add public/games.json data/candidates.json data/skipped.json
           git diff --cached --quiet || git commit -m "게임 데이터 갱신 $(date -u -d '+9 hours' +%F)"
           git push

@@ -20,9 +20,11 @@ npm run dev
 2. **Vercel 연결**: vercel.com에서 GitHub로 로그인 → Add New Project → 이 저장소 선택 → 설정은 기본값(Vite 자동 인식) 그대로 Deploy.
    이후 `main`에 push될 때마다 자동으로 다시 배포됩니다.
 3. **자동 갱신 켜기**: 저장소의 Actions 탭에서 워크플로 사용을 허용. 처음엔 "게임 데이터 매일 갱신" → Run workflow로 한 번 수동 실행해서 잘 도는지 확인하세요.
-4. **(선택) AI 자동 분류**: Settings → Secrets and variables → Actions → New repository secret에 `ANTHROPIC_API_KEY` 추가.
-   - 넣으면: 새로 발견한 게임의 설명을 AI가 읽고 인원·모드·태그를 뽑아서 바로 목록에 추가합니다(하루 최대 15개).
+4. **AI 자동 추가 켜기**: Settings → Secrets and variables → Actions → New repository secret에 `ANTHROPIC_API_KEY` 추가.
+   - 넣으면: 매일 새 게임을 최대 50개까지 AI가 설명을 읽고 인원·모드·태그·한 줄 설명을 정리해서 바로 추가합니다.
    - 안 넣으면: 새 게임은 `data/candidates.json`에만 쌓이고, 직접 확인해서 `public/games.json`에 넣으면 됩니다.
+   - DLC·싱글 게임·인원 정보가 없는 게임은 자동으로 걸러져 `data/skipped.json`에 이유와 함께 기록됩니다.
+   - 출시 전 게임은 후보로 기다렸다가 7일마다 다시 확인합니다.
 
 ## 매일 무슨 일이 일어나나
 
