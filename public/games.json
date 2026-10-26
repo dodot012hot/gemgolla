@@ -894,7 +894,7 @@
    "min": 1,
    "max": 10,
    "mode": "both",
-   "price": 21000,
+   "price": 21500,
    "len": "mid",
    "tags": [
     "strategy",
@@ -931,7 +931,7 @@
    "min": 2,
    "max": 4,
    "mode": "pvp",
-   "price": 15500,
+   "price": 16500,
    "len": "short",
    "tags": [
     "party",
@@ -1153,7 +1153,7 @@
    "min": 1,
    "max": 4,
    "mode": "coop",
-   "price": 50670,
+   "price": 26000,
    "len": "short",
    "tags": [
     "party",
@@ -1164,8 +1164,6 @@
    "kind": "hit",
    "release": "2018-08-07",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/9305414f49b2f7aee7f7198dc507d6b66383fdd6/header.jpg",
-   "finalPrice": 17230,
-   "discount": 66,
    "ko": "text"
   },
   {
@@ -1230,7 +1228,7 @@
    "min": 1,
    "max": 8,
    "mode": "both",
-   "price": 10500,
+   "price": 11000,
    "len": "mid",
    "tags": [
     "shooter",
@@ -1267,7 +1265,7 @@
    "min": 1,
    "max": 8,
    "mode": "coop",
-   "price": 10500,
+   "price": 11000,
    "len": "long",
    "tags": [
     "survival",
