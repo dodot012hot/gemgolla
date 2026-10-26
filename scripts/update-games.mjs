@@ -196,7 +196,10 @@ export async function main() {
   // 확인할 순서: 기다리던 후보(마지막 확인 후 RETRY_DAYS 지난 것) → 새로 찾은 게임
   const inDb = new Set(db.games.map((g) => g.appid));
   const known = new Set([...inDb, ...rejected, ...Object.keys(skipped).map(Number), ...candidates.map((c) => c.appid)]);
-  const retry = hasAI ? candidates.filter((c) => daysSince(c.tried ?? c.found) >= RETRY_DAYS).map((c) => c.appid) : [];
+  // AI 키가 없어서 못 넣었던 후보는 바로, 출시 전이라 기다리던 후보는 RETRY_DAYS마다 다시 확인
+  const retry = hasAI
+    ? candidates.filter((c) => !c.why || c.why === "AI 키 없음" || daysSince(c.tried ?? c.found) >= RETRY_DAYS).map((c) => c.appid)
+    : [];
   async function* queue() { yield* retry; yield* discover(known); }
 
   let added = 0, checked = 0, newSkipped = 0, waiting = 0;
