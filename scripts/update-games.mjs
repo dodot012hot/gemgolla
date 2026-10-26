@@ -93,12 +93,8 @@ export function isMajorPublisher(publishers) {
   });
 }
 
-/** 다운로드 수는 스팀이 공개하지 않아서, 대신 전체 리뷰 수를 받아옴(인기 규모를 가늠하는 흔한 지표) */
-async function reviewCount(appid) {
-  const d = await getJson(`https://store.steampowered.com/appreviews/${appid}?json=1&language=all&purchase_type=all&num_per_page=0`);
-  const n = d?.query_summary?.total_reviews;
-  return Number.isFinite(n) ? n : undefined;
-}
+/** 다운로드 수는 스팀이 공개하지 않아서, 대신 스팀 리뷰(추천) 수를 씀. 인기 규모를 가늠하는 흔한 지표 */
+const reviewsOf = (data) => { const n = Number(data?.recommendations?.total); return Number.isFinite(n) && n >= 0 ? n : undefined; };
 
 async function refresh(games) {
   let ok = 0, fail = 0;
@@ -112,8 +108,7 @@ async function refresh(games) {
       if (rel && !rel.coming_soon) g.release = toIsoDate(rel.date) ?? g.release;
       if (data.header_image) g.header = data.header_image.split("?")[0];
       if (Array.isArray(data.publishers)) { g.publisher = data.publishers[0]; g.major = isMajorPublisher(data.publishers); }
-      try { const n = await reviewCount(g.appid); if (n !== undefined) g.reviews = n; } catch { /* 리뷰 수는 없어도 됨 */ }
-      await sleep(DELAY);
+      const rv = reviewsOf(data); if (rv !== undefined) g.reviews = rv;
       const ko = koSupport(data.supported_languages);
       if (ko) g.ko = ko;
       for (const k of ["finalPrice", "discount"]) if (g[k] === undefined) delete g[k];
@@ -196,7 +191,7 @@ async function main() {
           ...(pf.discount ? { finalPrice: pf.finalPrice, discount: pf.discount } : {}),
           kind: "gem", release: rel && !rel.coming_soon ? toIsoDate(rel.date) : undefined,
           header: data.header_image?.split("?")[0], ko: koSupport(data.supported_languages),
-          publisher: data.publishers?.[0], major: isMajorPublisher(data.publishers), auto: true,
+          publisher: data.publishers?.[0], major: isMajorPublisher(data.publishers), reviews: reviewsOf(data), auto: true,
         });
         added++;
       } else {
