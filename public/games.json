@@ -21,7 +21,7 @@
    "ko": "text",
    "publisher": "TARK",
    "major": false,
-   "reviews": 4046
+   "reviews": 4045
   },
   {
    "appid": 4108000,
@@ -366,7 +366,7 @@
    "ko": "text",
    "publisher": "Total Mayhem Games",
    "major": false,
-   "reviews": 803
+   "reviews": 805
   },
   {
    "appid": 1374490,
@@ -472,7 +472,7 @@
    "ko": "text",
    "publisher": "Secret Mode",
    "major": false,
-   "reviews": 139949
+   "reviews": 139954
   },
   {
    "appid": 2683150,
@@ -515,7 +515,7 @@
    "ko": "text",
    "publisher": "Nuggets Entertainment",
    "major": false,
-   "reviews": 76417
+   "reviews": 76418
   },
   {
    "appid": 427410,
@@ -640,7 +640,7 @@
    "ko": "text",
    "publisher": "Devolver Digital",
    "major": false,
-   "reviews": 4495
+   "reviews": 4492
   },
   {
    "appid": 865360,
@@ -746,7 +746,7 @@
    "ko": "text",
    "publisher": "Xbox Game Studios",
    "major": true,
-   "reviews": 22210
+   "reviews": 22211
   },
   {
    "appid": 1203620,
@@ -1499,7 +1499,7 @@
    "ko": "text",
    "publisher": "ConcernedApe",
    "major": false,
-   "reviews": 901949
+   "reviews": 901957
   },
   {
    "appid": 322330,
@@ -1801,7 +1801,7 @@
    "ko": "text",
    "publisher": "Valve",
    "major": false,
-   "reviews": 5327262
+   "reviews": 5327244
   },
   {
    "appid": 2357570,
@@ -2414,7 +2414,8 @@
    "major": true,
    "reviews": 277239,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2016-10-20"
   },
   {
    "appid": 552990,
@@ -2436,7 +2437,8 @@
    "major": false,
    "reviews": 2037,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2017-11-15"
   },
   {
    "appid": 881020,
@@ -2460,7 +2462,8 @@
    "major": false,
    "reviews": 41397,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2024-01-31"
   },
   {
    "appid": 985810,
@@ -2481,7 +2484,8 @@
    "publisher": "KOG",
    "major": false,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2021-07-27"
   },
   {
    "appid": 1142710,
@@ -2500,9 +2504,10 @@
    "ko": "text",
    "publisher": "SEGA",
    "major": true,
-   "reviews": 106971,
+   "reviews": 106972,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2022-02-16"
   },
   {
    "appid": 1245620,
@@ -2525,7 +2530,8 @@
    "major": true,
    "reviews": 834778,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2022-02-24"
   },
   {
    "appid": 1282270,
@@ -2546,7 +2552,8 @@
    "publisher": "iDreamSky",
    "major": false,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2024-11-21"
   },
   {
    "appid": 1665460,
@@ -2567,7 +2574,8 @@
    "major": true,
    "reviews": 1203,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2021-09-29"
   },
   {
    "appid": 1818450,
@@ -2589,7 +2597,8 @@
    "publisher": "EXBO",
    "major": false,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2022-12-09"
   },
   {
    "appid": 2074920,
@@ -2610,7 +2619,8 @@
    "publisher": "NEXON",
    "major": false,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2024-06-30"
   },
   {
    "appid": 2139460,
@@ -2631,7 +2641,8 @@
    "publisher": "Starry Studio",
    "major": false,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2024-07-09"
   },
   {
    "appid": 2221490,
@@ -2647,13 +2658,14 @@
    "desc": "무너진 워싱턴 D.C.를 4명이 되찾는 오픈월드 루트 슈터",
    "price": 34000,
    "kind": "gem",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/1752d41865b56f94a3a4d0f474c4c1c343854222/header_alt_assets_12_koreana.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/cbba91ad5e65bce519fca6297c61f14e7e8af6ea/header_alt_assets_12.jpg",
    "ko": "text",
    "publisher": "Ubisoft",
    "major": true,
    "reviews": 33753,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2023-01-12"
   },
   {
    "appid": 2254990,
@@ -2675,7 +2687,8 @@
    "major": false,
    "reviews": 1821,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-10-09"
   },
   {
    "appid": 2483190,
@@ -2697,7 +2710,8 @@
    "major": true,
    "reviews": 91138,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-05-18"
   },
   {
    "appid": 2622000,
@@ -2718,7 +2732,8 @@
    "publisher": "Neverland Entertainment",
    "major": false,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2024-02-28"
   },
   {
    "appid": 2879840,
@@ -2739,7 +2754,8 @@
    "major": false,
    "reviews": 4580,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2025-10-27"
   },
   {
    "appid": 2929250,
@@ -2763,7 +2779,8 @@
    "major": false,
    "reviews": 3920,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-10-14"
   },
   {
    "appid": 3010850,
@@ -2785,7 +2802,8 @@
    "major": true,
    "reviews": 10346,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-10-06"
   },
   {
    "appid": 3412160,
@@ -2806,7 +2824,8 @@
    "major": false,
    "reviews": 904,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-05-21"
   },
   {
    "appid": 3564740,
@@ -2822,12 +2841,13 @@
    "desc": "고대 중국 무협 오픈월드를 친구와 누비는 무료 액션 RPG",
    "price": 0,
    "kind": "gem",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6df631e37aec73aa3ced0fe08026e19eedd7186f/header_koreana.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6083e91454cf6ad67242a0799c4fc7d0dd3f8bde/header.jpg",
    "ko": "text",
    "publisher": "NetEase Games",
    "major": false,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2025-11-14"
   },
   {
    "appid": 3811390,
@@ -2843,13 +2863,14 @@
    "desc": "W·A·S·D 키를 하나씩 맡아 같이 장애물을 피하는 우정 파괴 협동",
    "price": 4500,
    "kind": "gem",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3811390/a03ace39ae754ab138499827607673dc24c873e6/header_koreana.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3811390/3a18cc00163dd1392b14b42f5100fe19e081955a/header.jpg",
    "ko": "text",
    "publisher": "EVNA Games",
    "major": false,
    "reviews": 758,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2025-10-02"
   },
   {
    "appid": 3932890,
@@ -2872,7 +2893,8 @@
    "major": false,
    "reviews": 58523,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2025-11-15"
   },
   {
    "appid": 4080220,
@@ -2893,7 +2915,8 @@
    "major": true,
    "reviews": 10090,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-09-24"
   },
   {
    "appid": 4356430,
@@ -2914,7 +2937,8 @@
    "major": true,
    "reviews": 2895,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-09-03"
   },
   {
    "appid": 4435490,
@@ -2930,13 +2954,14 @@
    "desc": "한반도 전쟁을 그린 밀리터리 FPS, 대전과 협동 모드 지원",
    "price": 80000,
    "kind": "gem",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/1b43b29d30d31ec134f876d30ed1a13706875a25/header_koreana.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
    "ko": "audio",
    "publisher": "Activision",
    "major": true,
    "reviews": 8827,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-10-22"
   },
   {
    "appid": 4968640,
@@ -2957,7 +2982,8 @@
    "major": false,
    "reviews": 592,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-10-09"
   },
   {
    "appid": 108600,
@@ -2980,7 +3006,8 @@
    "major": false,
    "reviews": 371476,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2013-11-08"
   },
   {
    "appid": 236390,
@@ -3002,7 +3029,8 @@
    "major": false,
    "reviews": 1995,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2013-08-15"
   },
   {
    "appid": 518790,
@@ -3023,7 +3051,8 @@
    "major": false,
    "reviews": 171786,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2017-02-16"
   },
   {
    "appid": 594650,
@@ -3046,7 +3075,8 @@
    "major": false,
    "reviews": 214278,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2019-08-27"
   },
   {
    "appid": 1049590,
@@ -3068,7 +3098,8 @@
    "major": false,
    "reviews": 112,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2023-07-19"
   },
   {
    "appid": 1217060,
@@ -3092,7 +3123,8 @@
    "major": false,
    "reviews": 88625,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2021-11-17"
   },
   {
    "appid": 1284190,
@@ -3116,7 +3148,8 @@
    "major": false,
    "reviews": 69719,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2024-04-10"
   },
   {
    "appid": 1435790,
@@ -3137,7 +3170,8 @@
    "major": false,
    "reviews": 16607,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2021-10-19"
   },
   {
    "appid": 1436990,
@@ -3159,7 +3193,8 @@
    "major": false,
    "reviews": 5295,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2025-11-22"
   },
   {
    "appid": 1466860,
@@ -3180,7 +3215,8 @@
    "major": true,
    "reviews": 72743,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2021-10-28"
   },
   {
    "appid": 2000950,
@@ -3202,7 +3238,8 @@
    "major": true,
    "reviews": 43950,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2023-03-08"
   },
   {
    "appid": 2138720,
@@ -3223,7 +3260,8 @@
    "major": false,
    "reviews": 42730,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2025-06-19"
   },
   {
    "appid": 2141730,
@@ -3242,9 +3280,10 @@
    "ko": "audio",
    "publisher": "Triiodide Studios",
    "major": false,
-   "reviews": 43257,
+   "reviews": 43260,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2022-10-18"
   },
   {
    "appid": 2215430,
@@ -3266,7 +3305,8 @@
    "major": true,
    "reviews": 65726,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2024-05-16"
   },
   {
    "appid": 2300320,
@@ -3287,7 +3327,8 @@
    "major": false,
    "reviews": 41257,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2024-11-12"
   },
   {
    "appid": 2402680,
@@ -3308,7 +3349,8 @@
    "major": false,
    "reviews": 2827,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-09-15"
   },
   {
    "appid": 2475460,
@@ -3328,9 +3370,10 @@
    "ko": "text",
    "publisher": "Dreland Enterprises",
    "major": false,
-   "reviews": 5493,
+   "reviews": 5494,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2023-11-30"
   },
   {
    "appid": 2507950,
@@ -3346,12 +3389,13 @@
    "desc": "익스트랙션과 대규모 전면전을 넘나드는 무료 밀리터리 FPS",
    "price": 0,
    "kind": "gem",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/1e98a95eb99623395992bef82f2d88b2045e1ca1/header_alt_assets_14_koreana.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/09ef134458549352e5b5a06ed7f97cf00d729b62/header_alt_assets_14.jpg",
    "ko": "text",
    "publisher": "TiMi Studio Group",
    "major": false,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2024-12-04"
   },
   {
    "appid": 2536520,
@@ -3367,13 +3411,14 @@
    "desc": "최대 8명이 함께 악마를 사냥하는 고전 액션 RPG 리마스터",
    "price": 44900,
    "kind": "gem",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/5f37d1ee85f877e28ff9eb1e848c3610a8fd200e/header_koreana.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg",
    "ko": "audio",
    "publisher": "Blizzard Entertainment, Inc.",
    "major": true,
    "reviews": 6226,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-02-11"
   },
   {
    "appid": 2622380,
@@ -3395,7 +3440,8 @@
    "major": true,
    "reviews": 130334,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2025-05-29"
   },
   {
    "appid": 3059520,
@@ -3416,7 +3462,8 @@
    "major": true,
    "reviews": 26457,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2025-05-30"
   },
   {
    "appid": 3124540,
@@ -3438,9 +3485,10 @@
    "ko": "text",
    "publisher": "Fireshine Games",
    "major": false,
-   "reviews": 32619,
+   "reviews": 32620,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-04-28"
   },
   {
    "appid": 3240220,
@@ -3458,13 +3506,14 @@
    "finalPrice": 18390,
    "discount": 50,
    "kind": "gem",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_koreana.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
    "ko": "text",
    "publisher": "Rockstar Games",
    "major": true,
-   "reviews": 220391,
+   "reviews": 220397,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2025-03-04"
   },
   {
    "appid": 3314580,
@@ -3487,7 +3536,8 @@
    "major": false,
    "reviews": 703,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-10-13"
   },
   {
    "appid": 3569420,
@@ -3511,7 +3561,8 @@
    "major": false,
    "reviews": 868,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-10-15"
   },
   {
    "appid": 4380490,
@@ -3526,13 +3577,14 @@
    "desc": "고양이가 되어 친구들과 아늑한 우체국을 운영하는 힐링 협동",
    "price": 11000,
    "kind": "gem",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/cfde145bd55c0f57e8da76ce43932bcf0f2faa88/header_koreana.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg",
    "ko": "text",
    "publisher": "Maracas Studio",
    "major": false,
    "reviews": 7321,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-07-09"
   },
   {
    "appid": 4412320,
@@ -3553,7 +3605,8 @@
    "major": false,
    "reviews": 457,
    "added": "2026-10-26",
-   "sortedBy": "manual"
+   "sortedBy": "manual",
+   "release": "2026-09-10"
   }
  ]
 }
