@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30",
+ "updatedAt": "2026-10-31",
  "games": [
   {
    "appid": 4656000,
@@ -21,7 +21,7 @@
    "ko": "text",
    "publisher": "TARK",
    "major": false,
-   "reviews": 4145
+   "reviews": 4161
   },
   {
    "appid": 4108000,
@@ -42,7 +42,7 @@
    "ko": "text",
    "publisher": "Oro Interactive",
    "major": false,
-   "reviews": 4922,
+   "reviews": 4934,
    "finalPrice": 6600,
    "discount": 25
   },
@@ -65,7 +65,7 @@
    "ko": "text",
    "publisher": "Ludogram",
    "major": false,
-   "reviews": 1243
+   "reviews": 1259
   },
   {
    "appid": 4218620,
@@ -109,7 +109,7 @@
    "ko": "text",
    "publisher": "GONE Studios",
    "major": false,
-   "reviews": 3305
+   "reviews": 3317
   },
   {
    "appid": 2871520,
@@ -130,7 +130,7 @@
    "ko": "none",
    "publisher": "Raw Fury",
    "major": false,
-   "reviews": 835
+   "reviews": 852
   },
   {
    "appid": 4660280,
@@ -172,7 +172,7 @@
    "ko": "text",
    "publisher": "TENSTACK",
    "major": false,
-   "reviews": 22256
+   "reviews": 22294
   },
   {
    "appid": 4704690,
@@ -193,7 +193,7 @@
    "ko": "text",
    "publisher": "lemorion_1224",
    "major": false,
-   "reviews": 81215
+   "reviews": 81250
   },
   {
    "appid": 4001890,
@@ -214,7 +214,7 @@
    "ko": "audio",
    "publisher": "Dazed Games",
    "major": false,
-   "reviews": 76208
+   "reviews": 76371
   },
   {
    "appid": 3834090,
@@ -235,7 +235,7 @@
    "ko": "text",
    "publisher": "Maison Bap",
    "major": false,
-   "reviews": 8721
+   "reviews": 8727
   },
   {
    "appid": 3099190,
@@ -256,7 +256,7 @@
    "ko": "none",
    "publisher": "Kekdot",
    "major": false,
-   "reviews": 198,
+   "reviews": 200,
    "finalPrice": 6670,
    "discount": 25
   },
@@ -300,7 +300,7 @@
    "ko": "text",
    "publisher": "Fobri",
    "major": false,
-   "reviews": 5160
+   "reviews": 5170
   },
   {
    "appid": 4981570,
@@ -321,7 +321,7 @@
    "ko": "audio",
    "publisher": "OnSkull Games",
    "major": false,
-   "reviews": 612
+   "reviews": 617
   },
   {
    "appid": 2790700,
@@ -342,7 +342,7 @@
    "ko": "text",
    "publisher": "One More Game",
    "major": false,
-   "reviews": 309
+   "reviews": 310
   },
   {
    "appid": 2315050,
@@ -364,7 +364,7 @@
    "ko": "text",
    "publisher": "Total Mayhem Games",
    "major": false,
-   "reviews": 1148
+   "reviews": 1219
   },
   {
    "appid": 1374490,
@@ -385,7 +385,7 @@
    "ko": "text",
    "publisher": "Jagex Ltd",
    "major": false,
-   "reviews": 32880
+   "reviews": 32936
   },
   {
    "appid": 2692990,
@@ -406,7 +406,7 @@
    "ko": "text",
    "publisher": "Digital Cybercherries",
    "major": false,
-   "reviews": 2358,
+   "reviews": 2365,
    "finalPrice": 4000,
    "discount": 55
   },
@@ -428,7 +428,7 @@
    "ko": "text",
    "publisher": "ReLU Games, Inc.",
    "major": false,
-   "reviews": 8637,
+   "reviews": 8655,
    "finalPrice": 4400,
    "discount": 60
   },
@@ -451,9 +451,7 @@
    "ko": "none",
    "publisher": "Curve Animation",
    "major": false,
-   "reviews": 48898,
-   "finalPrice": 5070,
-   "discount": 35
+   "reviews": 48903
   },
   {
    "appid": 1943950,
@@ -474,7 +472,7 @@
    "ko": "text",
    "publisher": "Secret Mode",
    "major": false,
-   "reviews": 140157,
+   "reviews": 140246,
    "finalPrice": 8400,
    "discount": 20
   },
@@ -497,7 +495,7 @@
    "ko": "text",
    "publisher": "GrabTheGames",
    "major": false,
-   "reviews": 8819
+   "reviews": 8821
   },
   {
    "appid": 3949040,
@@ -517,7 +515,7 @@
    "ko": "text",
    "publisher": "Nuggets Entertainment",
    "major": false,
-   "reviews": 76595,
+   "reviews": 76654,
    "finalPrice": 5340,
    "discount": 40
   },
@@ -540,7 +538,7 @@
    "ko": "none",
    "publisher": "Playstack",
    "major": false,
-   "reviews": 42863
+   "reviews": 42885
   },
   {
    "appid": 2780980,
@@ -581,7 +579,7 @@
    "ko": "none",
    "publisher": "lamedeveloper",
    "major": false,
-   "reviews": 57423
+   "reviews": 57420
   },
   {
    "appid": 2963880,
@@ -602,7 +600,7 @@
    "ko": "text",
    "publisher": "Embers",
    "major": false,
-   "reviews": 3996,
+   "reviews": 3995,
    "finalPrice": 6160,
    "discount": 45
   },
@@ -646,7 +644,7 @@
    "ko": "text",
    "publisher": "Devolver Digital",
    "major": false,
-   "reviews": 4623
+   "reviews": 4652
   },
   {
    "appid": 865360,
@@ -666,7 +664,7 @@
    "ko": "text",
    "publisher": "Total Mayhem Games",
    "major": false,
-   "reviews": 14580
+   "reviews": 14583
   },
   {
    "appid": 1621690,
@@ -687,7 +685,7 @@
    "ko": "text",
    "publisher": "Fireshine Games",
    "major": false,
-   "reviews": 51052
+   "reviews": 51062
   },
   {
    "appid": 632360,
@@ -708,7 +706,7 @@
    "ko": "text",
    "publisher": "Gearbox Publishing",
    "major": true,
-   "reviews": 242483
+   "reviews": 242528
   },
   {
    "appid": 493520,
@@ -752,7 +750,7 @@
    "ko": "text",
    "publisher": "Xbox Game Studios",
    "major": true,
-   "reviews": 22263
+   "reviews": 22280
   },
   {
    "appid": 1203620,
@@ -773,7 +771,7 @@
    "ko": "text",
    "publisher": "Keen Games GmbH",
    "major": false,
-   "reviews": 98403
+   "reviews": 98552
   },
   {
    "appid": 2208570,
@@ -795,7 +793,7 @@
    "ko": "text",
    "publisher": "Piece of Cake studios",
    "major": false,
-   "reviews": 3564
+   "reviews": 3568
   },
   {
    "appid": 1987080,
@@ -816,7 +814,7 @@
    "ko": "none",
    "publisher": "MrFatcat",
    "major": false,
-   "reviews": 38868,
+   "reviews": 38879,
    "finalPrice": 7200,
    "discount": 20
   },
@@ -839,7 +837,7 @@
    "ko": "text",
    "publisher": "Valko Game Studios",
    "major": false,
-   "reviews": 13834,
+   "reviews": 13839,
    "finalPrice": 4950,
    "discount": 55
   },
@@ -862,7 +860,7 @@
    "ko": "text",
    "publisher": "Catobyte Ltd",
    "major": false,
-   "reviews": 10268
+   "reviews": 10272
   },
   {
    "appid": 3228590,
@@ -904,7 +902,7 @@
    "ko": "text",
    "publisher": "NEOWIZ",
    "major": false,
-   "reviews": 16620
+   "reviews": 16624
   },
   {
    "appid": 699130,
@@ -925,7 +923,7 @@
    "ko": "text",
    "publisher": "Saber Interactive Inc",
    "major": false,
-   "reviews": 25398
+   "reviews": 25406
   },
   {
    "appid": 1568590,
@@ -967,7 +965,7 @@
    "ko": "none",
    "publisher": "Secret Mode",
    "major": false,
-   "reviews": 55394
+   "reviews": 55408
   },
   {
    "appid": 1509960,
@@ -1010,7 +1008,7 @@
    "ko": "text",
    "publisher": "Daedalic Entertainment",
    "major": false,
-   "reviews": 13848
+   "reviews": 13849
   },
   {
    "appid": 341800,
@@ -1031,7 +1029,7 @@
    "ko": "text",
    "publisher": "Steel Crate Games",
    "major": false,
-   "reviews": 14391
+   "reviews": 14393
   },
   {
    "appid": 286160,
@@ -1052,7 +1050,7 @@
    "ko": "none",
    "publisher": "Berserk Games",
    "major": false,
-   "reviews": 49045
+   "reviews": 49053
   },
   {
    "appid": 431240,
@@ -1074,7 +1072,7 @@
    "ko": "none",
    "publisher": "Team17",
    "major": false,
-   "reviews": 51068,
+   "reviews": 51072,
    "finalPrice": 3870,
    "discount": 75
   },
@@ -1098,7 +1096,7 @@
    "ko": "audio",
    "publisher": "Clever Endeavour Games",
    "major": false,
-   "reviews": 41262
+   "reviews": 41265
   },
   {
    "appid": 1557740,
@@ -1120,7 +1118,7 @@
    "ko": "none",
    "publisher": "Landfall",
    "major": false,
-   "reviews": 36109
+   "reviews": 36116
   },
   {
    "appid": 674940,
@@ -1142,7 +1140,7 @@
    "ko": "none",
    "publisher": "Landfall",
    "major": false,
-   "reviews": 100051
+   "reviews": 100055
   },
   {
    "appid": 291550,
@@ -1185,7 +1183,7 @@
    "ko": "text",
    "publisher": "Innersloth",
    "major": false,
-   "reviews": 662815
+   "reviews": 662862
   },
   {
    "appid": 1966720,
@@ -1206,7 +1204,7 @@
    "ko": "none",
    "publisher": "Zeekerss",
    "major": false,
-   "reviews": 412101
+   "reviews": 412112
   },
   {
    "appid": 3241660,
@@ -1227,7 +1225,7 @@
    "ko": "text",
    "publisher": "semiwork",
    "major": false,
-   "reviews": 346905,
+   "reviews": 347274,
    "finalPrice": 6950,
    "discount": 35
   },
@@ -1250,7 +1248,7 @@
    "ko": "text",
    "publisher": "Evil Landfall?",
    "major": false,
-   "reviews": 73144
+   "reviews": 73159
   },
   {
    "appid": 3527290,
@@ -1271,7 +1269,7 @@
    "ko": "text",
    "publisher": "Aggro Crab",
    "major": false,
-   "reviews": 310734
+   "reviews": 310923
   },
   {
    "appid": 739630,
@@ -1293,7 +1291,7 @@
    "ko": "text",
    "publisher": "Kinetic Games",
    "major": false,
-   "reviews": 686347
+   "reviews": 686400
   },
   {
    "appid": 1426210,
@@ -1315,7 +1313,7 @@
    "ko": "text",
    "publisher": "Electronic Arts",
    "major": true,
-   "reviews": 220716
+   "reviews": 220744
   },
   {
    "appid": 2001120,
@@ -1336,7 +1334,7 @@
    "ko": "text",
    "publisher": "Electronic Arts",
    "major": true,
-   "reviews": 79510
+   "reviews": 79520
   },
   {
    "appid": 728880,
@@ -1358,7 +1356,7 @@
    "ko": "text",
    "publisher": "Team17",
    "major": false,
-   "reviews": 62634
+   "reviews": 62645
   },
   {
    "appid": 477160,
@@ -1379,7 +1377,7 @@
    "ko": "text",
    "publisher": "Curve Games",
    "major": false,
-   "reviews": 175590,
+   "reviews": 175600,
    "finalPrice": 6150,
    "discount": 70
   },
@@ -1404,7 +1402,7 @@
    "ko": "text",
    "publisher": "Coffee Stain Publishing",
    "major": false,
-   "reviews": 304218
+   "reviews": 304243
   },
   {
    "appid": 553850,
@@ -1425,7 +1423,7 @@
    "ko": "text",
    "publisher": "PlayStation Publishing LLC",
    "major": true,
-   "reviews": 849895
+   "reviews": 850164
   },
   {
    "appid": 550,
@@ -1447,7 +1445,7 @@
    "ko": "text",
    "publisher": "Valve",
    "major": false,
-   "reviews": 824155
+   "reviews": 824278
   },
   {
    "appid": 892970,
@@ -1468,7 +1466,7 @@
    "ko": "text",
    "publisher": "Coffee Stain Publishing",
    "major": false,
-   "reviews": 475943
+   "reviews": 476066
   },
   {
    "appid": 105600,
@@ -1489,7 +1487,7 @@
    "ko": "text",
    "publisher": "Re-Logic",
    "major": false,
-   "reviews": 1248784
+   "reviews": 1248927
   },
   {
    "appid": 413150,
@@ -1509,7 +1507,7 @@
    "ko": "text",
    "publisher": "ConcernedApe",
    "major": false,
-   "reviews": 902475
+   "reviews": 902659
   },
   {
    "appid": 322330,
@@ -1532,7 +1530,7 @@
    "ko": "audio",
    "publisher": "Klei Entertainment",
    "major": false,
-   "reviews": 377993
+   "reviews": 378061
   },
   {
    "appid": 648800,
@@ -1553,7 +1551,7 @@
    "ko": "text",
    "publisher": "Axolot Games",
    "major": false,
-   "reviews": 325037,
+   "reviews": 325059,
    "finalPrice": 14070,
    "discount": 33
   },
@@ -1576,7 +1574,7 @@
    "ko": "text",
    "publisher": "Pocketpair",
    "major": false,
-   "reviews": 417167
+   "reviews": 417238
   },
   {
    "appid": 962130,
@@ -1596,7 +1594,7 @@
    "ko": "text",
    "publisher": "Xbox Game Studios",
    "major": true,
-   "reviews": 76200
+   "reviews": 76204
   },
   {
    "appid": 1172620,
@@ -1617,7 +1615,7 @@
    "ko": "text",
    "publisher": "Xbox Game Studios",
    "major": true,
-   "reviews": 323197
+   "reviews": 323207
   },
   {
    "appid": 1086940,
@@ -1639,7 +1637,7 @@
    "ko": "text",
    "publisher": "Larian Studios",
    "major": false,
-   "reviews": 760155
+   "reviews": 760225
   },
   {
    "appid": 2246340,
@@ -1663,7 +1661,7 @@
    "ko": "text",
    "publisher": "CAPCOM Co., Ltd.",
    "major": true,
-   "reviews": 203722
+   "reviews": 203747
   },
   {
    "appid": 1097150,
@@ -1682,7 +1680,7 @@
    "release": "2020-08-03",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/header.jpg",
    "ko": "text",
-   "reviews": 411092
+   "reviews": 411080
   },
   {
    "appid": 1260320,
@@ -1704,7 +1702,7 @@
    "ko": "text",
    "publisher": "Source Technology",
    "major": false,
-   "reviews": 58423
+   "reviews": 58431
   },
   {
    "appid": 285900,
@@ -1726,7 +1724,7 @@
    "ko": "text",
    "publisher": "Boneloaf",
    "major": false,
-   "reviews": 55402
+   "reviews": 55408
   },
   {
    "appid": 880940,
@@ -1747,7 +1745,7 @@
    "ko": "audio",
    "publisher": "Rebuilt Games",
    "major": false,
-   "reviews": 46353
+   "reviews": 46356
   },
   {
    "appid": 381210,
@@ -1770,7 +1768,7 @@
    "ko": "text",
    "publisher": "Behaviour Interactive Inc.",
    "major": false,
-   "reviews": 691288
+   "reviews": 691522
   },
   {
    "appid": 1808500,
@@ -1787,11 +1785,11 @@
    "desc": "로봇이 지배한 지상에서 물자 챙겨 탈출하는 3인 익스트랙션 슈터.",
    "kind": "hit",
    "release": "2025-10-30",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/04baafaf64a5aa5f46ecda5d71889a4848dc0628/header.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/41ee6c5c81a5797132879892586465b917acc563/header_alt_assets_9.jpg",
    "ko": "text",
    "publisher": "Embark Studios",
    "major": false,
-   "reviews": 308187
+   "reviews": 308336
   },
   {
    "appid": 730,
@@ -1813,7 +1811,7 @@
    "ko": "text",
    "publisher": "Valve",
    "major": false,
-   "reviews": 5331779
+   "reviews": 5333027
   },
   {
    "appid": 2357570,
@@ -1851,7 +1849,7 @@
    "ko": "audio",
    "publisher": "Electronic Arts",
    "major": true,
-   "reviews": 1588
+   "reviews": 1587
   },
   {
    "appid": 578080,
@@ -1872,7 +1870,7 @@
    "ko": "text",
    "publisher": "KRAFTON, Inc.",
    "major": false,
-   "reviews": 1768549
+   "reviews": 1768578
   },
   {
    "appid": 570,
@@ -1914,7 +1912,7 @@
    "ko": "none",
    "publisher": "FoliesAPP",
    "major": false,
-   "reviews": 1039
+   "reviews": 1044
   },
   {
    "appid": 3989960,
@@ -2000,7 +1998,7 @@
    "ko": "text",
    "publisher": "Oro Interactive",
    "major": false,
-   "reviews": 9680
+   "reviews": 9685
   },
   {
    "appid": 5061170,
@@ -2064,7 +2062,7 @@
    "ko": "text",
    "publisher": "Rising Tide",
    "major": false,
-   "reviews": 141
+   "reviews": 143
   },
   {
    "appid": 4290170,
@@ -2127,7 +2125,7 @@
    "ko": "text",
    "publisher": "PaperPixel Games",
    "major": false,
-   "reviews": 654
+   "reviews": 687
   },
   {
    "appid": 2071280,
@@ -2148,7 +2146,7 @@
    "ko": "text",
    "publisher": "Nacon",
    "major": false,
-   "reviews": 17220
+   "reviews": 17223
   },
   {
    "appid": 527230,
@@ -2169,7 +2167,7 @@
    "ko": "text",
    "publisher": "Curve Games",
    "major": false,
-   "reviews": 31151
+   "reviews": 31150
   },
   {
    "appid": 1290000,
@@ -2189,7 +2187,7 @@
    "ko": "text",
    "publisher": "FuturLab",
    "major": false,
-   "reviews": 51104
+   "reviews": 51105
   },
   {
    "appid": 1222700,
@@ -2210,7 +2208,7 @@
    "ko": "none",
    "publisher": "Electronic Arts",
    "major": true,
-   "reviews": 78826
+   "reviews": 78827
   },
   {
    "appid": 1243830,
@@ -2232,7 +2230,7 @@
    "ko": "text",
    "publisher": "Team17 Digital",
    "major": false,
-   "reviews": 5881
+   "reviews": 5883
   },
   {
    "appid": 251570,
@@ -2253,7 +2251,7 @@
    "ko": "text",
    "publisher": "The Fun Pimps Entertainment LLC",
    "major": false,
-   "reviews": 280669,
+   "reviews": 280692,
    "finalPrice": 25850,
    "discount": 45
   },
@@ -2276,7 +2274,7 @@
    "ko": "audio",
    "publisher": "Facepunch Studios",
    "major": false,
-   "reviews": 1177621,
+   "reviews": 1177846,
    "finalPrice": 21000,
    "discount": 50
   },
@@ -2299,7 +2297,7 @@
    "ko": "text",
    "publisher": "Messhof",
    "major": false,
-   "reviews": 5764
+   "reviews": 5765
   },
   {
    "appid": 230410,
@@ -2343,7 +2341,7 @@
    "ko": "text",
    "publisher": "Embark Studios",
    "major": false,
-   "reviews": 139
+   "reviews": 140
   },
   {
    "appid": 2767030,
@@ -2386,7 +2384,7 @@
    "ko": "text",
    "publisher": "Ubisoft",
    "major": true,
-   "reviews": 1257580
+   "reviews": 1257642
   },
   {
    "appid": 440,
@@ -2407,7 +2405,7 @@
    "ko": "text",
    "publisher": "Valve",
    "major": false,
-   "reviews": 48149
+   "reviews": 48153
   },
   {
    "appid": 289070,
@@ -2426,7 +2424,7 @@
    "ko": "audio",
    "publisher": "2K",
    "major": true,
-   "reviews": 277343,
+   "reviews": 277362,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2016-10-20"
@@ -2474,7 +2472,7 @@
    "ko": "text",
    "publisher": "Cygames, Inc.",
    "major": false,
-   "reviews": 41419,
+   "reviews": 41431,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2024-01-31"
@@ -2518,7 +2516,7 @@
    "ko": "text",
    "publisher": "SEGA",
    "major": true,
-   "reviews": 107081,
+   "reviews": 107104,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2022-02-16"
@@ -2542,7 +2540,7 @@
    "ko": "text",
    "publisher": "FromSoftware, Inc.",
    "major": true,
-   "reviews": 835011,
+   "reviews": 835059,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2022-02-24"
@@ -2676,7 +2674,7 @@
    "ko": "text",
    "publisher": "Ubisoft",
    "major": true,
-   "reviews": 33807,
+   "reviews": 33816,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2023-01-12"
@@ -2699,7 +2697,7 @@
    "ko": "text",
    "publisher": "Toplitz Productions",
    "major": false,
-   "reviews": 1899,
+   "reviews": 1918,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-10-09"
@@ -2722,7 +2720,7 @@
    "ko": "audio",
    "publisher": "Xbox Game Studios",
    "major": true,
-   "reviews": 91326,
+   "reviews": 91388,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-05-18"
@@ -2766,7 +2764,7 @@
    "ko": "text",
    "publisher": "Pine Studio",
    "major": false,
-   "reviews": 4589,
+   "reviews": 4591,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2025-10-27"
@@ -2789,7 +2787,7 @@
    "ko": "text",
    "publisher": "Funselektor Labs Inc.",
    "major": false,
-   "reviews": 4355,
+   "reviews": 4457,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-10-14"
@@ -2812,7 +2810,7 @@
    "ko": "audio",
    "publisher": "Xbox Game Studios",
    "major": true,
-   "reviews": 10664,
+   "reviews": 10728,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-10-06"
@@ -2834,7 +2832,7 @@
    "ko": "text",
    "publisher": "Toxic Studio",
    "major": false,
-   "reviews": 909,
+   "reviews": 911,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-05-21"
@@ -2879,7 +2877,7 @@
    "ko": "text",
    "publisher": "EVNA Games",
    "major": false,
-   "reviews": 760,
+   "reviews": 761,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2025-10-02"
@@ -2903,7 +2901,7 @@
    "ko": "text",
    "publisher": "Battlestate Games",
    "major": false,
-   "reviews": 58759,
+   "reviews": 58817,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2025-11-15"
@@ -2925,7 +2923,7 @@
    "ko": "audio",
    "publisher": "Electronic Arts",
    "major": true,
-   "reviews": 10677,
+   "reviews": 10826,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-09-24"
@@ -2947,7 +2945,7 @@
    "ko": "text",
    "publisher": "2K",
    "major": true,
-   "reviews": 2988,
+   "reviews": 3018,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-09-03"
@@ -2970,7 +2968,7 @@
    "ko": "audio",
    "publisher": "Activision",
    "major": true,
-   "reviews": 10140,
+   "reviews": 10383,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-10-22"
@@ -2992,7 +2990,7 @@
    "ko": "text",
    "publisher": "Wild Dog",
    "major": false,
-   "reviews": 629,
+   "reviews": 636,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-10-09"
@@ -3016,7 +3014,7 @@
    "ko": "text",
    "publisher": "The Indie Stone",
    "major": false,
-   "reviews": 371967,
+   "reviews": 372104,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2013-11-08"
@@ -3061,7 +3059,7 @@
    "ko": "none",
    "publisher": "Avalanche Studios",
    "major": false,
-   "reviews": 171908,
+   "reviews": 171929,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2017-02-16"
@@ -3085,7 +3083,7 @@
    "ko": "text",
    "publisher": "Crytek",
    "major": false,
-   "reviews": 214384,
+   "reviews": 214400,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2019-08-27",
@@ -3158,7 +3156,7 @@
    "ko": "text",
    "publisher": "Miju Games",
    "major": false,
-   "reviews": 69787,
+   "reviews": 69799,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2024-04-10"
@@ -3180,7 +3178,7 @@
    "ko": "audio",
    "publisher": "Pine Studio",
    "major": false,
-   "reviews": 16609,
+   "reviews": 16611,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2021-10-19"
@@ -3203,7 +3201,7 @@
    "ko": "text",
    "publisher": "Teneke Kafalar",
    "major": false,
-   "reviews": 5300,
+   "reviews": 5299,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2025-11-22"
@@ -3225,7 +3223,7 @@
    "ko": "audio",
    "publisher": "Xbox Game Studios",
    "major": true,
-   "reviews": 72820,
+   "reviews": 72857,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2021-10-28"
@@ -3248,7 +3246,7 @@
    "ko": "audio",
    "publisher": "Activision",
    "major": true,
-   "reviews": 44009,
+   "reviews": 44022,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2023-03-08"
@@ -3270,7 +3268,7 @@
    "ko": "text",
    "publisher": "Sloclap",
    "major": false,
-   "reviews": 42863,
+   "reviews": 42893,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2025-06-19"
@@ -3292,7 +3290,7 @@
    "ko": "audio",
    "publisher": "Triiodide Studios",
    "major": false,
-   "reviews": 43346,
+   "reviews": 43380,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2022-10-18",
@@ -3317,7 +3315,7 @@
    "ko": "text",
    "publisher": "PlayStation Publishing LLC",
    "major": true,
-   "reviews": 65806,
+   "reviews": 65825,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2024-05-16"
@@ -3339,7 +3337,7 @@
    "ko": "text",
    "publisher": "GIANTS Software",
    "major": false,
-   "reviews": 41396,
+   "reviews": 41429,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2024-11-12"
@@ -3361,7 +3359,7 @@
    "ko": "text",
    "publisher": "Mudtek",
    "major": false,
-   "reviews": 2848,
+   "reviews": 2853,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-09-15"
@@ -3384,7 +3382,7 @@
    "ko": "text",
    "publisher": "Dreland Enterprises",
    "major": false,
-   "reviews": 5542,
+   "reviews": 5554,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2023-11-30"
@@ -3429,7 +3427,7 @@
    "ko": "audio",
    "publisher": "Blizzard Entertainment, Inc.",
    "major": true,
-   "reviews": 6245,
+   "reviews": 6247,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-02-11"
@@ -3452,7 +3450,7 @@
    "ko": "text",
    "publisher": "FromSoftware, Inc.",
    "major": true,
-   "reviews": 130372,
+   "reviews": 130385,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2025-05-29"
@@ -3474,7 +3472,7 @@
    "ko": "none",
    "publisher": "Electronic Arts",
    "major": true,
-   "reviews": 26535,
+   "reviews": 26571,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2025-05-30"
@@ -3499,7 +3497,7 @@
    "ko": "text",
    "publisher": "Fireshine Games",
    "major": false,
-   "reviews": 32803,
+   "reviews": 32865,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-04-28"
@@ -3524,7 +3522,7 @@
    "ko": "text",
    "publisher": "Rockstar Games",
    "major": true,
-   "reviews": 221198,
+   "reviews": 221419,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2025-03-04"
@@ -3546,7 +3544,7 @@
    "ko": "text",
    "publisher": "Off by One Games",
    "major": false,
-   "reviews": 765,
+   "reviews": 777,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-10-13"
@@ -3569,7 +3567,7 @@
    "ko": "text",
    "publisher": "Featherweight Games",
    "major": false,
-   "reviews": 974,
+   "reviews": 990,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-10-15"
@@ -3591,7 +3589,7 @@
    "ko": "text",
    "publisher": "Maracas Studio",
    "major": false,
-   "reviews": 7386,
+   "reviews": 7403,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-07-09"
@@ -3613,7 +3611,7 @@
    "ko": "text",
    "publisher": "Dumb Ways to Die",
    "major": false,
-   "reviews": 463,
+   "reviews": 466,
    "added": "2026-10-26",
    "sortedBy": "manual",
    "release": "2026-09-10"
