@@ -86,15 +86,27 @@ export function parse(t: string): Query {
   return r;
 }
 
-/** 유명작(hit)은 그대로. 나머지는 출시 1년 이내면 신작, 아니면 숨은 명작 */
-export function kindOf(g: Game, today = new Date()): Kind {
-  if (g.kind === "hit") return "hit"; // 유명작은 출시일과 상관없이 유명작
-  if (g.release) {
-    const days = (today.getTime() - new Date(g.release).getTime()) / 86400000;
-    if (days <= 365) return "new";
-    return "gem";
-  }
-  return g.kind;
+/** 신작: 출시 1년 이내. 출시일을 아직 모르면 직접 정해둔 분류(kind)를 따름 */
+export function isNew(g: Game): boolean {
+  if (g.release) return (Date.now() - new Date(g.release).getTime()) / 86400000 <= 365;
+  return g.kind === "new";
+}
+
+/** 유명작: 스팀 리뷰 3만 개 이상이거나 대형 배급사 게임. 신작이어도 유명작일 수 있음.
+ *  무료 게임은 리뷰 수가 부정확해서(실제보다 훨씬 적게 나옴) 직접 정해둔 분류와 배급사만 봄 */
+export const HIT_REVIEWS = 30000;
+export function isHit(g: Game): boolean {
+  if (g.kind === "hit" || g.major === true) return true;
+  return g.price > 0 && (g.reviews ?? 0) >= HIT_REVIEWS;
+}
+
+/** 숨은 명작: 신작도 유명작도 아닌 게임 */
+export const isGem = (g: Game) => !isNew(g) && !isHit(g);
+
+/** 카드 배지용: 신작이면 "신작", 아니면 숨은 명작/유명작 */
+export function kindOf(g: Game): Kind {
+  if (isNew(g)) return "new";
+  return isHit(g) ? "hit" : "gem";
 }
 export const nowPrice = (g: Game) => g.finalPrice ?? g.price;
 export const onSale = (g: Game) => !!g.discount && g.finalPrice !== undefined;
@@ -116,10 +128,9 @@ export function isBig(g: Game): boolean {
 export function fits(g: Game, r: Query, relax: boolean): boolean {
   if (r.players && (r.players < g.min || r.players > g.max)) return false;
   if (r.price !== null && nowPrice(g) > r.price * (relax ? 1.5 : 1)) return false;
-  const k = kindOf(g);
-  if (r.disc === "new" && k !== "new") return false;
-  if (r.disc === "gem" && k !== "gem") return false;
-  if (r.disc === "nohit" && k === "hit") return false;
+  if (r.disc === "new" && !isNew(g)) return false;
+  if (r.disc === "gem" && !isGem(g)) return false;
+  if (r.disc === "nohit" && isHit(g)) return false;
   // 스팀의 "음성 지원" 표시는 개발사 자체 체크라 부정확해서, 음성/자막 구분 없이 한국어 지원 여부만 봄
   if (r.ko === "text" && g.ko !== "audio" && g.ko !== "text") return false;
   if (r.sale && !onSale(g)) return false;
@@ -136,8 +147,8 @@ export function score(g: Game, r: Query): number {
   for (const t of r.tags) if (g.tags.includes(t)) s += 3;
   if (r.len && g.len === r.len) s += 2;
   if (r.players && g.max === r.players) s += 1;
-  const k = kindOf(g);
-  if (k === "new") s += 1.5; else if (k === "gem") s += 1;
+  if (isNew(g)) s += 1.5; else if (isGem(g)) s += 1;
+  if (isHit(g)) s -= 0.5; // 같은 조건이면 덜 알려진 게임을 먼저
   if (g.discount) s += r.sale ? g.discount / 20 : 0.5; // 할인만 볼 때는 많이 깎인 순으로
   s += r.price === null ? -nowPrice(g) / 100000 : 0.5;
   return s;
