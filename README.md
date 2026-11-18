@@ -7,6 +7,12 @@
 - 신작·숨은 명작이 인기작보다 위로 오도록 정렬
 - 가격·할인·출시일·표지는 매일 새벽 스팀 한국 스토어에서 자동 갱신
 
+## 주소
+
+- 대표 주소: https://gemgolla.pages.dev (Cloudflare Pages)
+- 보조 주소: https://gemgolla.vercel.app (Vercel). 일부 한국 통신사(LG 등)에서 `vercel.app`이 안 열리는 경우가 있어서 Cloudflare를 대표로 씀
+- 둘 다 같은 저장소의 `main`에서 자동 배포됨
+
 ## 로컬 실행
 
 ```bash
