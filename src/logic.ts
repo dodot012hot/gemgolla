@@ -103,14 +103,14 @@ export const onSale = (g: Game) => !!g.discount && g.finalPrice !== undefined;
  *  1. games.json에 "big"을 직접 적었으면 그대로
  *  2. 무료 게임은 부담이 없으니 대작에서 제외
  *  3. 리뷰 수(긍정+부정)가 있으면 그걸로만 판단: BIG_REVIEWS 이상이면 대작
- *  4. 리뷰 수가 아직 없는 새 게임은 대형 배급사이거나 정가 5만 원 이상이면 대작 */
+ *  4. 리뷰 수가 아직 없는 새 게임은 대형 배급사 게임이면 대작
+ *  가격은 보지 않음: 비싸서 못 사는 경우도 있으니 비싼 게임도 기본 추천에 나오게 함 */
 export const BIG_REVIEWS = 100000;
-export const BIG_PRICE = 50000;
 export function isBig(g: Game): boolean {
   if (g.big !== undefined) return g.big;
   if (g.price === 0) return false;
   if (g.reviews !== undefined) return g.reviews >= BIG_REVIEWS;
-  return g.price >= BIG_PRICE || g.major === true;
+  return g.major === true;
 }
 
 export function fits(g: Game, r: Query, relax: boolean): boolean {
