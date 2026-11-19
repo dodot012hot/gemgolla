@@ -1,0 +1,64 @@
+name: 예약 작업 감시
+
+# 아침 예약 작업(후보 정리)은 게임 목록 파일 3개만 바꿔야 한다.
+# 예약 작업이 도는 시간대(오전 6~9시 KST)에 올라온 변경이나 "후보 …" 커밋이
+# 그 밖의 파일(코드, 설정, 워크플로 등)을 건드리면 실패로 표시해서 메일 알림이 가게 한다.
+# 게임 설명은 누구나 쓸 수 있는 글이라, 거기 숨겨진 지시에 예약 작업이 속는 경우를 잡기 위한 장치.
+#
+# 한계: 저장소에 쓸 수 있는 쪽이 이 파일까지 함께 고치면 감시를 끌 수 있다. 완벽한 차단이 아니라 알림 장치.
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 게임 목록 파일 말고 다른 파일이 바뀌었는지 확인
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          ALLOWED='^(public/games\.json|data/candidates\.json|data/skipped\.json)$'
+
+          # 이번 push에 들어온 커밋 범위
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            RANGE="$AFTER"
+          else
+            RANGE="$BEFORE..$AFTER"
+          fi
+
+          HOUR=$(TZ=Asia/Seoul date +%H)
+          IN_WINDOW=false
+          if [ "$HOUR" -ge 6 ] && [ "$HOUR" -lt 9 ]; then IN_WINDOW=true; fi
+
+          SUSPECT_COMMITS=$(git log --format='%h %s' "$RANGE" | grep -E '^[0-9a-f]+ 후보 ' || true)
+
+          if [ "$IN_WINDOW" = false ] && [ -z "$SUSPECT_COMMITS" ]; then
+            echo "예약 작업 시간대도 아니고 '후보' 커밋도 없음. 확인할 것 없음."
+            exit 0
+          fi
+
+          OTHER_FILES=$(git diff --name-only "$RANGE" | grep -Ev "$ALLOWED" || true)
+
+          if [ -z "$OTHER_FILES" ]; then
+            echo "게임 목록 파일만 바뀜. 정상."
+            exit 0
+          fi
+
+          echo "::error title=예약 작업이 코드나 설정을 건드렸을 수 있어요::게임 목록 파일 말고 다른 파일이 바뀌었어요. 직접 바꾼 게 아니면 확인이 필요해요."
+          echo "한국 시간: $(TZ=Asia/Seoul date '+%F %H:%M') (예약 작업 시간대: $IN_WINDOW)"
+          echo "바뀐 파일:"
+          echo "$OTHER_FILES" | sed 's/^/  - /'
+          echo "커밋:"
+          git log --format='  %h %an: %s' "$RANGE"
+          exit 1
