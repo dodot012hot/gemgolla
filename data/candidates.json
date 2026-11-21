@@ -27213,7 +27213,7 @@
   "name": "Oharion",
   "url": "https://store.steampowered.com/app/4739190/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Come explore a new MMORPG inspired by the elements of nature! In this epic journey, you'll face challenging dungeons, participate in countless events, solve intriguing puzzles, and experience thrilling daily adventures",
@@ -27251,7 +27251,7 @@
   "name": "DCS World Steam Edition",
   "url": "https://store.steampowered.com/app/223750/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Feel the excitement of flying the Su-25T \"Frogfoot\" attack jet and the TF-51D \"Mustang\" in the free-to-play Digital Combat Simulator World!",
@@ -27301,7 +27301,7 @@
   "name": "LEGO® Batman™: 레거시 오브 더 다크나이트",
   "url": "https://store.steampowered.com/app/2215200/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "다크 나이트가 되어 굵직한 주요 배트맨 스토리, 강력한 한 방이 기다리는 액션으로 가득한 모험, 오픈월드 고담 시티, 그리고 LEGO의 시그니처 주문을 경험하세요.",
@@ -27336,7 +27336,7 @@
    "ko": "text",
    "publisher": "Warner Bros. Games",
    "major": false,
-   "reviews": 9279
+   "reviews": 9310
   }
  },
  {
@@ -27344,7 +27344,7 @@
   "name": "Sunkenland",
   "url": "https://store.steampowered.com/app/2080690/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "모듈식 기지 건설, 가라앉은 도시 탐색, 제작, 기지 방어 및 자원 및 영토를 위한 NPC 클랜의 침공이 포함된 워터월드 테마의 서바이벌 게임에 준비하세요. 물의 대재앙에 대비하시겠습니까?",
@@ -27367,7 +27367,7 @@
    "ko": "text",
    "publisher": "Vector3 Studio",
    "major": false,
-   "reviews": 20704
+   "reviews": 20719
   }
  },
  {
@@ -27375,7 +27375,7 @@
   "name": "The Jackbox Party Pack 12",
   "url": "https://store.steampowered.com/app/4199960/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Escape the ordinary with The Jackbox Party Pack 12! Embark on a party adventure with goofy greetings in We Forgot a Card, wild image warping in Hyperface, absurd arguments in Debate and Switch, team-based fact battles in Idol Factions, and mind-melding friendship in MegaPals.",
@@ -27406,6 +27406,8 @@
     "전략"
    ],
    "price": 31000,
+   "finalPrice": 23250,
+   "discount": 25,
    "release": "2026-10-14",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199960/4bac43ddff058a8f96a9686596ce05a6ca922f41/header.jpg",
    "ko": "none",
@@ -27418,7 +27420,7 @@
   "name": "Totally Safe Moon Project",
   "url": "https://store.steampowered.com/app/4339680/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "속보! 거대한 소행성이 지구를 파괴하려 합니다. 유일한 탈출구는 달뿐! 손에 잡히는 모든 것을 모아 높이 쌓고 탈출할 길을 만드세요. 혼자 또는 최대 3명의 친구와 함께할 수 있습니다! Only Up을 떠올려 보세요. 단, 건축가는 바로 당신! 무슨 일이 잘못될 수 있겠어요?",
@@ -27450,7 +27452,7 @@
   "name": "BACK TOGETHER",
   "url": "https://store.steampowered.com/app/5086830/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "BACK TOGEHTER는 4명의 플레이어가 힘을 합쳐 험난한 스테이지를 돌파하는 우당탕탕 코옵(Co-op) 플랫포머 게임입니다. 밧줄로 서로를 끌어당기고, 하나로 합체해 거대한 장애물을 넘으며 진정한 우정(과 분노)을 테스트해 보세요!",
@@ -27491,7 +27493,7 @@
   "name": "WAZATO: Sabotage or Mistake?",
   "url": "https://store.steampowered.com/app/4953670/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "친구 4명이 함께하는 온라인 전용 게임입니다(3명 이하 플레이·랜덤 매칭 없음). 실수일까, 고의일까? WAZATO는 협동 액션과 정체 추리를 결합한 파티 게임입니다. 크루 3명이 힘을 모으는 사이, 숨어 있는 스파이 1명이 팀을 방해합니다. 친구들의 행동과 변명을 관찰하세요. 미션 성적에 따라 마지막 대결이 달라집니다!",
@@ -27525,7 +27527,7 @@
   "name": "Fully Funded",
   "url": "https://store.steampowered.com/app/5316360/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Practice for a prop firm evaluation with your friends. One shared account, the same kinds of rules (daily loss limit, trailing drawdown, profit targets), pro-style charts, and a room full of things to throw. Pass it all and trade an endless live account.",
@@ -27564,7 +27566,7 @@
   "name": "The First Foreigner",
   "url": "https://store.steampowered.com/app/3634090/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "The First Foreigner는 말이 통하지 않는 상대와의 만남 속에서 펼쳐지는 멀티플레이 실시간 추론 커뮤니케이션 게임입니다. 단어를 맞히면 다음 스테이지로! 제한된 시간, 통하지 않는 언어, 엉뚱한 오해와 기발한 설명 속에서 언어가 통하지 않는 사람과 마주친 듯한 혼돈의 소통을 즐겨 보세요!",
@@ -27593,7 +27595,7 @@
   "name": "JackParts",
   "url": "https://store.steampowered.com/app/5323810/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "신호가 울리면 누구보다 빠르게! JackParts는 반응속도로 총기 파츠를 쟁취하고, 완성한 총으로 상대를 공격하는 최대 4인 온라인 파티 대전 게임입니다. 손끝으로 기회를 잡고, 아이템으로 한 방을 뒤집으세요. 쓰러졌다고 끝은 아닙니다. 사망 룰렛이 당신의 최종 점수를 바꿀 수 있으니까요.",
@@ -27628,7 +27630,7 @@
   "name": "Mayday Protocol",
   "url": "https://store.steampowered.com/app/4256070/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "The plane is going down. The Pilot sees the cockpit but has no idea how to fix it. The Co-Pilots have the manual but can’t see the screen. Talk fast, think faster, and land safely. Only one copy needed. Communicate or crash.",
@@ -27664,7 +27666,7 @@
   "name": "古今東西ダービー",
   "url": "https://store.steampowered.com/app/5069990/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "A party game where horse racing meets a classic naming game! Name your racehorse to fit the theme, and the name alone decides its stats. Bet on a 3D race with commentary that calls out your horse's name. Play solo, against strangers in Random Match, or with up to 64 people including spectators.",
@@ -27695,7 +27697,7 @@
   "name": "Tidy or Treat",
   "url": "https://store.steampowered.com/app/4746530/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Halloween is coming and a restless spirit has emptied every shelf onto the floor. Sort out the pumpkin toys, learn tricks to work faster, and bring friends in to help.",
@@ -27735,7 +27737,7 @@
   "name": "FINAL SPIN",
   "url": "https://store.steampowered.com/app/2954260/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "A 2-4 player online party game about risking your life for the thrill of high-stakes gambling. Use your items wisely to gain an edge over chance and play until you are the last person standing.",
@@ -27764,7 +27766,7 @@
    "ko": "none",
    "publisher": "CarbonDaisy Entertainment",
    "major": false,
-   "reviews": 196
+   "reviews": 197
   }
  },
  {
@@ -27772,7 +27774,7 @@
   "name": "미스카토닉 대학 미술부",
   "url": "https://store.steampowered.com/app/5366030/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "“불경한 거품을 끊임없이 흘리는 형체 없는 혼돈”…… 대체 어떻게 생긴 거야!? 미스카토닉 대학 미술부에서 네크로노미콘의 삽화를 그리고 서로 맞혀 보는 2~8인 온라인 그림 그리기 게임! 나만의 네크로노미콘에 삽화가 하나씩 늘어날수록 토스 부장과의 이야기도 조금씩 펼쳐집니다.",
@@ -27801,7 +27803,7 @@
   "name": "Stay Out",
   "url": "https://store.steampowered.com/app/1180380/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Stay Out - is a MMORPG with shooter elements, based on spirit of “stalking” - an urban exploration, searching and exploring mysterious, abandoned and forgotten by humanity pieces of our planet.",
@@ -27836,7 +27838,7 @@
   "name": "Catch Meow If You Can",
   "url": "https://store.steampowered.com/app/4306070/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "최대 4명이 함께 플레이할 수 있는 온라인 협동 생존 게임입니다. 유명한 대회 수상 고양이가 되어 플레이하세요. 주인이 집을 비운 사이, 다양한 유형의 도둑들이 저택에 침입합니다. 어두운 방을 탐험하고, 퍼즐을 풀고, 침입자들을 따돌려 반격한 뒤 붙잡히지 않고 탈출하세요.",
@@ -27861,7 +27863,7 @@
    "ko": "none",
    "publisher": "Tempest Games",
    "major": false,
-   "reviews": 150
+   "reviews": 159
   }
  },
  {
@@ -27869,7 +27871,7 @@
   "name": "The Riftbreaker",
   "url": "https://store.steampowered.com/app/780310/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "리프트브레이커는 솔로 및 최대 4인까지 즐길 수 있는 협동 게임으로 기지 건설, 생존, 액션 RPG 요소가 결합되어 있습니다. 핵 앤 슬래시로 끝도 없이 밀려오는 적들을 처리하세요. 생존을 위해 기지를 건설하고, 강력한 무기를 제작하고, 새로운 발명품을 연구하세요.",
@@ -27910,11 +27912,11 @@
    ],
    "price": 32000,
    "release": "2021-10-14",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780310/2fa89fa1cae410139be2b2a4fdc385b057bf35aa/header_alt_assets_6_koreana.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780310/de1ba1c78b0664b2c3016ddf528e007824fbecbc/header_alt_assets_7.jpg",
    "ko": "text",
    "publisher": "EXOR Studios",
    "major": false,
-   "reviews": 22359
+   "reviews": 22379
   }
  },
  {
@@ -27922,7 +27924,7 @@
   "name": "Idle Legions",
   "url": "https://store.steampowered.com/app/5238690/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "군단은 알아서 싸운다. 게임을 종료해도 멈추지 않는다. 영웅 8명(무료 5명), 6개의 막, 저마다 고유한 기믹을 지닌 보스. 장비를 단조하고, 펫을 키우고, 다른 플레이어를 상대로 빌드를 시험한다. 다른 곳에서는 나오지 않는 전리품을 찾아 심연으로 내려간다.",
@@ -27956,7 +27958,7 @@
   "name": "墨影：零",
   "url": "https://store.steampowered.com/app/4282510/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Ink Shadow: Zero​ - A martial-arts-themed RPG where you begin as a nameless novice and explore a world where light and shadow intertwine. From chance encounters to pivotal choices that reshape the balance of power, carve your own legend in the martial arts world",
@@ -27989,7 +27991,7 @@
   "name": "Ghost Watchers",
   "url": "https://store.steampowered.com/app/1850740/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Ghost Watchers는 협동 온라인 공포 게임입니다. 버려진 집에서 유령들을 찾아서 잡아야 합니다",
@@ -28013,7 +28015,7 @@
    "ko": "text",
    "publisher": "Renderise",
    "major": false,
-   "reviews": 12774
+   "reviews": 12779
   }
  },
  {
@@ -28021,7 +28023,7 @@
   "name": "다함께 장난감 정리!",
   "url": "https://store.steampowered.com/app/5041530/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "꿈에 그리던 장난감 가게를 완벽하게 정돈된 세상으로 바꾸는 아늑한 협동 게임입니다. 20,000개의 장난감을 모두 정리하고, 인형과 공룡, 기차마다 알맞은 자리를 찾아 주세요. 혼자서 또는 최대 8명의 친구와 함께 텅 빈 진열대에 다시 생기를 불어넣으세요.",
@@ -28056,7 +28058,8 @@
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041530/9e508b6e494a89337b944f0d126e2618266e9c73/header_koreana.jpg",
    "ko": "text",
    "publisher": "Polden Publishing",
-   "major": false
+   "major": false,
+   "reviews": 105
   }
  },
  {
@@ -28064,7 +28067,7 @@
   "name": "The Headliners",
   "url": "https://store.steampowered.com/app/3059070/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "협동 공포 게임으로, 1~8명의 기자 팀이 되어 치명적인 괴물로 가득 찬 뉴욕을 탐험하며 멋진 사진을 찍는 것이 목표입니다. 당신의 유일한 목표: 헤드라인에 오르는 것... 그리고 살아남아 그것을 직접 읽는 것.",
@@ -28088,7 +28091,7 @@
    "ko": "text",
    "publisher": "KAFI",
    "major": false,
-   "reviews": 8647
+   "reviews": 8655
   }
  },
  {
@@ -28096,7 +28099,7 @@
   "name": "KeyWe",
   "url": "https://store.steampowered.com/app/1242980/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "KeyWe는 별난 우체국에서 일하는 작은 키위 새가 나오는 협동 우편 퍼즐 게임입니다. 키위 새가 제시간에 메시지를 전달하려면 뛰고, 파닥거리고, 머리를 들이받으며 레버, 종, 버튼 등 상호 작용 요소가 가득한 우체국을 돌아다녀야 하죠!",
@@ -28123,7 +28126,7 @@
    "ko": "none",
    "publisher": "Fireshine Games",
    "major": false,
-   "reviews": 1862
+   "reviews": 1866
   }
  },
  {
@@ -28131,7 +28134,7 @@
   "name": "Trine 5: A Clockwork Conspiracy",
   "url": "https://store.steampowered.com/app/1436700/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Trine 시리즈가 거대한 모험과 함께 돌아왔습니다! 다섯 번째 모험에서 Trine의 영웅들은 왕국을 장악하기 위해 어떤 일도 서슴지 않는 악랄하고 이중적인 악당들과 맞붙습니다. Trine의 세계를 구하려면 시간이 촉박해요!",
@@ -28163,7 +28166,7 @@
    "ko": "text",
    "publisher": "THQ Nordic",
    "major": false,
-   "reviews": 2563
+   "reviews": 2569
   }
  },
  {
@@ -28171,7 +28174,7 @@
   "name": "Pacify",
   "url": "https://store.steampowered.com/app/967050/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "PAH Inc.를 위해 초자연적 생물들을 제압하고, 약화시키며, 포획하는 온라인 협동 호러 게임입니다. 각 레벨마다 서로 다른 스토리와 독특한 몬스터, 다양한 엔딩이 준비되어 있습니다. 혼자 플레이하거나 최대 6명의 친구와 함께 즐길 수 있습니다. 재미있는 효과음이 포함된 근접 음성 채팅 기능도 제공됩니다.",
@@ -28203,7 +28206,7 @@
    "ko": "text",
    "publisher": "Hitchcock Games",
    "major": false,
-   "reviews": 33003
+   "reviews": 33006
   }
  },
  {
@@ -28211,7 +28214,7 @@
   "name": "팝유컴",
   "url": "https://store.steampowered.com/app/2543180/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "친구들과 함께 색상 변환, 색상 맞추기, 그리고 다양한 신비한 아이템들을 활용해, 미지로 가득한 행성을 탐험해 보세요. 지금, 이 순간 여러분은 신비로운 모험 여행을 떠나 새로운 활력과 희망을 발견하게 될 것입니다!",
@@ -28244,7 +28247,7 @@
    "ko": "text",
    "publisher": "GRYPHLINE",
    "major": false,
-   "reviews": 3451
+   "reviews": 3457
   }
  },
  {
@@ -28252,7 +28255,7 @@
   "name": "Mining Merchant",
   "url": "https://store.steampowered.com/app/3744080/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Mining Merchant는 채굴과 상점 운영을 즐기는 힐링 어드벤처 게임입니다. 낮에는 채굴로 희귀 광석과 보석을 찾고, 밤에는 장신구를 만들어 상점에서 판매하세요. 삼촌의 가게를 혼자 또는 협동 플레이로 재건하고 지진의 비밀을 밝혀내세요.",
@@ -28290,7 +28293,7 @@
    "ko": "text",
    "publisher": "Delayed Victory",
    "major": false,
-   "reviews": 440
+   "reviews": 444
   }
  },
  {
@@ -28298,7 +28301,7 @@
   "name": "Rat Game",
   "url": "https://store.steampowered.com/app/3347910/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "최대 8명이 즐길 수 있는 비대칭 공포 코미디 협동 게임입니다. 레스토랑을 난장판으로 만들려는 쥐 무리가 되거나, 그런 쥐들을 막으려는 셰프가 되어 플레이하세요.",
@@ -28333,7 +28336,7 @@
    "ko": "text",
    "publisher": "Sokpop Collective",
    "major": false,
-   "reviews": 266
+   "reviews": 345
   }
  },
  {
@@ -28341,7 +28344,7 @@
   "name": "Pax Dei",
   "url": "https://store.steampowered.com/app/1995520/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Welcome to a vast, social sandbox MMO inspired by the legends of the medieval era. Here, myths are real, ghosts exist, and magic is unquestioned. Join thousands of players as you explore the land, build your home, forge your reputation, and craft your own stories. What world will you make?",
@@ -28370,7 +28373,7 @@
    "ko": "none",
    "publisher": "Mainframe Industries",
    "major": false,
-   "reviews": 7284
+   "reviews": 7297
   }
  },
  {
@@ -28378,7 +28381,7 @@
   "name": "Granny: Escape Together",
   "url": "https://store.steampowered.com/app/3070520/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "This is a creepy co-op horror game. In which you find yourself locked in a crazy Granny's house. But Granny is not the only danger that awaits you in the house, someone else creepy lives in the basement. You have five days to get out of the house!",
@@ -28410,7 +28413,7 @@
    "ko": "none",
    "publisher": "CreepyToad",
    "major": false,
-   "reviews": 1736
+   "reviews": 1780
   }
  },
  {
@@ -28418,7 +28421,7 @@
   "name": "Down with the Ship",
   "url": "https://store.steampowered.com/app/3523750/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "전략적 자동 대결 게임에서 중무장한 우주선을 설계하세요. 200개 이상의 아이템을 선택하여 선체를 꾸미고 비동기식 PvP에 출전하세요. 각종 함장과 진영을 혼합하여 터무니없는 콤보와 은하계 지배를 이루세요. 뽑고, 구매하고, 배치하고, 기도하세요.",
@@ -28452,12 +28455,14 @@
     "앞서 해보기"
    ],
    "price": 14900,
+   "finalPrice": 9680,
+   "discount": 35,
    "release": "2026-05-15",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/db762aeca69844a088643bd5e04d5b1dc8ac4a19/header.jpg",
    "ko": "none",
    "publisher": "Proxy Studios",
    "major": false,
-   "reviews": 877
+   "reviews": 887
   }
  },
  {
@@ -28465,7 +28470,7 @@
   "name": "MELTY BLOOD: TYPE LUMINA",
   "url": "https://store.steampowered.com/app/1372280/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "TYPE-MOON이 만든 장편 전기 비주얼 노벨, \"월희\"의 세계관 속에서 그려지는 2D 대전 격투 게임 시리즈의 최신작. \"월희 -A piece of blue glass moon-\"의 캐릭터들이 펼치는 싸움 이야기가 지금 다시 막을 올린다――",
@@ -28492,7 +28497,7 @@
    "ko": "text",
    "publisher": "Lasengle Inc.",
    "major": false,
-   "reviews": 9229
+   "reviews": 9243
   }
  },
  {
@@ -28500,7 +28505,7 @@
   "name": "Chivalry 2",
   "url": "https://store.steampowered.com/app/1824220/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "최고의 중세 전장으로 돌아오세요. Chivalry 2는 중세를 배경으로 한 장편 서사 영화 속 전투에서 영감을 받은 1인칭 슬래셔 멀티플레이어 게임입니다. 플레이어들은 당시의 상징적인 시기 속으로 들어가 칼을 맞대고 화살비를 내리며, 공성전에 참여하는 등 다양한 활약을 펼칩니다.",
@@ -28520,12 +28525,14 @@
     "대규모 멀티플레이어"
    ],
    "price": 41000,
+   "finalPrice": 8200,
+   "discount": 80,
    "release": "2022-06-12",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/header.jpg",
    "ko": "text",
    "publisher": "Tripwire Presents",
    "major": false,
-   "reviews": 47590
+   "reviews": 47665
   }
  },
  {
@@ -28533,7 +28540,7 @@
   "name": "Riders Republic",
   "url": "https://store.steampowered.com/app/2290180/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "대규모 멀티플레이어 공간에 뛰어들어보세요! 자전거, 스키, 스노보드, 윙수트를 이용하는 오픈 월드 스포츠 낙원에서 원하는 대로 규칙을 만들거나 없애세요.",
@@ -28561,12 +28568,14 @@
     "스포츠"
    ],
    "price": 45500,
+   "finalPrice": 4550,
+   "discount": 90,
    "release": "2023-06-08",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290180/c384df0cbfeba26c167fab3d30961f3850b17b3d/header.jpg",
    "ko": "text",
    "publisher": "Ubisoft Entertainment",
    "major": true,
-   "reviews": 32342
+   "reviews": 32474
   }
  },
  {
@@ -28574,7 +28583,7 @@
   "name": "Battlefield 4™",
   "url": "https://store.steampowered.com/app/1238860/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "프리미엄 추가 사항으로 전장을 지배하세요",
@@ -28593,12 +28602,14 @@
     "액션"
    ],
    "price": 44000,
+   "finalPrice": 2200,
+   "discount": 95,
    "release": "2020-06-11",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/header.jpg",
    "ko": "text",
    "publisher": "Electronic Arts",
    "major": true,
-   "reviews": 70025
+   "reviews": 70085
   }
  },
  {
@@ -28606,7 +28617,7 @@
   "name": "Isonzo",
   "url": "https://store.steampowered.com/app/1556790/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Ferocious Alpine warfare will test your tactical skills in this authentic WW1 FPS. Battle among the scenic peaks, rugged valleys and idyllic towns of northern Italy. The Great War on the Italian Front is brought to life and elevated to unexpected heights!",
@@ -28643,11 +28654,11 @@
    ],
    "price": 32000,
    "release": "2022-09-13",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/0a5effbfb551f15d935485b88b47775b148888e5/header_alt_assets_6.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/0ca889d5e7b42b03f79eeb61f4b5f5e82ddbf6df/header.jpg",
    "ko": "none",
    "publisher": "BlackMill Games",
    "major": false,
-   "reviews": 14559
+   "reviews": 14573
   }
  },
  {
@@ -28655,7 +28666,7 @@
   "name": "Paladins®",
   "url": "https://store.steampowered.com/app/444090/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Paladins is the ultimate fantasy team-based shooter experience, with over 50 customizable Champions fighting in 5v5 action across a diverse Realm of modes and maps!",
@@ -28686,7 +28697,7 @@
    "ko": "none",
    "publisher": "Hi-Rez Studios",
    "major": false,
-   "reviews": 8711
+   "reviews": 8709
   }
  },
  {
@@ -28694,7 +28705,7 @@
   "name": "Minecraft Legends",
   "url": "https://store.steampowered.com/app/1928870/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "새로운 액션 전략 게임 Minecraft Legends의 비밀을 밝혀내세요. 풍부한 자원과 울창한 생태계를 자랑하는 이곳에 멸망이 코앞까지 다가왔습니다. 약탈자 피글린이 모습을 드러냈습니다. 동맹의 사기를 높이고 전략적인 전투로 이끌어 지상을 구하는 책무는 오로지 당신에게 달렸습니다!",
@@ -28720,7 +28731,7 @@
    "ko": "audio",
    "publisher": "Xbox Game Studios",
    "major": true,
-   "reviews": 2632
+   "reviews": 2635
   }
  },
  {
@@ -28728,7 +28739,7 @@
   "name": "Combat Mission Cold War",
   "url": "https://store.steampowered.com/app/1551160/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "CM Cold War is set in the tipping-point years of a conflict that gripped the world for 45 years. Between 1979-1982, both the NATO and Soviet Warsaw Pact militaries began the shift away from industrialized warfare of the early 20th century and towards the modern digital battlefield of today.",
@@ -28754,7 +28765,7 @@
    "ko": "none",
    "publisher": "Matrix Games",
    "major": false,
-   "reviews": 155
+   "reviews": 156
   }
  },
  {
@@ -28762,7 +28773,7 @@
   "name": "Shadow Fight Arena",
   "url": "https://store.steampowered.com/app/1446890/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Shadow Fight Arena는 장대한 그림자 토너먼트에 참가하는 격투 게임입니다. 영웅을 고르고 자신의 능력을 증명해 보세요!",
@@ -28804,7 +28815,7 @@
   "name": "얀데레 바이러스",
   "url": "https://store.steampowered.com/app/4513060/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "최대 4명이 함께 플레이할 수 있는 온라인 협동 공포 게임입니다. 혼자서, 또는 동료들과 함께 플라토닉 펌프킨을 모아 공포의 얀데레 바이러스의 걸린 소중한 친구를 구하세요.",
@@ -28828,14 +28839,12 @@
     "인디"
    ],
    "price": 7600,
-   "finalPrice": 4940,
-   "discount": 35,
    "release": "2026-09-20",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513060/fdf0d4e1bff33edacf31550e659919536da27035/header_koreana.jpg",
    "ko": "audio",
    "publisher": "Moka Sphere",
    "major": false,
-   "reviews": 233
+   "reviews": 242
   }
  },
  {
@@ -28843,7 +28852,7 @@
   "name": "School 666",
   "url": "https://store.steampowered.com/app/2802820/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "학교 666은 1-4명의 플레이어가 협력하여 생존하는 공포 게임입니다. 올바른 경로를 찾아 이 끝없는 학교에서 발생하는 이상현상으로부터 살아남으세요. 일부 강력한 이상현상이 당신을 그들의 차원으로 끌어낼 것입니다. 당신이 왜 여기 있는지 탐구하고... 죽지 마세요.",
@@ -28873,7 +28882,7 @@
    "ko": "text",
    "publisher": "Lokin",
    "major": false,
-   "reviews": 568
+   "reviews": 570
   }
  },
  {
@@ -28881,7 +28890,7 @@
   "name": "Paranoia Place: Escape Together",
   "url": "https://store.steampowered.com/app/1592290/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "(PARANOIA PLACE)는 1~4인 온라인 협동 생존 호러 게임입니다. 함께 또는 혼자 퍼즐을 풀고, 아이템을 찾고, 피에 굶주린 악마 살인마로부터 도망쳐야 합니다.",
@@ -28912,7 +28921,7 @@
    "ko": "text",
    "publisher": "Bloody Pixel Games",
    "major": false,
-   "reviews": 1590
+   "reviews": 1593
   }
  },
  {
@@ -28920,7 +28929,7 @@
   "name": "바오바오의 아늑한 청소 서비스",
   "url": "https://store.steampowered.com/app/3832380/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "아늑한 2D 고압 세척 시뮬레이션에서 바오바오와 함께 휴식을 즐기세요. 파스텔 톤 환경, 잔잔한 로파이 음악, 스트레스 없는 평화로운 분위기 속에서 플레이할 수 있습니다. 혼자서 또는 최대 3명의 친구와 함께 즐기세요. 조용한 마음과 아늑한 하루를 위한 평화로운 청소 게임입니다.",
@@ -28965,7 +28974,7 @@
   "name": "FINAL FANTASY XV WINDOWS EDITION",
   "url": "https://store.steampowered.com/app/637650/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "최고의 품질과 함께 여정을 떠나세요. 풍부한 보너스 콘텐츠 제공 그리고 울트라 고해상도 그래픽 옵션과 HDR 10을 지원으로 그동안 한 번도 보지 못했던 아름답고 세심하게 제작된 FINAL FANTASY XV를 경험할 수 있습니다.",
@@ -28997,12 +29006,14 @@
     "RPG"
    ],
    "price": 59400,
+   "finalPrice": 17820,
+   "discount": 70,
    "release": "2018-03-06",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637650/header.jpg",
    "ko": "text",
    "publisher": "Square Enix",
    "major": true,
-   "reviews": 45350
+   "reviews": 45382
   }
  },
  {
@@ -29010,7 +29021,7 @@
   "name": "반지의 제왕: 모리아로의 귀환™",
   "url": "https://store.steampowered.com/app/2933130/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "J.R.R. Tolkien가운데땅 제4시대에서 펼쳐지는 유일한 생존 제작 게임. 난쟁이의 고향, 모리아를 되찾는 위대한 여정을 떠나세요. 자동(절차적) 생성되는 세계를 배경으로 탐험하고 제작하고 건설하세요. 솔로 모험가로 플레이하거나 친구와 함께 최대 8인용 협동 게임플레이를 즐겨보세요.",
@@ -29037,7 +29048,7 @@
    "ko": "text",
    "publisher": "North Beach Games",
    "major": false,
-   "reviews": 10383
+   "reviews": 10405
   }
  },
  {
@@ -29045,7 +29056,7 @@
   "name": "Soul Chained",
   "url": "https://store.steampowered.com/app/3544130/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Fight through Purgatory in a janky adventure where you and your friends are ethereally chained together. Wield chain magic, bully enemies with chain physics, and make terrible decisions in this game full of gratuitous amounts of jiggle physics. Built by a solo dev when mom wasn't home.",
@@ -29083,7 +29094,7 @@
    "ko": "none",
    "publisher": "Andrew Nicolaou",
    "major": false,
-   "reviews": 223
+   "reviews": 224
   }
  },
  {
@@ -29091,7 +29102,7 @@
   "name": "메탈 썬더 (Metal Thunder)",
   "url": "https://store.steampowered.com/app/3091340/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "멀티플레이 AC-130 건십 로그라이트. 열화상으로 호송 차량을 사냥하고, 105mm 포탄으로 거리 전체를 무너뜨리고, 전투 중에 강화를 쌓아 무기 전체를 손에 넣으세요. 친구 셋과 분대를 꾸리거나 좀비 무리로부터 성벽을 지키세요. 그들은 당신을 볼 수 없습니다. 당신은 모든 것을 봅니다.",
@@ -29117,11 +29128,11 @@
    ],
    "price": 9000,
    "release": "2026-10-29",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091340/5eaf0609b036dfdc08e175722a2e0eeee7ec07d2/header_alt_assets_3.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091340/65ca0e803b81f4921f814e677e485fdc313b724d/header_koreana.jpg",
    "ko": "audio",
    "publisher": "Dumbbell Games",
    "major": false,
-   "reviews": 694
+   "reviews": 712
   }
  },
  {
@@ -29129,7 +29140,7 @@
   "name": "Sackboy™: A Big Adventure",
   "url": "https://store.steampowered.com/app/1599660/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "PC 버전으로 완벽하게 재창조 PlayStation®의 아이콘 리빅보이가 PC를 통해 거대한 3D 멀티플레이 플랫폼 어드벤처에 뛰어듭니다. 플랫폼 도전으로 가득 찬 장대한 모험. 몰입감 넘치는 조작. 협동, 혼돈, 그리고 재미있는 멀티플레이",
@@ -29159,13 +29170,15 @@
    "genres": [
     "어드벤처"
    ],
-   "price": 58800,
+   "price": 62800,
+   "finalPrice": 20720,
+   "discount": 67,
    "release": "2022-10-27",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599660/header.jpg",
    "ko": "text",
    "publisher": "PlayStation Publishing LLC",
    "major": true,
-   "reviews": 2894
+   "reviews": 2897
   }
  },
  {
@@ -29173,7 +29186,7 @@
   "name": "Aliens: Fireteam Elite",
   "url": "https://store.steampowered.com/app/1549970/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Aliens: Fireteam Elite는 유명한 Alien 유니버스를 배경으로 한 협동 3인칭 생존 게임입니다. 다양한 유형의 제노모프와 싸우고, 계속되는 위협에 맞서 캐릭터와 장비를 커스터마이즈하고, 레벨을 높이세요.",
@@ -29200,7 +29213,7 @@
    "ko": "text",
    "publisher": "Cold Iron Studios",
    "major": false,
-   "reviews": 21782
+   "reviews": 21791
   }
  },
  {
@@ -29208,7 +29221,7 @@
   "name": "Ghost Janitors",
   "url": "https://store.steampowered.com/app/2772990/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Ghost Janitors는 1~4인이 즐길 수 있는 멀티플레이 심리 공포 게임입니다. 당신의 임무는 무엇일까요? 무시무시한 몬스터를 피하면서 유령이 나오는 집을 청소하는 것입니다. 팀과 함께 이 오싹한 도전에 맞설 준비가 되셨나요?",
@@ -29244,7 +29257,7 @@
    "ko": "text",
    "publisher": "Interactive Wave Studio",
    "major": false,
-   "reviews": 1077
+   "reviews": 1081
   }
  },
  {
@@ -29252,7 +29265,7 @@
   "name": "Embr",
   "url": "https://store.steampowered.com/app/1062830/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "혼란스러운 예측 불가 멀티플레이 게임에서 화재 진압을 통해 재미를 느끼고 이윤을 창출하세요. 친구들과 힘을 합쳐 일일 도전을 완수하고 소방 사다리 꼭대기까지 올라 보세요. 영웅이 되는 방법은 한 가지가 아닙니다!",
@@ -29294,7 +29307,7 @@
   "name": "Call of Duty: United Offensive",
   "url": "https://store.steampowered.com/app/2640/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "수상 경력에 빛나는 개발사 Gray Matter Interactive가 Infinity Ward의 Call of Duty™(전세계적으로 80개가 넘는 올해의 게임 상과 50개가 넘는 편집자 선정 게임 상을 받은 대작)의 확장팩인 Call of Duty™: United Offensive™를 발표했습니다. 벌지 전투, 시칠리아 침투, 쿠르스크 전투 등 2차 세계대전의 정점이었던 전투에서 미국, 영국, 러시아 병사 역할을 맡을 수 있습니다. 탱크, 지프차, 모터사이클, 폭격기를 조종하면서 싸울 수 있습니다. 눈과 비를 맞으면서 분대원과 협력하십시오.",
@@ -29308,12 +29321,14 @@
     "액션"
    ],
    "price": 27900,
+   "finalPrice": 20920,
+   "discount": 25,
    "release": "2006-10-13",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2640/header.jpg",
    "ko": "none",
    "publisher": "Activision",
    "major": true,
-   "reviews": 2302
+   "reviews": 2303
   }
  },
  {
@@ -29321,7 +29336,7 @@
   "name": "액션 대마인",
   "url": "https://store.steampowered.com/app/1335200/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "초인 닌자 특무중대를 통솔하여, 악의 세력에 맞서 싸워라! 대마인 시리즈의 매력적인 캐릭터들이 선보이는 근미래 닌자 액션 RPG!",
@@ -29357,7 +29372,7 @@
   "name": "iRacing",
   "url": "https://store.steampowered.com/app/266410/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "We are the world’s premier motorsports racing game. An iRacing membership provides entry into the newest form of motorsport: internet racing. Internet racing is a fun, easy, and inexpensive way for race fan and gamers alike to enjoy the thrill of the racetrack from the comfort of their home.",
@@ -29381,14 +29396,12 @@
     "스포츠"
    ],
    "price": 12570,
-   "finalPrice": 5030,
-   "discount": 60,
    "release": "2015-01-12",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg",
    "ko": "none",
    "publisher": "iRacing.com Motorsport Simulations",
    "major": false,
-   "reviews": 6176
+   "reviews": 6216
   }
  },
  {
@@ -29396,7 +29409,7 @@
   "name": "Zaccaria Pinball",
   "url": "https://store.steampowered.com/app/444930/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Play free and try tables in trial mode with Zaccaria Pinball, featuring 175+ tables, including 40+ officially licensed from Zaccaria was founded by three brothers: Marino, Franco, & Natale. Zaccaria was one of the three largest pinball manufacturers in the world, next to Bally & Williams.",
@@ -29442,7 +29455,7 @@
   "name": "GWENT: The Witcher Card Game",
   "url": "https://store.steampowered.com/app/1284410/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "장엄한 온라인 PvP 카드 배틀에서 위쳐 세계의 강력한 영웅들을 지휘해 보세요!",
@@ -29485,7 +29498,7 @@
   "name": "Partyforge Idle",
   "url": "https://store.steampowered.com/app/5166800/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "전선에 원정대를 배치하고 성장을 맡기는 방치형 RPG입니다. 한 파티만 직접 지휘하고, 다른 파티는 주둔에 맡기십시오. 상태 이상을 연계해 큰 일격을 가합니다. 게임을 꺼 두어도 원정은 이어집니다.",
@@ -29502,8 +29515,6 @@
     "RPG"
    ],
    "price": 7600,
-   "finalPrice": 6080,
-   "discount": 20,
    "release": "2026-09-20",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5166800/71c4b2854a117cddbebc48ccf4c5ab9c408b646c/header.jpg",
    "ko": "text",
@@ -29516,7 +29527,7 @@
   "name": "バトルスピリッツ クロスオーバー",
   "url": "https://store.steampowered.com/app/2752470/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "「バトルスピリッツ」をデジタルで！1,900種類以上のカードを収録！ゲームならではの演出で体感せよ！虹宮トーヤの新たなストーリーをはじめ、白熱のオンライン対戦はもちろん、2つのデッキを使い対戦する「ダッグバトル」や「バトルスキークイズ」など、バトスピファンが楽しめる内容も充実しています。丁寧なチュートリアルで、カードゲーム初心者や「バトルスピリッツ」が久しぶりという方も安心！",
@@ -29551,11 +29562,11 @@
   "name": "CarX Drift Racing Online 2",
   "url": "https://store.steampowered.com/app/1826420/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "A drifting simulator featuring an authentic competition format and a judging system inspired by modern drift championships. Enhanced and updated physics, developed in collaboration with the CarX Motorsport team.",
-   "text": "Development \n Roadmap \n 게임 정보 A new entry in the CarX Drift Racing series features a real competition format and a judging system of modern drift championships. Physics\n The new realistic physics and tire model are a perfect fit for steering wheel setups and other game controllers. To prepare for multiplayer tournaments, you will progress from a beginner drift racer to a professional pilot, competing in world drift series. Multiplayer Duels, TOP 32 and freeride in online rooms . Skill-based matchmaking and a rating system in online events for your comfortable experience. For us, drift is primarily a sport. To launch a series of esport tournaments around the world is the primary goal of this project. Customization An advanced tuning system and customization . Suspension, gearbox, ECU, and other important parts of a racecar are upgradeable, tunable, and finely customizable. The damage system adds an extra layer of realism and immersion. Losing a bumper during a close call or leaving dents in a leader’s door is now possible! Locations The game features laser-scanned licenced tracks: Ebisu Circuit, Fuji Speedway  & Gunma Cycle Sports Center  in Japan, Nürburgring Nordschleife in Germany, Dominion Raceway in USA &  ADM Raceway  in Russia. Career You will start your drifting career in the drift school , learning the basics and mastering advanced drift control. In Career mode , you’ll rise through the ranks - from local street contests to elite world championships. Compete in racing",
+   "text": "Development \n Roadmap \n 게임 정보 A new entry in the CarX Drift Racing series features a real competition format and a judging system of modern drift championships. Physics\n The new realistic physics and tire model are a perfect fit for steering wheel setups and other game controllers. To prepare for multiplayer tournaments, you will progress from a beginner drift racer to a professional pilot, competing in world drift series. Multiplayer Duels, TOP 32 and freeride in online rooms . Skill-based matchmaking and a rating system in online events for your comfortable experience. For us, drift is primarily a sport. To launch a series of esport tournaments around the world is the primary goal of this project. Customization An advanced tuning system and customization . Suspension, gearbox, ECU, and other important parts of a racecar are upgradeable, tunable, and finely customizable. The damage system adds an extra layer of realism and immersion. Losing a bumper during a close call or leaving dents in a leader’s door is now possible! Damage System The detailed vehicle damage system makes every race even more realistic. Collisions with other cars and obstacles leave visible marks on the bodywork, from scratches and dents to damaged and detached parts. Locations The game features laser-scanned licenced tracks: Ebisu Circuit, Fuji Speedway  & Gunma Cycle Sports Center  in Japan, Nürburgring Nordschleife in Germany, Dominion Raceway in USA &  ADM Raceway  in Russia. Career You will start you",
    "cats": [
     "싱글 플레이어",
     "멀티플레이어",
@@ -29588,12 +29599,14 @@
     "앞서 해보기"
    ],
    "price": 27000,
+   "finalPrice": 21600,
+   "discount": 20,
    "release": "2026-05-07",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1826420/0ef496f5836f86b44ea9c29798ae828f9bd0762e/header_alt_assets_3.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1826420/d7bc89e5192af4a2676f531a8d67bc53a480a92d/header_alt_assets_3.jpg",
    "ko": "none",
    "publisher": "CarX Technologies, LLC",
    "major": false,
-   "reviews": 1432
+   "reviews": 1449
   }
  },
  {
@@ -29601,7 +29614,7 @@
   "name": "주술회전 전화향명",
   "url": "https://store.steampowered.com/app/1877020/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "『주술회전』에 등장하는 친숙한 주술사와 주령들의 \"주술\"을 사용하여 파트너와 함께 \"높은 곳\"을 목표로 하는 2vs2 주술 연계 액션 게임.",
@@ -29632,7 +29645,7 @@
    "ko": "text",
    "publisher": "Bandai Namco Entertainment Inc.",
    "major": true,
-   "reviews": 3097
+   "reviews": 3099
   }
  },
  {
@@ -29640,7 +29653,7 @@
   "name": "Gaia Project",
   "url": "https://store.steampowered.com/app/1516400/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Gaia Project는 각 플레이어가 Terra Mystica 은하계에서 평화롭게 살아가는 14개의 종족 중 하나를 선택하여 확장하고 발전시키는 게임입니다. 모든 종족은 생존을 위해 각기 다른 환경적 조건을 필요로 합니다. 그래서 모든 종족들은 다른 행성을 자신들에게 적합한 행성으로 변환하는 테라포밍 기술을 발전시켰습니다.Feuerland Verlag가 제작한 보드게임 Gaia Project의 공식 디지털 버전입니다.",
@@ -29664,8 +29677,6 @@
     "전략"
    ],
    "price": 26000,
-   "finalPrice": 9100,
-   "discount": 65,
    "release": "2021-05-31",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1516400/header.jpg",
    "ko": "text",
@@ -29679,7 +29690,7 @@
   "name": "Niffelheim",
   "url": "https://store.steampowered.com/app/351100/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "그대의 아바타는 용감한 전사였으나 전투 중 사망하고 말았다. 그러나 아스가르드의 평화를 능히 누렸어야 할 그 영혼은 거친 Niffelheim 세계에 갇혀 있다. 적이 가득한 세상에서 살아남아 이웃 땅을 샅샅이 뒤지고 위험한 지하 감옥을 탐험하며 발할라로 가는 길을 찾아야 한다.",
@@ -29722,7 +29733,7 @@
   "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD",
   "url": "https://store.steampowered.com/app/234670/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Live the 4th Great Ninja War and its overpowering boss fights or defy your friends in ultra dynamic online and offline ninja confrontations!",
@@ -29751,7 +29762,7 @@
    "ko": "none",
    "publisher": "BANDAI NAMCO Entertainment",
    "major": true,
-   "reviews": 10783
+   "reviews": 10790
   }
  },
  {
@@ -29759,7 +29770,7 @@
   "name": "Horn of the Warlord",
   "url": "https://store.steampowered.com/app/4380120/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Lead a Viking clan to glory in this accessible turn-based conquest strategy game. Expand your kingdom, raise armies, besiege castles and outsmart a challenging AI across handcrafted worlds built for endless replayability.",
@@ -29796,11 +29807,11 @@
   "name": "Amazing Frog?",
   "url": "https://store.steampowered.com/app/332570/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Amazing Frog? is an openworld, sandbox, physics game. Grand Frog Auto in Swindon, with farting ragdoll frogs.",
-   "text": "***COLLECT (OR KILL) WILDLIFE FOR REWARDS IN THE NEW UPDATE*** Amazing Frog? is an openworld, sandbox, GTA style version of Swindon. Use bonkers physics to throw ridiculous, farting ragdoll frogs all around town and beyond the city walls. Explore Swindonshire and unlock new worlds, skins, weapons, vehicles and challenges in the Quest for the Magical Mystery Toilet! Start the fun in single player or play up to 4 player split-screen with your friends. Play co-op or combat or just do your own thing - its up to you!  Its a Big Big world out there, with lots to discover, you can even explore the moon. Watch out for any dangerous creatures! Also this is a little reminder that not all frogs want to be your friend. It doesnt hurt to get very rich, so load up the Bank of Swindon. Also, you never know what we might add next and what items may come in handy. So, collect everything from berries and other produce, zombie flesh, jam jars, money, skulls, fish or dead pigeons ...EVERYTHING! (… there are so many items you can put in your inventory) Don’t forget to use a vacuum for faster bulk collection! You will find there are lots of ways to earn money in Swindonshire! You can also try driving a Taxi or Collecting trash on ' Bin Day '. Look out for other Jobs around Swindon. If it fits, it can flush! Try Flushing everything to discover the transformative effects of the Magical Mystery Toilet. Repeat flushes can intensify the magic ( just like in real life ).",
+   "text": "The original open-world, ragdoll sandbox physics extravaganza! Grand Frog Auto,  Swindon  (with farting ragdoll frogs) Use bonkers physics to throw ridiculous, farting ragdoll frogs all around town and beyond the city walls. Its a living world full of wonder  Its a Big Big world out there, with lots to discover, but you don't have to do it alone! Work together to unlock things faster! 1-4 players Local split-screen co-op  Couch Co-op for days Play co-op or combat or just do your own thing - its up to you!  Film each other doing crazy stunts Don’t forget to use a vacuum for faster bulk collection! Different items unlock different prizes and costumes at different locations Collect everything from berries, apples, oranges, acorns, zombie flesh, jam jars, ammo, bombs, money, skulls, fish or dead pigeons, live pigeons, live penguins, cockroaches, crabs, jelly fish, dried crispy flies, rabbits, bats, rubber ducks, trophies, cats, sweets...  \n Collect EVERYTHING!  too many items to list!   You never know what might come in handy. There are lots of ways to earn cash around Swindon Shire Work in  Gardening, Rubbish Collection, Crazy Taxi Missions, Ice Cream Vendor, Vermin Exterminator , Or Kill the RICH! and take their money. Earn your cash how you choose! Look out for other Jobs around Swindon. If it fits, it can flush! Try Flushing everything to discover the transformative effects of the Magical Mystery Toilet. Repeat flushes can intensify the magic ( just like in real life ).",
    "cats": [
     "싱글 플레이어",
     "멀티플레이어",
@@ -29822,12 +29833,14 @@
     "앞서 해보기"
    ],
    "price": 21500,
+   "finalPrice": 10750,
+   "discount": 50,
    "release": "2014-11-21",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332570/6d661c0b1c15e3f23c62b6926c5a6e08261f261d/header.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332570/822e30280a7320a70c6ed05cb7b0eb7e504b33c8/header_alt_assets_7.jpg",
    "ko": "none",
    "publisher": "Fayju",
    "major": false,
-   "reviews": 11241
+   "reviews": 11253
   }
  },
  {
@@ -29835,7 +29848,7 @@
   "name": "Beastieball",
   "url": "https://store.steampowered.com/app/1864950/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "A turn-based volleyball RPG where you coach a sports team of Beasties! Your Beasties' relationships grow and change, unlocking new abilities and combo plays!",
@@ -29873,7 +29886,7 @@
    "ko": "none",
    "publisher": "Klei Publishing",
    "major": false,
-   "reviews": 1518
+   "reviews": 1524
   }
  },
  {
@@ -29881,7 +29894,7 @@
   "name": "A Game of Thrones: The Board Game - Digital Edition",
   "url": "https://store.steampowered.com/app/1075190/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "A Game of Thrones: The Board Game – Digital Edition is the digital adaptation of the top-selling strategy board game from Fantasy Flight Games.",
@@ -29898,8 +29911,6 @@
     "전략"
    ],
    "price": 21500,
-   "finalPrice": 10750,
-   "discount": 50,
    "release": "2020-10-06",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075190/header.jpg",
    "ko": "none",
@@ -29913,7 +29924,7 @@
   "name": "The Lord of the Rings Online™",
   "url": "https://store.steampowered.com/app/212500/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Join the world’s greatest fellowship of players in the award-winning online re-creation of J. R. R. Tolkien’s legendary Middle-earth.",
@@ -29947,7 +29958,7 @@
   "name": "Richman 11",
   "url": "https://store.steampowered.com/app/2074800/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Richman 11 is a casual game in Monopoly genre, it is the 11th episode of the franchise. In the game, players could select maps, characters and group play, creating free play or challenge play. Try to earn money and win the play by investing properties, using cards, etc.",
@@ -29978,7 +29989,7 @@
    "ko": "none",
    "publisher": "SOFTSTAR ENTERTAINMENT",
    "major": false,
-   "reviews": 2104
+   "reviews": 2107
   }
  },
  {
@@ -29986,7 +29997,7 @@
   "name": "It Has My Face",
   "url": "https://store.steampowered.com/app/2506530/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "당신의 클론이 당신을 죽이기 전에 처치하세요! 이 샌드박스 공포 게임에서 당신은 숨고 싸우고 사냥하며 생물학적 공포를 헤쳐 나가고, 소름끼치는 클론들의 섬뜩한 이야기를 파헤쳐 가며 진정한 편집증이 무엇인지 경험하게 됩니다.",
@@ -30018,7 +30029,7 @@
    "ko": "none",
    "publisher": "Behaviour Interactive Inc.",
    "major": false,
-   "reviews": 627
+   "reviews": 628
   }
  },
  {
@@ -30026,7 +30037,7 @@
   "name": "Toy Scrappers",
   "url": "https://store.steampowered.com/app/3457790/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Toy Scrappers is a thrilling chase-based horror game that can be played with up to 16 players. Some players take on the role of a killer attempting to capture others. Escape the madness and stay alive!",
@@ -30061,7 +30072,7 @@
   "name": "스매시 레전드",
   "url": "https://store.steampowered.com/app/1352080/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "스매시 레전드를 무료로 플레이 하세요. 다양한 레전드들과 경쾌한 전투를 즐기는 PVP 액션 게임입니다. 3vs3팀전부터 개인전까지 원하는 모드를 친구들과 함께 즐겨보세요.",
@@ -30095,7 +30106,7 @@
   "name": "바둑",
   "url": "https://store.steampowered.com/app/3285490/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "클래식 보드 게임 (Baduk)",
@@ -30133,7 +30144,7 @@
   "name": "쇼기",
   "url": "https://store.steampowered.com/app/3041100/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "일본의 전략 보드 게임, 쇼기를 완벽하게 마스터하세요!",
@@ -30169,7 +30180,7 @@
   "name": "Chinese Chess - Xiangqi",
   "url": "https://store.steampowered.com/app/3430880/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Master Xiangqi anytime! Thrilling games, custom boards & challenging AI.",
@@ -30207,7 +30218,7 @@
   "name": "Lotwick Hill",
   "url": "https://store.steampowered.com/app/5288610/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "다음 손님은 경쟁자의 가게로 들어갈지도 모릅니다. 항구 도시 경영 게임에서 상품을 채우고, 가격을 정하고, 부동산에 입찰하며 사업을 키우세요. AI 또는 온라인 친구들과 경쟁하고, 도전 모드를 공략하거나 자유 모드에서 나만의 속도로 성장하세요.",
@@ -30225,7 +30236,7 @@
     "시뮬레이션",
     "전략"
    ],
-   "price": 24000,
+   "price": 7900,
    "release": "2026-10-16",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5288610/8800dae287794fb4ac834c9ac142aab92d962e5a/header.jpg",
    "ko": "text",
@@ -30238,7 +30249,7 @@
   "name": "Bang Bang Barrage",
   "url": "https://store.steampowered.com/app/3003460/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "위험이 도사리는 죽음의 바다... 고작 콩알🔫😮 하나로 크툴루를 상대한다고?! 그대는 홀로 맞설 것인가, 전우와 함께 이겨낼 것인가? (본 게임은 1~4인 로컬/온라인 멀티플레이를 지원합니다)",
@@ -30273,7 +30284,7 @@
    "ko": "text",
    "publisher": "Spiral Up Games",
    "major": false,
-   "reviews": 782
+   "reviews": 786
   }
  },
  {
@@ -30281,7 +30292,7 @@
   "name": "TDS - Tower Defense Strategy",
   "url": "https://store.steampowered.com/app/2392280/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "타워 ▪ 디펜스 ▪ 전략. 선박을 조종하세요. 독특하고 깊이 있는 타워 세트를 활용하세요. 끊임없이 변화하는 방어를 구축하세요. 친구와 함께 플레이하세요. 모든 수를 동원하여 원천을 보호하세요. 완전한, 실시간 전략 하이브리드 타워 디펜스 게임입니다.",
@@ -30325,7 +30336,7 @@
   "name": "Desktop Duck",
   "url": "https://store.steampowered.com/app/3901850/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "바탕화면에도 오리 한 마리쯤은 있어야죠. 화면 속에 살고, 창 위에 앉고, 여러분에게 반응해요. 함께 모자를 모아 거래하고, 판매하고, 자랑하세요.",
@@ -30350,7 +30361,7 @@
    "ko": "text",
    "publisher": "CenterPoint Gaming",
    "major": false,
-   "reviews": 202
+   "reviews": 234
   }
  },
  {
@@ -30358,7 +30369,7 @@
   "name": "Eterspire",
   "url": "https://store.steampowered.com/app/2144600/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Eterspire는 실력과 노력이 성장을 결정하는, 친근하고 매력적인 클래식 스타일 MMORPG입니다. 장비를 파밍하고, 생동감 넘치는 Aetera의 세계를 탐험하고, 2주마다 추가되는 새로운 콘텐츠를 즐기며, PC와 모바일 크로스플레이를 지원하는 무료 MMO에서 따뜻한 커뮤니티에 함께하세요.",
@@ -30403,7 +30414,7 @@
   "name": "Sort The Bunnies",
   "url": "https://store.steampowered.com/app/5233490/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "1–4명이 즐기는 아늑한 정리 시뮬레이터. 500종의 토끼를 분류하고 알록달록한 선반을 채우며, 어질러진 가게를 자꾸만 바라보고 싶은 컬렉션으로 바꿔 보세요. 정리를 도와줄 업그레이드를 해금하고, 틈틈이 귀여운 장난도 즐겨 보세요.",
@@ -30440,7 +30451,7 @@
    "release": "2026-10-27",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5233490/7c240b718d6fc4ae3cc28c64cef4e29231765d39/header.jpg",
    "ko": "text",
-   "publisher": "Mr. Bunny",
+   "publisher": " PiqFocus Interactive",
    "major": false
   }
  },
@@ -30449,7 +30460,7 @@
   "name": "Perennial Order",
   "url": "https://store.steampowered.com/app/1411020/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Perennial Order는 자연에 감염된 짐승으로 들끓는 어두운 분위기의 암흑시대 세계를 배경으로 한 2D 식물 호러 보스 러시 게임입니다. 홀로, 또는 친구와 함께 사실적인 회화 스타일의 이야기로 가득한 으스스한 땅을 탐험하세요.",
@@ -30484,7 +30495,7 @@
    "ko": "text",
    "publisher": "SOEDESCO",
    "major": false,
-   "reviews": 706
+   "reviews": 708
   }
  },
  {
@@ -30492,7 +30503,7 @@
   "name": "Try To Drive",
   "url": "https://store.steampowered.com/app/3621700/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "두 명을 위한 독특한 협동 게임에서 진정한 팀이 되어보세요! 하나의 자전거를 조종하고 가장 어려운 도전을 극복하여 정상에 도달하세요. 점프하고 회피하세요 — 여러분이 어떤 높이도克服할 수 있다는 것을 증명할 준비가 되셨나요?",
@@ -30527,7 +30538,7 @@
    "ko": "text",
    "publisher": "Red Core Games",
    "major": false,
-   "reviews": 193
+   "reviews": 194
   }
  },
  {
@@ -30535,7 +30546,7 @@
   "name": "Goblin Cleanup",
   "url": "https://store.steampowered.com/app/2748340/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "던전을 청소하고 재정비해야 하는 협동 청소 게임입니다. 자자, 다음 모험가들이 던전을 완료하러 오기 전에 서둘러 주세요!",
@@ -30567,7 +30578,7 @@
    "ko": "text",
    "publisher": "Team17",
    "major": false,
-   "reviews": 1656
+   "reviews": 1662
   }
  },
  {
@@ -30575,7 +30586,7 @@
   "name": "ibb & obb",
   "url": "https://store.steampowered.com/app/95400/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "ibb & obb is a two player cooperative game set in a puzzle filled world where gravity goes both up and down. You can only succeed by working closely together. Find a friend for some true local co-op couch fun or match up online.",
@@ -30604,7 +30615,7 @@
    "ko": "none",
    "publisher": "Sparpweed",
    "major": false,
-   "reviews": 4071
+   "reviews": 4072
   }
  },
  {
@@ -30612,7 +30623,7 @@
   "name": "Dead Rising 2: Off the Record",
   "url": "https://store.steampowered.com/app/45770/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "보도 사진가이자 Dead Rising 윌라멧 사건의 영웅인 프랭크 웨스트로 주인공이 되어 포춘 시티 발병의 재해석을 경험하세요.",
@@ -30637,7 +30648,7 @@
    "ko": "text",
    "publisher": "Capcom",
    "major": true,
-   "reviews": 2758
+   "reviews": 2760
   }
  },
  {
@@ -30645,7 +30656,7 @@
   "name": "Dead Rising 4",
   "url": "https://store.steampowered.com/app/543460/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Dead Rising 4는 좀비 게임 프랜차이즈 사상 가장 높은 인기를 자랑하는 시리즈의 최신작으로, 새로운 사건에 휘말린 Frank West가 다시 활약합니다. 상상을 뛰어넘는 무기와 캐릭터 커스터마이징은 물론, 새로운 유형의 좀비와 EXO 슈트를 포함한 새로운 기능 등, Dead Rising 4가 제공하는 장대한 오픈 월드 세상에서 살아남기 위해 싸우고, 물건을 찾아 돌아다니면서 심장이 두근거리는 플레이를 경험하십시오.",
@@ -30671,7 +30682,7 @@
    "ko": "text",
    "publisher": "Capcom",
    "major": true,
-   "reviews": 4806
+   "reviews": 4808
   }
  },
  {
@@ -30679,7 +30690,7 @@
   "name": "Forsworn",
   "url": "https://store.steampowered.com/app/3560360/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "파티가 신을 베어 넘길 때까지, 사기적인 시너지를 쌓아 올려라. 이 턴제 택틱스 로그라이트에서 영웅 파티를 지휘하고, 강력한 시너지를 구축하며, 런을 거듭할수록 영웅을 성장시켜라. 솔로 또는 협동으로 신들에게 맞서라. 패배는 또 다른 시작일 뿐이다.",
@@ -30714,11 +30725,11 @@
    "finalPrice": 13600,
    "discount": 20,
    "release": "2026-09-10",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/b5bbfe4a7ee3075f4c8dcfb7a4f7ff8f5453c1cc/header_alt_assets_1.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/2093264c66c2e9f05db245dbed06b25da4f95ae7/header.jpg",
    "ko": "audio",
    "publisher": "Resummon Studios LLC",
    "major": false,
-   "reviews": 452
+   "reviews": 473
   }
  },
  {
@@ -30726,7 +30737,7 @@
   "name": "Temtem: Swarm",
   "url": "https://store.steampowered.com/app/2510960/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "과연 군단으로부터 살아남을 수 있을까요? 이 생존 게임에서는 막강한 능력을 잠금 해제하고 업그레이드하며, 템템을 찾아 포획해 진화시킬 수 있습니다. 또 적을 압도할 새로운 전략을 찾아내고 대규모 보스와의 전투에 참여할 수도 있죠! 혼자서 또는 친구와 플레이하거나, 매치 메이킹을 통해 최대 3명으로 구성된 팀을 이루고 최강의 시너지를 발휘해 보세요!",
@@ -30766,7 +30777,7 @@
    "ko": "text",
    "publisher": "Crema",
    "major": false,
-   "reviews": 2504
+   "reviews": 2506
   }
  },
  {
@@ -30774,7 +30785,7 @@
   "name": "STORROR Parkour PRO",
   "url": "https://store.steampowered.com/app/3125250/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "도시는 네 놀이터다. 리스크는 진짜고, 길은 전부 네 선택. 리얼한 물리 기반으로 구현된 찐 어반 환경 속으로 다이브해라. 움직임을 마스터하고, 본능에 도전하면서, 무한한 크리에이티브 동선을 짤 수 있게 설계된 도시를 마음껏 가로질러라.",
@@ -30807,7 +30818,7 @@
    "ko": "text",
    "publisher": "Hole in the Sleeve Game Studios",
    "major": false,
-   "reviews": 1644
+   "reviews": 1649
   }
  },
  {
@@ -30815,7 +30826,7 @@
   "name": "Saleblazers",
   "url": "https://store.steampowered.com/app/1419850/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "1~8명이 상점을 운영하는 어드벤처 게임입니다. 요리하고, 낚시하고, 싸우고, 물건을 팔 수 있는 마법의 섬을 탐험해보세요!",
@@ -30860,7 +30871,7 @@
    "ko": "text",
    "publisher": "AIRSTRAFE INTERACTIVE",
    "major": false,
-   "reviews": 1994
+   "reviews": 1998
   }
  },
  {
@@ -30868,7 +30879,7 @@
   "name": "Sniper Ghost Warrior 3",
   "url": "https://store.steampowered.com/app/368070/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "현대전을 배경으로 하는 최고의 밀리터리 FPS 게임과 함께 적진 깊숙이 침투하십시오. 여러분은 러시아 국경 근처의 조지아에 투입된 미군 스나이퍼의 역할을 수행해야 합니다. 오픈 월드 내에서 여러분은 임무를 완수하기 위해 여러분만의 경로를 선택해야 합니다.",
@@ -30887,12 +30898,14 @@
     "액션"
    ],
    "price": 21000,
+   "finalPrice": 2100,
+   "discount": 90,
    "release": "2017-04-24",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368070/header.jpg",
    "ko": "text",
    "publisher": "CI Games",
    "major": false,
-   "reviews": 15229
+   "reviews": 15241
   }
  },
  {
@@ -30900,7 +30913,7 @@
   "name": "Far Cry® New Dawn",
   "url": "https://store.steampowered.com/app/939960/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "핵으로 인한 전 세계적인 대재앙이 발생한 지 17년, 급격하게 변한 종말 이후 몬태나 Hope County로 오십시오. 남겨진 마지막 자원을 노리는 노상강도에 대항해 싸우십시오.",
@@ -30934,7 +30947,7 @@
    "ko": "text",
    "publisher": "Ubisoft",
    "major": true,
-   "reviews": 32475
+   "reviews": 32527
   }
  },
  {
@@ -30942,7 +30955,7 @@
   "name": "Supreme Commander: Forged Alliance",
   "url": "https://store.steampowered.com/app/9420/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "The last days of man are at hand.. Two years after the Infinite War the once great warring nations now lie in ruins, and humanity’s hope for a brighter future is nothing but a bitter memory. A new, seemingly unstoppable enemy, supported by the zealots of The Order, now seeks to eradicate mankind: UEF, Aeon Loyalist, and Cybran alike.",
@@ -30957,12 +30970,14 @@
     "전략"
    ],
    "price": 14000,
+   "finalPrice": 2800,
+   "discount": 80,
    "release": "2011-09-28",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9420/header.jpg",
    "ko": "none",
    "publisher": "Square Enix",
    "major": true,
-   "reviews": 9988
+   "reviews": 9994
   }
  },
  {
@@ -30970,7 +30985,7 @@
   "name": "TIEBREAK – GRAND SLAM EDITION",
   "url": "https://store.steampowered.com/app/2264340/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "TIEBREAK - GRAND SLAM EDITION에서는 150명 이상의 공식 라이선스 프로 선수들을 상대로 100개가 넘는 공식 대회에 참가할 수 있습니다. 호주 오픈, 롤랑가로스, 윔블던, US 오픈을 포함한 ATP 및 WTA 투어 전체를 경험해 보세요.",
@@ -30997,7 +31012,7 @@
    "ko": "text",
    "publisher": "Nacon",
    "major": false,
-   "reviews": 685
+   "reviews": 686
   }
  },
  {
@@ -31005,7 +31020,7 @@
   "name": "Spirit Island",
   "url": "https://store.steampowered.com/app/1236720/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Become the spirits of the land, and defend the island from colonizing Invaders spreading blight and destruction! Your spirits work with the native islanders to increase your power and drive the invading colonists from your island in this strategic area-control game.",
@@ -31031,14 +31046,12 @@
     "전략"
    ],
    "price": 27000,
-   "finalPrice": 10800,
-   "discount": 60,
    "release": "2020-07-29",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1236720/header.jpg",
    "ko": "none",
    "publisher": "Handelabra Games Inc.",
    "major": false,
-   "reviews": 1580
+   "reviews": 1586
   }
  },
  {
@@ -31046,7 +31059,7 @@
   "name": "Easy Red 2",
   "url": "https://store.steampowered.com/app/1324780/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Experience massive battles with infantry, tanks, artillery, and aircraft on large destructible open-world maps. Equip yourself, coordinate with your squad, and fight through World War II in singleplayer, co-op, or multiplayer!",
@@ -31085,14 +31098,12 @@
     "전략"
    ],
    "price": 9650,
-   "finalPrice": 6270,
-   "discount": 35,
    "release": "2022-01-06",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/3363888c8b58063e10a996b289611042c587ec7c/header.jpg",
    "ko": "none",
    "publisher": "Corvostudio di Amadei Marco",
    "major": false,
-   "reviews": 15076
+   "reviews": 15239
   }
  },
  {
@@ -31100,7 +31111,7 @@
   "name": "스타 헌터 - 인피니트 라그랑주",
   "url": "https://store.steampowered.com/app/1755920/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "넷이즈 최초의 성간 전술 및 보물 쟁탈 게임으로, 몰입감 있는 그래픽과 간단하고 이해하기 쉬운 콘텐츠로 상상력 넘치는 미래 성간 세계를 구현했습니다. 은하계의 한구석에서, 성간 헌터인 당신은 함대를 통제하여 다양한 현상금 협약과 퀘스트를 수락하고, 광활무변한 우주 환경으로 들어가 고용주를 위해 신비한 아이템을 찾고, 특정 타깃을 탐색하며, 미지의 영역에서 보물을 찾고 비밀을 탐색합니다. 무한 가능성이 있는 여기에는 별들 외에 무엇을 발견하게 될까요? 오직 당신만이 이 질문에 답할 수 있습니다.",
@@ -31132,7 +31143,7 @@
   "name": "AI Roguelite",
   "url": "https://store.steampowered.com/app/1889620/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "World's first RPG in which all entities are AI-generated and all game mechanics are AI-directed.",
@@ -31157,7 +31168,7 @@
    "ko": "text",
    "publisher": "Max Loh",
    "major": false,
-   "reviews": 617
+   "reviews": 619
   }
  },
  {
@@ -31165,7 +31176,7 @@
   "name": "Nioh 2 – The Complete Edition",
   "url": "https://store.steampowered.com/app/1325200/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "도적이 들끓고 요괴들이 횡행하는 황폐한 전국시대를 무대로 사투를 벌이는 다크 전국 액션 RPG입니다. 새로운 배틀이 가능해지는 \"요괴화\", 흉측한 모습으로 공격하는 사악한 요괴들과 그들이 만들어낸 \"영암\"의 세계 등, 새로운 요소를 더하여 손맛과 달성감이 더욱 깊어졌습니다. 정통 진화한 \"전국 하드코어 게임\"을 즐겨 주십시오.",
@@ -31193,12 +31204,14 @@
     "RPG"
    ],
    "price": 54800,
+   "finalPrice": 21920,
+   "discount": 60,
    "release": "2021-02-05",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325200/header.jpg",
    "ko": "text",
    "publisher": "KOEI TECMO GAMES CO., LTD.",
    "major": true,
-   "reviews": 34075
+   "reviews": 34088
   }
  },
  {
@@ -31206,7 +31219,7 @@
   "name": "Generation Zero®",
   "url": "https://store.steampowered.com/app/704270/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Generation Zero는 파괴적인 기계 적들과 게릴라전을 벌이는 잠입 액션 슈터입니다. 스웨덴 냉전 시대에서 영감을 받은 광활한 오픈 월드 지도를 탐험하고, 혼자 또는 최대 3명의 친구와 함께 원활한 협동 플레이를 통해 저항군에 합류해 보세요.",
@@ -31232,7 +31245,7 @@
    "ko": "none",
    "publisher": "Avalanche Studios",
    "major": false,
-   "reviews": 29246
+   "reviews": 29261
   }
  },
  {
@@ -31240,7 +31253,7 @@
   "name": "Disciples: Liberation",
   "url": "https://store.steampowered.com/app/1287840/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Disciples: Liberation is a mature, dark fantasy strategy RPG with turn-based combat. Liberate the land of Nevendaar and uncover the endless stories hidden within this richly detailed world where every decision has a consequence, and every wrong move could be deadly.",
@@ -31266,7 +31279,7 @@
    "ko": "text",
    "publisher": "Kalypso Media",
    "major": false,
-   "reviews": 2720
+   "reviews": 2721
   }
  },
  {
@@ -31274,7 +31287,7 @@
   "name": "Element TD 2 - Tower Defense",
   "url": "https://store.steampowered.com/app/1018830/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Element TD 2에서 강력한 원소를 조합하고 고유한 타워를 건설해 보십시오. 몰려오는 적에 맞서 당신의 방어 능력을 선보이십시오. 누가 더 원소를 잘 다룰 수 있는지 다른 사람과 겨뤄보거나 다른 사람과 협력해 적을 무찌르십시오.",
@@ -31312,7 +31325,7 @@
   "name": "Pure Badminton",
   "url": "https://store.steampowered.com/app/2591310/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Pure Badminton은 가장 현실적인 배드민턴 시뮬레이션 게임입니다.빠르고 기술적이고 전략적인 게임에서 배드민턴의 감각을 경험해보세요.",
@@ -31321,8 +31334,10 @@
     "싱글 플레이어",
     "멀티플레이어",
     "PvP",
+    "온라인 PvP",
     "스크린 공유 및 분할 PvP",
     "협동",
+    "온라인 협동",
     "스크린 공유 및 분할 협동",
     "공유 및 분할 화면",
     "Steam 도전 과제",
@@ -31351,11 +31366,11 @@
    ],
    "price": 21500,
    "release": "2025-12-16",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2591310/923048b1bb70832229f1c5413353e8dd6fdb681e/header_alt_assets_0.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2591310/4e85d52fc3cb6acaac03c264c88f757fef01a226/header.jpg",
    "ko": "text",
    "publisher": "DS SOFT",
    "major": false,
-   "reviews": 381
+   "reviews": 389
   }
  },
  {
@@ -31363,7 +31378,7 @@
   "name": "Arcane Rush",
   "url": "https://store.steampowered.com/app/3039040/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "아케인 러시: 특급 카드 배틀. 격돌, 전략 세우기, 장악!",
@@ -31394,7 +31409,7 @@
   "name": "MONOPOLY Poker",
   "url": "https://store.steampowered.com/app/1474700/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "즐거움과 부를 모두 거머쥐세요. 공식 MONOPOLY Poker 게임에 오신 것을 환영합니다. 보드 게임의 재미를 더한 궁극의 텍사스 홀덤 포커 경험을 선사합니다. 온라인 포커와 부동산 개발이 만나는 세계로 들어가세요.",
@@ -31430,7 +31445,7 @@
   "name": "뎁스 (Depth)",
   "url": "https://store.steampowered.com/app/274940/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "어두운 심해 세계에서 상어 혹은 다이버로 플레이해 계략, 팀워크, 은신으로 적을 물리치세요. AI를 상대로 팀을 이루거나, 다른 플레이어들과 심장이 두근거리는 대결을 펼치며 Depth의 긴장감 넘치고 강렬한 액션을 느껴보세요.",
@@ -31463,7 +31478,7 @@
    "ko": "text",
    "publisher": "Ammobox Studios",
    "major": false,
-   "reviews": 23611
+   "reviews": 23616
   }
  },
  {
@@ -31471,7 +31486,7 @@
   "name": "Predecessor",
   "url": "https://store.steampowered.com/app/961200/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "파라곤의 유산에서 영감을 받아 커뮤니티의 사랑으로 제작되고 언리얼 엔진 5로 구동되는 프레데커서는 슈팅 액션과 MOBA 전략의 궁극적인 융합 게임입니다. 지금 75만 명 이상의 플레이어와 함께 무료로 플레이하세요!",
@@ -31505,7 +31520,7 @@
    "ko": "audio",
    "publisher": "Omeda Studios",
    "major": false,
-   "reviews": 8638
+   "reviews": 8645
   }
  },
  {
@@ -31513,7 +31528,7 @@
   "name": "One Piece Burning Blood",
   "url": "https://store.steampowered.com/app/425220/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "모든 원피스 팬이 기다려온 바로 그 게임. One Piece Burning Blood는 세계에서 가장 유명한 해적인 몽키 D. 루피가 등장하는 다이나믹하고 화려한 격투 게임입니다.",
@@ -31548,8 +31563,8 @@
   "name": "월드 리그 베이스볼",
   "url": "https://store.steampowered.com/app/2322520/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
-  "why": "정리 대기",
+  "tried": "2026-11-21",
+  "why": "출시 전 또는 가격 없음",
   "info": {
    "short": "박진감 넘치는 야구 경기를 캐주얼한 그래픽으로 즐겨보세요! 간단한 조작만으로 누구나 쉽게 야구의 묘미를 느낄 수 있습니다.",
    "text": "월드 리그 베이스볼은 모두가 쉽게 즐길 수 있는 야구게임입니다.\n새로운 스타일의 캐주얼 그래픽과 높은 자유도의 성장 시스템을 제공합니다.\n[특징]\n● 간단한 조작만으로 야구의 모든 것을 느껴보세요!\n'월드 리그 베이스볼'은 매우 쉬운 조작 체계를 제공합니다. 간단한 조작만으로 누구나 쉽게 강속구를 던지고 홈런을 칠 수 있습니다.\n● '월드 리그'에서 나만의 팀을 육성하고 리그 우승에 도전하세요!\n각 디비전에서 좋은 성적을 거두면 높은 상금을 획득할 수 있습니다. \n좋은 선수를 영입하고 더욱 강력한 팀으로 성장시켜 리그에서 우승하세요!\n● '온라인 매치'에서 전세계 유저들과 실시간으로 대결해보세요!\n'온라인 매치'는 시즌제로 운영됩니다. 실시간 경기에서 승리하여 대결 포인트를 모아 등급을 올려보세요. 상위 등급으로 올라갈수록 상금이 증가합니다.\n● '훈련 리그'로 한 명의 선수를 육성할 수도 있습니다.\n주전 선수 9명 중 한 명을 선택하여 경기를 플레이합니다. 선택한 선수를 조작하여 좋은 성적을 내면 많은 경험치와 보상을 획득할 수 있습니다.\n● 높은 자유도의 성장 시스템을 제공합니다.\n선수들의 경험치나 카드를 모아 선수의 레벨을 육성해보세요. 선수의 레벨이 오르면 다양한 스킬을 획득할 수 있습니다. 각 선수의 스킬은 자신의 전략과 스타일에 맞게 커스터마이즈 할 수 있습니다.\n● 새로운 스타일의 아트 컨셉으로 색다른 재미를 느껴보세요.\n각자 다른 개성을 지닌 12개 구단의 300여 명의 선수들을 만나보세요. 또한, 거대한 석상, 신전, 동양의 용 등, 색다른 스타일의 경기장들이 준비되어 있습니다.",
@@ -31572,13 +31587,12 @@
     "시뮬레이션",
     "스포츠"
    ],
-   "price": 16500,
    "release": "2023-10-13",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322520/header.jpg",
    "ko": "text",
    "publisher": "HAEGIN Co.,Ltd.",
    "major": false,
-   "reviews": 116
+   "reviews": 118
   }
  },
  {
@@ -31586,7 +31600,7 @@
   "name": "Mage Arena",
   "url": "https://store.steampowered.com/app/3716600/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "A co-op PvP experience about using your voice to cast spells in the Mage Arena to settle an ages-old feud between sorcerers and warlocks.",
@@ -31612,7 +31626,7 @@
    "ko": "none",
    "publisher": "jrsjams",
    "major": false,
-   "reviews": 17866
+   "reviews": 17869
   }
  },
  {
@@ -31620,7 +31634,7 @@
   "name": "Gridlords",
   "url": "https://store.steampowered.com/app/3768400/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Gridlords는 판타지 픽셀 아트 세계를 배경으로 한 전략적 비동기 PvP 오토배틀러입니다. 궁극의 성을 구축하고, 전설적인 영웅들을 지휘하며, 경쟁자를 능가해 나의 전략이 최고임을 증명하세요.",
@@ -31643,12 +31657,14 @@
     "앞서 해보기"
    ],
    "price": 10500,
+   "finalPrice": 8400,
+   "discount": 20,
    "release": "2026-10-07",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768400/e99f056200b59542a85371ae530cb6f921c06a28/header.jpg",
    "ko": "audio",
    "publisher": "Goblinz Publishing",
    "major": false,
-   "reviews": 126
+   "reviews": 127
   }
  },
  {
@@ -31656,7 +31672,7 @@
   "name": "Hole io",
   "url": "https://store.steampowered.com/app/2751230/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "모두에게 증명하세요, 블랙홀 지배자가 누구인지를!",
@@ -31683,7 +31699,7 @@
    "ko": "text",
    "publisher": "QubicGames",
    "major": false,
-   "reviews": 223
+   "reviews": 224
   }
  },
  {
@@ -31691,7 +31707,7 @@
   "name": "히어로즈 오브 마이트 앤 매직 III",
   "url": "https://store.steampowered.com/app/4921760/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "1999년에 출시된 오리지널 버전 게임입니다. 히어로즈 오브 마이트 앤 매직 III 오리지널 버전 및 2종의 확장팩인 아마겟돈 블레이드 및 쉐도우 오브 데스가 포함되어 있습니다.",
@@ -31710,12 +31726,14 @@
     "전략"
    ],
    "price": 11400,
+   "finalPrice": 2850,
+   "discount": 75,
    "release": "2026-08-25",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4921760/54b7d427668c3d073853251d990ec3d6c195171d/header.jpg",
    "ko": "none",
    "publisher": "Ubisoft",
    "major": true,
-   "reviews": 258
+   "reviews": 267
   }
  },
  {
@@ -31723,7 +31741,7 @@
   "name": "Through the Ages",
   "url": "https://store.steampowered.com/app/758370/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Legendary board game classic from award winning designer Vlaada Chvátil",
@@ -31744,12 +31762,14 @@
     "전략"
    ],
    "price": 16500,
+   "finalPrice": 8250,
+   "discount": 50,
    "release": "2018-03-26",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758370/header.jpg",
    "ko": "text",
    "publisher": "CGE Digital",
    "major": false,
-   "reviews": 2202
+   "reviews": 2204
   }
  },
  {
@@ -31757,7 +31777,7 @@
   "name": "Outbreak: Shades of Horror",
   "url": "https://store.steampowered.com/app/1932190/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Cross-platform online 4-player co-op survival horror returns in this early 2000s-inspired, undead apocalyptic nightmare.",
@@ -31789,7 +31809,7 @@
   "name": "s&box",
   "url": "https://store.steampowered.com/app/590830/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Garry's Mod의 정신적 후속작으로, Source 2 엔진으로 제작된 게임 창작 플랫폼입니다. 게임을 플레이하고, 만들고, 공유하세요. 커뮤니티 창작물을 탐색하고, 강력한 최신 도구로 끝없는 샌드박스의 재미를 경험하세요.",
@@ -31825,7 +31845,7 @@
    "ko": "none",
    "publisher": "Facepunch Studios",
    "major": false,
-   "reviews": 5594
+   "reviews": 5612
   }
  },
  {
@@ -31833,7 +31853,7 @@
   "name": "Chess Infinity",
   "url": "https://store.steampowered.com/app/2828420/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Whether you're new to chess or a seasoned master, welcome to Chess Infinity—the art of timeless strategy. Immerse yourself in serene environments, sharpen your skills with an adaptive AI mentor, and connect with players worldwide. Embrace endless challenges that transcend eras and borders.",
@@ -31871,7 +31891,7 @@
   "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution",
   "url": "https://store.steampowered.com/app/272510/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "THE REVOLUTIONARY STORM SERIES RETURNS! Live a new experience in the deep & rich NARUTO environment. Tons of new techniques, enhanced mechanics, over 100 playable characters & Support Ninjas, and a brand new exclusive character (Mecha-Naruto) designed by Masashi Kishimoto.",
@@ -31895,7 +31915,7 @@
    "ko": "none",
    "publisher": "BANDAI NAMCO Entertainment",
    "major": true,
-   "reviews": 7280
+   "reviews": 7283
   }
  },
  {
@@ -31903,7 +31923,7 @@
   "name": "Diner Bros",
   "url": "https://store.steampowered.com/app/846800/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "쉴 새 없이 요리하고 바쁘게 돌아가는 레스토랑을 경영하는 게임인 Diner Bros를 만나보세요. 가능한 한 빠르게 요리를 만들어 손님에게 내가야 합니다. 주문을 잘못 받거나 하면 배고픈 손님이 화를 낼 것입니다! 레스토랑을 업그레이드해 새로운 요리법을 획득하고 서빙을 도와줄 직원을 고용하세요. 아니면 2-4명의 친구들과 함께 소파에 앉아 협동 플레이를 즐겨보는 건 어떨까요?",
@@ -31940,7 +31960,7 @@
   "name": "HOT WHEELS UNLEASHED™",
   "url": "https://store.steampowered.com/app/1271700/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "이번 기회에 Hot Wheels™이 자랑하는 최고의 탈것을 모아보세요. 끝내주는 트랙을 만들고 숨 막히는 레이싱의 세계로 뛰어드세요.",
@@ -31972,7 +31992,7 @@
    "ko": "text",
    "publisher": "Milestone S.r.l.",
    "major": false,
-   "reviews": 5466
+   "reviews": 5470
   }
  },
  {
@@ -31980,7 +32000,7 @@
   "name": "Spire Horizon",
   "url": "https://store.steampowered.com/app/2321880/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "RPG 오픈 월드 게임 Spire Horizon에서 스릴 넘치는 모험의 세계를 발견하세요. 스켈레톤 주인공을 구현하고, 시각적으로 놀라운 세계를 탐험하고, 강력한 적과의 전투에 참여하고, 잊혀진 정체성을 모으기 위한 퀘스트에 착수하세요.",
@@ -32018,7 +32038,7 @@
   "name": "富甲天下4",
   "url": "https://store.steampowered.com/app/2400280/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "富甲Online新登場，賺錢、徵才、打寶、升級，組自己的夢幻隊伍！ 城池建物添風貌，箭塔、兵營、私掠站，多種組合功能多變！ 錦囊妙計轉乾坤，單挑、野戰、攻城戰，文官武將各顯神通！ 賭場鬥智拼手氣，擲骰、賽馬、下寶物，緊張刺激欲罷不能！ 關卡地圖新花樣，天梯、開路、熱汽球，劇本加倍絕對過癮！",
@@ -32035,14 +32055,12 @@
     "전략"
    ],
    "price": 11000,
-   "finalPrice": 7700,
-   "discount": 30,
    "release": "2023-05-11",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400280/header.jpg",
    "ko": "none",
    "publisher": "T-Time Technology CO., LTD.",
    "major": false,
-   "reviews": 388
+   "reviews": 390
   }
  },
  {
@@ -32050,7 +32068,7 @@
   "name": "오목",
   "url": "https://store.steampowered.com/app/3668420/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "오목: 스마트폰에서 즐기는 고전적인 전략 게임!",
@@ -32086,7 +32104,7 @@
   "name": "Danmo Three Kingdoms: Battle of Wits",
   "url": "https://store.steampowered.com/app/3905040/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "A Three Kingdoms-themed tactical chess game with light strategy and easy controls. Step into the era as a strategist, use over 200 historical figures—each with unique traits and counters—to form teams, revisit key battles, and shape outcomes with your tactics.",
@@ -32119,7 +32137,7 @@
   "name": "Mittelland AD",
   "url": "https://store.steampowered.com/app/3890400/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Achieve fame and wealth in the Principality of Mittelland! Found a dynasty, trade goods, prove your political skill, eliminate your rivals, and immortalize yourself in the history books! The classic political and economic simulation starting from the year 1600.",
@@ -32155,7 +32173,7 @@
   "name": "Oaken Tower",
   "url": "https://store.steampowered.com/app/3400960/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "오크나무 타워는 아이템으로 타워를 구성해 다른 플레이어들과 전투하는 시너지 중심 PvP 오토 배틀러 게임입니다. 치명적인 콤보를 설계하고 기하급수적으로 강화하세요. 모든 선택이 승패를 좌우합니다.",
@@ -32180,12 +32198,14 @@
     "앞서 해보기"
    ],
    "price": 9900,
+   "finalPrice": 7420,
+   "discount": 25,
    "release": "2026-04-28",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400960/4d5fc6df9cbf8954ef62127d5699653f0ace61c0/header.jpg",
    "ko": "text",
    "publisher": "Alibi Games",
    "major": false,
-   "reviews": 3409
+   "reviews": 3449
   }
  },
  {
@@ -32193,7 +32213,7 @@
   "name": "In Silence",
   "url": "https://store.steampowered.com/app/1361000/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "In Silence는 멀티 플레이어 공포 게임입니다. 플레이어는 뛰어난 감각 능력을 가지고 있으며 거의 ​​완전히 장님 괴물을 제어합니다. 다른 플레이어 (2-6)는 몬스터를 제거하거나 사냥하려고합니다.",
@@ -32219,7 +32239,7 @@
    "ko": "none",
    "publisher": "Ravenhood Games",
    "major": false,
-   "reviews": 9448
+   "reviews": 9449
   }
  },
  {
@@ -32227,7 +32247,7 @@
   "name": "빛나는 인형",
   "url": "https://store.steampowered.com/app/3328720/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "물리 엔진으로 구동되는 트렌디한 장난감 피규어, 자동 전투, 커스터마이징 가능한 기술, 친구들을 불러서 온라인에서 귀뚜라미 대결을 즐기세요!",
@@ -32251,12 +32271,14 @@
     "전략"
    ],
    "price": 9200,
+   "finalPrice": 5980,
+   "discount": 35,
    "release": "2025-02-14",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/header.jpg",
    "ko": "text",
    "publisher": "Game Star",
    "major": false,
-   "reviews": 862
+   "reviews": 864
   }
  },
  {
@@ -32264,7 +32286,7 @@
   "name": "Spire Horizon Online",
   "url": "https://store.steampowered.com/app/2598020/",
   "found": "2026-10-31",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "스파이어 호라이즌 온라인은 플레이어가 해골 모험가가 되어 카피바라 친구를 찾기 위한 퀘스트를 수행하는 MMORPG입니다. 다양한 직업을 선택하고, 수많은 몬스터와 싸우며, 다양한 지역을 탐험하세요.",
@@ -39682,7 +39704,7 @@
   "name": "The Jackbox Party Pack 9",
   "url": "https://store.steampowered.com/app/1850960/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Save your next party! 5 new games in 1 Party Pack: the trivia bluff-off Fibbage 4, the team test Quixort, the joke auction Junktopia, the silly guessfest Nonsensory and the reality TV game Roomerang.",
@@ -39707,6 +39729,8 @@
     "전략"
    ],
    "price": 32000,
+   "finalPrice": 17600,
+   "discount": 45,
    "release": "2022-10-19",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850960/header.jpg",
    "ko": "none",
@@ -39720,7 +39744,7 @@
   "name": "ZONE L.O.S.T.",
   "url": "https://store.steampowered.com/app/4420660/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "YOUR BODY IS YOUR WEAKNESS. A four-player co-op horror game that puts you in the shoes of the chief scientists of a research facility. Your sole objective is to carry out the self-destruct plan and escape the facility.",
@@ -39753,7 +39777,7 @@
   "name": "Staged",
   "url": "https://store.steampowered.com/app/3534100/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Staged는 1–4인 협동 1인칭 물리 파티 게임입니다. 장난꾸러기 고블린이 되어 레퍼런스 사진을 보고 무대 세트를 재현하고, 거대한 소품을 비좁은 백스테이지로 옮겨 커튼이 올라가기 전 배치하세요.",
@@ -39794,7 +39818,7 @@
   "name": "WORJONG / 워드작",
   "url": "https://store.steampowered.com/app/4707880/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "WORJONG(워드작)은 영어 단어를 만들어 화료하는 마작 스타일의 단어 게임입니다. A부터 Z까지 26종의 알파벳 패를 조합해 3글자 영어 단어 4개를 완성해 보세요! 생각보다 간단! 누구나 즐길 수 있습니다! 1~4인 온라인 대전! 혼자서도 즐길 수 있는 스토리 모드!",
@@ -39817,8 +39841,6 @@
     "전략"
    ],
    "price": 6700,
-   "finalPrice": 4690,
-   "discount": 30,
    "release": "2026-11-06",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707880/08c837175af9dfb9a6b25f0d648dcd6a2e0f973e/header_koreana.jpg",
    "ko": "text",
@@ -39831,7 +39853,7 @@
   "name": "변명왕!",
   "url": "https://store.steampowered.com/app/4953360/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "2~8인용 파티 게임에서 말솜씨 하나로 위기를 모면하세요! 즉석에서 변명을 지어내고, 예상치 못한 단어를 이야기에 끼워 넣고, 친구들의 평가를 받아 보세요. PC 한 대로 함께 즐기거나 Steam으로 온라인 플레이할 수 있습니다. 온라인 플레이에는 외부 음성 채팅이 필요합니다.",
@@ -39862,7 +39884,7 @@
   "name": "던전 광부",
   "url": "https://store.steampowered.com/app/5088660/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "갱도에 내려가 광석을 캐고 함선까지 나르는 1~4인 온라인 협동 채굴 게임입니다. 작은 장비는 몸에 지닐 수 있지만, 커다란 크리스탈은 두 팔로 직접 안아서 옮겨야 합니다. 던전 핵을 뽑으면 갱도가 무너지기 시작합니다. 3분 안에 수레를 끌고 함선으로 돌아오세요.",
@@ -39894,7 +39916,7 @@
   "name": "Party Madness",
   "url": "https://store.steampowered.com/app/3150970/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Party Madness는 2~4명의 플레이어가 즐기는 온라인 파티 게임입니다. 친구들과 미니게임에서 겨루고, 점수를 모아 승리를 쟁취하세요!",
@@ -39913,6 +39935,8 @@
     "인디"
    ],
    "price": 4500,
+   "finalPrice": 2250,
+   "discount": 50,
    "release": "2025-09-24",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3150970/b52c00e51f282f88faa8ea1dc85915451036e17b/header_koreana.jpg",
    "ko": "text",
@@ -39925,7 +39949,7 @@
   "name": "OK Boomer",
   "url": "https://store.steampowered.com/app/4162290/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "A 4-player cooperative survival horror where you’ll explore the terrifying depths of the internet alongside your team of analog tech enthusiasts. Use old-school technology to purge glitches, preserve your digital sanity, and survive the strange monsters lurking in the deep web.",
@@ -39956,11 +39980,11 @@
   "name": "Drawaoke: Sing, Scribble, Showdown!",
   "url": "https://store.steampowered.com/app/5142810/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "♪ 동그란 쿠키 하나 또르르 굴러 멈춰요 — 그런데, 지금 뭘 그리고 있는 걸까요? 가사대로 선을 긋다 보면 그림 하나가 완성되는 일본의 '그림 그리기 노래'를, 제시어를 모르는 채로 2~4명이 동시에 그리는 온라인 그림 파티 게임이에요. 답 맞춰 보기에서는 모두의 그림이 노래에 맞춰 한 획씩 다시 재생되어, 누가 어디서 길을 벗어났는지 훤히 드러나요.",
-   "text": "노래는 무엇을 그릴지도, 어디에 그릴지도 알려 주지 않아요 그림 그리기 노래는 일본에서 아이들이 부르며 노는 노래예요. 가사를 따라 동그라미를 그리고 선을 몇 개 더하다 보면, 노래가 끝날 때 종이 위에 그림 하나가 완성돼요. 이 게임에서는 모두가 같은 그림 그리기 노래를 듣고 동시에 그려요. 단, 제시어는 끝까지 알려 주지 않아요. 노래는 \"이번엔 손을 그려\"라고 말해 주지 않아요. 들려오는 건 이런 가사뿐이에요. ♪ 동그란 쿠키 하나 또르르 굴러 멈춰요 ♪ 그 뒤에서 옆으로 큰 주머니가 쑥 나와요 쿠키는 일단 한가운데 그리면 돼요. 그런데 주머니는요? 쿠키 뒤에서 나온다는데 오른쪽일까요, 왼쪽일까요? 어떤 모양으로, 얼마나 크게 그려야 할까요…? 한 소절마다 해석이 갈리고, 그 작은 어긋남이 쌓이고 쌓여서, 마지막에는 모두의 그림이 전혀 다른 그림이 되어 있어요. 답 맞춰 보기는 노래에 맞춘 '다시 재생' 다 그리고 나면, 게임이 준비한 정답 그림인 '시범 선생님'의 그림과 모두의 그림이 나란히 놓여요. 그리고 노래에 맞춰, 모두의 그림이 한 획씩 동시에 다시 그려져요. 어느 소절에서, 누가, 어느 쪽으로 빠져 버렸는지. 그리는 동안에는 보이지 않던 갈림길이, 여기서 전부 드러나요. 다시 재생되는 그림을 보면서 \"잘 그렸다!\" 싶은 그림에는 '브라보' 표를, \"대체 어떻게 그려야 이렇게 돼?\" 싶은 그림에는 '빵 터짐' 표를 던져요. 결과 발표에서는 브라보를 가장 많이 받은 그림에 '명작', 빵 터짐을 가장 많이 받은 그림에 '빵터짐상'이 돌아가요. 잘 그린 사람도, 시원하게 빗나간 사람도, 모두 주인공이 될 수 있어요. 할수록 노래의 규칙이 보여요 몇 곡 놀다 보면 \"같은 소절이 두 번 나왔으니까, 손이나 발일지도 몰라\" 이런 추리가 서기 시작해요. 그림 실력 대결이라기보다, 사실은 수수께끼 풀이에 가까운 놀이예요. 3가지 모드 기본 모드 모두 같은 노래를 듣고, 다 같이 그려요. 뭐뭐 맞히기 모드 노래 속 정답 부분이 '뭐뭐'로 가려져서 불려요. 노래의 마지막 한 줄도 \"순식간에 뚝딱 뭐뭐 짠 완성\"으로 끝나요. 다 그린 뒤에, 내가 뭘 그렸는지 맞혀 봐요. 번갈아 맞히기 모드 한 명이 맞히는 사람이 되어, 다른 모두가 그리고 있는 그림을 보고 제시어를 맞혀요. 빨리 맞힐수록 높은 점수. 가장 큰 힌트가 된 그림에는 '고마워' 표를. 맞히는 사람은 차례대로 바뀌어요. 진행 방식과 난이도를 고를 수 있어요 진행 방식은 2가지. 한 소절마다 반주만 나오는 간주가 들어가서 차분하게 그릴 수 있는 '메아리', 그리고 멈추지 않고 쭉 이어지는 '논스톱'. 곡 스타일도 2가지. 옛날 동요처럼 노래하는 '느린 노래', 그리고 힘찬 전자음의 '신스풍'. 템포가 달라지면 난이도도 달라져요. 방 설정에서는 노래의 난이도를 '쉬움' '보통' '어려움' '극악' 중에서 몇 개든 고를 수 있어요. 처음 들어서는 도저히 그릴 수 없는 노래에는 '완전 어려움!!' 스티커가 붙어 있어요. 모이는 방법 친구와는 방 코드로 한 방에 모여요. '같이 놀 사람 찾기",
+   "text": "노래는 무엇을 그릴지도, 어디에 그릴지도 알려 주지 않아요 그림 그리기 노래는 일본에서 아이들이 부르며 노는 노래예요. 가사를 따라 동그라미를 그리고 선을 몇 개 더하다 보면, 노래가 끝날 때 종이 위에 그림 하나가 완성돼요. 이 게임에서는 모두가 같은 그림 그리기 노래를 듣고 동시에 그려요. 단, 제시어는 끝까지 알려 주지 않아요. 노래는 \"이번엔 손을 그려\"라고 말해 주지 않아요. 들려오는 건 이런 가사뿐이에요. ♪ 동그란 쿠키 하나 또르르 굴러 멈춰요 ♪ 그 뒤에서 옆으로 큰 주머니가 쑥 나와요 쿠키는 일단 한가운데 그리면 돼요. 그런데 주머니는요? 쿠키 뒤에서 나온다는데 오른쪽일까요, 왼쪽일까요? 어떤 모양으로, 얼마나 크게 그려야 할까요…? 한 소절마다 해석이 갈리고, 그 작은 어긋남이 쌓이고 쌓여서, 마지막에는 모두의 그림이 전혀 다른 그림이 되어 있어요. 답 맞춰 보기는 노래에 맞춘 '다시 재생' 다 그리고 나면, 게임이 준비한 정답 그림인 '시범 선생님'의 그림과 모두의 그림이 나란히 놓여요. 그리고 노래에 맞춰, 모두의 그림이 한 획씩 동시에 다시 그려져요. 어느 소절에서, 누가, 어느 쪽으로 빠져 버렸는지. 그리는 동안에는 보이지 않던 갈림길이, 여기서 전부 드러나요. 다시 재생되는 그림을 보면서 \"잘 그렸다!\" 싶은 그림에는 '브라보' 표를, \"대체 어떻게 그려야 이렇게 돼?\" 싶은 그림에는 '빵 터짐' 표를 던져요. 결과 발표에서는 브라보를 가장 많이 받은 그림에 '명작', 빵 터짐을 가장 많이 받은 그림에 '빵터짐상'이 돌아가요. 잘 그린 사람도, 시원하게 빗나간 사람도, 모두 주인공이 될 수 있어요. 할수록 노래의 규칙이 보여요 몇 곡 놀다 보면 \"같은 소절이 두 번 나왔으니까, 손이나 발일지도 몰라\" 이런 추리가 서기 시작해요. 그림 실력 대결이라기보다, 사실은 수수께끼 풀이에 가까운 놀이예요. 6가지 모드 기본 놀이 방식 3가지와, v2.0.0에서 추가된 놀이 방식 3가지. 기본 놀이 방식 기본 모드 모두 같은 노래를 듣고, 다 같이 그려요. 뭐뭐 맞히기 모드 노래 속 정답 부분이 '뭐뭐'로 가려져서 불려요. 노래의 마지막 한 줄도 \"순식간에 뚝딱 뭐뭐 짠 완성\"으로 끝나요. 다 그린 뒤에, 내가 뭘 그렸는지 맞혀 봐요. 번갈아 맞히기 모드 한 명이 맞히는 사람이 되어, 다른 모두가 그리고 있는 그림을 보고 제시어를 맞혀요. 빨리 맞힐수록 높은 점수. 가장 큰 힌트가 된 그림에는 '고마워' 표를. 맞히는 사람은 차례대로 바뀌어요. v2.0.0에서 추가된 놀이 방식 노래 짬뽕 모드 여러 노래에서 한 줄씩 이어 붙인 그림 그리기 노래가 흘러나와요. 제시어는 없어요. 다 그리고 나면, 내 그림에 이름을 붙여 봐요. 이름대로 보이는 그림에는 '그럴싸해!' 표를. 라이어 찾기 모드 노래마다 한 명만 제시어를 모르는 '라이어'가 섞여 있어요. 제시어를 아는 쪽은 라이어에게 제시어를 들키지 않게, 하지만 같은 편이 알아볼 수 있게 절묘한 균형으로 그려 주세요. 반대로 라이어는 티 나지 않게 섞여서, 그림 그리기 노래에 맞",
    "cats": [
     "싱글 플레이어",
     "멀티플레이어",
@@ -39976,7 +40000,7 @@
    ],
    "price": 5450,
    "release": "2026-10-01",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5142810/1ddeb54d294d5dd62cfcd652ba23ec7722896115/header.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5142810/a260113ff113c1e2b0b057b428b0bb06094ba7d3/header.jpg",
    "ko": "audio",
    "publisher": "2P START",
    "major": false
@@ -39987,7 +40011,7 @@
   "name": "Pixel Chroma",
   "url": "https://store.steampowered.com/app/5023800/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "최대 12인 2D 픽셀 숨바꼭질 게임! 픽셀을 몸에 칠해 숨고, 수상한 픽셀을 찾아보세요! 그림을 못 그려도 됩니다. 픽셀이니까요! 풍경 속에 자연스럽게 녹아들어 술래를 속이고 살아남으세요!",
@@ -40017,7 +40041,7 @@
   "name": "Tidy Up Together",
   "url": "https://store.steampowered.com/app/4950470/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Catastrophe! An evil wizard has cast a tornado spell on your shop, and now all your products are on the floor. Maybe you'll ask some friends for help to tidy up?",
@@ -40050,7 +40074,7 @@
    "ko": "none",
    "publisher": "Malum Games",
    "major": false,
-   "reviews": 320
+   "reviews": 326
   }
  },
  {
@@ -40058,10 +40082,10 @@
   "name": "Studs Up!",
   "url": "https://store.steampowered.com/app/4923370/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
-   "short": "First-person football where you control your feet, with no scripted animations deciding where the ball goes. Play 1v1 to 5v5 online as a striker, keeper or referee. Have no friends? Draft a squad in the 'Cup Run' roguelite mode. Level up your players, pick upgrades and fight through a knockout cup.",
+   "short": "Physics-based, First-person football, where you have full control over your feet with your mouse. Play 1v1 to 5v5 online, and a friend can play as the referee! Have no friends? Draft a squad in the 'Cup Run' roguelite mode. Level up your players, pick upgrades and fight through a knockout cup.",
    "text": "특징 목록 \n 게임 정보 Key Features First-person ball control Cup Run 1v1 to 5v5 online matchmaking Dedicated referee role Fully playable goalkeeper Old MLS style penalty shootouts VAR reviews Red and yellow cards Slide tackles Fully customizable characters Stat tracking Free play Skill games",
    "cats": [
     "싱글 플레이어",
@@ -40081,7 +40105,8 @@
     "캐주얼",
     "인디",
     "시뮬레이션",
-    "스포츠"
+    "스포츠",
+    "전략"
    ],
    "price": 5100,
    "release": "2026-11-01",
@@ -40096,7 +40121,7 @@
   "name": "King Of The Castle",
   "url": "https://store.steampowered.com/app/1839880/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "한 표 한 표가 소중합니다. 이 스토리 중심의 멀티플레이 게임에서 왕국을 이끌고 유혈 사태와 각종 음모가 난무하는 험난하고 복잡한 세상을 헤쳐나가세요. 여러분은 군주가 되어 나라를 통치하고, 친구들은 의회를 구성해 중상모략을 펼치며, 여러분의 결정 하나하나에 표를 행사할 겁니다!",
@@ -40118,14 +40143,12 @@
     "전략"
    ],
    "price": 11250,
-   "finalPrice": 2810,
-   "discount": 75,
    "release": "2023-03-02",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1839880/header.jpg",
    "ko": "none",
    "publisher": "Team17",
    "major": false,
-   "reviews": 1411
+   "reviews": 1413
   }
  },
  {
@@ -40133,7 +40156,7 @@
   "name": "SD건담 배틀 얼라이언스",
   "url": "https://store.steampowered.com/app/824550/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "『SD건담 배틀 얼라이언스』는 여러 무장을 구사하는 상쾌 연격 액션을 혼자서도 셋이서도 즐길 수 있는 새로운 SD건담 액션 RPG이다. 입수한 기체를 강화하여, 플레이어를 기다리는 다양한 미션에 도전하라!",
@@ -40159,7 +40182,7 @@
    "ko": "text",
    "publisher": "Bandai Namco Entertainment",
    "major": true,
-   "reviews": 4916
+   "reviews": 4918
   }
  },
  {
@@ -40167,7 +40190,7 @@
   "name": "SAS: Zombie Assault 4",
   "url": "https://store.steampowered.com/app/678800/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Purge the undead! Intense action-shooter with deep rpg elements, including upgradeable guns and armor, unique class skills, and class special abilities. Entire game can be played single player or as a 4-player online co-op game, including PvP events like Last Man Standing.",
@@ -40204,7 +40227,7 @@
   "name": "오늘도 같이 자동차 정비",
   "url": "https://store.steampowered.com/app/3501070/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "친구들과 함께 0부터 자동차 정비소를 시작하세요! 혼자 또는 협동 플레이로 차고에서 출발해 차량을 수리하고 고객을 확보하세요. 장비를 업그레이드하고 매장을 확장하며 튜닝과 디테일링 사업을 개척하세요. 작은 작업장 최고의 정비소로 키우고, 당신만의 드림카를 완성하세요!",
@@ -40225,14 +40248,12 @@
     "앞서 해보기"
    ],
    "price": 21500,
-   "finalPrice": 16120,
-   "discount": 25,
    "release": "2026-02-04",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501070/6bc478e2fff77fdd69ae1f06c8bd8994e70c26c3/header_koreana.jpg",
    "ko": "text",
    "publisher": "V12 Studio",
    "major": false,
-   "reviews": 3754
+   "reviews": 3771
   }
  },
  {
@@ -40240,7 +40261,7 @@
   "name": "Escape Academy 2: Back 2 School",
   "url": "https://store.steampowered.com/app/3296060/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Class is (back) in session with Escape Academy 2: Back 2 School! Play in solo or co-op and explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself — all before the bell rings.",
@@ -40276,14 +40297,12 @@
     "시뮬레이션"
    ],
    "price": 21000,
-   "finalPrice": 17850,
-   "discount": 15,
    "release": "2026-11-05",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296060/2602a19a9df4c306febaed3f9cab850b78515f23/header.jpg",
    "ko": "none",
    "publisher": "iam8bit Presents",
    "major": false,
-   "reviews": 116
+   "reviews": 155
   }
  },
  {
@@ -40291,7 +40310,7 @@
   "name": "Nova: Space Armada",
   "url": "https://store.steampowered.com/app/1108270/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "광활한 우주 모험을 배경으로 한 SF 전략 대작 게임.",
@@ -40321,7 +40340,7 @@
   "name": "Wild Terra 2: New Lands",
   "url": "https://store.steampowered.com/app/1134700/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "MMORPG full of details that create a unique immersion and the spirit of adventure! Play your role in the life-filled medieval world controlled by players.",
@@ -40345,14 +40364,12 @@
     "RPG"
    ],
    "price": 39900,
-   "finalPrice": 3990,
-   "discount": 90,
    "release": "2022-11-10",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134700/4d16c9087b2bfe12d7fa8176ef084631e00761d6/header_alt_assets_11.jpg",
    "ko": "text",
    "publisher": "Juvty Worlds",
    "major": false,
-   "reviews": 1425
+   "reviews": 1440
   }
  },
  {
@@ -40360,7 +40377,7 @@
   "name": "State of Decay 2: Juggernaut Edition",
   "url": "https://store.steampowered.com/app/495420/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "The dead have risen and civilization has fallen. Now it's up to you to gather survivors, scavenge for resources and build a community in a post-apocalyptic world – a world where you define what it means to survive in this ultimate zombie survival simulation.",
@@ -40389,7 +40406,7 @@
    "ko": "none",
    "publisher": "Xbox Game Studios",
    "major": true,
-   "reviews": 59595
+   "reviews": 59650
   }
  },
  {
@@ -40397,7 +40414,7 @@
   "name": "테이블탑 TD: 랜덤 디펜스",
   "url": "https://store.steampowered.com/app/5154200/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "선술집 테이블에 둘러앉아 각자 자기 판을 지키는 랜덤 타워 디펜스. 금화로 뽑은 타워를 손으로 배치하고, 같은 타워 3기를 합쳐 등급을 올리세요. 30웨이브를 버티면 클리어, 판이 적으로 가득 차면 패배입니다. 싱글 플레이와 최대 4인 온라인 협동을 지원합니다.",
@@ -40428,7 +40445,7 @@
   "name": "Backdraft",
   "url": "https://store.steampowered.com/app/2218060/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "덱을 짜고 한판 붙자. Backdraft는 전장 장악을 두고 영웅들이 맞붙는 로그라이크 전투 게임입니다. 카드를 골라 덱을 구성하고, 하수인을 소환하고, 판세를 뒤집는 콤보를 터뜨리세요. 혼자 여섯 영역을 정복하거나 온라인에서 친구에게 도전하세요.",
@@ -40461,7 +40478,7 @@
   "name": "The Colonists",
   "url": "https://store.steampowered.com/app/677340/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Build a new home for your team of robots as they begin a new life for themselves on a distant planet where they can fulfil their ultimate dream: to be human.",
@@ -40499,7 +40516,7 @@
   "name": "Hoofobia",
   "url": "https://store.steampowered.com/app/2467300/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "One player becomes the paranoid hunter, while the others disguise themselves as deer among a herd of AI. As a deer, blend in, outsmart the hunter, and strike when the moment is right. As the hunter, figure out who's faking it—before you lose your mind.",
@@ -40529,7 +40546,7 @@
   "name": "WRC 7 FIA World Rally Championship",
   "url": "https://store.steampowered.com/app/621830/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "WRC의 13개 랠리와 충실하게 재현한 경기장을 직접 달려 보세요. 챔피언십에 참가한 최고의 드라이버가 되어 신형 자동차의 운전석에 앉아 보세요. 혼자서나 온라인으로나 Epic Stages에 도전하고, 주간 도전에 참여하고, 프로 레이서처럼 WRC를 경험하세요!",
@@ -40553,14 +40570,12 @@
     "레이싱"
    ],
    "price": 20500,
-   "finalPrice": 2050,
-   "discount": 90,
    "release": "2017-09-15",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621830/header.jpg",
    "ko": "text",
    "publisher": "Nacon",
    "major": false,
-   "reviews": 12624
+   "reviews": 12698
   }
  },
  {
@@ -40568,7 +40583,7 @@
   "name": "Fear Therapy",
   "url": "https://store.steampowered.com/app/1695840/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Fear Therapy는 멀티플레이어(1-4인) 및 싱글 플레이어 심리 공포 게임입니다. 너무 늦기 전에 퀘스트를 완료하고 공포의 집을 떠나세요! 사탄은 매초 화를 내며 그것을 억제할 수 없습니다.",
@@ -40593,7 +40608,7 @@
    "ko": "text",
    "publisher": "Black Flag Studios",
    "major": false,
-   "reviews": 3621
+   "reviews": 3622
   }
  },
  {
@@ -40601,7 +40616,7 @@
   "name": "Rogue Assault",
   "url": "https://store.steampowered.com/app/4264680/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "실시간으로 유닛을 직접 지휘할 수 있는 밀리터리 전략 게임으로, 건설 대기 시간이 없으며 인상적인 3D 비주얼을 제공합니다. 포스트 아포칼립스 유럽을 배경으로 다른 사령관들과 동맹을 맺고, 자원과 영토를 두고 싸우며 전쟁 사령관으로서 명예를 쌓아가세요.",
@@ -40643,7 +40658,7 @@
   "name": "Vampire's Fall 2",
   "url": "https://store.steampowered.com/app/4264230/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "세심하게 제작된 2D 다크 판타지 RPG에서 뱀파이어로 각성하세요. 파괴적인 힘을 마스터하고, 끔찍한 적들과 맞서며, 인간과 뱀파이어 간의 잔혹한 내전으로 산산이 부서진 세계에서 당신만의 운명을 개척하세요.",
@@ -40685,7 +40700,7 @@
   "name": "DARK SOULS™ II",
   "url": "https://store.steampowered.com/app/236430/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "FROM SOFTWARE에서 개발한 DARK SOULS™ II는 2011년에 출시되어 큰 인기를 누린 Dark Souls™의 속편입니다. 특유의 전통 방식 액션 RPG는 도전 의식을 고취시키고 강한 성취감을 느끼게 함으로써 세계 각지의 게이머 마음을 사로잡았습니다. Dark Souls™ II는 싱글 플레이와 멀티 플레이 모두에서 명성이 자자한 이 시리즈 특유의 난이도와 눈을 떼지 못하게 하는 게임 플레이를 선보일 것입니다. 어둠의 여정에 동참해 FROM SOFTWARE만이 제공할 수 있는 압도적인 적과 악마의 위협 그리고 끊임없는 도전을 경험해보십시오.",
@@ -40711,7 +40726,7 @@
    "ko": "text",
    "publisher": "BANDAI NAMCO Entertainment",
    "major": true,
-   "reviews": 33518
+   "reviews": 33533
   }
  },
  {
@@ -40719,7 +40734,7 @@
   "name": "Talisman: Digital Classic Edition",
   "url": "https://store.steampowered.com/app/247000/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "탈리스만: 디지털 에디션(Talisman: Digital Edition)은 고전 판타지 어드벤처 보드게임 탈리스만의 완전한 4번째 에디션 경험을 제공합니다. 여행 중에는 닥쳐오는 위험에서 살아남고 상대방을 제치고 보드 중앙에 도달하기 위해 힘, 용기, 그리고 좋은 주사위 운이 필요할 것입니다!",
@@ -40749,14 +40764,12 @@
     "전략"
    ],
    "price": 7800,
-   "finalPrice": 2340,
-   "discount": 70,
    "release": "2014-02-25",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247000/header.jpg",
    "ko": "none",
    "publisher": "Nomad Games",
    "major": false,
-   "reviews": 5569
+   "reviews": 5572
   }
  },
  {
@@ -40764,7 +40777,7 @@
   "name": "The Wild Eight",
   "url": "https://store.steampowered.com/app/526160/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "The Wild Eight은 알래스카를 배경으로 하는 무자비한 생존 게임으로, 수수께끼와 위험으로 가득합니다. 온라인에서 친구나 무작위 플레이어와 함께 탐험하고, 사냥하고, 제작하세요. 물론 이 악몽에서 혼자 살아남을 용기가 있다면, 얼마든지 도전해도 좋습니다.",
@@ -40794,7 +40807,7 @@
    "ko": "text",
    "publisher": "HypeTrain Digital",
    "major": false,
-   "reviews": 6774
+   "reviews": 6775
   }
  },
  {
@@ -40802,7 +40815,7 @@
   "name": "RUNNING WITH RIFLES",
   "url": "https://store.steampowered.com/app/270150/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "RUNNING WITH RIFLES 은 탑뷰 형식의 전술 슈팅 오픈월드 RPG 게임입니다. RWR에서 당신은, 당신의 주위에 있는 수많은 사람들과 같이, 평범한 군인으로서 군에 합류하게 됩니다.",
@@ -40834,7 +40847,7 @@
    "ko": "text",
    "publisher": "Osumia Games",
    "major": false,
-   "reviews": 14732
+   "reviews": 14735
   }
  },
  {
@@ -40842,7 +40855,7 @@
   "name": "Ranch Simulator: Build, Hunt, Farm",
   "url": "https://store.steampowered.com/app/1119730/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "건축. 농사. 사냥. 거래. 목장 경영은 만만한 일이 아닙니다. 당신에게는 허름한 가족의 농가를 계곡에서 가장 번창하는 목장으로 키울 저력이 있나요? 그렇다면 지금 이 흥미진진한 싱글 및 멀티 플레이어 오픈 월드 시뮬레이션 게임에서 대자연 속으로 떠나세요.",
@@ -40862,12 +40875,14 @@
     "시뮬레이션"
    ],
    "price": 26000,
+   "finalPrice": 3900,
+   "discount": 85,
    "release": "2023-11-03",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/edbc791f576913bd2b7d3aeeed8bc5dd73614872/header.jpg",
    "ko": "text",
    "publisher": "Excalibur Games",
    "major": false,
-   "reviews": 41429
+   "reviews": 41500
   }
  },
  {
@@ -40875,7 +40890,7 @@
   "name": "Torchlight II",
   "url": "https://store.steampowered.com/app/200710/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Torchlight II에서 모험이 계속됩니다! 장대한 전투와 보물이 가득하고 완전히 랜덤화된 세계를 선보이는 액션 RPG. 온라인 LAN 멀티플레이어 기능으로 함께 여정을 떠날 친구를 초대하세요.",
@@ -40898,14 +40913,12 @@
     "RPG"
    ],
    "price": 21000,
-   "finalPrice": 4200,
-   "discount": 80,
    "release": "2012-09-20",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/header.jpg",
    "ko": "none",
    "publisher": "XD",
    "major": false,
-   "reviews": 33356
+   "reviews": 33399
   }
  },
  {
@@ -40913,7 +40926,7 @@
   "name": "Ship Graveyard Simulator 2",
   "url": "https://store.steampowered.com/app/2201940/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "토치와 해머의 먼지를 털어내세요. 다시 일하러 갈 시간입니다. 세계에서 가장 큰 선박의 묘지가 있는 해변을 방문하여 거대한 선박 부분을 해체하고 귀중한 수많은 강철을 수집하세요. 소매를 걷어 올리세요. 다시 일하러 갈 시간입니다.",
@@ -40935,14 +40948,12 @@
     "시뮬레이션"
    ],
    "price": 27000,
-   "finalPrice": 11880,
-   "discount": 56,
    "release": "2023-08-16",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2201940/770d77fb6d857326303cca56531d8c2f52aa3271/header.jpg",
    "ko": "text",
    "publisher": "Games Incubator",
    "major": false,
-   "reviews": 3697
+   "reviews": 3707
   }
  },
  {
@@ -40950,7 +40961,7 @@
   "name": "소드 아트 온라인 라스트 리콜렉션",
   "url": "https://store.steampowered.com/app/1566880/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "종말이 다가오는 가상 세계 《언더월드》를 구하기 위해, 애니메이션 『소드 아트 온라인』의 주인공 「키리토」가 되어 동료들과 함께 모험하는 액션 RPG.",
@@ -40987,7 +40998,7 @@
   "name": "Gear Up Einstein!",
   "url": "https://store.steampowered.com/app/2950410/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "전략적인 로그라이트 오토 배틀러, 1~3인 플레이 지원. 시간여행을 떠나 역사적 인물들을 영입하고, 강력한 장비로 무장시켜 기상천외한 콤보를 터뜨리세요. 혼자서도, 친구와 함께도 전술 미션을 완벽하게 공략할 수 있습니다. 세상을 구할 준비 되셨나요?",
@@ -41018,8 +41029,6 @@
     "앞서 해보기"
    ],
    "price": 20000,
-   "finalPrice": 17000,
-   "discount": 15,
    "release": "2026-11-06",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950410/2810d3bd19673cf6b62796e673b15fd496bcefdd/header_alt_assets_0.jpg",
    "ko": "audio",
@@ -41032,7 +41041,7 @@
   "name": "Contract Cooks",
   "url": "https://store.steampowered.com/app/4301410/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "우리는 인력 파견 회사다. 요리사를 주방으로 보낸다. 그 요리사가 바로 당신이다. 오늘의 파견지는 번화가의 커피숍. 내일은 교외의 가게다. 폭염이 오면 손님들은 갑자기 얼음을 찾기 시작한다. 《Contract Cooks》는 협동 플레이 요리 로그라이트다. 파견 회사가 가라고 하는 곳으로 가서, 해고당하지 않도록 버티는 게임이다.",
@@ -41063,7 +41072,7 @@
   "name": "Happy's Humble Burger Cult",
   "url": "https://store.steampowered.com/app/3453910/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "오리지널 쿠킹 호러가 미쳐 돌아가는 1~4인용 협동 플레이로 돌아왔습니다. 버거를 굽고, 손님들을 응대하고, 할당량을 채우세요. 주방이 악몽으로 변하기 전에 말이죠. 자산 조이가 사냥을 시작하면 어떻게든 살아서 탈출하고, 힘들게 번 돈을 챙겨 또 다른 근무에서 살아남으세요.",
@@ -41089,7 +41098,7 @@
    "ko": "text",
    "publisher": "tinyBuild",
    "major": false,
-   "reviews": 583
+   "reviews": 586
   }
  },
  {
@@ -41097,7 +41106,7 @@
   "name": "X-Plane 12",
   "url": "https://store.steampowered.com/app/2014780/",
   "found": "2026-11-07",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Ultra-Realistic Flight Simulation",
@@ -41121,7 +41130,7 @@
    "ko": "text",
    "publisher": "Laminar Research",
    "major": false,
-   "reviews": 6586
+   "reviews": 6617
   }
  },
  {
@@ -45172,7 +45181,7 @@
   "name": "HANDS OVER",
   "url": "https://store.steampowered.com/app/4661070/",
   "found": "2026-11-14",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "HANDS OVER는 5인 협동 호러 게임입니다. 무해해 보이던 시련이 운과 담력을 시험하는 잔혹한 게임으로 변합니다. 허세를 부리고, 친구를 방해하고, 비열하게 플레이하며 누구보다 오래 테이블에 남으세요.",
@@ -45199,7 +45208,8 @@
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/972d3e6aa238297a34cc5ea2e7e6a5b923fb057a/header.jpg",
    "ko": "text",
    "publisher": "ArtDock",
-   "major": false
+   "major": false,
+   "reviews": 236
   }
  },
  {
@@ -45207,7 +45217,7 @@
   "name": "Sloppy Forgeries",
   "url": "https://store.steampowered.com/app/3030560/",
   "found": "2026-11-14",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Sloppy Forgeries는 빠른 속도의 경쟁 페인팅 게임입니다. 실시간으로 픽셀 단위 정밀도를 측정하는 드로잉 게임에서 유명한 명작들을 망가뜨리고 실력을 갈고닦으세요.",
@@ -45242,7 +45252,7 @@
   "name": "다 함께 즐기자! 프리니 보드 배틀",
   "url": "https://store.steampowered.com/app/4509300/",
   "found": "2026-11-14",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "친구들과 함께 Prinny Party: Going Overboard!를 즐겨 보세요. 이 파티 게임에서는 게임판을 누비며 악마들을 쓰러뜨리고, 경험치를 쌓고, 새 장비를 갖춰 Supreme Overboard를 물리칠 만큼 강해져야 합니다!",
@@ -45288,7 +45298,7 @@
   "name": "BLINDFOLD: Sound Chase",
   "url": "https://store.steampowered.com/app/5058180/",
   "found": "2026-11-14",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "《BLINDFOLD: Sound Chase》은 눈을 가린 술래 한 명과 여러 명의 도망자가 대결을 펼치는 비대칭 온라인 술래잡기 게임입니다. 보이지 않는 술래, 그리고 소리를 내면 위험에 처하는 도망자. 단순한 술래잡기이 긴장감 넘치는 심리전으로 변모합니다.",
@@ -45308,8 +45318,6 @@
     "인디"
    ],
    "price": 6550,
-   "finalPrice": 5570,
-   "discount": 15,
    "release": "2026-11-09",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5058180/c8eda494fe93daffd31791c15003257c659db505/header.jpg",
    "ko": "text",
@@ -45322,7 +45330,7 @@
   "name": "Dub Party",
   "url": "https://store.steampowered.com/app/5259730/",
   "found": "2026-11-14",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "목소리 연기 파티 게임: 친구들과 어떤 영상 클립이든 더빙하세요. 배역을 고르고, 부스에서 대사를 한 줄씩 녹음한 뒤, 함께 시사회를 감상하세요. 소파에서는 친구들이 휴대폰으로 참가해 녹음하거나 마이크 하나를 돌려 씁니다. 온라인에서는 최대 16명과 다섯 가지 파티 게임을 즐길 수 있습니다.",
@@ -45357,8 +45365,6 @@
     "인디"
    ],
    "price": 5450,
-   "finalPrice": 4360,
-   "discount": 20,
    "release": "2026-11-07",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5259730/135be578d9f2405f8b982ea62284f20ce16ccb83/header.jpg",
    "ko": "text",
@@ -45371,7 +45377,7 @@
   "name": "Hit or Die",
   "url": "https://store.steampowered.com/app/5168130/",
   "found": "2026-11-14",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "네 명의 플레이어, 하나의 테이블, 숫자 21. 뽑거나, 멈추거나, 블러핑하세요. 라운드가 끝났을 때 목표에서 가장 먼 사람은 망치, 모루, 리볼버를 맞습니다. 내 서랍 속 가위, 조작된 주사위, 주사기로 속임수를 쓰세요. 칩이 곧 체력입니다. 마지막까지 숨 쉬는 사람이 승리합니다.",
@@ -45408,7 +45414,7 @@
   "name": "Brain Party",
   "url": "https://store.steampowered.com/app/5318390/",
   "found": "2026-11-14",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "브레인 파티는 멀티플레이 두뇌 퍼즐 파티 게임입니다. 다른 플레이어들과 온라인으로 총점을 겨루며 1위를 노려 보세요. 싱글 플레이에서는 더 높은 난이도를 해제하고 개인 기록을 경신할 수 있습니다. 매일 새롭게 바뀌는 일일 챌린지에 참가해 전 세계 순위표에 도전하세요.",
@@ -45445,11 +45451,11 @@
   "name": "Death Dealer",
   "url": "https://store.steampowered.com/app/4508450/",
   "found": "2026-11-14",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
-   "short": "A multiplayer horror party game for up to 6 players where the losers of a card game are hunted by their friends.",
-   "text": "TRAPPED UNDERGROUND, YOU ARE UNWILLING PUPPETS IN THE DEATH DEALER’S DEADLY GAMES. One player becomes the hunted. Alarms sound. The hunted gets a head start. Everyone else buys weapons. Then the hunt begins. Hunt your friends. Or become the hunted and do whatever it takes to survive. Survive the hunt, and the tables might turn EVERY HUNT BEGINS AT THE TABLE . Play a high stakes card game. Win chips. Spin your personal slot machine for extra chips, strange effects and game changing modifiers. But someone has to lose. And when they do, everything changes. BUILT FOR CHAOS WITH FRIENDS Death Dealer is built around the moments when everything goes wrong. Expect desperate escapes, terrible decisions, proximity chat screaming, friends turning on each other and Janky Disco. Every match creates a new story. NO REAL MONEY It’s a video game, not a real casino.\nNo real money involved. Only consequences. \n JOIN THE COMMUNITY Join our Discord to find other players, share feedback and keep up with development.",
+   "short": "A multiplayer horror party game for up to 6 friends. Lose the card game and become the prey as the other players grab weapons and hunt you through an underground bunker. Can you survive the hunt?",
+   "text": "BEST PLAYED WITH FRIENDS! Death Dealer is a multiplayer horror party game for up to 6 players. Lose the card game and become the hunted, while your friends grab weapons and chase you through an underground bunker. TRAPPED UNDERGROUND, YOU ARE UNWILLING PUPPETS IN THE DEATH DEALER’S DEADLY GAMES. One player becomes the hunted. Alarms sound. The hunted gets a head start. Everyone else buys weapons. Then the hunt begins. Hunt your friends. Or become the hunted and do whatever it takes to survive. Survive the hunt, and the tables might turn EVERY HUNT BEGINS AT THE TABLE . Play a high stakes card game. Win chips. Spin your personal slot machine for extra chips, strange effects and game changing modifiers. But someone has to lose. And when they do, everything changes. BUILT FOR CHAOS WITH FRIENDS Death Dealer is built around the moments when everything goes wrong. Expect desperate escapes, terrible decisions, proximity chat screaming, friends turning on each other and Janky Disco. Every match creates a new story. NO REAL MONEY It’s a video game, not a real casino.\nNo real money involved. Only consequences. \n JOIN THE COMMUNITY Join our Discord to find other players, share feedback and keep up with development.",
    "cats": [
     "멀티플레이어",
     "PvP",
@@ -45467,10 +45473,8 @@
     "앞서 해보기"
    ],
    "price": 8950,
-   "finalPrice": 5550,
-   "discount": 38,
    "release": "2026-11-12",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508450/9e053339aad87dd0e2b391ace382f4578ae1a774/header.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508450/30427050b0cd4b394d2ede8970b7b31f9f996d1f/header.jpg",
    "ko": "none",
    "publisher": "Psychotronic",
    "major": false
@@ -45481,7 +45485,7 @@
   "name": "Whiskers of Yesterday",
   "url": "https://store.steampowered.com/app/1077310/",
   "found": "2026-11-14",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "당신은 고양이예요. 집 전체가 당신 차지! 친구를 최대 7명까지 불러 보세요. 탁자 위 접시 떨어뜨리기, 정원에서 고양이 축구, 수영장에서 수영하기, 햇살 아래 함께 웅크리기. 타이머도 실패도 없는, 그저 따뜻한 곳.",
@@ -45528,7 +45532,7 @@
   "name": "Sneaky Secret Mission!",
   "url": "https://store.steampowered.com/app/4683280/",
   "found": "2026-11-14",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Let's stir up some undercover chaos! Slip past teachers, bosses, and parents, and play to your heart's content!",
@@ -45550,8 +45554,6 @@
     "인디"
    ],
    "price": 7000,
-   "finalPrice": 4970,
-   "discount": 29,
    "release": "2026-05-27",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683280/14e2dc3e06a067866dcf9a26a3606f881a691bd1/header.jpg",
    "ko": "none",
@@ -45564,7 +45566,7 @@
   "name": "Crumble",
   "url": "https://store.steampowered.com/app/1061180/",
   "found": "2026-11-14",
-  "tried": "2026-11-14",
+  "tried": "2026-11-21",
   "why": "정리 대기",
   "info": {
    "short": "Crumble은 동적 물리 플랫폼 게임입니다. 슬라임처럼 움직이고, 공처럼 점프하고, 스파이더맨처럼 스윙하세요!",
@@ -45592,8 +45594,6 @@
     "레이싱"
    ],
    "price": 15500,
-   "finalPrice": 4650,
-   "discount": 70,
    "release": "2020-12-04",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061180/header.jpg",
    "ko": "text",
@@ -46640,6 +46640,395 @@
    "publisher": "KOEI TECMO GAMES CO., LTD.",
    "major": true,
    "reviews": 4477
+  }
+ },
+ {
+  "appid": 4183130,
+  "name": "WE'RE ALL IN!",
+  "url": "https://store.steampowered.com/app/4183130/",
+  "found": "2026-11-21",
+  "tried": "2026-11-21",
+  "why": "정리 대기",
+  "info": {
+   "short": "『WE’RE ALL IN!』에서 미니게임 대혼란을 경험하세요. 1~8인 온라인 파티 게임으로, 빠르게 펼쳐지는 다양한 게임과 도전에서 친구에게 베팅해 승리를 거머쥐세요.",
+   "text": "보드판의 지루함은 빼고, 미니게임의 재미만 담았다. 『WE’RE ALL IN!』에서는 1대1, 팀 모드, 개인전 등 다양한 미니게임에서 누가 승리할지 친구들과 판돈 큰 내기를 벌입니다. 베팅 친구의 반사신경에 칩을 얼마나 걸 건가요? 가위바위보를 기가 막히게 못하기로 유명한 친구인가요? 『WE’RE ALL IN!』이 여러분의 우정에 숨겨진 진실을 밝혀 드립니다. 플레이 친구 얼굴에 창을 정통으로 꽂아 주세요. 레이저를 피하면서 라이벌을 밀어 떨어뜨리세요. 장애물 코스를 누가 가장 빨리 돌파할지 내기하세요. 이 밖에도 훨씬, 훨씬 더 많습니다! 게다가 로비도 자유롭게 설정할 수 있습니다. 죽도록 싫은 미니게임은 꺼 버리고, 다툼은 저격총 결투로 해결하세요. 상상하는 건 아마 『WE’RE ALL IN!』에 다 있을 겁니다. 승리 칩은 점점 오르는 가격에 따라 별로 교환됩니다. 마지막에 별을 가장 많이 모은 사람이 승리합니다. 하지만 조심하세요. 보너스 별은 실력과 순전한 운에 따라 주어집니다. 승리를 만끽했다면, 별을 사용해 잠금 해제 가능한 치장 아이템을 얻고 친구들 앞에서 뽐내세요. WE'RE ALL IN! 당신은? 주요 특징 1~8인 온라인 '협동' 경쟁할 수 있는 수십, 수십 가지의 미니게임 1대1, 개인전, 팀 모드 자유로운 로비 설정 잠금 해제 가능한 치장 아이템 원할 때 언제든 친구를 밀어 넘어뜨릴 수 있음",
+   "cats": [
+    "싱글 플레이어",
+    "멀티플레이어",
+    "협동",
+    "온라인 협동",
+    "컨트롤러 일부 지원",
+    "가족 공유"
+   ],
+   "genres": [
+    "시뮬레이션",
+    "전략"
+   ],
+   "price": 8950,
+   "finalPrice": 5550,
+   "discount": 38,
+   "release": "2026-11-20",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4183130/0917f5c4a4c932dda6acc54eee0060b23cf3488b/header.jpg",
+   "ko": "text",
+   "publisher": "Black Lantern Collective",
+   "major": false
+  }
+ },
+ {
+  "appid": 1755580,
+  "name": "The Jackbox Party Starter",
+  "url": "https://store.steampowered.com/app/1755580/",
+  "found": "2026-11-21",
+  "tried": "2026-11-21",
+  "why": "정리 대기",
+  "info": {
+   "short": "Get the party started with The Jackbox Party Starter! Featuring three updated titles: Quiplash 3, Trivia Murder Party 2 and Tee K.O., this starter pack is sure to entertain!",
+   "text": "The Jackbox Party Starter is here to help get your party started! We’ve gathered three of our most beloved games into one handy pack! With so many titles to choose from, we decided to help take out some of the guesswork and hand you three games that are sure to give you hours of entertainment! We’ve updated Quiplash 3, Trivia Murder Party 2 and Tee K.O. with all of our most recent settings and improvements such as moderation, subtitles, content filtration, and settings menu upgrades. Additionally, we’ve fully localized the voice acting, subtitles and even credit songs in French, Italian, German, Spanish and now Brazilian Portuguese!  No extra controllers needed; players use their phones or tablets to play along! Got a bigger group? Play with up to 8 players and up to 10,000 audience members. Quiplash 3 Players enter a head-to-head battle of wits by answering a comedic prompt and letting the other players (and the audience) decide which they like best! Is that it? Uh, no. Quiplash 3 now has a Moderation feature that allows responses to be seen prior to being displayed on screen. Additionally, a new filtering option allows profanity and hateful speech to be blocked before even reaching moderation. So that’s it, right? Thank you for asking, but no! Quiplash 3 has a new final round called Thriplash, where the prompts ask players to enter three responses. That’s three times the chances to be funny! Originally part of The Jackbox Party Pack 7, Quiplash 3 in The Party Starter has be",
+   "cats": [
+    "싱글 플레이어",
+    "멀티플레이어",
+    "PvP",
+    "스크린 공유 및 분할 PvP",
+    "협동",
+    "스크린 공유 및 분할 협동",
+    "공유 및 분할 화면",
+    "Steam 도전 과제",
+    "컨트롤러 일부 지원",
+    "Steam Cloud",
+    "Remote Play Together",
+    "가족 공유"
+   ],
+   "genres": [
+    "캐주얼",
+    "인디",
+    "전략"
+   ],
+   "price": 21500,
+   "finalPrice": 10750,
+   "discount": 50,
+   "release": "2022-06-29",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755580/header.jpg",
+   "ko": "none",
+   "publisher": "Jackbox Games, Inc.",
+   "major": false,
+   "reviews": 419
+  }
+ },
+ {
+  "appid": 5318240,
+  "name": "Trolley Together",
+  "url": "https://store.steampowered.com/app/5318240/",
+  "found": "2026-11-21",
+  "tried": "2026-11-21",
+  "why": "정리 대기",
+  "info": {
+   "short": "열차는 쉬지 않고 오고, 갈림길 끝마다 누군가 서 있습니다. 레버로 뛰어가 친구들과 함께 열차를 어디로 보낼지 정하세요. 누가 몇 점인지는 쳐 봐야 압니다. 1~5인 협동으로 20일을 버티는 스토리 모드와 4~8인 마피아식 개인전이 있는 트롤리 딜레마 파티 게임.",
+   "text": "가장 나은 선택이란 것은 없어요 열차가 다가와요. 위엔 시민 다섯, 아래엔 대통령. 누구를 쳐야할까요? 시간이 없어요!\n모두의 딜레마는 실시간으로 굴러가는 트롤리 딜레마예요. 열차는 쉬지 않고 나오고, 선로 끝마다 누군가 서 있어요. 당신은 선로 사이를 뛰어다니며 열차가 누구에게 갈지 정해요. 정답은 없어요. 협동 - 20일 버티기 날마다 주어지는 목표점수를 달성하세요.\n날이 갈수록 다양한 사람들이 등장해요.\n점수만 신경쓰다보면 사람들끼리 묶이고, 화면이 뒤집히고, 레버가 무거워질 수도 있어요. 개인전 - 모두가 같은 생각을 하진 않아요 모두가 착한 척하고 있는 가운데, 다른 생각을 가진 사람들이 있어요.\n그들은 사실 일부러 죄없는 시민들을 치고 있어요. 같이 즐겨요! 음성으로 소통하고, 음성이 안되더라도 핑으로 소통하세요.\n레버 앞을 막은 친구는 주먹으로 밀어내세요. 정신 못차리면 기차로 밀어버리세요.\n즐거운 순간들은 폴라로이드 카메라에 담아드릴게요.",
+   "cats": [
+    "싱글 플레이어",
+    "멀티플레이어",
+    "PvP",
+    "온라인 PvP",
+    "협동",
+    "온라인 협동",
+    "스크린 공유 및 분할 협동",
+    "공유 및 분할 화면",
+    "Steam 도전 과제",
+    "Remote Play Together",
+    "가족 공유"
+   ],
+   "genres": [
+    "캐주얼",
+    "인디",
+    "전략",
+    "앞서 해보기"
+   ],
+   "price": 2400,
+   "release": "2026-11-18",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5318240/095145097c059d6b752d97247072b98b41234ac1/header_koreana.jpg",
+   "ko": "text",
+   "publisher": "MeMe Games",
+   "major": false
+  }
+ },
+ {
+  "appid": 4181370,
+  "name": "Quack Quack Up",
+  "url": "https://store.steampowered.com/app/4181370/",
+  "found": "2026-11-21",
+  "tried": "2026-11-21",
+  "why": "정리 대기",
+  "info": {
+   "short": "친구들과 산소가 부족해질 때까지 소리를 지르는 음성 인식 파티 게임입니다. 키보드와 마우스는 잠시 내려놓고, 여러분의 비명으로 오리 떼를 결승점까지 몰아가세요. 아니면 누군가의 우렁찬 한마디 때문에 불쌍한 오리들이 전부 절벽 아래로 떨어질 수도 있죠!",
+   "text": "JOIN US \n 게임 정보 원시로 돌아간 인류의 대규모 비명 현장에 오신 것을 환영합니다! 이곳에서 여러분은 전문 오리몰이꾼이 되어, 말이 전혀 통하지 않는 오리 떼를 목소리로 조종하며 위험천만한 길을 지나가야 합니다. 간단해 보인다고요? 팀원의 재채기 한 번에 오리들이 단체로 절벽에 뛰어드는 순간, 그 생각은 바로 사라질 겁니다. 마이크 볼륨 기반 조작 4인 '즐거운' 협동 플레이 다채로운 지형 환경과 물리 규칙 상상력 넘치는 맵 퍼즐 개성 넘치고 코믹한 외형 오리몰이는 얌전한 식사 자리가 아닙니다. 커맨드 콤보도 없고, 차분하고 품위 있게 해결할 수도 없습니다. 오리몰이는 외침의 기술이며, 마이크 볼륨으로 오리 떼를 몰아가는 기술이죠. 목소리가 클수록 오리들은 더 멀리 달려갑니다. 단, 오리 떼가 절벽에 가까워졌다면 목소리를 잘 조절하세요. 그 뒤에 벌어지는 일은 전부 본인 책임입니다! 최대 4인 온라인 협동 플레이를 지원하며, 여러분과 얄미운 친구들에게 완벽한 우정 파괴 무대를 제공합니다. 다양한 장치와 함정을 풀기 위해서는 찰떡같은 팀워크가 필요합니다. 하지만 혈압을 시험하는 이 여정에서 맵에 있는 장치나 함정은 별것 아닐지도 모릅니다. 언제든 마이크를 터뜨릴 준비가 된 팀원들이야말로 클리어의 진짜 관건이죠. 자연은 결코 자비롭지 않습니다. 고요한 산기슭부터 미끄러운 설산, 뜨거운 사막까지, 온갖 독특한 생태 지형과 물리 규칙이 길을 가로막습니다. 빙판에서는 미끄러지고, 돌풍은 제멋대로 몰아치며, 함정은 사방에 깔려 있습니다. 오리들은 흩어지고, 싸우고, 심지어 단체로 “파업”까지 벌입니다. 목이 터져라 외쳐도, 우리의 오리 형님들은 그저 시끄럽다고 느낄 뿐이죠. 전설적인(그리고 목소리가 가장 큰) 오리몰이꾼에 도전하세요! 다양한 고난도 챌린지에서 살아남고, 기상천외한 업적 배지를 획득해 멋진(어쩌면 우스꽝스러울지도 모르는) 외형을 해금하세요. 가장 눈부신 차림으로 모두에게 증명하세요. 누가 오리 떼의 진정한, 혹은 가장 비참한, 지배자인지를!",
+   "cats": [
+    "싱글 플레이어",
+    "멀티플레이어",
+    "협동",
+    "온라인 협동",
+    "LAN 협동",
+    "Steam 도전 과제",
+    "컨트롤러 완벽 지원",
+    "DUALSHOCK 컨트롤러 지원",
+    "DUALSHOCK 컨트롤러 지원",
+    "DualSense 컨트롤러 지원",
+    "DualSense 컨트롤러 지원",
+    "Steam Cloud",
+    "가족 공유"
+   ],
+   "genres": [
+    "어드벤처",
+    "캐주얼",
+    "인디",
+    "시뮬레이션"
+   ],
+   "price": 8700,
+   "release": "2026-06-23",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4181370/8bf307f485c84c4a4b77aa4d4c4c13e86b099841/header.jpg",
+   "ko": "text",
+   "publisher": "2P Games",
+   "major": false
+  }
+ },
+ {
+  "appid": 2698870,
+  "name": "Midnight Murder Club",
+  "url": "https://store.steampowered.com/app/2698870/",
+  "found": "2026-11-21",
+  "tried": "2026-11-21",
+  "why": "정리 대기",
+  "info": {
+   "short": "Midnight Murder Club은 어두컴컴한 저택에서 펼쳐지는 스릴 넘치고 유쾌한 공포 파티 게임입니다. 손전등과 리볼버, 거리 기반 음성 채팅에 몸을 맡긴 채, 최대 다섯 명의 친구와 함께 긴장감 넘치는 총격전과 혼돈의 함정, 그리고 칠흑 같은 어둠 속을 헤쳐 나가세요.",
+   "text": "에디션 구성품:‎ Midnight Murder Club 친구들을 불러 모으고, 어둠 속에서 숨바꼭질을 즐기세요 Midnight Murder Club은 매번 새로운 비명과 반전, 그리고 어둠 속에서 우왕좌왕하는 이야기가 펼쳐지는 혼돈과 웃음이 가득한 공포 파티 게임입니다. 가장 좋아하는 말썽꾸러기 친구들과 함께, 손전등과 리볼버 하나에 몸을 맡긴 채 서로에게 속삭이며 함정과 장난감을 피해 혼돈 속을 조심스럽게 헤쳐 나가세요. 거리 기반 음성 채팅 덕분에 작은 속삭임에도 깜짝 놀라고, 혼돈은 웃음으로 바뀔 겁니다. Midnight Murder Club에 오신 것을 환영합니다 가면 뒤에 정체를 숨기고, 친구들과 함께 통찰력, 속임수, 그리고 총격의 게임에 참여하세요. 참가자들은 안전한 어둠 속에 숨을지, 아니면 위험을 감수하고 손전등을 비출지 선택을 내려야 합니다. 빛과 어둠을 절묘히 활용해야 하죠. 감각을 총동원하세요. 어둠 속에서는 모든 결정이 중요합니다. 한 번의 구매로 모두가 즐길 수 있습니다 Midnight Murder Club을 구매하고 최대 다섯 명의 친구를 매치에 초대하세요. 친구가 게스트 패스 에디션을 다운로드하면 추가 비용 없이¹ 함께 플레이할 수 있습니다. 모든 모드부터 어둠 속 작은 속삭임 하나하나까지. 전부 즐기세요. 혼돈과 살인으로 가득한 저택, 친구들과 함께할 때 그 재미는 배가 됩니다. 와일드카드 모드 실력만 있다고 생존을 보장할 수는 없습니다. 규칙을 바꾸는 능력도 필요한 법이죠. 매치마다 색다른 재미를 선사하는 강력한 게임 체인저인 와일드카드로 여러분에게 유리한 덱을 짜 보세요. 저택을 곰덫으로 도배하고, 팀의 크기를 바꿔 버리세요. 벽 너머로 총을 쏘고, 흔들리는 거대한 머리로 플레이하거나, 말 그대로 영광의 불길과 함께 타오르세요. 규칙을 바꾸는 효과로 긴장감을 끌어올리고 매치에 예측할 수 없는 반전과 나만의 개성을 더해 보세요. 이 모드에서 카드는 곧 혼돈입니다. 어둠 속의 속삭임 어두운 저택의 복도를 수색하다 보면, 완벽한 거리 기반 음성 채팅 기능을 통해 재밌고 긴장감 넘치는 순간과 마주할 수 있습니다. 위층 복도를 이동하는 조용한 발소리를 듣고, 옆방의 문 사이로 들려오는 총성을 향해 조용히 다가가세요. 총격전에서 승리한 후 높은 천장에 메아리치는 라이벌의 웃음소리를 들어보세요. PvE 모드: 야간 근무 저택에서 여러분을 위협하는 건 가면 쓴 참가자들뿐만이 아닙니다. 야간 근무 모드에서 친구와 힘을 합쳐 어두운 복도에 도사리는 초자연적 존재에 맞서 보세요. 몰려오는 뒤틀린 악마와 기어 오는 그림자, 불타는 해골 무리를 격퇴하며 황금 유물을 찾아내고 금고로 가져가세요. 여러분을 순순히 봐주는 만만한 저택이 아니기 때문에, 오래 버틸수록 적도 더 강해집니다. 악마의 장난감 저택 곳곳에는 생존에 도움이 될 함정, 무기, 그리고 다양한 장비가 숨겨져 있습니다. 야간 투시 알약을 복용해 어둠 속에서 시야를 확보하고, 천장에 떨어지는 샹들리에 함정을 설치해 보세요. 곰덫을 설치해 적을 붙들거나, 화염병을 던져 ",
+   "cats": [
+    "멀티플레이어",
+    "PvP",
+    "온라인 PvP",
+    "협동",
+    "온라인 협동",
+    "크로스 플랫폼 멀티플레이어",
+    "Steam 도전 과제",
+    "컨트롤러 완벽 지원",
+    "DualSense 컨트롤러 지원",
+    "가족 공유"
+   ],
+   "genres": [
+    "액션",
+    "인디"
+   ],
+   "price": 10800,
+   "finalPrice": 6480,
+   "discount": 40,
+   "release": "2025-08-14",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698870/header.jpg",
+   "ko": "text",
+   "publisher": "PlayStation Publishing LLC",
+   "major": true,
+   "reviews": 310
+  }
+ },
+ {
+  "appid": 1529220,
+  "name": "Block'Em!",
+  "url": "https://store.steampowered.com/app/1529220/",
+  "found": "2026-11-21",
+  "tried": "2026-11-21",
+  "why": "정리 대기",
+  "info": {
+   "short": "Block'Em!은 플레이어 2~4인이 함께 즐길 수 있는, 액션으로 가득한 블록 쌓기 파티 게임입니다! 컨트롤은 아주 단순하지만 승리로 향하는 길은 복잡합니다. 가장 먼저 목표에 도달하거나, 마지막까지 살아남는 Blocky가 되어 보세요!",
+   "text": "Block'Em!은 플레이어 2~4인이 함께 즐길 수 있는, 액션으로 가득한 블록 쌓기 파티 게임입니다! 컨트롤은 아주 단순하지만 승리로 향하는 길은 복잡합니다. 가장 먼저 목표에 도달하거나, 마지막까지 살아남는 Blocky가 되어 보세요!\n2~4인의 플레이어가 즐길 수 있는 귀엽고, 중독성 넘치고, 빠르게 진행되는 파티 게임으로, 교활한 움직임으로 상대방을 압도하여 승리를 거머쥘 수 있습니다.\n플랫폼과 퍼즐의 흥미진진한 조합!\n활기차고 정신없는 아레나 안에서 길을 찾으세요. 화염구를 조심하세요!\nBlock'Em은 여러분의 경쟁심을 이끌어냅니다.\n우정을 더 단단하게 하거나… 혹은 파괴하거나!\n결승점을 향한 레이스에서 상대를 이기거나 마지막 블록이 되어 살아남으세요.\n먹고, 자고, Block’Em하고, 반복하세요.",
+   "cats": [
+    "멀티플레이어",
+    "PvP",
+    "온라인 PvP",
+    "스크린 공유 및 분할 PvP",
+    "공유 및 분할 화면",
+    "Steam 도전 과제",
+    "컨트롤러 완벽 지원",
+    "Steam 트레이딩 카드",
+    "Remote Play Together",
+    "가족 공유"
+   ],
+   "genres": [
+    "액션",
+    "캐주얼",
+    "인디"
+   ],
+   "price": 8500,
+   "finalPrice": 1700,
+   "discount": 80,
+   "release": "2022-09-08",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1529220/header.jpg",
+   "ko": "text",
+   "publisher": "Aurora Punks",
+   "major": false
+  }
+ },
+ {
+  "appid": 5373240,
+  "name": "Junk Rocket Party",
+  "url": "https://store.steampowered.com/app/5373240/",
+  "found": "2026-11-21",
+  "tried": "2026-11-21",
+  "why": "정리 대기",
+  "info": {
+   "short": "잡동사니를 빼앗아 로켓을 날려라! 회전 테이블 위로 떨어지는 소파, 변기, 제트 엔진을 서로 빼앗고, 무제한으로 쓸 수 있는 동체와 날개를 조합해 나만의 로켓을 만드세요. 시간이 끝나면 모두 동시에 발사, 가장 멀리 날아간 사람이 승리! 2~4명 랭크 온라인 빠른 대전, Steam 친구와 최대 8명 대전, CPU와 겨루는 싱글 모드를 지원합니다. 태클과 폭탄으로 상대를 방해하는 것도 가능! 49종의 파츠와 4개의 스테이지, 물리 시뮬레이션 비행, 3분 튜토리얼과 시험 비행장까지 갖췄습니다.",
+   "text": "잡동사니를 빼앗아 로켓을 날려라! JUNK ROCKET PARTY는 최대 8명이 즐기는 왁자지껄 로켓 제작 파티 게임입니다. 빼앗아라! \n회전 테이블 위로 잡동사니가 계속 떨어집니다. 소파, 변기, 쇼핑카트, 운이 좋으면 전설의 하이퍼 부스터까지. 주워서 내 발사대로 옮기세요. 조립하라! \n무제한으로 쓸 수 있는 동체, 노즈콘, 날개, 꼬리날개와 주운 파츠로 간이 CAD 모드에서 자유롭게 로켓을 조립하세요. 무게중심, 추력 방향, 공기 저항에 따라 비행이 달라집니다. 방해하라! \n태클로 상대의 짐을 떨어뜨리세요. 스턴건, 스프링 펀치, 배트, 바나나 껍질, 시한폭탄… 상대 로켓에 몰래 무거운 추를 달 수도 있습니다. 날려라! \n시간이 끝나면 모든 로켓이 동시에 발사됩니다. 비행 중에도 기수를 조종하거나 가스통을 터뜨려 궤도를 바꿀 수 있습니다. 가장 멀리 날아간 사람이 라운드의 승자입니다. 랭크전 \n온라인 빠른 대전은 랭크전입니다. 브론즈에서 마스터까지 올라가세요. 강한 상대를 이길수록 크게 오르고, 약한 상대에게 지면 크게 떨어집니다. 랭크는 Steam 계정에 저장되며, 전 세계 및 친구 랭킹에서 내 순위를 확인할 수 있습니다. 주요 특징 2~4명이 즐기는 랭크 온라인 빠른 대전 (전 세계·친구 랭킹 지원)\n Steam 친구와 1인 1화면으로 최대 8명 대전 (빈자리는 CPU로 채울 수 있습니다)\n 1~7명의 CPU와 겨루는 싱글 모드 (난이도 3단계)\n 49종의 파츠: 추진, 공기역학, 장비, 잡동사니, 방해 아이템\n 물리 시뮬레이션 비행: 파츠별 공기 저항, 양력, 파손\n 12km 코스와 라운드마다 바뀌는 4개의 스테이지 (초원／황야／설원／화산)\n 과녁, 고도, 체공 등 변칙 규칙과 순풍, 저중력 같은 라운드 이벤트\n 3분 튜토리얼과 모든 파츠를 써볼 수 있는 시험 비행장\n 14개의 업적\n 효과음 84종과 BGM 8곡을 모두 게임 내 프로그램으로 합성 방송 및 영상 관련 방송과 영상 업로드를 환영합니다! 개인, 법인(소속사 VTuber 포함) 구분 없이 허가는 필요 없으며, 수익 창출과 클립 제작도 자유롭게 하셔도 됩니다. 제목에 게임 이름을 넣어 주시면 기쁘겠습니다.",
+   "cats": [
+    "싱글 플레이어",
+    "멀티플레이어",
+    "PvP",
+    "온라인 PvP",
+    "Steam 도전 과제",
+    "음량 개별 조절",
+    "난이도 조정",
+    "퀵타임 이벤트 없이 플레이 가능",
+    "스테레오 사운드",
+    "컨트롤러 일부 지원",
+    "Steam 순위표",
+    "가족 공유"
+   ],
+   "genres": [
+    "액션",
+    "캐주얼",
+    "인디"
+   ],
+   "price": 5450,
+   "release": "2026-11-13",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5373240/549174b1a0de5d40a7563123de13542ea2b82eb5/header.jpg",
+   "ko": "text",
+   "publisher": "TOWA YOSHIDA",
+   "major": false
+  }
+ },
+ {
+  "appid": 5413320,
+  "name": "실버 서비스: 그랜드 뷔페 정리하기",
+  "url": "https://store.steampowered.com/app/5413320/",
+  "found": "2026-11-21",
+  "tried": "2026-11-21",
+  "why": "정리 대기",
+  "info": {
+   "short": "Silver Service는 크루즈선에서 11,132개의 음식을 제자리에 돌려놓는 힐링 정리 게임이에요. 혼자서도, 최대 3명의 친구와 함께도 즐길 수 있어요. 쟁반을 채우고 알맞은 진열대를 찾고 업그레이드를 해금하세요. 쉬고 싶을 땐 낚싯대를 들고 물속에 뭐가 숨어 있는지 확인해 보세요.",
+   "text": "Silver Service 는 크루즈선을 배경으로 한 힐링 정리 게임이에요. 근무가 막 시작됐는데, 제자리에 있는 게 하나도 없어요. 피자와 버블티부터 초밥과 페이스트리까지, 11,132개의 음식이 브라스리, 버블티 살롱, 스시 바, 티룸, 그랜드 뷔페의 테이블 위에 흩어져서 여러분이 제자리에 돌려놓기만을 기다리고 있어요. 모든 음식에는 제자리가 있어요 테이블에서 쟁반을 채운 다음, 241가지 레시피 중에서 각 음식의 진열대를 찾아 주세요. 업그레이드로 더 빠르게 음식을 하나 정리할 때마다 코인을 받아 장비를 업그레이드할 수 있어요. 더 큰 쟁반 , 최대 16칸 더 빠른 이동 , 크루즈선 어디든 금방 가요 팔 길이 연장 , 카운터 너머에 있는 것도 집을 수 있어요 서빙 카트 , 선반 3단 수석 웨이터의 눈 , 같은 음식을 한눈에 모두 찾아요 혼자서도, 최대 3명의 친구와도 Steam 친구를 최대 3명까지 온라인으로 초대하세요. 공간을 나눠 맡아도 좋고, 두 손 가득 음식을 들고 복도에서 서로 부딪혀도 좋아요. 잠시 쉬어 가요 배 뒤편에서 낚싯대를 꺼내 물속에 뭐가 숨어 있는지 알아보세요. 온갖 생물이 낚이고, 잡은 건 모두 승무원 수족관에 들어가요. 수집하고 사진 찍기 카메라는 늘 가까이 두세요. 고래, 돌고래, 갈매기, 지나가는 배들이 도감을 채워 줘요. 목적지를 골라요 선장실에서 열대 석호, 벚꽃 핀 해안, 눈 덮인 피오르로 항로를 정하세요. 정리하는 동안 크루즈선 주변 풍경이 바뀌어요. 두 가지 모드 여유 모드 : 부담 없이 내 속도대로 정리해요 도전 모드 : 도움은 줄이고, 크루즈선 구조를 통째로 외워요 Kyo와 Ishaa 배에는 펭귄 두 마리가 살고 있어요. 쓰다듬어 줄 수도 있고, 펭귄들은 이 방 저 방 돌아다니다가 배 주위로 헤엄도 치러 가요. 그런데 음식을 슬쩍 가져가서 엉뚱한 곳에 두고 가는 나쁜 버릇이 있으니, 그냥 넘어가지 마세요! 요리도, 손님도, 타이머도 없어요 여러분과 쟁반, 그리고 정리를 기다리는 크루즈선뿐이에요.",
+   "cats": [
+    "싱글 플레이어",
+    "멀티플레이어",
+    "협동",
+    "온라인 협동",
+    "Steam 도전 과제",
+    "컨트롤러 완벽 지원",
+    "카메라 움직임 조정",
+    "음량 개별 조절",
+    "난이도 조정",
+    "#category_playable_at_your_own_pace",
+    "퀵타임 이벤트 없이 플레이 가능",
+    "DUALSHOCK 컨트롤러 지원",
+    "DUALSHOCK 컨트롤러 지원",
+    "DualSense 컨트롤러 지원",
+    "DualSense 컨트롤러 지원",
+    "수시 저장",
+    "스테레오 사운드",
+    "Steam Cloud",
+    "가족 공유"
+   ],
+   "genres": [
+    "캐주얼",
+    "시뮬레이션"
+   ],
+   "price": 6700,
+   "finalPrice": 5690,
+   "discount": 15,
+   "release": "2026-11-14",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5413320/63596d7a9f1eb5d31c7557c21810d7115a36ebd3/header_koreana.jpg",
+   "ko": "text",
+   "publisher": "Swiplay",
+   "major": false
+  }
+ },
+ {
+  "appid": 1238820,
+  "name": "Battlefield 3™",
+  "url": "https://store.steampowered.com/app/1238820/",
+  "found": "2026-11-21",
+  "tried": "2026-11-21",
+  "why": "정리 대기",
+  "info": {
+   "short": "원하는 대로 싸우는 완전한 자유를 즐기세요. 29가지 거대한 멀티플레이어 전장을 탐험하고, 다양한 탑승장비, 무기 및 보조장비를 사용해 기세를 강화하세요. 전투의 매 순간마다 대량의 추가 콘텐츠가 해제되고 계급이 올라갑니다. 지금 바로 시작하세요.",
+   "text": "더욱더 격렬해진 Battlefield 3™에서 원하는 대로 싸우는 완전한 자유를 즐기세요. 29가지 거대한 멀티플레이어 전장을 탐험하고, 다양한 탑승장비, 무기 및 보조장비를 사용해 기세를 강화하는 데 도움을 주세요. 전투의 매 순간마다 대량의 추가 콘텐츠가 해제되고 계급이 올라갑니다. 지금 바로 시작하세요.\n 주요 기능: \n 강점을 발휘하세요. 돌격병, 공병, 보급병, 정찰병의 네 가지 플레이어 병과는 각각 특수성을 지니고 있으며, 힘을 합쳐 싸우는 것이 승리를 향한 열쇠입니다.\n 어디에서나 하고 싶은 걸 하세요. 전차와 사륜차부터 헬기와 제트기까지 다양한 탑승장비를 조종하세요. F/A-18E 슈퍼 호넷을 적 전투차량에 정통으로 꽃아 넣어보세요!\n 완벽한 대혼란 29가지 멀티플레이어 전장을 즐기세요. 무자비하게 파괴할 수 있는 환경을 찾나요? 여기 있습니다. 광활한 공간에서 탑승물을 타고 미쳐 날뛸 수 있는 전투를 찾나요? 잘 알겠습니다.\n 다양한 해제가능품 각 전투는 역량을 강화해 줄 계급, 약장, 훈장 등을 제공합니다. 헬기에 계속 머물러 파일럿 기술을 연마하고 IR 플레어를 해제해 다가오는 미사일을 막거나 스텔스 기능을 강화하세요. Battlefield 3 프리미엄 에디션 구성:\n 게임과 5가지 모든 확장팩 — 프리미엄 에디션에는 20가지 신규 전장, 20가지 신규 무기, 10가지 신규 탑승장비 및 4가지 신규 게임 모드가 포함되어 있습니다.\n 멀티플레이어 헤드 스타트 키트 — 15가지 강화된 무기와 보조장비, 탑승장비 업그레이드 등을 즉시 해제하세요.\n 강력한 신규 기능 — 새로운 시작을 위해 통계를 초기화하고, 서버 대기열 우선권을 얻고, 새로운 소대 엠블럼 도안을 획득하세요. 또한, 경험치 2배 주말 같은 독특한 행사와 독점 대회에도 참가해보세요.\n 독점 게임 내 아이템 — 신규 병사 및 무기 위장, ACB-90 나이프와 독특한 인식표 세트와 같이 다른 곳에서 얻을 수 없는 독특한 게임 내 아이템을 얻으세요.",
+   "cats": [
+    "싱글 플레이어",
+    "멀티플레이어",
+    "PvP",
+    "온라인 PvP",
+    "Steam 도전 과제",
+    "컨트롤러 완벽 지원",
+    "Steam 트레이딩 카드"
+   ],
+   "genres": [
+    "액션"
+   ],
+   "price": 44000,
+   "finalPrice": 2200,
+   "discount": 95,
+   "release": "2020-06-11",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/header.jpg",
+   "ko": "audio",
+   "publisher": "Electronic Arts",
+   "major": true,
+   "reviews": 16717
+  }
+ },
+ {
+  "appid": 2806050,
+  "name": "Halo: Campaign Evolved",
+  "url": "https://store.steampowered.com/app/2806050/",
+  "found": "2026-11-21",
+  "tried": "2026-11-21",
+  "why": "정리 대기",
+  "info": {
+   "short": "전설의 시작을 함께하세요.",
+   "text": "Premium Edition 프리미엄 에디션 구성: • Halo: Campaign Evolved 게임 • 5종의 마스터 치프 방어구 스킨과 6종의 무기 스킨이 포함된 알파 헤일로 무기고 팩 • Art of Halo: Campaign Evolved 디지털 아트북 • Halo: Hungry Buzzards 디지털 단편 소설 • 디지털 게임 매뉴얼 \n 에디션 비교 \n PC Specs \n 게임 정보 전설의 시작을 함께하세요 Halo: Campaign Evolved는 Halo: Combat Evolved 캠페인을 충실히 재현하면서도 현대적으로 재구성한 리메이크 버전입니다. 고화질 그래픽, 업데이트된 시네마틱, 향상된 컨트롤로 새롭게 재구성된 원작 스토리를 경험하고, 마스터 치프와 존슨 상사가 등장하는 3개의 신규 미션 어드벤처도 즐길 수 있습니다. 더욱 다양해진 무기, 탈것, 적, 그리고 전투를 흥미롭고 도전적으로 변화시키는 선택적 변형 요소인 \"스컬\"까지, 이 모든 것이 새로운 전략과 끝없는 즐거움을 선사합니다. 솔로 모드나 온라인 협동 모드(플레이어 최대 4명, 여러 디바이스 간 플레이 및 게임 진행 상황 저장 완벽 지원) 중에서 선택할 수 있습니다. Halo를 처음 플레이하든, 25년 만에 다시 플레이하든, Halo: Campaign Evolved는 시간을 초월하면서도 완전히 새로워진 모험을 제공합니다. 링 월드의 비밀을 밝혀라: \"Halo\"라는 신비한 링 월드에 불시착한 마스터 치프는 무시무시한 코버넌트 무리와 맞서 싸우는 인류 생존자들을 도와야 합니다. 마스터 치프는 AI 동반자 코타나와 함께 Halo의 어두운 비밀을 밝혀내고, 은하계 전체 생명의 멸종을 막기 위해 싸워야 합니다. 확 달라진 신규 캠페인: 기존과 동일한 미션에 업데이트된 시네마틱과 개선된 레벨 디자인이 적용된 이번 캠페인에서는 더욱 흥미진진하게 전투를 벌일 수 있습니다. 고화질 시네마틱과 고음질 오디오 적용: 새로운 시각 효과와 애니메이션이 적용되고 사운드트랙이 리마스터링되었으며 사운드 디자인도 전면 새로 제작되어 몰입도가 더욱 높아졌습니다. 더욱 다양해진 전투와 무기: 전투 진행 방식은 기존과 동일하지만 더욱 생생하게 재현되었습니다. 그리고 이제는 시리즈 전체에서 Halo를 상징하는 무기 9개를 추가로 사용할 수 있습니다. 3개의 신규 미션: 새로운 환경, 게임플레이, 적이 등장하는 독립형 전투 작전인 Operation: Meteorite에서 존슨 상사와 함께 마스터 치프가 되어 플레이하세요. 솔로 모드 또는 협동 모드 진행: 솔로 모드 또는 온라인 협동 모드(플레이어 4명, 콘솔과 PC 간 플레이 및 게임 진행 상황 저장 완벽 지원) 중에서 원하는 모드를 선택하여 전체 캠페인을 진행할 수 있습니다. 더욱 다양한 방식으로 차량 활용: 이제는 Halo를 상징하는 차량을 더욱 다양한 방식으로 활용하여 흥미진진한 전투를 벌일 수 있습니다. 이제는 Halo: CE 사상 최초로 적의 차량을 하이재킹할 수 있으며 레이스 탱크도 원하는 대로 완벽하게 조정할 수 있습니다. 횟수 제한",
+   "cats": [
+    "싱글 플레이어",
+    "멀티플레이어",
+    "협동",
+    "온라인 협동",
+    "Steam 도전 과제",
+    "컨트롤러 완벽 지원",
+    "텍스트 크기 조정",
+    "카메라 움직임 조정",
+    "음성 채팅 텍스트 변환",
+    "텍스트 채팅 음성 변환",
+    "색상 대체",
+    "#category_contrast_controls",
+    "음량 개별 조절",
+    "난이도 조정",
+    "게임 메뉴 음성 안내",
+    "#category_playable_at_your_own_pace",
+    "퀵타임 이벤트 없이 플레이 가능",
+    "DUALSHOCK 컨트롤러 지원",
+    "DUALSHOCK 컨트롤러 지원",
+    "DualSense 컨트롤러 지원",
+    "DualSense 컨트롤러 지원",
+    "스테레오 사운드",
+    "자막 옵션",
+    "서라운드 사운드",
+    "가족 공유"
+   ],
+   "genres": [
+    "액션",
+    "어드벤처"
+   ],
+   "price": 69800,
+   "finalPrice": 41880,
+   "discount": 40,
+   "release": "2026-07-28",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg",
+   "ko": "audio",
+   "publisher": "Xbox Game Studios",
+   "major": true,
+   "reviews": 13065
   }
  }
 ]
