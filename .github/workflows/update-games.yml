@@ -2,29 +2,56 @@ name: 게임 데이터 매일 갱신
 
 on:
   schedule:
-    - cron: "17 19 * * *" # 매일 한국 시간 새벽 4시 17분
-  workflow_dispatch: {} # Actions 탭에서 수동 실행
+    # GitHub 예약 실행은 서버가 붐비면 몇 시간 늦거나 그날 건너뛰기도 해서 하루 두 번 걸어둠.
+    # 두 번째는 첫 번째가 이미 그날 갱신을 끝냈으면 바로 건너뜀.
+    - cron: "17 19 * * *" # 한국 시간 새벽 4시 17분
+    - cron: "37 22 * * *" # 한국 시간 아침 7시 37분 (첫 번째가 빠졌을 때 대비)
+  workflow_dispatch: {} # Actions 탭에서 수동 실행 (항상 실행)
 
 permissions:
   contents: write
+
+# 두 번이 겹쳐 돌지 않게 하나씩 차례로
+concurrency:
+  group: update-games
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 180 # 게임이 늘수록 갱신이 길어짐 (게임당 약 1.6초)
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+
+      - name: 오늘 이미 갱신했는지 확인
+        id: today
+        run: |
+          TODAY=$(TZ=Asia/Seoul date +%F)
+          LAST=$(node -e 'console.log(require("./public/games.json").updatedAt ?? "")')
+          echo "오늘(KST): $TODAY / 마지막 갱신: $LAST"
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$LAST" = "$TODAY" ]; then
+            echo "오늘 갱신은 이미 끝나서 건너뜀."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-node@v5
+        if: steps.today.outputs.skip != 'true'
         with:
-          node-version: 20
+          node-version: 24
+
       - name: 스팀에서 가격·신작 갱신
+        if: steps.today.outputs.skip != 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }} # 없으면 AI 분류 없이 후보만 기록
         run: node scripts/update-games.mjs
-      - name: 바뀐 게 있으면 커밋 (Vercel이 자동 배포)
+
+      - name: 바뀐 게 있으면 커밋 (사이트 자동 배포)
+        if: steps.today.outputs.skip != 'true'
         run: |
           git config user.name "gemgolla-bot"
           git config user.email "gemgolla-bot@users.noreply.github.com"
           git add public/games.json data/candidates.json data/skipped.json
-          git diff --cached --quiet || git commit -m "게임 데이터 갱신 $(date -u -d '+9 hours' +%F)"
+          git diff --cached --quiet || git commit -m "게임 데이터 갱신 $(TZ=Asia/Seoul date +%F)"
           git push
