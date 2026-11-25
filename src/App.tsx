@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import {
   EMPTY, LEN, TAGN, type Game, type Query, type Disc, type Len,
   fromParams, headerUrl, isBig, kindOf, onSale, parse, recommend, summary, toParams, won,
+  SORTS, sortGames, type SortKey,
 } from "./logic";
 
 const EXAMPLES = [
@@ -122,12 +123,25 @@ export default function App() {
   const result = useMemo(() => recommend(games, q), [games, q]);
 
   // 페이지 나누기: 한 페이지에 12개 (3열 4줄). 조건이 바뀌면 1페이지로
+  const [sortKey, setSortKey] = useState<SortKey>("rec");
+  const sorted = useMemo(() => sortGames(result.list, sortKey), [result, sortKey]);
   const PAGE_SIZE = 12;
   const [page, setPage] = useState(1);
-  const pageCount = Math.max(1, Math.ceil(result.list.length / PAGE_SIZE));
-  const shown = result.list.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
+  const pageCount = Math.max(1, Math.ceil(sorted.length / PAGE_SIZE));
+  const shown = sorted.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
   const resultsTop = useRef<HTMLDivElement>(null);
-  useEffect(() => { setPage(1); }, [q, games]);
+  useEffect(() => { setPage(1); }, [q, games, sortKey]);
+
+  // "아무거나 골라줘": 지금 결과 중 하나를 랜덤으로. 다시 누르면 방금 것과 다른 게임
+  const [pick, setPick] = useState<Game | null>(null);
+  const pickRef = useRef<HTMLDivElement>(null);
+  useEffect(() => { setPick(null); }, [q, games]);
+  const pickRandom = () => {
+    const pool = result.list.length > 1 && pick ? result.list.filter((g) => g.appid !== pick.appid) : result.list;
+    if (!pool.length) return;
+    setPick(pool[Math.floor(Math.random() * pool.length)]);
+    window.setTimeout(() => pickRef.current?.scrollIntoView({ behavior: "smooth", block: "start" }), 0);
+  };
   const goPage = (p: number) => {
     setPage(Math.min(Math.max(1, p), pageCount));
     resultsTop.current?.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -225,7 +239,33 @@ export default function App() {
             {summary(q) ? <>추천 · <b>{summary(q)}</b></> : "조건 없이 추천"}
             <span className="count"> · {result.list.length}개</span>
           </span>
-          <button type="button" className="share" onClick={share}>이 결과 공유</button>
+          <div className="resbar-actions">
+            <label className="sort">
+              <span className="sr-only">정렬</span>
+              <select id="sort" value={sortKey} onChange={(e) => setSortKey(e.target.value as SortKey)}>
+                {SORTS.map(([k, t]) => <option key={k} value={k}>{t}</option>)}
+              </select>
+            </label>
+            <button type="button" className="share" onClick={share}>이 결과 공유</button>
+            <button type="button" className="pick-btn" onClick={pickRandom} disabled={!result.list.length}>
+              아무거나 골라줘
+            </button>
+          </div>
+        </div>
+      )}
+      {pick && (
+        <div className="pick" ref={pickRef} role="region" aria-label="랜덤으로 고른 게임">
+          <div className="pick-head">
+            <b>오늘은 이거 어때요?</b>
+            <span className="pick-sub">{result.list.length}개 중에서 골랐어요</span>
+          </div>
+          <ul className="list pick-list">
+            <Card key={pick.appid} g={pick} want={q.players ?? 0} />
+          </ul>
+          <div className="pick-actions">
+            <button type="button" className="pick-btn" onClick={pickRandom} disabled={result.list.length < 2}>다시 뽑기</button>
+            <button type="button" className="pick-close" onClick={() => setPick(null)}>닫기</button>
+          </div>
         </div>
       )}
       {shareMsg && <p className="notice share-msg" role="status">{shareMsg}</p>}

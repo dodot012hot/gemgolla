@@ -167,6 +167,21 @@ export function recommend(all: Game[], r: Query): { list: Game[]; note: string }
   return { list: pool, note }; // 전부 돌려주고 화면에서 페이지로 나눠 보여줌
 }
 
+/** 결과 정렬. "rec"은 추천 점수 순(recommend가 이미 정렬해서 그대로) */
+export type SortKey = "rec" | "price" | "sale" | "reviews" | "new";
+export const SORTS: [SortKey, string][] = [
+  ["rec", "추천순"], ["price", "가격 낮은 순"], ["sale", "할인 많은 순"], ["reviews", "리뷰 많은 순"], ["new", "최신 출시순"],
+];
+export function sortGames(list: Game[], key: SortKey): Game[] {
+  if (key === "rec") return list;
+  const out = list.slice(); // 같은 값이면 추천순을 유지 (sort는 안정 정렬)
+  if (key === "price") out.sort((a, b) => nowPrice(a) - nowPrice(b));
+  if (key === "sale") out.sort((a, b) => (b.discount ?? 0) - (a.discount ?? 0));
+  if (key === "reviews") out.sort((a, b) => (b.reviews ?? -1) - (a.reviews ?? -1));
+  if (key === "new") out.sort((a, b) => (b.release ?? "").localeCompare(a.release ?? ""));
+  return out;
+}
+
 export const won = (n: number) => (n === 0 ? "무료" : n.toLocaleString("ko-KR") + "원");
 export const headerUrl = (g: Game) =>
   g.header ?? `https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/${g.appid}/header.jpg`;

@@ -108,3 +108,19 @@ footer{font-size:.78rem;color:var(--muted);border-top:1px solid var(--line);padd
 .pg-num[aria-current="page"]{background:var(--accent);color:var(--accent-ink);font-weight:700}
 .pg-step:disabled{opacity:.35;cursor:default}
 .pg-gap{color:var(--muted);padding:0 2px}
+
+/* 정렬과 아무거나 골라줘 */
+.resbar-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.sort select{height:34px}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.pick-btn{border:0;background:var(--gem);color:#2B1E00;border-radius:4px;padding:6px 14px;font-weight:700;font-size:.88rem;white-space:nowrap}
+.pick-btn:hover:not(:disabled){filter:brightness(1.08)}
+.pick-btn:disabled{opacity:.4;cursor:default}
+.pick{border:2px solid var(--gem);border-radius:8px;padding:14px;display:flex;flex-direction:column;gap:12px;background:var(--bg-deep)}
+.pick-head{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.pick-head b{font-family:var(--display);font-weight:400;font-size:1.4rem;color:var(--gem)}
+.pick-sub{color:var(--muted);font-size:.85rem}
+.pick-list{grid-template-columns:minmax(0,520px)}
+.pick-actions{display:flex;gap:8px}
+.pick-close{border:1px solid var(--line);background:transparent;color:var(--muted);border-radius:4px;padding:6px 14px;font-size:.88rem}
+.pick-close:hover{color:var(--ink)}
