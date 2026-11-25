@@ -48,40 +48,98 @@ export const TAGN: Record<string, string> = {
 };
 export const LEN: Record<Len, string> = { short: "한 판 짧음", mid: "한 판 30분 안팎", long: "오래 붙잡는 게임" };
 
+// 분위기 태그: 사람들이 실제로 쓰는 말 → 태그. 다른 단어 속에 섞여 걸리지 않게 일부러 좁게 잡음
+// (예: "총 5명"의 총, "기술"의 술, "재밌는"은 모든 게임에 붙는 말이라 뺌)
 const VIBE: [string, RegExp][] = [
-  ["funny", /웃|개그|병맛|빵터|웃기|재밌/], ["party", /파티|미니게임|다같이|다 같이|술/],
-  ["horror", /공포|무서|호러|귀신|유령/], ["chill", /힐링|잔잔|편하|여유|느긋|평화/],
-  ["shooter", /총|fps|슈팅|사격|배그/i], ["survival", /생존|서바이벌|크래프팅|건축|집 짓/],
-  ["puzzle", /퍼즐|머리 ?쓰|두뇌/], ["strategy", /전략|머리싸움|보드게임/],
-  ["deduction", /마피아|추리|속이|라이어|거짓말|어몽어스/], ["fighting", /격투|난투|때리|치고받/],
-  ["rpg", /rpg|성장|모험|레벨/i], ["story", /스토리|이야기|서사/], ["action", /액션/],
-  ["skill", /빡겜|실력|랭크|진지/],
+  ["funny", /웃긴|웃기|웃음|개그|병맛|빵터|개웃/],
+  ["party", /파티|미니게임|술게임|술겜|술 ?마시|술자리|왁자지껄|시끌벅적/],
+  ["horror", /공포|무서|무섭|호러|귀신|유령|깜놀|소름/],
+  ["chill", /힐링|잔잔|편하|편한|편안|여유|느긋|평화|아늑/],
+  ["shooter", /총 ?(?:쏘|게임|겜|싸움|질)|총겜|fps|tps|슈팅|슈터|사격|배그|발로란트|오버워치|카스/i],
+  ["survival", /생존|서바이벌|크래프팅|건축|집 ?짓|마크|마인크래프트|샌드박스|좀비/],
+  ["puzzle", /퍼즐|머리 ?(?:쓰|굴리)|두뇌|방탈출/],
+  ["strategy", /전략|머리싸움|보드게임|턴제|rts|aos|moba|(?:^|[\s,])롤(?=\s|같|처럼|이랑|느낌|$)/i],
+  ["deduction", /마피아|추리|속이|라이어|거짓말|어몽어스|눈치/],
+  ["fighting", /격투|난투|때리|치고받|대난투/],
+  ["rpg", /rpg|롤플레잉|성장|모험|레벨업|던전/i],
+  ["story", /스토리|이야기|서사/],
+  ["action", /액션/],
+  ["skill", /빡겜|빡센|빡세|실력|랭크|진지|어려운|고난도|하드코어|(?:^|[\s,])롤(?=\s|같|처럼|이랑|느낌|$)/i],
 ];
-const NUMW: Record<string, number> = { 둘: 2, 두: 2, 셋: 3, 세: 3, 넷: 4, 네: 4, 다섯: 5, 여섯: 6, 일곱: 7, 여덟: 8, 아홉: 9, 열: 10 };
+const NUMW: Record<string, number> = { 혼자: 1, 둘: 2, 두: 2, 셋: 3, 세: 3, 넷: 4, 네: 4, 다섯: 5, 여섯: 6, 일곱: 7, 여덟: 8, 아홉: 9, 열: 10 };
+const NUM = "(\\d+|혼자|다섯|여섯|일곱|여덟|아홉|둘|셋|넷|두|세|네|열)";
+const toNum = (x: string) => (/^\d+$/.test(x) ? +x : NUMW[x]);
+
+/** 어떤 말이 문장에 "부정 없이" 나왔는지. "공포 말고", "안 무서운", "무섭지 않은", "무료 아니어도"는 부정으로 봄 */
+type Hit = { yes: boolean; no: boolean };
+function hit(t: string, re: RegExp): Hit {
+  const g = new RegExp(re.source, re.flags.includes("g") ? re.flags : re.flags + "g");
+  const res: Hit = { yes: false, no: false };
+  for (const m of t.matchAll(g)) {
+    const i = m.index ?? 0;
+    const after = t.slice(i + m[0].length, i + m[0].length + 14);
+    const before = t.slice(Math.max(0, i - 3), i);
+    const negated =
+      /^\S{0,4}\s?(?:거|것|게임|겜|류|쪽|장르|건)?\s?(?:말고|말구|빼고|제외|싫|아닌|아니|별로|ㄴㄴ|노노|상관\s?없|안\s?(?:돼|되)|없어도|몰라도)/.test(after) ||
+      /^\S{0,3}지\s?(?:않|말)/.test(after) ||
+      /안\s?$/.test(before);
+    if (negated) res.no = true; else res.yes = true;
+  }
+  return res;
+}
 
 export function parse(t: string): Query {
   const r: Query = { ...EMPTY, tags: [] };
-  let m = t.match(/(\d+)\s*(명|인|이서)/);
-  if (m) r.players = +m[1];
+  let m: RegExpMatchArray | null;
+
+  // ── 인원 ──
+  // "3~4명"처럼 범위면 큰 쪽. "1인칭/3인칭"은 인원이 아님
+  if ((m = t.match(/(\d+)\s*[~\-–,]\s*(\d+)\s*(?:명|인(?!칭))/))) r.players = Math.max(+m[1], +m[2]);
+  // "나 포함 넷", "나까지 5명"
+  else if ((m = t.match(new RegExp(`(?:나\\s?포함(?:해서)?|나까지|나\\s?빼고\\s?)\\s*${NUM}`)))) {
+    r.players = toNum(m[1]) + (/빼고/.test(m[0]) ? 1 : 0);
+  }
+  // "친구 3명이랑/하고/와" → 나까지 +1
+  else if ((m = t.match(new RegExp(`친구(?:들)?\\s*${NUM}\\s*(?:명)?\\s*(?:이랑|랑|하고|과|와|이와|데리고)`)))) r.players = toNum(m[1]) + 1;
+  else if ((m = t.match(/(\d+)\s*(?:명|인(?!칭)|이서)/))) r.players = +m[1];
+  // "셋이서", "네 명", "둘이" — "세이브", "네이버" 같은 단어에 안 걸리게 뒤를 좁게 봄
+  else if ((m = t.match(/(다섯|여섯|일곱|여덟|아홉|둘|셋|넷|두|세|네|열)\s*(?:명|이서|이랑|이(?=\s|$|[,.!?~]))/))) r.players = NUMW[m[1]];
   else if (/혼자/.test(t)) r.players = 1;
-  else if ((m = t.match(/(다섯|여섯|일곱|여덟|아홉|둘|셋|넷|두|세|네|열)\s*(명|이서|이)/))) r.players = NUMW[m[1]];
+  else if (/여친|남친|애인|커플|와이프|남편|여자친구|남자친구/.test(t)) r.players = 2;
 
-  if (/무료|공짜|돈 ?안|프리/.test(t)) r.price = 0;
-  else if ((m = t.match(/(\d+(?:\.\d+)?)\s*만\s*원?/))) r.price = Math.round(parseFloat(m[1]) * 10000);
-  else if ((m = t.match(/(\d+)\s*천\s*원?/))) r.price = +m[1] * 1000;
-  else if ((m = t.match(/(\d{4,6})\s*원/))) r.price = +m[1];
-  else if (/싼|저렴|부담 ?없/.test(t)) r.price = 15000;
+  // ── 가격 ── (뒤에 "이상/넘어도/부터"가 붙으면 상한이 아니라서 안 걸음)
+  const free = hit(t, /무료|공짜|돈 ?안 ?드는|프리 ?투|f2p/i);
+  const notCap = (s: string) => /^\s*(?:원)?\s*(?:대\s*)?(?:이상|넘어도|넘는|넘게|부터|초과|이상도)/.test(s);
+  if (free.yes) r.price = 0;
+  else if ((m = t.match(/(\d+(?:\.\d+)?)\s*만\s*(원)?\s*(대)?/)) && !notCap(t.slice((m.index ?? 0) + m[0].length - (m[3] ? 1 : 0)))) {
+    r.price = Math.round(parseFloat(m[1]) * 10000) + (m[3] ? 9999 : 0);
+  } else if ((m = t.match(/(\d+)\s*천\s*원?/)) && !notCap(t.slice((m.index ?? 0) + m[0].length))) r.price = +m[1] * 1000;
+  else if ((m = t.match(/(\d{4,6})\s*원/)) && !notCap(t.slice((m.index ?? 0) + m[0].length))) r.price = +m[1];
+  else if ((m = t.match(/(?:^|[^\d.])만\s*원/)) && !notCap(t.slice((m.index ?? 0) + m[0].length))) r.price = 10000;
+  else if (/(?:^|[^비])싼|저렴|부담 ?없|가성비/.test(t)) r.price = 15000;
 
-  const pvp = /경쟁|대결|대전|pvp|싸우|이기는|배틀|붙는|겨루/i.test(t);
-  const coop = /협동|같이 깨|힘 ?합|coop|협력|팀으로/i.test(t);
-  if (pvp && !coop) r.mode = "pvp"; else if (coop && !pvp) r.mode = "coop";
-  if (/짧|한 ?판|가볍|잠깐/.test(t)) r.len = "short"; else if (/오래|장기|길게|꾸준/.test(t)) r.len = "long";
-  if (/신작|새로 나온|최신|요즘 나온/.test(t)) r.disc = "new";
-  else if (/숨은|원석|안 ?유명|모르는|마이너|덜 알려/.test(t)) r.disc = "nohit";
-  if (/한국어|한글|더빙/.test(t)) r.ko = "text";
-  if (/할인|세일/.test(t)) r.sale = true;
-  if (/대작|aaa|트리플 ?a/i.test(t)) r.big = true;
-  for (const [k, re] of VIBE) if (re.test(t)) r.tags.push(k);
+  // ── 협동 / 경쟁 ── 한쪽을 "말고"로 빼면 반대쪽으로
+  const pvp = hit(t, /경쟁|대결|대전|pvp|싸우|이기는|배틀|붙는|붙자|겨루|팀전|\d\s*(?:대|:|vs)\s*\d|vs/i);
+  const coop = hit(t, /협동|같이 ?깨|힘 ?합|co-?op|협력|pve/i);
+  if (pvp.yes && !coop.yes) r.mode = "pvp";
+  else if (coop.yes && !pvp.yes) r.mode = "coop";
+  else if (!pvp.yes && !coop.yes) r.mode = pvp.no ? "coop" : coop.no ? "pvp" : null;
+
+  // ── 한 판 길이 ── "30분"처럼 숫자로 말하면 그걸 우선
+  if ((m = t.match(/(\d+)\s*분/))) r.len = +m[1] <= 15 ? "short" : "mid";
+  else if (/짧|한 ?판|가볍|잠깐/.test(t)) r.len = "short";
+  else if (/오래|장기|길게|꾸준|밤새|몇 ?시간/.test(t)) r.len = "long";
+
+  // ── 신작 / 유명작 ──
+  const famous = hit(t, /유명|인기 ?(?:있|많)|다 ?아는|국민 ?게임/);
+  if (/신작|새로 ?나온|최신|요즘 ?(?:나온|뜨는|핫|유행)|최근(?:에)? ?나온|나온 ?지 ?얼마/.test(t)) r.disc = "new";
+  else if (famous.no || /숨은|원석|안 ?유명|모르는|마이너|덜 ?알려/.test(t)) r.disc = "nohit";
+
+  if (hit(t, /한국어|한글|더빙|자막/).yes) r.ko = "text";
+  if (hit(t, /할인|세일/).yes) r.sale = true;
+  if (hit(t, /대작|aaa|트리플 ?a/i).yes) r.big = true;
+
+  for (const [k, re] of VIBE) if (hit(t, re).yes && !r.tags.includes(k)) r.tags.push(k);
   if (r.tags.includes("deduction") && !r.mode) r.mode = "pvp";
   return r;
 }
