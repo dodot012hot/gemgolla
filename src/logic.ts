@@ -164,7 +164,7 @@ export function recommend(all: Game[], r: Query): { list: Game[]; note: string }
   }
   if (!pool.length) { pool = games.slice(); note = "조건에 맞는 게임이 없어서 전체에서 비슷한 걸 골랐어요."; }
   pool.sort((a, b) => score(b, r) - score(a, r));
-  return { list: pool.slice(0, 8), note };
+  return { list: pool, note }; // 전부 돌려주고 화면에서 페이지로 나눠 보여줌
 }
 
 export const won = (n: number) => (n === 0 ? "무료" : n.toLocaleString("ko-KR") + "원");

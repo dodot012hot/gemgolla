@@ -120,6 +120,24 @@ export default function App() {
   }, []);
 
   const result = useMemo(() => recommend(games, q), [games, q]);
+
+  // 페이지 나누기: 한 페이지에 12개 (3열 4줄). 조건이 바뀌면 1페이지로
+  const PAGE_SIZE = 12;
+  const [page, setPage] = useState(1);
+  const pageCount = Math.max(1, Math.ceil(result.list.length / PAGE_SIZE));
+  const shown = result.list.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
+  const resultsTop = useRef<HTMLDivElement>(null);
+  useEffect(() => { setPage(1); }, [q, games]);
+  const goPage = (p: number) => {
+    setPage(Math.min(Math.max(1, p), pageCount));
+    resultsTop.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+  };
+  // 페이지 번호는 현재 페이지 주변만: 1 … 4 5 [6] 7 8 … 20
+  const pageNums = useMemo(() => {
+    const nums = new Set([1, pageCount]);
+    for (let p = page - 2; p <= page + 2; p++) if (p >= 1 && p <= pageCount) nums.add(p);
+    return [...nums].sort((a, b) => a - b);
+  }, [page, pageCount]);
   const saleCount = useMemo(() => games.filter((g) => onSale(g) && (q.big || !isBig(g))).length, [games, q.big]);
   const bigCount = useMemo(() => games.filter(isBig).length, [games]);
 
@@ -202,16 +220,33 @@ export default function App() {
       {error && <p className="notice">{error}</p>}
       {!error && !games.length && <p className="notice">게임 목록을 불러오는 중…</p>}
       {games.length > 0 && (
-        <div className="resbar">
-          <span>{summary(q) ? <>추천 · <b>{summary(q)}</b></> : "조건 없이 추천"}</span>
+        <div className="resbar" ref={resultsTop}>
+          <span>
+            {summary(q) ? <>추천 · <b>{summary(q)}</b></> : "조건 없이 추천"}
+            <span className="count"> · {result.list.length}개</span>
+          </span>
           <button type="button" className="share" onClick={share}>이 결과 공유</button>
         </div>
       )}
       {shareMsg && <p className="notice share-msg" role="status">{shareMsg}</p>}
       {result.note && <p className="notice">{result.note}</p>}
       <ul className="list">
-        {result.list.map((g) => <Card key={g.appid} g={g} want={q.players ?? 0} />)}
+        {shown.map((g) => <Card key={g.appid} g={g} want={q.players ?? 0} />)}
       </ul>
+
+      {pageCount > 1 && (
+        <nav className="pager" aria-label="결과 페이지">
+          <button type="button" className="pg-step" onClick={() => goPage(page - 1)} disabled={page === 1}>이전</button>
+          {pageNums.map((p, i) => (
+            <span key={p} className="pg-group">
+              {i > 0 && p - pageNums[i - 1] > 1 && <span className="pg-gap" aria-hidden="true">…</span>}
+              <button type="button" className="pg-num" aria-current={p === page ? "page" : undefined}
+                onClick={() => goPage(p)}>{p}</button>
+            </span>
+          ))}
+          <button type="button" className="pg-step" onClick={() => goPage(page + 1)} disabled={page === pageCount}>다음</button>
+        </nav>
+      )}
 
       <footer>
         게임 {games.length}개 · 가격과 할인은 스팀 한국 스토어 기준으로 매일 갱신돼요
