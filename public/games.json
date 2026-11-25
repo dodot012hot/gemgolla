@@ -1725,7 +1725,7 @@
   {
    "appid": 880940,
    "name": "Pummel Party",
-   "min": 4,
+   "min": 2,
    "max": 8,
    "mode": "pvp",
    "price": 16500,
@@ -1734,7 +1734,7 @@
     "party",
     "funny"
    ],
-   "desc": "보드판 위 미니게임 대결. 우정 파괴형 파티 게임.",
+   "desc": "보드판 위 미니게임으로 겨루는 우정 파괴 파티 게임, 빈자리는 봇이 채움",
    "kind": "hit",
    "release": "2018-09-20",
    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg",
@@ -6289,28 +6289,6 @@
    "sortedBy": "manual"
   },
   {
-   "appid": 620980,
-   "name": "Beat Saber",
-   "min": 2,
-   "max": 5,
-   "mode": "pvp",
-   "len": "short",
-   "tags": [
-    "skill"
-   ],
-   "desc": "날아오는 블록을 박자에 맞춰 베어내며 점수를 겨루는 VR 리듬 게임",
-   "price": 30800,
-   "kind": "gem",
-   "release": "2019-05-21",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/5cc5d0993166f164aa0a1ff15dfd6941262477e3/header_alt_assets_5.jpg",
-   "ko": "audio",
-   "publisher": "Beat Games",
-   "major": false,
-   "reviews": 69956,
-   "added": "2026-11-22",
-   "sortedBy": "manual"
-  },
-  {
    "appid": 678950,
    "name": "DRAGON BALL FighterZ",
    "min": 2,
@@ -6540,29 +6518,6 @@
    "publisher": "Moon Studios GmbH",
    "major": false,
    "reviews": 67568,
-   "added": "2026-11-22",
-   "sortedBy": "manual"
-  },
-  {
-   "appid": 1533390,
-   "name": "Gorilla Tag",
-   "min": 2,
-   "max": 10,
-   "mode": "pvp",
-   "len": "short",
-   "tags": [
-    "funny",
-    "action"
-   ],
-   "desc": "팔만 휘저어 달리고 매달리며 술래잡기를 하는 VR 고릴라 게임",
-   "price": 21500,
-   "kind": "gem",
-   "release": "2023-01-01",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/fdd97735dfb6643a898070be587c4a057f2b978f/header.jpg",
-   "ko": "none",
-   "publisher": "Another Axiom Inc.",
-   "major": false,
-   "reviews": 53899,
    "added": "2026-11-22",
    "sortedBy": "manual"
   },
@@ -7082,13 +7037,13 @@
    "appid": 10180,
    "name": "Call of Duty®: Modern Warfare® 2 (2009)",
    "min": 1,
-   "max": 2,
-   "mode": "coop",
+   "max": 6,
+   "mode": "both",
    "len": "mid",
    "tags": [
     "shooter"
    ],
-   "desc": "2인 협동 스펙 옵스 미션이 따로 있는 현대전 FPS",
+   "desc": "현대전 캠페인과 대전, 2인 협동 스펙 옵스를 담은 FPS",
    "price": 27900,
    "kind": "gem",
    "release": "2009-11-11",
