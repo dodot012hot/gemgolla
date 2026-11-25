@@ -8781,29 +8781,6 @@
    "sortedBy": "manual"
   },
   {
-   "appid": 4864560,
-   "name": "메챠 카멜레온",
-   "min": 2,
-   "max": 10,
-   "mode": "pvp",
-   "len": "short",
-   "tags": [
-    "party",
-    "funny"
-   ],
-   "desc": "주변 색과 질감을 복사해 숨고 헌터가 찾아내는 숨바꼭질",
-   "price": 4400,
-   "kind": "gem",
-   "release": "2026-07-22",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864560/511f42b7104f524279bfb4bd580dcd4fbd030361/header.jpg",
-   "ko": "text",
-   "publisher": "Proactive Games",
-   "major": false,
-   "reviews": 321,
-   "added": "2026-11-24",
-   "sortedBy": "manual"
-  },
-  {
    "appid": 4917440,
    "name": "MOGGED: Looksmaxx or Die",
    "min": 1,
