@@ -157,7 +157,10 @@ export default function App() {
   }, [page, pageCount]);
   const saleCount = useMemo(() => games.filter((g) => inGroup(g, q.group) && onSale(g) && (q.big || !isBig(g))).length, [games, q.big, q.group]);
   const bigCount = useMemo(() => games.filter((g) => inGroup(g, q.group) && isBig(g)).length, [games, q.group]);
-  const groupCount = (gr: Group | null) => games.filter((g) => inGroup(g, gr)).length;
+  // 목록 옆 숫자는 지금 실제로 보이는 개수 (대작 포함을 안 켰으면 대작은 빼고 셈)
+  const groupCount = (gr: Group | null) => games.filter((g) => inGroup(g, gr) && (q.big || !isBig(g))).length;
+  // 대작이라 숨겨져서 결과가 비었을 때 안내용
+  const hiddenBig = q.big ? 0 : games.filter((g) => inGroup(g, q.group) && isBig(g)).length;
 
   const ask = (t: string) => {
     const r = parse(t);
@@ -277,6 +280,11 @@ export default function App() {
       )}
       {shareMsg && <p className="notice share-msg" role="status">{shareMsg}</p>}
       {result.note && <p className="notice">{result.note}</p>}
+      {games.length > 0 && !result.list.length && (
+        <p className="notice">{hiddenBig
+          ? `이 목록은 대작만 ${hiddenBig}개 있어서 숨겨져 있어요. 위에서 '대작 포함'을 켜면 보여요.`
+          : "이 목록에는 아직 게임이 없어요."}</p>
+      )}
       <ul className="list">
         {shown.map((g) => <Card key={g.appid} g={g} want={q.players ?? 0} />)}
       </ul>

@@ -231,7 +231,7 @@ export function recommend(all: Game[], r: Query): { list: Game[]; note: string }
     pool = games.filter((g) => fits(g, r, true));
     if (pool.length) note = "딱 맞는 게임이 적어서 가격과 모드 조건을 조금 넓혔어요.";
   }
-  if (!pool.length) { pool = games.slice(); note = "조건에 맞는 게임이 없어서 전체에서 비슷한 걸 골랐어요."; }
+  if (!pool.length && games.length) { pool = games.slice(); note = "조건에 맞는 게임이 없어서 전체에서 비슷한 걸 골랐어요."; }
   pool.sort((a, b) => score(b, r) - score(a, r));
   return { list: pool, note }; // 전부 돌려주고 화면에서 페이지로 나눠 보여줌
 }
