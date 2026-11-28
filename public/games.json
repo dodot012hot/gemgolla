@@ -1818,22 +1818,6 @@
    "reviews": 5367292
   },
   {
-   "appid": 2357570,
-   "name": "Overwatch 2",
-   "min": 2,
-   "max": 5,
-   "mode": "pvp",
-   "price": 0,
-   "len": "mid",
-   "tags": [
-    "shooter",
-    "skill",
-    "action"
-   ],
-   "desc": "영웅 골라 5대5 팀 대전. 무료.",
-   "kind": "hit"
-  },
-  {
    "appid": 1172470,
    "name": "Apex Legends",
    "min": 2,
