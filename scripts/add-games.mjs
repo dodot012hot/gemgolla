@@ -4,6 +4,8 @@
 // 정리한 파일 형식 (appid별로):
 // {
 //   "3949040": { "min": 1, "max": 4, "mode": "coop", "len": "mid", "tags": ["funny"], "desc": "캠핑카를 몰고 험한 길을 넘는 물리 협동" },
+//   "2345678": { "group": "noinfo", "mode": "coop", "len": "long", "tags": ["survival"], "desc": "..." },  ← 인원 확인 못 한 멀티 게임
+//   "3456789": { "group": "single", "len": "long", "tags": ["story"], "desc": "..." },  ← 싱글 게임
 //   "1234567": { "skip": "로컬 멀티만 있음" }
 // }
 // - 넣은 게임은 data/candidates.json에서 빠지고 public/games.json에 추가됨

@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
-  EMPTY, LEN, TAGN, type Game, type Query, type Disc, type Len,
-  fromParams, headerUrl, isBig, kindOf, onSale, parse, recommend, summary, toParams, won,
+  EMPTY, GROUPN, LEN, TAGN, type Game, type Group, type Query, type Disc, type Len,
+  fromParams, headerUrl, inGroup, isBig, kindOf, onSale, parse, recommend, summary, toParams, won,
   SORTS, sortGames, type SortKey,
 } from "./logic";
 
@@ -33,8 +33,10 @@ function Card({ g, want }: { g: Game; want: number }) {
   const slots = Math.min(g.max, 8);
   const hasSale = !!g.discount && g.finalPrice !== undefined;
   const url = `https://store.steampowered.com/app/${g.appid}/`;
-  const chips = [g.min === g.max ? `${g.max}명 전용` : `${g.min}~${g.max}명`,
-    g.mode === "pvp" ? "경쟁" : g.mode === "coop" ? "협동" : "협동+대전",
+  const noinfo = g.group === "noinfo";
+  const people = g.mode === "solo" ? "싱글" : noinfo ? "인원 정보 없음" : g.min === g.max ? `${g.max}명 전용` : `${g.min}~${g.max}명`;
+  const chips = [people,
+    ...(g.mode === "solo" ? [] : [g.mode === "pvp" ? "경쟁" : g.mode === "coop" ? "협동" : "협동+대전"]),
     LEN[g.len], ...g.tags.slice(0, 3).map((t) => TAGN[t])];
   return (
     <li className="card">
@@ -57,12 +59,13 @@ function Card({ g, want }: { g: Game; want: number }) {
             </span>
           </div>
         </div>
-        <div className="slots" aria-label={`${g.min}명부터 ${g.max}명까지`}>
+        {!noinfo && <div className="slots" aria-label={g.mode === "solo" ? "혼자 하는 게임" : `${g.min}명부터 ${g.max}명까지`}>
           {Array.from({ length: slots }, (_, i) => (
             <span key={i} className={"s" + (i < want ? " on" : "")}>{i + 1}</span>
           ))}
           {g.max > 8 && <span className="cap">최대 {g.max}명</span>}
-        </div>
+          {g.mode === "solo" && <span className="cap">싱글</span>}
+        </div>}
         <p className="desc">{g.desc}</p>
         <div className="tags">
           {(g.ko === "audio" || g.ko === "text") && <span className="ko">한국어</span>}
@@ -152,12 +155,13 @@ export default function App() {
     for (let p = page - 2; p <= page + 2; p++) if (p >= 1 && p <= pageCount) nums.add(p);
     return [...nums].sort((a, b) => a - b);
   }, [page, pageCount]);
-  const saleCount = useMemo(() => games.filter((g) => onSale(g) && (q.big || !isBig(g))).length, [games, q.big]);
-  const bigCount = useMemo(() => games.filter(isBig).length, [games]);
+  const saleCount = useMemo(() => games.filter((g) => inGroup(g, q.group) && onSale(g) && (q.big || !isBig(g))).length, [games, q.big, q.group]);
+  const bigCount = useMemo(() => games.filter((g) => inGroup(g, q.group) && isBig(g)).length, [games, q.group]);
+  const groupCount = (gr: Group | null) => games.filter((g) => inGroup(g, gr)).length;
 
   const ask = (t: string) => {
     const r = parse(t);
-    const any = r.players || r.price !== null || r.mode || r.len || r.tags.length || r.disc || r.ko || r.sale || r.big;
+    const any = r.players || r.price !== null || r.mode || r.len || r.tags.length || r.disc || r.ko || r.sale || r.big || r.group;
     setHint(any ? "문장에서 읽은 조건을 채웠어요. 직접 바꿔도 돼요." : "조건을 못 찾았어요. 아래에서 직접 골라 주세요.");
     setQ(r);
   };
@@ -214,6 +218,9 @@ export default function App() {
             대작 포함{bigCount > 0 && <span className="cnt">{bigCount}</span>}
           </button>
         </div>
+        <Seg<Group> label="목록" value={q.group} onChange={(group) => edit({ group })}
+          options={[["", "친구랑 하는 게임"],
+            ...(["noinfo", "single"] as Group[]).map((k) => [k, `${GROUPN[k]} ${groupCount(k)}`] as [Group, string])]} />
         <Seg label="방식" value={q.mode} onChange={(mode) => edit({ mode })}
           options={[["", "전체"], ["pvp", "경쟁"], ["coop", "협동"]]} />
         <Seg<Len> label="길이" value={q.len} onChange={(len) => edit({ len })}

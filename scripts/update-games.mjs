@@ -188,14 +188,19 @@ ${text}`;
 }
 
 /** AI 응답이 앱에서 쓸 수 있는 형태인지 확인. 아니면 null */
+// group: "noinfo"(멀티는 되는데 인원을 확인 못 함 → min·max 0) / "single"(싱글 게임 → 1명, mode "solo")
 export function validate(c) {
   if (!c || c.multiplayer !== true) return null;
-  const min = Math.round(c.min), max = Math.round(c.max);
-  if (!(min >= 1 && max >= 2 && max >= min && max <= 100)) return null;
-  if (!["coop", "pvp", "both"].includes(c.mode) || !["short", "mid", "long"].includes(c.len)) return null;
+  const group = c.group === "noinfo" || c.group === "single" ? c.group : undefined;
+  let min = Math.round(c.min), max = Math.round(c.max), mode = c.mode;
+  if (group === "single") { min = 1; max = 1; mode = "solo"; }
+  else if (group === "noinfo") { min = 0; max = 0; }
+  else if (!(min >= 1 && max >= 2 && max >= min && max <= 100)) return null;
+  if (group !== "single" && !["coop", "pvp", "both"].includes(mode)) return null;
+  if (!["short", "mid", "long"].includes(c.len)) return null;
   const tags = (Array.isArray(c.tags) ? c.tags : []).filter((t) => TAGS.includes(t)).slice(0, 3);
   if (!tags.length || typeof c.desc !== "string" || c.desc.length < 5) return null;
-  return { min, max, mode: c.mode, len: c.len, tags, desc: c.desc.trim() };
+  return { min, max, mode, len: c.len, tags, desc: c.desc.trim(), ...(group ? { group } : {}) };
 }
 
 export async function main() {

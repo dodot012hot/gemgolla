@@ -1,8 +1,11 @@
-export type Mode = "coop" | "pvp" | "both";
+export type Mode = "coop" | "pvp" | "both" | "solo"; // solo=싱글 게임
 export type Len = "short" | "mid" | "long";
 export type Kind = "new" | "gem" | "hit";
 export type Disc = "new" | "gem" | "nohit";
 export type Ko = "audio" | "text" | "none";
+/** 따로 모아두는 분류. 없으면 친구랑 하는 멀티 게임(기본 목록)
+ *  noinfo=멀티는 되는데 몇 명까지인지 확인 못 한 게임(min·max는 0), single=혼자 하는 게임(1명) */
+export type Group = "noinfo" | "single";
 
 export interface Game {
   appid: number;
@@ -25,6 +28,7 @@ export interface Game {
   major?: boolean; // 대형 배급사 게임인지 (매일 갱신)
   reviews?: number; // 스팀 전체 리뷰 수(긍정+부정). 다운로드 수 대신 규모를 가늠하는 용도 (매일 갱신)
   ko?: Ko; // 한국어 지원: audio=음성, text=자막·인터페이스, none=미지원
+  group?: Group;
 }
 
 export interface Query {
@@ -37,9 +41,10 @@ export interface Query {
   ko: "text" | null; // text=한국어 지원 게임만
   sale: boolean; // 지금 할인 중인 게임만
   big: boolean; // 대작도 포함해서 보기 (기본은 숨김)
+  group: Group | null; // null=기본 목록(인원 확인된 멀티 게임), 아니면 그 분류만
 }
 
-export const EMPTY: Query = { players: null, price: null, mode: null, len: null, tags: [], disc: null, ko: null, sale: false, big: false };
+export const EMPTY: Query = { players: null, price: null, mode: null, len: null, tags: [], disc: null, ko: null, sale: false, big: false, group: null };
 
 export const TAGN: Record<string, string> = {
   party: "파티", funny: "웃김", horror: "공포", chill: "잔잔", shooter: "슈팅", survival: "생존",
@@ -106,6 +111,8 @@ export function parse(t: string): Query {
   else if ((m = t.match(/(다섯|여섯|일곱|여덟|아홉|둘|셋|넷|두|세|네|열)\s*(?:명|이서|이랑|이(?=\s|$|[,.!?~]))/))) r.players = NUMW[m[1]];
   else if (/혼자/.test(t)) r.players = 1;
   else if (/여친|남친|애인|커플|와이프|남편|여자친구|남자친구/.test(t)) r.players = 2;
+  // 혼자 하거나 "싱글 게임"이라고 하면 싱글 분류로
+  if (r.players === 1 || hit(t, /싱글|1인용|솔로 ?(?:플레이|게임|겜)/).yes) { r.group = "single"; r.players = 1; }
 
   // ── 가격 ── (뒤에 "이상/넘어도/부터"가 붙으면 상한이 아니라서 안 걸음)
   const free = hit(t, /무료|공짜|돈 ?안 ?드는|프리 ?투|f2p/i);
@@ -184,7 +191,8 @@ export function isBig(g: Game): boolean {
 }
 
 export function fits(g: Game, r: Query, relax: boolean): boolean {
-  if (r.players && (r.players < g.min || r.players > g.max)) return false;
+  // 인원 정보 없는 게임은 인원으로 거르지 않음 (몇 명까지인지 모르니까)
+  if (r.players && g.group !== "noinfo" && (r.players < g.min || r.players > g.max)) return false;
   if (r.price !== null && nowPrice(g) > r.price * (relax ? 1.5 : 1)) return false;
   if (r.disc === "new" && !isNew(g)) return false;
   if (r.disc === "gem" && !isGem(g)) return false;
@@ -212,8 +220,11 @@ export function score(g: Game, r: Query): number {
   return s;
 }
 
+/** 지금 고른 분류(기본/인원 정보 없음/싱글)에 속하는 게임인지 */
+export const inGroup = (g: Game, group: Group | null) => (g.group ?? null) === group;
+
 export function recommend(all: Game[], r: Query): { list: Game[]; note: string } {
-  const games = r.big ? all : all.filter((g) => !isBig(g));
+  const games = all.filter((g) => inGroup(g, r.group) && (r.big || !isBig(g)));
   let pool = games.filter((g) => fits(g, r, false));
   let note = "";
   if (pool.length < 3) {
@@ -258,6 +269,7 @@ export function toParams(q: Query): URLSearchParams {
   if (q.ko) sp.set("k", "1");
   if (q.sale) sp.set("s", "1");
   if (q.big) sp.set("b", "1");
+  if (q.group) sp.set("g", q.group);
   return sp;
 }
 
@@ -274,9 +286,11 @@ export function fromParams(sp: URLSearchParams): Query | null {
   if (sp.get("k") === "1") q.ko = "text";
   if (sp.get("s") === "1") q.sale = true;
   if (sp.get("b") === "1") q.big = true;
+  const g = sp.get("g"); if (g === "noinfo" || g === "single") q.group = g;
   return toParams(q).toString() ? q : null;
 }
 
+export const GROUPN: Record<Group, string> = { noinfo: "인원 정보 없음", single: "싱글" };
 const DISCN: Record<Disc, string> = { new: "신작", gem: "숨은 명작", nohit: "유명작 빼고" };
 const LENN: Record<Len, string> = { short: "짧게", mid: "30분 안팎", long: "오래" };
 /** "3명 · 경쟁 · 2만원 이하" 같은 한 줄 요약. 조건이 없으면 빈 문자열 */
@@ -290,6 +304,7 @@ export function summary(q: Query): string {
   if (q.disc) parts.push(DISCN[q.disc]);
   if (q.ko) parts.push("한국어");
   if (q.big) parts.push("대작 포함");
+  if (q.group) parts.push(GROUPN[q.group]);
   q.tags.forEach((t) => parts.push(TAGN[t]));
   return parts.join(" · ");
 }
