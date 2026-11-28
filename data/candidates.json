@@ -40891,45 +40891,6 @@
   }
  },
  {
-  "appid": 311690,
-  "name": "Enter the Gungeon",
-  "url": "https://store.steampowered.com/app/311690/",
-  "found": "2026-11-28",
-  "tried": "2026-11-28",
-  "why": "정리 대기",
-  "info": {
-   "short": "Enter the Gungeon은 부랑자 무리가 본인의 죄를 면죄 받고자 과거를 지울 수 있다는 전설의 총을 찾아 발사하고, 수집하고, 구르고, 책상을 뒤엎는 총알 지옥 던전 크롤러 게임입니다.",
-   "text": "Enter the Gungeon은 부랑자 무리가 본인의 죄를 면죄 받고자 과거를 지울 수 있다는 전설의\n총을 찾기 위해 발사하고, 수집하고, 구르고, 책상을 뒤엎는 총알 지옥 던전 크롤러 게임입니다.\n영웅을 선택하시고 [팀을 이루어 협동 플레이도 가능합니다] 총굴의 마지막 층까지 싸우며,\n살아남으며, 도전해가며, 진보해가며 나아가세요.\n위험하지만 사랑스러운 건데드와 무장한 무시무시한 총굴 보스들이 영울들을 기다리고\n있습니다.\n귀중한 전리품을 수집하고, 숨겨진 비밀을 밝혀내세요.\n가끔은 기회주의자 상인과 대화도 해보시고, 강력한 아이템도 구입해보세요.\n건전(총굴):\n총굴에 오신 것을 환영합니다. 총굴은 끊임없이 진화하는 총알 지옥의 요새입니다. 꼼꼼하게\n하나하나 제작된 방들과 무작위로 생성된 미궁이 조화를 이루며 영웅을 기다립니다.\n모든 방을 다 확인하며 나아가세요! 하지만 조심하세요. 건전은 영웅의 아주 작은 승리에도\n반응합니다. 영웅이 적들을 물리치고 함정을 빠져나갈 수록 난이도는 상승할 것입니다. \n이단 건데드:\n총굴에는 함정이나 구멍만 있는 것이 아닙니다. 언제나 긴장을 끈을 놓지 않으면서 정확한\n조준을 이어나가 이단 건데드들을 무찌르세요. 녀석들도 영웅들처럼 총을 지니고 있습니다.\n이 총의 이단 신자들은 자신들의 신전을 지키고자 모든 전술을 써가며 죽을 때까지 영웅들을\n막으려 듭니다.\n건저너:\n몇 명의 독특한 영웅들 중에서 한 명을 고르세요. 모두가 대가없이 과거를 바꿀 방법을 찾는\n자들입니다.\n용기와 절박함으로 가득 찬 이 모험가들은 불타는 벽을 정면돌파해 가로지르거나, 총알의 벽을\n굴러 피하는 일 따위를 마다하지 않고 목표를 위해 살아남고자 어떠한 위험도 마다하지 않는\n이들입니다.\n총:\n유일무이하고 환상적인 총들을 발견하고 해금해 총굴에서 만난 모든 적들을 전멸시키세요. 모든\n총들은 각자 독특한 전술법과 탄약을 지니고 있습니다.\n미사일의 메들리부터 레이저, 캐논볼 등의 총으로 무지개나 물고기, 거품 다트, 그리고 벌들까지\n맞출 수 있습니다. 네, 날아다니는 벌들이요.",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "공유 및 분할 화면",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam Cloud",
-    "Remote Play 휴대전화",
-    "Remote Play 태블릿",
-    "Remote Play TV",
-    "Remote Play Together",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처",
-    "인디"
-   ],
-   "price": 16500,
-   "finalPrice": 3300,
-   "discount": 80,
-   "release": "2016-04-05",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311690/471d245bd8a37011c16852694342e5ad2d8a4667/header.jpg",
-   "ko": "text",
-   "publisher": "Devolver Digital",
-   "major": false,
-   "reviews": 79785
-  }
- },
- {
   "appid": 5178240,
   "name": "Just Weeding",
   "url": "https://store.steampowered.com/app/5178240/",
@@ -42144,63 +42105,6 @@
   }
  },
  {
-  "appid": 238460,
-  "name": "BattleBlock Theater®",
-  "url": "https://store.steampowered.com/app/238460/",
-  "found": "2026-11-28",
-  "tried": "2026-11-28",
-  "why": "정리 대기",
-  "info": {
-   "short": "BattleBlock Theater에 오신 것을 환영합니다! 무대 외에는 갈 곳이 없어요. 싱글 플레이나 협력 플레이로 친구들을 구출하세요! Jump, solve, battle을 통해 첨단 기술을 사용하는 고양이들이 사는 신비로운 극장을 통과하세요. 결코 쉽진 않을 거예요!",
-   "text": "난파됐습니다. 붙잡혔습니다. 배신당했습니다. 고양이 앞에서 공연도 해야 한다고요? 맞아요. BattleBlock Theater를 열고 이 모든 것은 물론 다양한 모험을 즐기세요! 감금된 300여 명의 친구들을 첨단 기술을 사용하는 사악한 고양이들로부터 구출하는 퀘스트를 시작하면 돌이킬 수가 없어요. BattleBlock Theater 뒤에 숨겨진 혼란스러운 진실을 밝히기 위해 다양한 무기를 사용하여 수백 개의 레벨을 통과하면서 정신을 뒤흔들어놓는 배반의 게임에 빠져보세요.\n혼자 플레이하는 스타일이 아니라면 온라인으로 연결하거나 친구를 불러와 완벽하게 협력에 최적화된 퀘스트를 플레이하거나 아레나에 들어가세요. 게임에는 레벨 편집기도 있어 나만의 환상적인 레벨을 만들 수 있습니다! 주요 특징 \n 선택 가능한 협력 게임플레이 - 협력해도 좋고... 하지 않아도 괜찮아요. 온라인으로 플레이하세요! 함께 즐기세요! 최고의 게임이에요! 스토리에서는 2명까지, 아레나에서 4명까지 함께 즐길 수 있어요. \n 아레나: 대관식을 하거나 고래를 쫓는 것과 관계없이 BattleBlock Theater가 제공하는 8개의 아레나 모드에서 적에게 무대 싸움의 진정한 의미를 가르쳐줄 수 있어요! \n 인세인 모드: 인생은 화면에서만 이루어지는 것이 아니라 무대에서도 일어나요. 궁극의 캠페인 도전에서 기술을 시험하세요.\n 독특한 애니메이션: BattleBlock Theater의 Steam 버전을 위해 제작한 새로운 예술 작품! 고양이 간수가 중앙 무대로 진출합니다. \n 450여 가지 레벨! - 싱글 플레이어, 멀티플레이어, 아레나 그리고 해티가 셀 수조차 없을 만큼 많은 레벨이 기다리고 있어요.\n 300명의 포로를 구출하세요! - 친구들이 고양이에게 붙잡혔어요. 당신만이 구할 수 있어요! 치명적인 검투사 연극에 참여하여 보석을 모으고 친구들을 풀어주세요. \n 연극 무기와 전투! - 점프하고, 밀고, 당기고, 주먹을 날려 승리를 거머쥐세요! 이것만으로 충분하지 않다면, 터트리거나, 얼리거나, 독살하거나, 아기를 소화시키세요! 게임에서 한 번에 무기를 두 개까지 소환하여 신속히 교체할 수 있어요.\n 레벨을 만들고 공유하세요! - 레벨 편집기에서 예술적인 레벨을 만들고 친구들(또는 낯선 플레이어)과 공유하세요. 20여 가지의 다양한 양방향 블록을 사용할 수 있어요!",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "스크린 공유 및 분할 PvP",
-    "협동",
-    "온라인 협동",
-    "스크린 공유 및 분할 협동",
-    "공유 및 분할 화면",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam 트레이딩 카드",
-    "Steam 창작마당",
-    "게임패드 권장",
-    "DUALSHOCK 컨트롤러 지원",
-    "DUALSHOCK 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "Steam Input API 지원",
-    "Steam Cloud",
-    "통계",
-    "Steam 순위표",
-    "레벨 에디터 포함",
-    "Remote Play 휴대전화",
-    "Remote Play 태블릿",
-    "Remote Play TV",
-    "Remote Play Together",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처",
-    "캐주얼",
-    "인디"
-   ],
-   "price": 15500,
-   "finalPrice": 4650,
-   "discount": 70,
-   "release": "2014-05-15",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238460/header.jpg",
-   "ko": "text",
-   "publisher": "The Behemoth",
-   "major": false,
-   "reviews": 56017
-  }
- },
- {
   "appid": 5140770,
   "name": "Story of The Needle In a Haystack",
   "url": "https://store.steampowered.com/app/5140770/",
@@ -42239,44 +42143,6 @@
    "ko": "text",
    "publisher": "Rebel Pickle Games",
    "major": false
-  }
- },
- {
-  "appid": 1454370,
-  "name": "STARSEEKER: Astroneer Expeditions",
-  "url": "https://store.steampowered.com/app/1454370/",
-  "found": "2026-11-28",
-  "tried": "2026-11-28",
-  "why": "정리 대기",
-  "info": {
-   "short": "ESS 스타시커의 크루가 되어 외계 세계를 탐험하고 공허 붕괴 공세에 나서세요. 제한 시간 내에 진행되는 원정에서 외계 동식물을 조사하고 장비를 강화하며, 우주를 구하기 위한 임무를 완수하세요.",
-   "text": "로드맵 \n 게임 정보 아스트로니어들은 ESS 스타시커를 타고 심우주로 나아가 힘을 합쳐 외계 세계의 미지의 지역을 탐험하고 공허에 맞섭니다. 제한 시간 원정에서는 행성을 자유롭게 탐사하며 자원과 장비, 토착 생물을 찾고, 협동형 공허 붕괴 공세에서는 장비와 분대의 능력을 시험하게 됩니다. 우주를 구하지 않을 때는 보금자리인 끊임없이 변화하는 우주 정거장에서 작전을 계획하고, 커스터마이즈를 즐기고, 다른 플레이어들과 교류할 수 있습니다. \n 세심하게 구현된 세계를 자유롭게 탐험하며 숨겨진 비밀을 밝혀내세요. ESS 스타시커는 미지의 행성 궤도를 돌며, 크루는 공허와의 싸움에 활용할 연구를 진행하고 각종 현상을 조사하며 자원과 회수품을 수집합니다. 행성에는 위험한 생물과 유해한 식물, 정체불명의 힘이 도사리고 있습니다. 첫 번째 목적지인 테프라 행성은 드넓은 습지와 울창한 정글, 광활한 바다로 이루어진 세계로, 비운의 EXO 다이내믹스 탐사에서 남겨진 잔해가 곳곳을 뒤덮고 있습니다. 공허와 정면으로 맞서 싸우지 않을 때에도 크루는 각자의 방식으로 전투에 힘을 보탭니다! 플레이어는 임무를 완료하고 자원을 수집하며 원하는 속도로 자유롭게 탐험할 수 있습니다. \n 공허 붕괴 공세를 이끌어 존재를 위협하는 적을 몰아내세요 공허의 타락이 점차 확산되고 있습니다. 분대와 협력해 실력과 장비를 시험하는 고난도 임무인 공허 붕괴 공세에 도전하세요. 사전에 구성한 분대와 함께하거나 매칭으로 팀을 꾸릴 수 있으며, 원한다면 혼자서도 도전할 수 있습니다. 공세마다 고유한 게임플레이 요소와 적이 준비되어 있으며, 성공하면 보상을 얻지만 실패할 가능성도 있습니다. 장비를 잠금 해제하고 로드아웃을 커스터마이즈하세요 우주의 미지의 위험에 맞서는 동안 플레이어는 다양한 첨단 도구를 사용할 수 있습니다. 임무를 완료해 고급 장비를 획득하고, 원하는 방식으로 로드아웃과 외형을 구성하세요. 커스터마이징 시스템에서는 잠금 해제한 모든 외형 아이템을 이동하고 겹쳐 배치하거나 크기를 조절할 수 있어, 아스트로니어를 무궁무진하게 꾸밀 수 있습니다. 최첨단 우주 정거장을 보금자리로 삼으세요 ESS 스타시커는 크루가 모이는 중심지이자 계속해서 변화하는 우주 정거장입니다. 이곳에서 플레이어들은 원정을 준비하고 장비를 강화하며 기묘한 방문객들과 어울립니다. 모두가 함께 참여하는 커뮤니티 퀘스트로 공동 보상을 획득하고, 다른 플레이어와 아이템을 교환하거나, 정거장 최고의 아스트로니어를 소개하는 대형 화면에 자신의 모습이 뜨는 순간을 기대해 보세요.",
-   "cats": [
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "크로스 플랫폼 멀티플레이어",
-    "Steam 도전 과제",
-    "DUALSHOCK 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "컨트롤러 일부 지원",
-    "Remote Play TV",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처",
-    "앞서 해보기"
-   ],
-   "price": 31000,
-   "finalPrice": 15500,
-   "discount": 50,
-   "release": "2026-06-11",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454370/ec6e7614e478cfd46b694f694e502a9832d76e62/header.jpg",
-   "ko": "text",
-   "publisher": "Devolver Digital",
-   "major": false,
-   "reviews": 849
   }
  },
  {
@@ -42508,45 +42374,6 @@
   }
  },
  {
-  "appid": 244850,
-  "name": "Space Engineers",
-  "url": "https://store.steampowered.com/app/244850/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Space Engineers is a sandbox engineering game where you design and build ships, stations, and planetary bases in a fully destructible environment. Explore planets and space, mine resources, survive hazards, and engage in combat alone or with friends in Creative or Survival modes.",
-   "text": "DELUXE EDITION The Deluxe Edition includes the standard Space Engineers game, an exclusive \"Golden\" skin set for your character and tools, the first Space Engineers build from 2013, all tracks from the original soundtrack , over 200 unpublished digital concept images and never seen videos and a special badge ! \n 게임 정보 Space Engineers is an open world sandbox game about designing, building and testing your own space machines. Construct ships, stations and planetary bases in a fully destructible environment, then explore planets and space, mine resources, survive hazards and engage in combat alone or with friends in Creative or Survival modes. Play solo or in multiplayer, from small co-op outposts to huge community servers. Start with a simple lander, grow into a mining and industrial empire, or focus on warships and planetary fortresses – the game gives you the tools and physics, you decide what to build. Space Engineers uses a volumetric physics engine: every block and voxel has mass, inertia and damage. Ships break apart, stations crumble and terrain can be drilled, carved and reshaped, so your engineering choices really matter. Space Engineers is grounded in real engineering and hard science fiction, driven by realism and plausible near-future technology. Think modern space programs extrapolated into the future: realistic ships, stations, tools and systems where everything is built and simulated block by block. It’s about the machinery you build, not about magic or scripted",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "협동",
-    "크로스 플랫폼 멀티플레이어",
-    "Steam 도전 과제",
-    "Steam 창작마당",
-    "컨트롤러 일부 지원",
-    "Steam Cloud",
-    "레벨 에디터 포함",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "인디",
-    "시뮬레이션",
-    "전략"
-   ],
-   "price": 29000,
-   "release": "2019-02-28",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244850/315370aa8bd35ad8dcf37987df5eccf2a4a975e2/header.jpg",
-   "ko": "none",
-   "publisher": "Keen Software House",
-   "major": false,
-   "reviews": 103126
-  }
- },
- {
   "appid": 246900,
   "name": "Viscera Cleanup Detail",
   "url": "https://store.steampowered.com/app/246900/",
@@ -42584,54 +42411,6 @@
    "publisher": "RuneStorm",
    "major": false,
    "reviews": 18123
-  }
- },
- {
-  "appid": 247970,
-  "name": "Korea. IL-2 Series",
-  "url": "https://store.steampowered.com/app/247970/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Korea. IL-2 Series는 한국 전쟁을 배경으로 한 차세대 비행 시뮬레이터입니다. 초기 제트 전투기의 조종석에 올라 전설적인 공중전의 승패를 좌우하세요.",
-   "text": "EDITIONS \n DELUXE EDITION \n 게임 정보 Korea. IL-2 Series는 제트 엔진이 창공의 판도를 영원히 뒤바꾸어 놓았던 항공 역사에 길이 남을 순간으로 여러분을 데려갑니다.한국 전쟁 중, 구시대의 유물이 되어버린 피스톤 엔진 항공기는 최초의 제트기와 정면으로 격돌했습니다. 광활한 전투 지도, 사실적으로 재현된 항공기, 시뮬레이션과 접근성의 절묘한 균형을 갖춘 이 게임에서는 모든 근접 공중전이 생생하게 펼쳐집니다. 에이스가 되어 전설적인 제트기로 전투를 펼치거나, 한 단계 더 나아가 비행 연대의 지휘관이 되어 보세요. 부대를 이끌고, 전투 지도에 항로를 설정하고, 역사의 물결을 뒤집을 명령을 하달하세요. 한국의 하늘에서는 일반 조종사에서부터 작전의 결말을 설계하는 전략가에 이르기까지, 어떤 역할이든 선택할 수 있습니다. IL-2 series 최초로 풀 컨트롤러 지원이 적용되었습니다. 실제 설계도, 역사 사진, 비행 매뉴얼 등 각종 보존 자료를 바탕으로 한국 전쟁의 항공기를 재탄생시켰습니다. 총 8대의 비행기를 마음껏 사용하세요. 조종석의 모든 계기가 온전히 작동하며, 항공기 시스템의 상태를 실시간으로 반영합니다. 75년 전에 조종사들이 그랬던 것과 똑같이 조준하고 사격하세요. 이번 게임은 20만 제곱킬로미터가 넘는 규모의 시리즈 역사상 가장 큰 맵을 무대로 펼쳐집니다. 한반도는 1950년대의 역사 지도와 문서를 바탕으로 다시 구현되었으며, 해안 간척지와 해안선 변화 등 역사적으로 주요한 풍경의 변화도 모두 담아냈습니다. 맵에는 역사에 충실하게 배치된 수십 개의 항공기지, 수백 개의 거주지, 항구, 댐, 교통 거점 같은 전략 목표가 포함되어 있습니다. 홈 바이 크리스마스 캠페인은 제트 전투기 에이스가 되겠다는 꿈을 이루기 위해 1950년 한국전쟁에 참전 중인 전투 부대로 전속 허가를 받은 잭 러셀 대위의 이야기를 다룹니다. 플레이어는 제8전투폭격비행단의 전투일지와 소속 조종사들의 회고록을 토대로 철저히 재현된 15차례의 역사적 전투 임무를 수행하게 됩니다. 이 캠페인은 전쟁 초기 수개월 동안 조종사들이 겪었던 특유의 어려움을 보여 줍니다. 제트기는 소규모 전진 비행장에서 운용할 수 없었기 때문에, 일부 조종사들은 한동안 다시 피스톤 엔진 항공기를 운용해야 했습니다. 캠페인을 진행하는 동안 플레이어는 F-51 Mustang 전투기와 F-80 Shooting Star 제트 전투기를 모두 조종하게 됩니다. 커리어 모드에서는 비행 연대의 지휘관이 되어 인력을 관리하고, 항공 군수를 총괄하게 됩니다. 상공을 직접 접수할지, 전략 임무에 집중할지는 여러분의 선택입니다. 연대 지휘관으로서 전투태세를 갖추고 작전을 계획하며 부대를 보강하세요. Korea는 항공기와 지상물 모두에 대해 매우 정밀한 대미지 모델을 제공합니다. 전략 폭격기를 포함한 항공기, 지상 차량, 기차, 선박은 타격 양상에 따른 대미지를 받습니다. 모든 물체는 충돌, 추락, 전투 피해에 현실적으로 반응하며, 질량, 속도, 타격 지점을 고려해 탈것의 동작과 전투 ",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "VR 지원",
-    "Steam 트레이딩 카드",
-    "카메라 움직임 조정",
-    "난이도 조정",
-    "게임패드 권장",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "DUALSHOCK 컨트롤러 지원",
-    "DUALSHOCK 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "스테레오 사운드",
-    "서라운드 사운드",
-    "레벨 에디터 포함",
-    "HDR 사용 가능",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "시뮬레이션"
-   ],
-   "price": 82000,
-   "release": "2026-08-04",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247970/c0d86dfb1e69d6165de8556949746d46e1d28f96/header.jpg",
-   "ko": "none",
-   "publisher": "FOR-GAMES CR LTD",
-   "major": false,
-   "reviews": 542
   }
  },
  {
@@ -42754,44 +42533,6 @@
   }
  },
  {
-  "appid": 287700,
-  "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
-  "url": "https://store.steampowered.com/app/287700/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Ushering in a new era for the METAL GEAR franchise with cutting-edge technology powered by the Fox Engine, METAL GEAR SOLID V: The Phantom Pain, will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions.",
-   "text": "Konami Digital Entertainment continues forth the ‘METAL GEAR SOLID V Experience’ with the latest chapter, METAL GEAR SOLID V: The Phantom Pain. Ushering in a new era for the franchise with cutting-edge technology powered by the Fox Engine, MGSV: The Phantom Pain will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions.\nNine years after the events of MGSV: GROUND ZEROES and the fall of Mother Base, Snake a.k.a. Big Boss, awakens from a nine year coma. The year is 1984. The Cold War serves as the backdrop as nuclear weapons continue to shape a global crisis. Driven by revenge, Snake establishes a new private army and returns to the battlefield in pursuit of the shadow group, XOF.\nThe METAL GEAR SOLID team continues to ambitiously explore mature themes such as the psychology of warfare and the atrocities that result from those that engage in its vicious cycle. One of the most anticipated games of the year with its open-world design, photorealistic visual fidelity and feature-rich game design, MGSV: The Phantom Pain will leave its mark as one of the hallmarks in the gaming industry for its cinematic storytelling, heavy themes, and immersive tactical gameplay.\nKey Features:\n- Open-World game design allowing players ultimate freedom on how to approach missions and overall game progression \n- Fox Engine delivers photorealistic graphics, thoughtful game design and true new-generation game production quality\n- Online con",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam 트레이딩 카드",
-    "캡션 이용 가능",
-    "앱 내 구매",
-    "Steam Cloud",
-    "Steam 순위표",
-    "Remote Play 휴대전화",
-    "Remote Play 태블릿",
-    "Remote Play TV",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처"
-   ],
-   "price": 76000,
-   "release": "2015-09-01",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287700/header.jpg",
-   "ko": "none",
-   "publisher": "KONAMI",
-   "major": true,
-   "reviews": 73880
-  }
- },
- {
   "appid": 300380,
   "name": "Road Redemption",
   "url": "https://store.steampowered.com/app/300380/",
@@ -42833,82 +42574,6 @@
    "publisher": "Tripwire Presents",
    "major": false,
    "reviews": 10968
-  }
- },
- {
-  "appid": 313120,
-  "name": "Stranded Deep",
-  "url": "https://store.steampowered.com/app/313120/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
-   "text": "TEST YOUR SURVIVAL SKILLS IN THIS OPEN WORLD ADVENTURE In the aftermath of a mysterious plane crash, you are stranded in the vast expanse of the Pacific Ocean. Alone, without any means to call for help, you must do what you can to survive. BUILD. CRAFT. SURVIVE. ESCAPE. Explore underwater and on land as you hunt for supplies to craft the tools, weapons, and shelter you’ll need to stay alive. Stay sharp: hunger, thirst, and exposure conspire against you as you brave treacherous elements and the dangerous creatures of the Pacific. Live long enough, Stay Alive! Health, Hunger, Thirst, and sunstroke. Manage and monitor these vitals through an interactive survival watch. Cure poisons, heal broken bones, and bandage bleeding to stay alive. Spears, Axes, Bows, Spearguns, and so much more can all be crafted through an interactive crafting menu or by the quick-craft selection wheel. Items in your inventory and on the ground around you can all be crafted into something useful. Harvesting, Craftsmanship, Cooking, Physical, and Hunting can all be levelled up for maximum efficiency or to unlock different crafting combinations. With dozens of tiers and building pieces to choose from; craft your very own home away from home. From a weak and flimsy palm frond shack to a solid clay brick house. Customise your own raft with sails, canopies, storage, anchors, boat motors, and more. If sailings not for you - fly in style by constructing a gyrocopter! Explore the procedurally generated world with",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "스크린 공유 및 분할 협동",
-    "공유 및 분할 화면",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam 창작마당",
-    "통계",
-    "Steam 순위표",
-    "레벨 에디터 포함",
-    "Remote Play TV",
-    "Remote Play Together",
-    "가족 공유"
-   ],
-   "genres": [
-    "어드벤처",
-    "인디"
-   ],
-   "price": 20500,
-   "release": "2022-08-10",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313120/header.jpg",
-   "ko": "none",
-   "publisher": "Beam Team Publishing",
-   "major": false,
-   "reviews": 43985
-  }
- },
- {
-  "appid": 335300,
-  "name": "DARK SOULS™ II: Scholar of the First Sin",
-  "url": "https://store.steampowered.com/app/335300/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "여러분은 DARK SOULS™ II: Scholar of the First Sin에 크게 놀랄 것입니다. 기존 DARK SOULS™ II를 플레이 하셨다 해도 이 특별한 \"디렉터즈 컷\" 버전의 게임을 통해 완전히 새로운 경험을 하게 될 것입니다.",
-   "text": "여러분은 DARK SOULS™ II: Scholar of the First Sin에 크게 놀랄 것입니다. 기존 DARK SOULS™ II를 플레이 하셨다 해도 이 특별한 \"디렉터즈 컷\" 버전의 게임을 통해 완전히 새로운 경험을 하게 될 것입니다.\n지금까지 발매된 DARK SOULS™ II의 모든 콘텐츠 뿐 만 아니라 동작의 부드러움이 향상된 1080p 해상도와 60fps을 지원하며, 기존 DARK SOULS™ II와 비교하여 놀라울 정도의 시각적 충실도를 자랑합니다. 부드러운 전투 시 움직임을 통해 생동감을 느낄 수 있으며, 이 모든 것을 포함하면서도 DARK SOULS™ 시리즈 특유의 도전적인 난이도는 유지 하였습니다.\n기존 플레이 경험과는 전혀 다른 느낌을 제공하기 위하여 적의 배치가 변경 되었으며 적들은 이전에는 하지 않던 새로운 행동을 하고, 알고 있던 안전지대들은 이제 더이상 안전하지 않습니다. 아이템 배치와 아이템 드랍 또한 변경되었습니다. DARK SOULS™ II을 통해 단련된 모든 것들을 잊어버려야만 할 것입니다.\n새로운 NPC 침략자, \"상실자\"는 게임 플레이 경험을 바꾸는 핵심이 될 것입니다. \"상실자\"는 온라인에 접속하여 플레이하고 있다면 어디서나 나타날 수 있습니다.\n온라인 플레이 또한 강화되었습니다. 전투 중에 소울 획득을 제한하는 아이템 추가를 통해 매칭 시스템이 개선되었으며, 이로 인하여 지속적으로 온라인 매칭이 가능하게 되었습니다. 또한 참여 가능한 플레이어 수 또한 4인에서 6인으로 증가되었습니다. 이러한 온라인 플레이의 변화로 전략적인 플레이의 새로운 접근법이 요구될 것입니다.",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Remote Play 휴대전화",
-    "Remote Play 태블릿",
-    "Remote Play TV",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "RPG"
-   ],
-   "price": 49800,
-   "finalPrice": 24900,
-   "discount": 50,
-   "release": "2015-04-01",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg",
-   "ko": "text",
-   "publisher": "Bandai Namco Entertainment",
-   "major": true,
-   "reviews": 85637
   }
  },
  {
@@ -43158,43 +42823,6 @@
   }
  },
  {
-  "appid": 418460,
-  "name": "Rising Storm 2: Vietnam",
-  "url": "https://store.steampowered.com/app/418460/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Red Orchestra Series의 베트남 전투: 64-플레이어 MP 경기; 20개 이상의 지도; 미국 및 해군, PAVN/NVA, NLF/VC; 호주 및 ARVN 군; 50가지 이상의 무기; 비행 가능 헬리콥터 4대; 지뢰, 트랩 및 땅굴; 잔인함. 현실적. 사실적. 캐릭터 맞춤화. 아침의 네이팜.",
-   "text": "Green Army Men! Green Army Men: The Green Army Men mod is now available as DLC to play with Rising Storm 2: Vietnam! For the full details of the Green Army Men DLC and it’s availability, see above! \n Update 13 - Phoenix Rising! This is now the 13th content update for you, bringing: 3 New Maps \nThe last 2 remastered maps brought forward from RO2/RS1:\n Apache Snow (remastered from “Winterwald”) - ARVN forces fighting their way steadily up a heavily-wooded hill, clearing NLF positions as they go.\n Demilitarized Zone (remastered from “Mamayev”) - main-force North Vietnamese PAVN troops assaulting dug-in ARVN units, across a burned-out and blasted hill in the DMZ area. \nThe third map is a favorite community map made official:\n Saigon - PAVN forces fighting their way through Saigon, past the US Embassy, the cathedral and on to the Presidential palace, as ARVN troops try to hold them off. New Weapons \nThis update brings in some new weapons for the Northern forces:\n RP-46 light machine gun - a modernized variant of the classic DP-28, also license-built in China and North Korea, with stocks being supplied to the North Vietnamese\n MAS-49 - stocks of this semi-automatic rifle were left behind by the French and were used by the Northern forces in standard, sniper and rifle-grenade formats\n Molotov cocktail - the classic homemade weapon of guerilla forces the world over Many other changes and fixes, including: Balance pass on many maps\n Radiomen can now spawn on their commander\n Leaning s",
-   "cats": [
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "Steam 도전 과제",
-    "Steam 트레이딩 카드",
-    "Steam 창작마당",
-    "앱 내 구매",
-    "통계",
-    "레벨 에디터 포함",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "대규모 멀티플레이어",
-    "시뮬레이션",
-    "전략"
-   ],
-   "price": 27000,
-   "release": "2017-05-30",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418460/header.jpg",
-   "ko": "text",
-   "publisher": "Tripwire Interactive",
-   "major": false,
-   "reviews": 42819
-  }
- },
- {
   "appid": 429050,
   "name": "Feed and Grow: Fish",
   "url": "https://store.steampowered.com/app/429050/",
@@ -43224,94 +42852,6 @@
    "publisher": "Greens s.r.o.",
    "major": false,
    "reviews": 21049
-  }
- },
- {
-  "appid": 440900,
-  "name": "Conan Exiles Enhanced",
-  "url": "https://store.steampowered.com/app/440900/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Conan Exiles Enhanced는 하이보리아의 신화적인 땅을 배경으로 하는 오픈 월드 생존 게임으로, 이제 놀라운 시각 효과와 함께 언리얼 엔진 5로 완전히 업그레이드되었습니다. 모험이 넘치는 세계에서 혼자 또는 친구들과 함께 생존하고, 건설하고, 지배하세요!",
-   "text": "Free Visual Upgrade Out Now! \n 게임 정보 Conan Exiles Enhanced는 야만인 코난의 신화적인 땅을 배경으로 한 오픈 월드 생존 게임입니다. 싱글 플레이어, 협동 플레이, 또는 지속적인 멀티플레이어 환경에서 여러분은 자신의 집이나 함께 쓰는 도시를 건설하기 전에 하이보리아의 험난한 야생에서 살아남는 법을 배워야 합니다. 영하의 추위 속에서 살아남고, 전리품으로 가득 찬 던전을 탐험하며, 물건을 뒤지는 생존자에서 강력한 야만인과 강력한 마법사로 캐릭터를 발전시키고, 대규모 공성전에서 적을 지배하기 위해 싸우십시오.  Conan Exiles Enhanced에는 향상된 시각 효과, 향상된 성능, 그리고 더 통합된 세계를 제공하는 무료 언리얼 엔진 5 업그레이드가 포함되어 있습니다.   코난이 직접 시체 나무에서 당신을 잘라내어 목숨을 구한 후, 당신은 재빨리 살아남는 법을 배워야 합니다. 몰아치는 모래 폭풍을 견디고, 극한의 온도로부터 자신을 보호하고, 식량과 자원을 위해 동물을 사냥하십시오. 남쪽의 불타는 사막에서 북쪽의 눈 덮인 산에 이르기까지 거대하고 매끄러운 세계를 탐험하십시오.   추방자의 땅을 되찾고 지배하기 위해 싸우면서 당신 클랜의 전설을 만드십시오. 강력한 건설 시스템을 사용하여 작은 집부터 도시 전체까지 하나하나 만들어보십시오. 검, 마법, 활, 공성 무기를 사용하여 전쟁을 벌이고, 심지어 신의 거대한 화신을 조종하여 장엄한 전투에서 적의 집을 산산조각 내십시오. 언리얼 5로 구현된 압도적인 비주얼 Conan Exiles Enhanced는 게임 전체를 언리얼 엔진 5로 이식하여 환경, 캐릭터, 조명 및 효과 전반에 걸쳐 비주얼을 대폭 개선했습니다. 이는 8년간의 콘텐츠를 하나의 업그레이드된 경험으로 통합하고, 추방자의 땅과 시타 섬을 연결하며, 대부분의 PC에서 60 FPS 이상을 목표로 성능을 높이고, 스팀 덱 플레이 환경을 개선하며, 수많은 편의성 업그레이드를 추가하고, 새롭게 디자인된 UI를 도입합니다. 거친 대지에서 살아남으십시오 복장을 잘 갖추거나 가벼운 모닥불로 몸을 덥히며 휴식을 취하십시오. 사냥하고, 요리하며, 먹고, 마시며 살아남으십시오. 모래 폭풍을 피할 수 있는 은신처를 건설하십시오. 어두운 유적을 탐험할 때는 사악한 마법에 의해 오염될 수 있으니 조심하십시오. 집과 왕국을 건설하십시오 자원을 채취하여 도구와 무기를 만들고, 강력한 건물 시스템으로 작은 집에서 도시 전체에 이르기까지 필요한 모든 것을 건설해 나가십시오. 함정, 엘리베이터, 방어 장치를 설치한 뒤 가구나 제작대 등으로 자신의 창조물을 장식하십시오. 추방자의 땅을 지배하십시오 추방자의 땅에서 여러분의 몫을 차지하며, 필요하다면 다른 플레이어들의 것을 빼앗으십시오! 공성 무기를 만들고 폭발물을 사용해 적 도시의 벽을 무너뜨리십시오. 함정을 설치하고, 노예를 모집하여, 적들이 여러분의 땅을 침략하지 못하도록 방어벽을 세우십시오. 오염을 감수하고 어둠의 마법을 사용하십시오 음험한 마법을 발견하고 몸을 오염시켜 마",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam 트레이딩 카드",
-    "Steam 창작마당",
-    "Remote Play 태블릿",
-    "Remote Play TV",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처",
-    "대규모 멀티플레이어",
-    "RPG",
-    "시뮬레이션",
-    "전략"
-   ],
-   "price": 45000,
-   "finalPrice": 22500,
-   "discount": 50,
-   "release": "2018-05-08",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/710f42dec831fa88bcf736d0715152822231505f/header.jpg",
-   "ko": "text",
-   "publisher": "Funcom",
-   "major": false,
-   "reviews": 80442
-  }
- },
- {
-  "appid": 513710,
-  "name": "SCUM",
-  "url": "https://store.steampowered.com/app/513710/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Welcome to SCUM, a ruthless open-world survival game where deep character customization defines the prisoner you become. Loot, craft, hunt, build, and fight to outlast a hostile island where every choice can change your fate. Stay alive. Stay dangerous. Become harder to kill.",
-   "text": "최신 업데이트 The November Update is live, bringing fresh ink, controller support and more ways to capture life on the Island. Tattoos return: Customize your prisoner with a new tattoo placement system for all characters.  Controller support: Fight, drive, fish and more with your controller of choice. Photo Mode for everyone: Capture your squad’s finest moments. Steam Deck & Steam Machine multiplayer: Join multiplayer servers through Proton on these and other Linux devices.  Fixes & improvements: Fixes for vehicle collisions, blocked bunker doorways, foliage poking through bases, cooking and more. Read the full update notes for all the details. \n 게임 정보 Welcome to SCUM, a ruthless open-world survival game where prisoners are dropped onto a vast, hostile island and forced to survive by any means necessary. Every decision shapes who you become and how long you last. Scavenge, loot, craft, hunt, build and fight for every advantage as you adapt to a world that wants you dead. Stay alive. Stay dangerous. Become something harder to kill. A Survival Game With Teeth SCUM is built on deep, interconnected survival systems that give every choice weight. Your health, survival skills, metabolism, and fatigue are all shaped by an intricate progression system that defines how long you last. But you’re not alone out here. Former contestants re-animated as Puppets shamble across the land, mutated experiments twisted into monsters lurk in the dark, and every other player has the same goal as you: Sur",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "MMO",
-    "PvP",
-    "온라인 PvP",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam 트레이딩 카드",
-    "카메라 움직임 조정",
-    "음량 개별 조절",
-    "난이도 조정",
-    "DualSense 컨트롤러 지원",
-    "스테레오 사운드",
-    "서라운드 사운드",
-    "통계"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처",
-    "인디",
-    "대규모 멀티플레이어"
-   ],
-   "price": 49000,
-   "release": "2025-06-17",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/513710/a33eb72f52841f591b296f78e46824d7aabb2c87/header.jpg",
-   "ko": "none",
-   "publisher": "Gamepires",
-   "major": false,
-   "reviews": 99428
   }
  },
  {
@@ -43348,40 +42888,6 @@
    "publisher": "New Blood Interactive",
    "major": false,
    "reviews": 22230
-  }
- },
- {
-  "appid": 570940,
-  "name": "DARK SOULS™: REMASTERED",
-  "url": "https://store.steampowered.com/app/570940/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "기억하시나요? 불이 있었습니다. 굉장한 호평을 받으며 장르를 재정립한 게임의 모든 것을 다시 경험해보세요. 아름답게 리마스터되어 60fps로 돌아가는 고해상도로 그려진 로드란으로 돌아가세요. 다크 소울 리마스터에는 본편과 심연의 아르토리우스 DLC가 포함됩니다.",
-   "text": "기억하시나요? 불이 있었습니다. 굉장한 호평을 받으며 장르를 재정립한 게임의 모든 것을 다시 경험해보세요. 아름답게 리마스터되어 60fps로 돌아가는 고해상도로 그려진 로드란으로 돌아가세요. 다크 소울 리마스터에는 본편과 심연의 아르토리우스 DLC가 포함됩니다.\n주요 요소:\n• 깊고 어두운 세계관\n• 모든 끝은 새로운 시작입니다\n• 풍부하며 가능성 넘치는 게임 플레이\n• 배우고 마스터하여 성취감을 느껴보세요\n• 다양한 방식의 멀티 플레이(단독 서버별로 최대 6인)",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Remote Play 휴대전화",
-    "Remote Play 태블릿",
-    "Remote Play TV",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션"
-   ],
-   "price": 43800,
-   "finalPrice": 21900,
-   "discount": 50,
-   "release": "2018-05-23",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg",
-   "ko": "text",
-   "publisher": "FromSoftware, Inc.",
-   "major": true,
-   "reviews": 103073
   }
  },
  {
@@ -43496,128 +43002,6 @@
    "publisher": "BANDAI NAMCO Entertainment",
    "major": true,
    "reviews": 15479
-  }
- },
- {
-  "appid": 629760,
-  "name": "MORDHAU",
-  "url": "https://store.steampowered.com/app/629760/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "MORDHAU는 중세를 배경으로 한 멀티 플레이 슬래셔 게임입니다. 나만의 용병을 만들고 격렬한 전투 속으로 뛰어들어 빠르게 진행되는 전투와 공성전, 기병의 진격 등을 직접 경험해보십시오.",
-   "text": "MORDHAU 는 중세를 배경으로 한 1/3인칭 멀티 플레이 슬래셔 게임입니다. 최대 64명의 플레이어가 실감 나는 가상 세계의 용병이 되어 싸우는 전장으로 뛰어드십시오. 잔혹하지만, 만족감 넘치는 손맛으로 묘한 중독성을 선사하는 백병전의 묘미를 직접 느껴보십시오. 특징: 대규모 전투: Frontline 및 Invasion 등의 모드에서는 소규모 교전부터 64명이 참여하는 전면전까지 즐길 수 있습니다.\n 협력 및 오프라인 플레이: 협력 플레이 중심의 Horde 모드에서 친구와 함께 5회에 걸친 적의 침공에 맞서거나, 오프라인으로 AI를 상대하며 기술을 연마하십시오.\n 자유로운 백병전 및 원거리 전투: 캐릭터와 공격을 완벽하게 제어하고 나만의 독특한 스타일을 개발하십시오.\n 세밀한 캐릭터 커스터마이즈: 세밀하게 조정한 얼굴과 각종 부품으로 만든 무기, 개별적인 장갑 부품으로 완벽한 전사를 창조하십시오.\n 방대한 무기 및 장비 종류: 그레이트소드를 휘두르고 비처럼 내리는 화살로 적을 처치하십시오. 후방으로 물러나 요새를 강화하는 것도 좋습니다.\n 제약 없는 전장: 기병으로 진격하고 사다리 위에서 싸워보십시오. 또, 투석기나 노포를 비롯한 공성 병기를 작동하십시오.\n 본능을 자극하는 피로 얼룩진 전투: 무기를 휘두를 때마다 쾌감을 느끼고 적을 사정 없이 공격하며 사지를 절단해버리십시오. (피 및 잔혹한 묘사는 옵션입니다) \n 현실성 있는 전투: MORDHAU는 게임성을 살리면서도 현실감을 잘 추구하여 수긍할 수 있는 전투를 구현해 낸 작품입니다.",
-   "cats": [
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "협동",
-    "온라인 협동",
-    "크로스 플랫폼 멀티플레이어",
-    "Steam 도전 과제",
-    "Steam 트레이딩 카드",
-    "컨트롤러 일부 지원",
-    "Steam Cloud",
-    "Valve Anti-Cheat 사용",
-    "통계",
-    "Remote Play 휴대전화",
-    "Remote Play 태블릿"
-   ],
-   "genres": [
-    "액션",
-    "인디"
-   ],
-   "price": 32000,
-   "release": "2019-04-29",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629760/header.jpg",
-   "ko": "text",
-   "publisher": "Triternion",
-   "major": false,
-   "reviews": 91656
-  }
- },
- {
-  "appid": 637650,
-  "name": "FINAL FANTASY XV WINDOWS EDITION",
-  "url": "https://store.steampowered.com/app/637650/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "최고의 품질과 함께 여정을 떠나세요. 풍부한 보너스 콘텐츠 제공 그리고 울트라 고해상도 그래픽 옵션과 HDR 10을 지원으로 그동안 한 번도 보지 못했던 아름답고 세심하게 제작된 FINAL FANTASY XV를 경험할 수 있습니다.",
-   "text": "FFXV 에피소드 아덴 녹티스 최대의 적 『아덴 루시스 카일룸』의 증오와 고통을 그린 오리지널 에피소드.\n역사에서 말소된 금단의 과거, 그리고 성자에게 주어진 잔혹한 운명. 베일에 싸인 남자의 모든 것이 밝혀진다.\n본 에피소드에서는 플레이어블 캐릭터로 아덴을 조작할 수 있습니다.\n※본 콘텐츠를 이용하려면 별도 판매되는 제품판이 필요합니다. 또한 최신 버전으로 업데이트한 후 이용해 주시기 바랍니다. \n FINAL FANTASY XV WINDOWS EDITION MOD ORGANIZER \nFINAL FANTASY XV WINDOWS EDITION MOD ORGANIZER is a tool to help you make mods for the FINAL FANTASY XV WINDOWS EDITION. It allows you to convert your assets into mod data and incorporate them into the game world.\nThe main function of MOD ORGANIZER is building model data and uploading mods to Steam Workshop. It does not have the functionality for creating and editing assets such as 3D models. Please create assets with your own tools and output them in FBX format, which MOD ORGANIZER can then import.\nYour mods can be uploaded to Steam Workshop if you have a Steam account, and then shared with the community. Subscribe to Steam Workshop's mod data to use the mods in the Steam version of FINAL FANTASY XV WINDOWS EDITION. \n 보너스: Half-Life 팩 \n보너스: Half-Life 팩 – 이제 모든 FINAL FANTASY XV WINDOWS EDITION 소유자들이 Steam의 창작마당에서 이용할 수 있습니다! \n 하프라이프 스타일(본편용)\n블랙 메사에서 만든 방호복과 뿔테 안경 세트\n 크로우바(본편용)\n비상시에 높은 범용성을 자랑하는 금속 공구\n H.E.V. 슈트(온라인 확장팩: 전우용)\n『FFXV 온라인 확장팩: 전우』 전용 의상.\n블랙 메사에서 만든 고성능 특수 방호복\n 물리학자의 안경(온라인 확장팩: 전우용)\n『FFXV 온라인 확장팩: 전우』 전용 액세서리.\n과묵한 물리학자가 애용했다는 뿔테 안경\n 크로우바(온라인 확장팩: 전우용)\n『FFXV 온라인 확장팩: 전우』 전용 무기.\n비상시에 높은 범용성을 자랑하는 금속 공구 \n 플레이 가능한 데모가 나왔습니다! 「FINAL FANTASY XV WINDOWS EDITION」 게임 초반을 보다 빠르게 즐길 수 있는 특별체험판입니다. ※제품판과 일",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam 트레이딩 카드",
-    "카메라 움직임 조정",
-    "#category_contrast_controls",
-    "음량 개별 조절",
-    "난이도 조정",
-    "키보드 전용 옵션",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "수시 저장",
-    "스테레오 사운드",
-    "서라운드 사운드",
-    "Steam Cloud",
-    "Remote Play 태블릿",
-    "가족 공유"
-   ],
-   "genres": [
-    "RPG"
-   ],
-   "price": 59400,
-   "finalPrice": 17820,
-   "discount": 70,
-   "release": "2018-03-06",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637650/header.jpg",
-   "ko": "text",
-   "publisher": "Square Enix",
-   "major": true,
-   "reviews": 45456
-  }
- },
- {
-  "appid": 686810,
-  "name": "Hell Let Loose",
-  "url": "https://store.steampowered.com/app/686810/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "하드코어 스타일의 제2차 세계대전이 펼쳐지는 Hell Let Loose에서 더 많은 것을 경험해보세요. RTS 형식에서 영감을 받아 제작한 독특한 자원 기반의 메타 게임으로, 보병대와 탱크, 대포, 종잡을 수 없이 변화하는 최전선의 100명의 플레이어와 1인칭 시점으로 주요 전투에 참여할 수 있습니다.",
-   "text": "Upcoming Roadmap Please note that this roadmap highlights just some of the key additions coming to the game. Each update will also include a variety of new content, quality-of-life improvements, and bug fixes. As we progress, we’ll be diving deeper into each update to share more details with you. \n 게임 정보 Carentan, Omaha Beach, Foy와 같은 서부 전선의 대표 전투에 참여해보세요. 전혀 다른 규모의 전투에서... 천천히 전장을 집어삼키는 탱크와 최전선에 연료를 공급하는 가운데, 여러분은 거대한 전쟁 제병협동에 합류하게 됩니다. Hell Let Loose는 여러분을 처참한 전쟁의 현장 속에 배치하여, 강력한 플레이어가 조종하는 차량과 예측할 수 없이 변하는 최전선, 주요 전투의 흐름을 중심으로 진행되는 게임 플레이를 제공합니다. 실제 정찰 영상과 위성 데이터로 재현한 9개 이상의 광범위한 지도의 모든 전쟁터는 구역별로 나뉘어 있습니다. 50명의 플레이어로 구성된 2개의 팀이 각자의 전장과 다리, 숲, 마을을 넘나들며 끝없이 변하는 최전선에서 목숨을 걸고 서로 대치하는 새롭고 독보적인 게임 플레이를 경험할 수 있습니다. 구역이 점령당하면 자신의 팀을 승리로 이끌 수 있는 3가지의 자원 중 하나를 생성하여 복잡한 메타 게임이 진행됩니다. 한 편의 영화와 같은 전쟁 50 vs 50 멀티 플레이로 광범위한 지도를 가로질러 전쟁터로 이동하세요. 각기 다른 무기와 차량, 장비를 갖춘 14개 유형의 보병대와 정찰병, 전투병 중 하나를 선택하세요. 장교, 정찰병, 포병, 위생병, 수리병, 탱크 지휘관 등을 통해 제2차 세계대전의 모든 방면을 경험해보세요. 하드코어 게임 플레이 Hell Let Loose를 통해 여러분은 Omaha Beach, Carentan, Foy와 같은 제2차 세계대전의 대표적인 9개의 전장에 투입되어 핵심적인 게임 체험을 경험할 수 있습니다. 역사가 깃든 차량, 무기, 전투복 등은 아주 정교하게 제작되었으며, 실제 전쟁처럼 잔혹하고 피튀기는 전투가 펼쳐집니다. 지도에 표시되는 실제 전투 장소에서 전투가 벌어지며, 항공 사진과 위성 사진은 언리얼 엔진 4를 사용해 제작하여 매우 섬세하게 재현되었습니다. 모두의 손으로 일궈내는 승리 Hell Let Loose는 처치 수보다 협동심이 중요합니다. 따라서 의사소통은 필수 요소입니다. 플레이어는 장교와 지휘관의 명령에 따라 힘을 합쳐 목표를 세우고 상대 팀을 무너뜨리기 위해 함께 움직여야 합니다. Hell Let Loose는 승리뿐 아니라 전장에서 살아남기 위한 협동심과 소통이 필요한 게임입니다. 독특한 메타 게임 더 넓어지고 변화하는 전장에서 적 진영을 돌파하며 승리를 위해 싸우세요. 독특한 영역 점령의 메타 게임으로, 공격이나 방어와 ",
-   "cats": [
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "Steam 도전 과제",
-    "컨트롤러 일부 지원",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "인디",
-    "대규모 멀티플레이어",
-    "시뮬레이션",
-    "전략"
-   ],
-   "price": 55000,
-   "finalPrice": 13750,
-   "discount": 75,
-   "release": "2021-07-27",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/7655099ca004b09198b83713ad0d8215b98f7d5f/header_alt_assets_6.jpg",
-   "ko": "text",
-   "publisher": "Team17",
-   "major": false,
-   "reviews": 100320
   }
  },
  {
@@ -43888,41 +43272,6 @@
    "publisher": "eduweb",
    "major": false,
    "reviews": 11828
-  }
- },
- {
-  "appid": 952060,
-  "name": "BIOHAZARD RE:3",
-  "url": "https://store.steampowered.com/app/952060/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "그 어디까지도 당신을 몰아넣는다. 라쿤 시티에서 돌연히 발생한 생물 재해. 점차 붕괴되어 가는 이 마을에 위협이 더해진다― 수없이 반복되는 위기, 사선을 넘나드는 액션, 재구축된 탈출극은 그 어떠한 예상도 뛰어넘는다. 'Biohazard Resistance'도 수록.",
-   "text": "그 어디까지도 당신을 몰아넣는다.\n라쿤 시티에서 돌연히 발생한 생물 재해.\n점차 붕괴되어 가는 이 마을에 위협이 더해진다―\n수없이 반복되는 위기, 사선을 넘나드는 액션,\n재구축된 탈출극은 그 어떠한 예상도 뛰어넘는다.\n과연 이 절망에서 벗어날 수 있는가?\n'Biohazard Resistance'도 수록.",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam 트레이딩 카드",
-    "Steam Cloud",
-    "Remote Play 태블릿",
-    "HDR 사용 가능",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션"
-   ],
-   "price": 49800,
-   "release": "2020-04-02",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/952060/header_koreana.jpg",
-   "ko": "text",
-   "publisher": "CAPCOM Co., Ltd.",
-   "major": true,
-   "reviews": 92764
   }
  },
  {
@@ -44386,52 +43735,6 @@
   }
  },
  {
-  "appid": 1172710,
-  "name": "Dune: Awakening 듄 ：어웨이크닝",
-  "url": "https://store.steampowered.com/app/1172710/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Dune: Awakening 듄 ：어웨이크닝은 몰입감 넘치는 모험과 RPG 요소가 어우러진 싱글 및 멀티플레이어 오픈 월드 생존 게임입니다. 우주에서 가장 전설적인 행성에서 단순히 목숨을 부지하는 것을 넘어 위대한 존재로 거듭나며 영화 같은 듄의 스토리를 따라 기지를 건설하고, 아이템을 제작하며 탐험하세요. 다만, 언제든 모래벌레가 찾아올 거란 사실을 명심하세요.",
-   "text": "Dune: Awakening - Blood and Ice Free Expansion coming December 1st 2026 \n 스페셜 에디션 \n 얼티밋 에디션 \n 디럭스 에디션 \n 게임 정보 Dune: Awakening 듄 ：어웨이크닝은 가장 대표적인 공상과학 속 세계관에에 완전히 빠져들 수 있는 장대한 오픈 월드 서바이벌 게임입니다. 플레이어는 베네 게세리트의 선택을 받은 요원으로서 아라키스로 가서 사라진 프레멘의 미스터리를 파헤칩니다. 아라킨, 하가 분지 같은 장소를 방문하고 레토 아트레이데스 공작, 페이드 로타 하코넨 같은 익숙한 캐릭터들을 만나보세요. 전에 없던 장대한 듄의 이야기, 바로 여러분의 서사시가 펼쳐집니다. Dune: Awakening 듄 ：어웨이크닝은 혼자 플레이하든 친구와 함께 하든, 비밀이 가득한 광활한 오픈 월드 아라키스를 탐험할 기회를 선사합니다. 이야기를 파헤치고, 장치를 제작하며, 차량을 조립하고, 기지를 건설하세요. 어떻게 단순히 목숨을 부지하는 것을 넘어 위대한 존재로 나아갈 것인지는 여러분의 선택에 달렸습니다. 사막을 돌아다니는 모래벌레를 피하고, 뜨겁게 내리쬐는 햇빛을 피해 그늘을 찾아다니세요. 슬로우 블레이드 공격법을 익히거나, 멘타트와 베네 게세리트의 능력을 마스터해 보세요. 아담한 집에서 대규모 기지까지 취향대로 짓고 본인의 개성을 살려 꾸며보세요. 산을 오르거나 오니솝터를 제작해 하늘로 날아오르세요. Dune: Awakening 듄 ：어웨이크닝은 전에 없던 규모로 살아 숨 쉬는 듄의 세계를 선사합니다. 광활한 오픈 월드 듄 탐험 깊은 사막의 넘실거리는 모래 언덕부터 숨겨진 프레멘 동굴, 도시 아라킨의 북적이는 거리까지, 역동적이고 몰입감 넘치는 아라키스를 발견해 보세요. 시거와이어 갈고리로 우뚝 솟은 산을 오르고, 직접 만든 오니솝터로 모래벌레가 들끓는 사막을 날아보세요. 머리 위로 솟아오르는 위압적인 모래폭풍에서 도망쳐 나온 뒤에는, 해 질 녘 아라키스의 고요한 아름다움을 감상하세요.   영화처럼 펼쳐지는 듄의 서사 Dune: Awakening 듄 ：어웨이크닝으로 책과 영화 속으로 들어가 역대 SF 소설 중 가장 놀라운 세계 중 하나를 체감해 볼 수 있습니다. 아트레이데스나 하코넨에 합류하여 각 가문만의 이야기를 알아보고 계급을 높여 나가세요. 레토 공작과 페이드 로타 등 친숙한 인물과 만나고, 수수께끼 같은 프레멘 실종 사건을 조사하며, 자신의 과거에 얽힌 진실을 밝혀 보세요. '만약 폴 아트레이데스가 아예 태어나지 않았다면?'이라는 생각지도 못한 질문에서 출발해 영화처럼 펼쳐지는 대서사시를 따라가세요.   전투와 생존의 대가 아라키스는 극소수만이 살아남을 수 있는 가혹한 시험대입니다. 여기서 살아남으면 깨어난 자가 되죠. 아라키스의 독특한 기후에서 생존하는 법을 배우고, 그늘을 쫓으며, 적의 사체에서 수분을 추출하여 물로 정제하세요. 제국 학파의 가르침을 연구하여 강력한 능력과 무기, 도구 제작법을 해제하세요. 타의 추종을 불허하는 트루퍼의 화력을 휘두르고, 베네 게세리트의 ‘목소리",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "텍스트 크기 조정",
-    "카메라 움직임 조정",
-    "색상 대체",
-    "음량 개별 조절",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "수시 저장",
-    "스테레오 사운드",
-    "자막 옵션",
-    "서라운드 사운드",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처",
-    "대규모 멀티플레이어",
-    "RPG"
-   ],
-   "price": 49900,
-   "finalPrice": 24950,
-   "discount": 50,
-   "release": "2025-06-10",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/da994ea756677c3d1d9a77accb8596a8661f4cad/header.jpg",
-   "ko": "text",
-   "publisher": "Funcom",
-   "major": false,
-   "reviews": 69629
-  }
- },
- {
   "appid": 1213210,
   "name": "커맨드 앤 컨커 리마스터 컬렉션",
   "url": "https://store.steampowered.com/app/1213210/",
@@ -44464,39 +43767,6 @@
    "publisher": "Electronic Arts",
    "major": true,
    "reviews": 31733
-  }
- },
- {
-  "appid": 1237950,
-  "name": "STAR WARS™ Battlefront™ II",
-  "url": "https://store.steampowered.com/app/1237950/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "새로운 STAR WARS™ Battlefront™ II: Celebration 에디션과 함께 환상적인 전투가 가득한 얼티메이트 STAR WARS™의 영웅이 되어보세요!",
-   "text": "새로운 Star Wars ™ Battlefront™ II: Celebration 에디션과 함께 환상적인 전투가 가득한 업그레이드하고, 영웅이 되어보세요! Star Wars ™: THE RISE OF SKYWALKER ™*의 영감을 받은 아이템을 포함하여 Star Wars Battlefront II와 출시부터 게임 내 구매를 통해 획득 가능한 커스터마이즈 콘텐츠 컬렉션을 획득해보세요. \n Celebration 에디션 업그레이드 구성: \n 기본 게임:이전 및 향후 게임 관련 무료 업데이트 포함\n 25가지 이상의 영웅 외형:6명의 전설 외형 및 Star Wars: THE RISE OF SKYWALKER 의 영감을 받은 레이, 핀, 카일로 렌의 외형 1가지씩 포함\n 125가지 이상의 트루퍼 및 증원군 외형\n 100가지 이상의 영웅과 트루퍼 감정표현 및 대사\n 70가지 이상의 영웅 및 트루퍼 승리 포즈\n*2019년 12월 20일 이후 출시되는 Celebration 에디션에는 커스터마이즈 콘텐츠가 포함되어 있지 않습니다.",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "Steam 도전 과제",
-    "Steam 트레이딩 카드"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처"
-   ],
-   "price": 44000,
-   "finalPrice": 8800,
-   "discount": 80,
-   "release": "2020-06-11",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237950/header.jpg",
-   "ko": "none",
-   "publisher": "Electronic Arts",
-   "major": true,
-   "reviews": 88493
   }
  },
  {
@@ -44649,61 +43919,6 @@
    "publisher": "CAPCOM Co., Ltd.",
    "major": true,
    "reviews": 11931
-  }
- },
- {
-  "appid": 1295660,
-  "name": "시드 마이어의 문명 VII",
-  "url": "https://store.steampowered.com/app/1295660/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "시대를 진보 또는 존속시키는 지도자가 되어 제국을 이끌어 보세요. 시드 마이어의 문명® VII에서 여러분의 신념을 실현하세요.",
-   "text": "에디션 비교 \n 시드 마이어의 문명 VII 개척자 에디션 시드 마이어의 문명 VII 개척자 에디션으로 제국 통치를 위한 전략 범위를 확장하고 통치에 필요한 더 많은 옵션을 즐겨보세요! 시드 마이어의 문명 VII 개척자 에디션은 방대한 추가 콘텐츠를 통해 문명을 처음 접하는 플레이어가 역사를 가로지르는 여정을 시작하기에 완벽한 출발점을 제공합니다. 시드 마이어의 문명 VII 스탠다드 또는 디럭스 에디션을 보유 중이라면, 개척자 에디션에 포함된 DLC를 개별 구매하실 수 있습니다. 개척자 에디션 포함 항목: • 기본 게임 전체 • 테쿰세와 쇼니족 팩 • 세계의 교차로 컬렉션: - 지도자 2명: 에이다 러브레이스, 시몬 볼리바르 - 문명 4종: 카르타고, 대영제국, 네팔, 불가리아 - 자연경관 4종: 마차푸차레, 후지산, 비흐렌, 비니쿤카 - 배지 꾸미기 아이템 보너스 1개 • 지배할 권리 컬렉션: - 지도자 2명: 칭기즈 칸, 락슈미 바이 - 문명 4종: 아시리아, 다이비엣, 카자르, 신라 - 불가사의 4종: 그랜드 바자르, 할리카르나소스 마우솔로스 영묘, 우부디아 모스크, 왓 시앙 통 - 배지 꾸미기 아이템 보너스 1개 • 지도자 페르소나 4종: - 아소카(세계의 정복자) 페르소나 - 프리드리히(바로크) 페르소나 - 히미코(고위 무녀) 페르소나 - 크세르크세스(아케메네스 왕조) 페르소나 • 디럭스 꾸미기 아이템 팩 - 프로필 커스텀 4종 - 대체 정찰병 스킨 1종 \n 시드 마이어의 문명® VII 디럭스 에디션 시드 마이어의 문명® VII 디럭스 에디션으로 전략 범위를 확장하고 통치에 필요한 더 많은 옵션을 즐겨보세요! 디럭스 에디션 포함 내역: 기본 게임 전체 테쿰세와 쇼니족 팩 세계의 교차로 컬렉션 포함 내역: - 신규 지도자 2명: 에이다 러브레이스, 시몬 볼리바르 - 신규 문명 4개: 카르타고, 대영제국, 네팔, 불가리아 - 신규 자연경관 4개: 마차푸차레, 후지산, 비흐렌, 비니쿤카 - 배지 꾸미기 보너스 1개 디럭스 콘텐츠 팩 포함 내역: - 지도자 페르소나 2개: 크세르크세스(아케메네스 왕조), 프리드리히(바로크) - 프로필 커스터마이징 4개 - 대체 정찰병 스킨 1개 \n Link your 2K Account to play as Napoleon 시드 마이어의 문명 VII* 에서 나폴레옹과 그의 황제 페르소나 획득하기 무료 2K 계정을 설정하여 나폴레옹 보나파르트와 그의 황제 페르소나를 문명 VII 출시일에 지도자 목록에 추가할 수 있습니다! 이 보상을 받으려면 2K Account에 가입하거나 로그인하고 화면 왼쪽에 있는 '계정 개요' 아래의 '연결' 탭을 통해 문명 VII 을 플레이하기 위해 사용할 계정과 플랫폼을 연결하세요. 문명 VII 이 출시되면 게임 내에서 2K 계정에 로그인하여 나폴레옹 보나파르트와 그의 황제 페르소나를 이용할 수 있습니다. 모든 지도자 페르소나와 마찬가지로 나폴레옹의 황제 페르소나에는 특유한 복장과 배경, 새로운 게임플레이 보너스, 인공지능이 플레이할 때 대체되는 성향이 있습니다. 나폴레옹의 황제 페르",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "LAN PvP",
-    "크로스 플랫폼 멀티플레이어",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam 트레이딩 카드",
-    "Steam 창작마당",
-    "텍스트 크기 조정",
-    "카메라 움직임 조정",
-    "텍스트 채팅 음성 변환",
-    "색상 대체",
-    "음량 개별 조절",
-    "난이도 조정",
-    "마우스 전용 옵션",
-    "게임 메뉴 음성 안내",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "DUALSHOCK 컨트롤러 지원",
-    "DUALSHOCK 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "수시 저장",
-    "Steam Input API 지원",
-    "스테레오 사운드",
-    "서라운드 사운드",
-    "터치 전용 옵션",
-    "HDR 사용 가능",
-    "가족 공유"
-   ],
-   "genres": [
-    "시뮬레이션",
-    "전략"
-   ],
-   "price": 83000,
-   "release": "2025-02-10",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg",
-   "ko": "audio",
-   "publisher": "2K",
-   "major": true,
-   "reviews": 45966
   }
  },
  {
@@ -44873,42 +44088,6 @@
   }
  },
  {
-  "appid": 1732430,
-  "name": "Neighbors: Suburban Warfare",
-  "url": "https://store.steampowered.com/app/1732430/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Neighbors: Suburban Warfare is a chaotic online multiplayer party brawler where suburban rivals go to war. Team up with friends in wild PvE and PvP matches, destroy rival houses with everyday items turned weapons, and defend your home using traps, gadgets, and crazy team combos.",
-   "text": "Gather your friends, family and pets - It’s time to get the neighborhood feud rolling!  Neighbors: Suburban warfare is a chaotic free-to-play party brawler, where you battle for suburban dominance. The neighborhood is the battleground, your neighbors are the enemy and their property is the target. Team up with your friends in chaotic PVE and PVP battles, defend your house with traps and gadgets, and destroy your neighbors’ houses with whatever tools you have at hand.  Fast-paced matches, wacky combos and pure chaos make every game of Neighbors: Suburban Warfare crazy, unpredictable and wild.  Pick your suburban hero → Grab a garden tool → \n Barricade your house → Invade your neighbors’ and cause chaos → \n Make it back for a lovely home cooked meal!   Bring the fight to the Suburban Neighborhoods Have you ever dreamt of wrecking havoc on your annoying neighbors? Now’s your chance! Take the battle to the idyllic suburban streets and bring long-overdue justice down on your next-door rivals. Triumph and become a local legend! Gang up with your Friends for Free Looking for your next free-to-play party game? That’s right, Neighbors: Suburban Warfare is going F2P! And that’s not all; the game is releasing on Xbox Series X/S and PS5 with cross-play support. This is a perfect time to get in the game! Fight in Chaotic Family vs. Family Battles Are you looking for a thrilling team experience? Neighbors: Suburban Warfare features a bunch of exciting game modes to play with your friends: ",
-   "cats": [
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "앱 내 구매",
-    "DualSense 컨트롤러 지원",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "캐주얼",
-    "인디",
-    "전략",
-    "무료 플레이"
-   ],
-   "price": 0,
-   "release": "2026-09-29",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1732430/80b8baec5e77c8338c3931182b631fbde5c5a083/header.jpg",
-   "ko": "none",
-   "publisher": "Invisible Walls",
-   "major": false,
-   "reviews": 2103
-  }
- },
- {
   "appid": 1766060,
   "name": "HumanitZ",
   "url": "https://store.steampowered.com/app/1766060/",
@@ -44941,40 +44120,6 @@
    "publisher": "indie.io",
    "major": false,
    "reviews": 11887
-  }
- },
- {
-  "appid": 1798230,
-  "name": "ATMOSFAR",
-  "url": "https://store.steampowered.com/app/1798230/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Uncover the fate of humanity's final outpost as you survive and explore a thrilling world of floating islands. Brave the skies on your own or assemble a squadron of friends, and scavenge scrap to engineer and upgrade flying vessels, bringing your airship along for the journey.",
-   "text": "Uncover the fate of humanity's final outpost as you survive and explore a thrilling world of floating islands. Brave the skies on your own or assemble a squadron of friends, and scavenge scrap to engineer and upgrade flying vessels, bringing your airship along for the journey. An Open World Travel through an open world of floating islands and aerial wonders. Discover how this unique environment has shaped the creatures and biomes that inhabit it as you navigate the skies and level up your piloting skills. The Wasp The Wasp is an agile vessel that can both zip through the sky and hover in place. Available in several different classes, each type of Wasp has its own unique appearance, abilities, and aerodynamics. Deploy a portable camp with the Utility Wasp, airlift heavy scrap with the Hauler Wasp, or stun your enemies with the Striker Wasp. It's all about bringing the right Wasp for the job. The Wasps you rely on also rely on you. Make sure they're fueled, well-maintained, and repaired when needed so you're always ready to go when things get dangerous. Upgrade engine parts, hover modules, or entire hulls to get your preferred configuration. Give your Wasp a new paint job to make it look its best. The Cloud Cruiser The Cloud Cruiser is your mobile base: a buildable, fully customizable airship capable of housing everything important to you. Bring your Wasps and fuel supplies aboard by building Wasp pads and fuel tanks, furnish a lounge area to your liking, and pilot the airship ",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "컨트롤러 완벽 지원",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처",
-    "인디",
-    "앞서 해보기"
-   ],
-   "price": 26500,
-   "release": "2026-10-29",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1798230/96e6f00d5ecb7c37ba07577ac02ac75fad16055a/header.jpg",
-   "ko": "none",
-   "publisher": "SHUEISHA GAMES",
-   "major": false,
-   "reviews": 746
   }
  },
  {
@@ -45018,41 +44163,6 @@
    "publisher": "Donkey Crew",
    "major": false,
    "reviews": 20601
-  }
- },
- {
-  "appid": 1824220,
-  "name": "Chivalry 2",
-  "url": "https://store.steampowered.com/app/1824220/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "최고의 중세 전장으로 돌아오세요. Chivalry 2는 중세를 배경으로 한 장편 서사 영화 속 전투에서 영감을 받은 1인칭 슬래셔 멀티플레이어 게임입니다. 플레이어들은 당시의 상징적인 시기 속으로 들어가 칼을 맞대고 화살비를 내리며, 공성전에 참여하는 등 다양한 활약을 펼칩니다.",
-   "text": "DISCORD \n Steam 독점 특전 \n 스페셜 에디션 \n King's Edition \n 게임 정보 최고의 중세 전장으로 돌아오세요. \nChivalry 2는 중세를 배경으로 한 장편 서사 영화 속 전투에서 영감을 받은 1인칭 슬래셔 멀티플레이어 게임입니다. 플레이어들은 당시의 상징적인 시기 속으로 들어가 칼을 맞대고 화살비를 내리며, 공성전에 참여하는 등 다양한 활약을 펼칩니다. \n● 모든 플랫폼에서 크로스 플레이로 전투를 즐기세요!\n● 멋진 중세 액션 영화에서 영감을 받아 탄생한 64인용의 멋진 전장으로 들어가세요\n● 난장판인 중세 환경에서 토너먼트에서부터 대규모 전면전까지 모두 즐겨보세요\n● 각자 특별한 무기와 능력이 있는 4개 클래스 및 12개 서브 클래스로 자신에게 가장 어울리는 플레이 스타일을 선택하세요\n● 기타 등등!",
-   "cats": [
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "크로스 플랫폼 멀티플레이어",
-    "Steam 도전 과제",
-    "Steam 트레이딩 카드",
-    "앱 내 구매",
-    "컨트롤러 일부 지원"
-   ],
-   "genres": [
-    "액션",
-    "대규모 멀티플레이어"
-   ],
-   "price": 41000,
-   "finalPrice": 8200,
-   "discount": 80,
-   "release": "2022-06-12",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/header.jpg",
-   "ko": "text",
-   "publisher": "Tripwire Presents",
-   "major": false,
-   "reviews": 47784
   }
  },
  {
@@ -45104,45 +44214,6 @@
    "publisher": "Electronic Arts",
    "major": true,
    "reviews": 10636
-  }
- },
- {
-  "appid": 1874880,
-  "name": "Arma Reforger",
-  "url": "https://store.steampowered.com/app/1874880/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "대규모 복합 전투에 참여하고, 실시간 미션을 만들고 진행하고, 끝없는 커뮤니티 모드로 나만의 경험을 만들어 가세요. 냉전 시대로 투입되어 가장 사실적이고 몰입도 높은 군사 샌드박스를 경험해 보세요.",
-   "text": "Arma Reforger Deluxe Edition \n 게임 정보 Arma Reforger가 사실적인 무기와 게임플레이 시스템, 광활한 지형, 폭넓은 커스터마이징 옵션을 갖춘 현실적인 냉전 시대 군사 샌드박스 속으로 당신을 초대합니다. 다른 플레이어나 AI와 함께 다양한 멀티플레이어, 협동, 싱글플레이어 게임 모드에서 전투를 벌이고, 방대한 게임 내 창작마당의 모드를 통해 게임의 거의 모든 요소를 맞춤 설정하세요. Arma Reforger는 밀리터리 시뮬레이션 장르를 재정의하는 전설적인 Arma 프랜차이즈의 최신작으로, 다채롭고 창의적이며 완벽하게 모딩이 가능한 플랫폼을 제공합니다. Conflict 게임 모드에서 한 시간부터 며칠까지 지속될 수 있는 매혹적인 멀티플레이어 전투를 경험하거나, Game Master 모드에서 자신만의 미션을 만들고 실시간으로 진행해 보세요. Combat Ops 에서 친구들과 팀을 이뤄 특별한 작전을 수행하거나, Capture & Hold 의 빠르고 전술적인 게임 플레이를 통해 치솟는 아드레날린을 느껴 보세요. 홀로 게임을 즐기시는 분을 위해 선보이는 새로운 싱글플레이어 캠페인, 오메가 작전 은 반복해서 플레이할 수 있는 5개의 미션을 제공합니다. 또한, 추가 시나리오인 제거 와 항공 지원 은 치열하고 몰입감 넘치는 게임 플레이를 선사합니다. M16의 독특한 총성부터 BTR-70의 굉음에 이르기까지, Arma Reforger의 모든 요소는 현실감을 극대화하도록 설계되었습니다. 정교한 탄도 시스템이 적용된 현실적인 교전에 참여하고, 지도와 나침반만 이용해서 길을 찾고, 세밀하게 재현된 냉전 시대의 무기와 차량을 완벽히 다뤄보세요. 세 개의 거대하고 정교하게 구현된 섬에 배치되어 스릴 넘치고 몰입감 있는 오픈 월드 군사 작전을 경험하세요. 울창한 숲, 목가적인 마을, 험준한 산맥처럼 아름다운 풍경으로 수놓인 이 섬들은 Arma Reforger에서 플레이할 수 있는 광범위한 PvP, 협동, 싱글플레이어 게임 모드를 비롯한 다양한 게임 모드에 완벽한 무대가 되어줍니다. Arma: Cold War Assault에서 처음 등장했던 상징적인 섬, 콜구예프의 추가로 전장이 더욱 확대됩니다. 1989년을 배경으로 한 새로운 싱글플레이어 캠페인에서 폐쇄된 광산의 황량한 폐허를 탐험하고, 비밀 군사 시설에 잠입하고, 콜구예프만의 독특한 분위기에 흠뻑 빠져보세요. 게임 내 창작마당에서 커뮤니티 멤버들이 제작한 수천 가지 모드를 즉시 다운로드하고 설치하세요. 다양한 시대와 장르를 아우르는 Arma Reforger 모드는 무기, 차량, 애셋, 지형, 게임 메카닉, 완전히 새로운 게임 모드로 가득한 방대한 세계를 열어줍니다. 자신이 선호하는 플레이 스타일에 맞춰 게임 경험을 자유롭게 바꿔보세요.",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "협동",
-    "온라인 협동",
-    "크로스 플랫폼 멀티플레이어",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "캡션 이용 가능",
-    "Steam Cloud"
-   ],
-   "genres": [
-    "액션",
-    "시뮬레이션",
-    "전략"
-   ],
-   "price": 44900,
-   "finalPrice": 31430,
-   "discount": 30,
-   "release": "2023-11-16",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/header.jpg",
-   "ko": "text",
-   "publisher": "Bohemia Interactive",
-   "major": false,
-   "reviews": 54193
   }
  },
  {
@@ -45343,42 +44414,6 @@
    "publisher": "Shockfront Studios",
    "major": false,
    "reviews": 11311
-  }
- },
- {
-  "appid": 2172910,
-  "name": "캡틴 츠바사 2 월드 파이터즈",
-  "url": "https://store.steampowered.com/app/2172910/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "『캡틴 츠바사』의 가정용 게임 최신작이 6년 만에 등장! 시리즈 최대 볼륨과 대폭으로 파워업한 필드 액션을 즐길 수 있는 축구 액션 게임! 선수들끼리 끊임없이 예측 불가능한 슈퍼 플레이를 펼치는 네오 축구 액션을 체감하라!",
-   "text": "Comparison Chart \n※예약 특전은 2026년 8월 28일 6:59까지 게임 본편을 구매하셔야만 제공됩니다. \n※내용 및 사양은 예고 없이 변경될 수 있습니다.\n※이미지 화면입니다. 실제하고는 다소 차이가 있습니다. \n※사용할 수 있는 모드에 일부 제한이 있습니다.\n※전부 게임 내의 아이템으로 반영됩니다. \n※해당 특전을 이용하시려면 최신 버전으로 업데이트가 필요합니다.\n※아래 특전은 선행 개방권이며 게임 진행을 통해서도 입수할 수 있습니다. \n- 브라질 유스 선행 개방권\n- 시합 BGM 「Moete Hero」어레인지 Ver. 2종 선행 개방권\n※일부 유니폼은 특정 팀 선수만 착용할 수 있습니다. \n※해당 특전은 추후 예고 없이 별도로 판매될 수 있습니다.\n※각 상품에는 단품 판매가 예정된 콘텐츠도 포함되어 있습니다. 중복 구매에 주의하십시오.\n※「시즌 패스」에 포함된 DLC는 2027년 8월 27일 이전에 발매될 예정입니다.\n자세한 내용은 추후 공개됩니다. \n 디럭스 에디션 「디럭스 에디션」은 아래의 콘텐츠가 포함된 상품입니다. \n・게임 본편 \n・시즌 패스(6명의 플레이어블 캐릭터와 유니폼 등의 커스터마이즈 아이템) \n・시즌 패스 특전(볼 커스터마이즈 「블랙 볼」) \n 얼티밋 에디션 「얼티밋 에디션」은 아래의 콘텐츠가 포함된 상품입니다. \n・게임 본편 \n・시즌 패스(6명의 플레이어블 캐릭터 등) \n・시즌 패스 특전(볼 커스터마이즈 「블랙 볼」)\n・얼티밋 에디션 특전 세트(커스터마이즈 아이템 등) \n 게임 정보 세계적으로 사랑받는 애니메이션 『캡틴 츠바사』의 가정용 게임 최신작이 6년 만에 등장!\n선수들끼리 끊임없이 예측 불가능한 슈퍼 플레이를 펼치는 네오 축구 액션을 체감하라!\n◆진화한 액션성\n본작에서는 필드에서의 액션이 크게 파워업!\n슈퍼 무브나 슈팅 외에, 패스, 드리블, 태클, 블록을 신규 추가!\n또한 골키퍼와의 심리전을 즐길 수 있는 시스템이 추가되어 원작 캐릭터가 경악했던 슈퍼 슛을 골키퍼 시점에서도 체감할 수 있습니다.\n◆시리즈 최대 볼륨\n전작 「Captain Tsubasa: Rise of New Champions」을 크게 웃도는 볼륨으로 더욱 뜨거워진 승부를 즐길 수 있게 된 본작.\n참전하는 국가대표팀은 총 22개국, 플레이어블 캐릭터 110명 이상, 신규 연출 무브도 150종류 이상!\n전작에서는 등장하지 않았던 해외 팀에 더해, 본작 오리지널 대표팀과 캐릭터도 다수 참전! 인기 캐릭터의 1컷 1컷을 철저하게 고집한 연출이 『캡틴 츠바사』의 경기를 더욱 뜨겁게 만들어줍니다.\n◆원작자 『Yoichi Takahashi』 선생님께서 감수한 오리지널 시나리오\n본작의 무대는 『월드 유스 편』\n스토리 모드에서는 월드 유스 편을 기반으로 원작자 『Yoichi Takahashi』 선생님께서 직접 감수한 오리지널 시나리오를 즐길 수 있습니다!\n플레이어 본인이 일본 대표 중 한 사람이 되어 싸우는 『NEW STARS ROUTE』를 비롯해, 원작의 월드 유스 편하고는 또 다른 「IF」 스토리도 수록!\n원작에서는 볼 수 없었던 경쟁국",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "스크린 공유 및 분할 PvP",
-    "공유 및 분할 화면",
-    "Steam 도전 과제",
-    "게임패드 권장",
-    "컨트롤러 일부 지원",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "스포츠"
-   ],
-   "price": 69800,
-   "release": "2026-08-27",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172910/f351eaae86bea3787847972d86332f6ad58efa58/header_koreana.jpg",
-   "ko": "text",
-   "publisher": "Bandai Namco Entertainment Inc.",
-   "major": true,
-   "reviews": 410
   }
  },
  {
@@ -45607,47 +44642,6 @@
   }
  },
  {
-  "appid": 2406770,
-  "name": "Bodycam",
-  "url": "https://store.steampowered.com/app/2406770/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Bodycam은 Unreal Engine 5의 진정한 바디 카메라 뷰를 갖춘 최초의 전술적 멀티플레이어 FPS입니다. 근접전 전투는 생생하고 시끄러운 느낌을 줍니다. 모든 각도, 설명선, 글머리 기호가 중요합니다. 팀플레이, 전술, 클러치 기술이 핵심인 실제 지도에서 데스매치, 팀 데스매치, 윙맨을 플레이하세요 HUD가 없습니다. 팀워크와 전술이 승패를 가릅니다. 모든 교전에서 침착함과 정확한 판단이 승리를 좌우합니다.",
-   "text": "최신 업데이트 새 지도: 참호 완전히 새로운 지도가 출시됩니다. 참호 참호 네트워크 내부의 격렬한 근접전과 주변의 열린 공간에 걸친 장거리 교전을 혼합하여 구축된 참호는 더 큰 규모의 전장을 선보입니다. 폐쇄적이고 혼란스러운 전투와 노출된 원거리 시야가 강렬한 대비를 이루는 전장.\n 게임 정보 렌즈를 통해 전투를 확인하세요 Bodycam은 실제 전투의 강렬함을 재현하기 위해 제작된 최초의 초현실적인 멀티플레이어 FPS입니다. 바디 카메라 렌즈를 통해 당신이 취하는 모든 각도, 당신이 내리는 모든 결정, 당신이 발사하는 모든 총알이 결과를 결정하는 전술적 총격전을 경험해 보세요. 수표를 놓치면 비용을 지불하게 됩니다. 십자선이 없습니다. 탄약 카운터가 없습니다. HUD가 없습니다. 실제 영상, 광학, 카메라 움직임, 압축, 노출, 사운드 동작 및 전투 상황을 연구하는 데 수많은 시간이 소요되었습니다. 현실감을 최대한 끌어올리기 위해. ───────────────────────────────────────────────────────────────────────── 진정한 1인칭 느낌 카메라가 전체 경험을 주도하고 떠다니는 손이 화면에 간단히 부착되는 기존 FPS 게임 과 달리 Bodycam은 완전히 다른 접근 방식을 취합니다. 팔, 몸통, 다리 및 무기는 모두 물리적으로 연결되어 있습니다. 여기에 True Body 기술을 개발하여 모든 움직임이 더 부드럽고 본능적이며 자연스럽게 느껴지도록 했습니다. 처음에는 적응하는 데 약간의 시간이 걸리지만 , 딸깍 소리가 나면 무기가 신체의 연장선이 되고 사용자와 오퍼레이터 사이의 경계가 사라지기 시작합니다. 이런 식으로 전투를 경험하고 나면 돌아갈 수 없습니다. 실제처럼 느껴지는 무기 ───────────────────────────────────────────────────────────────────────── 모든 재장전은 차분한 상태와 스트레스를 받는 상태가 분리된 동적 애니메이션 시스템 에 의해 구동됩니다. 압박을 받으면 캐릭터는 실제 사람처럼 현실적인 실수 를 할 수 있고, 급하게 움직이며 재장전을 완료하는 데 어려움을 겪을 수 있습니다. 매번 동일한 애니메이션을 재생하는 대신 수십 가지 고유한 재장전 변형과 실수를 만들어 재장전할 때마다 다른 느낌을 주었습니다. 고급 무기 맞춤화 ───────────────────────────────────────────────────────────────────────── 모든 대원은 다르게 싸웁니다. 당신의 무기도 그래야 합니다. \n 수백 개의 부착물과 수십억 개의 가능한 조합 을 사용하여 처음부터 총기를 제작하세요. 속도, 안정성, 정밀도 중 무엇을 우선시하든 모든 부착물은 무기의 느낌과 성능을 변화시켜 소형 CQB 소총부터 장거리 정밀 플랫폼까지 무엇이든 만들 수 있습니다. 무기를 정의합니다. 현대 전투 도구 - FPV 드론 ────────────────────────────────────────────────────────────────────",
-   "cats": [
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "앱 내 구매",
-    "DualSense 컨트롤러 지원",
-    "Steam Input API 지원",
-    "Steam Cloud",
-    "통계",
-    "Steam 순위표",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "인디",
-    "대규모 멀티플레이어",
-    "시뮬레이션",
-    "전략",
-    "앞서 해보기"
-   ],
-   "price": 37500,
-   "release": "2024-06-07",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/36264077393918f3945447eed3d6374cdf21e69a/header.jpg",
-   "ko": "text",
-   "publisher": "Reissad",
-   "major": false,
-   "reviews": 76260
-  }
- },
- {
   "appid": 2427700,
   "name": "백팩 배틀즈",
   "url": "https://store.steampowered.com/app/2427700/",
@@ -45717,123 +44711,6 @@
   }
  },
  {
-  "appid": 2479810,
-  "name": "그레이 존 워페어",
-  "url": "https://store.steampowered.com/app/2479810/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "격리된 동남아의 섬에서 펼쳐지는 이 PvE 중심의 하이리스크 오픈월드 전술 슈팅 게임에 뛰어드세요. 세력 간 전쟁으로 갈가리 찢긴 섬에 투입된 정예 요원으로서 솔로로 또는 분대와 함께 임무를 수행하고, 평판을 쌓고, 분쟁에 불을 지핀 사건의 진실을 추적하게 됩니다.",
-   "text": "",
-   "cats": [
-    "멀티플레이어",
-    "MMO",
-    "PvP",
-    "온라인 PvP",
-    "협동",
-    "온라인 협동",
-    "색상 대체",
-    "음량 개별 조절",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "스테레오 사운드",
-    "서라운드 사운드",
-    "HDR 사용 가능"
-   ],
-   "genres": [
-    "액션",
-    "대규모 멀티플레이어",
-    "시뮬레이션",
-    "앞서 해보기"
-   ],
-   "price": 48000,
-   "release": "2024-04-30",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/a691cc308079e07b89b70370e5dc843515c2389a/header_koreana.jpg",
-   "ko": "text",
-   "publisher": "MADFINGER Games, a.s.",
-   "major": false,
-   "reviews": 72080
-  }
- },
- {
-  "appid": 2487190,
-  "name": "Main Sequence",
-  "url": "https://store.steampowered.com/app/2487190/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Main Sequence는 우주선을 설계하고, 우주 정거장을 건설하고, 모든 것을 자동화하는 1인칭 우주 시뮬레이션 공장 건설 게임입니다. 한 척의 함선으로 시작해 성간 산업 제국으로 성장하며 은하계에 큰 족적을 남기세요.",
-   "text": "Join our Community \n Roadmap \n 게임 정보 작은 채굴선 한 척에 몸을 싣고, 인류가 개척한 우주의 최전선에서 인류의 영역을 별들 사이로 넓혀 나가야 합니다. 자원을 수집하고, 생산을 자동화하고, 작전 거점을 확장하고, 새로운 기술을 연구해야만 성공할 수 있습니다. 자원이 풍부한 소행성대에서 채굴 함선 한 척으로 시작하게 됩니다. 스캐너로 최적의 채굴 지점을 찾아내고, 채굴한 자원을 함선에서 정제하세요. 우주 정거장을 건설해 영구적인 작전 거점을 마련하고, 그곳을 확장하고 자동화할 수 있습니다. 정거장에 만드는 공장은 산업 운영의 핵심입니다. 기계를 설치하고, 컨베이어 벨트로 기계를 연결하고, 모든 생산이 최고의 효율로 돌아가도록 생산 라인을 설계하세요. 기반이 갖춰지면 같은 원리를 여러 행성계로 확장할 수 있습니다. 정거장 사이를 오가는 자동 보급로와 필요한 물자를 끊임없이 공급하는 함대에 일을 맡기고 확장에 집중하세요. 함선과 정거장은 안팎으로 모두 직접 설계할 수 있습니다. 모듈 하나하나를 배치하며 화물 적재량, 반응로 위치, 무장까지 상황에 맞게 결정하세요. 설계도를 저장해 다시 사용하거나, 친구들과 공유하거나, 창작 모드에서 자유롭게 건설할 수도 있습니다. 무장도 반드시 필요합니다. 산업 활동이 정체불명의 고대 위협을 깨웠고, 그 존재는 플레이어를 위협으로 인식했습니다. 함대를 운용해 어렵게 일군 것을 지키거나, 다음 공세가 밀려오기 전에 선제 공격을 가하세요. 생산한 아이템으로 새로운 기술을 연구하세요. 기술을 잠금 해제할 때마다 새로운 함선, 정거장 모듈, 아이템, 업그레이드를 이용할 수 있게 됩니다. 산업 운영을 한층 더 발전시키는 데 필요한 모든 것이 준비되어 있습니다. 새로운 전선으로 뻗어 나가야 하지만, 새 지역마다 고유한 난관과 적이 기다립니다. 모든 수단을 동원해 마지막 함선을 건조하고, 승리를 향한 여정에서 어떤 위협도 감당할 수 있는 궁극의 전함을 완성하세요. 절차적으로 생성되는 성계마다 고유한 물류 과제가 기다립니다. 미지의 우주로 나아가 난파선을 탐사하고, 새로운 자원을 발견하고, 블랙홀과 중성자별 같은 천체 현상을 마주하세요. 혼자 플레이하거나, 각 플레이어가 자신의 함선을 지휘하는 협동 모드로 함께 플레이하세요. 한 명은 물류를 담당하고, 한 명은 방어에 집중하고, 또 한 명은 탐험에 나설 수도 있습니다. 아니면 모두가 같은 목표에 힘을 합쳐도 됩니다. 협동 플레이는 더 큰 가능성을 열어 줍니다. 승무원이 늘어날수록 제국도 커집니다. Satisfactory, Factorio, Dyson Sphere Program, Space Engineers, Foundry, X4 Foundations, Stationeers, Empyrion Galactic Survival, Planet Crafter, No Man’s Sky, Astroneer, Subnautica",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "음량 개별 조절",
-    "#category_playable_at_your_own_pace",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "수시 저장",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "인디",
-    "시뮬레이션",
-    "전략",
-    "앞서 해보기"
-   ],
-   "price": 28000,
-   "release": "2026-11-12",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487190/73ed2165456629bf1bd7586ad0113a2accecefc9/header.jpg",
-   "ko": "text",
-   "publisher": "Mythwright",
-   "major": false,
-   "reviews": 537
-  }
- },
- {
-  "appid": 2522120,
-  "name": "Airframe Ultra",
-  "url": "https://store.steampowered.com/app/2522120/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "메가시티 웨스트에서 찾아볼 수 있는 레이서는 딱 두 유형뿐입니다. 바로 승자와 죽은 자죠. 이 아래에는 불법 작업장에서 뜯어고친 에어프레임, 녹슨 마체테, 고속도로에 흥건한 피가 있습니다. 울트라 서킷 레이싱이라는 폭력적인 지하 세계에 오신 것을 환영합니다!",
-   "text": "특징 목록 고 옥탄 부스터 레이스 풀 스로틀 레이서 육성 팀과 함께 경쟁 거리를 지배하라 \n 게임 정보 전속력으로 질주하라 아스팔트에서 1m 위, 또 다른 도시가 펼쳐집니다. 절박한 사람, 스릴을 갈망하는 사람, 위험한 사람, 광기 어린 사람들이 살아가고 있죠. 이 높이에서 거리의 전설이 탄생합니다. 거리를 지배하라 Airframe Ultra는 분할 화면과 온라인 멀티플레이에서 친구와 적을 상대로 경쟁하는 속도감 넘치는 배틀 레이싱 게임입니다. 파이프와 사슬, 플라스마 토치로 상대를 박살 내거나, 부스트와 순도 100%의 배짱으로 상대에게 먼지만 남긴 채 멀찌감치 따돌리세요. 승리를 위해서라면 무엇이든 허용됩니다. 장비를 챙기고, 레이서답게 차려입은 다음, 메가시티 웨스트의 금이 간 아스팔트 위를 평정하는 전설이 되세요! 크루와 함께 격돌하라 밑바닥 출신이 모여듭니다. 무단 점거자. 밀수업자. 소매치기. 도둑. 하지만 중고 에어프레임 한 대와 커스텀 개조, 묵직한 야구방망이 하나만 있으면 수십억 명이 살아가는 도시에서 유일하게 자유로운 존재가 될 수 있습니다. 레이서. 쉽지도, 깔끔하지도 않겠지만 의지와 재치만 있다면 서킷에서 승리할 수 있습니다. 서킷 하나가 둘이 되고, 둘이 열이 되다 보면 어느새 엘레이에서 베이까지 뒷골목 무리들이 당신의 이름을 외치고 있을 겁니다. 악명은 그 자체로 보상이 됩니다. 1등만이 의미가 있는 새로운 세계로 향하는 열쇠가 되어줄 겁니다. 극한 질주 슬랩타운의 녹슨 조선소, 밴택의 세련된 마천루, 이시드로 변두리의 모래언덕 소굴, 텍시칼리 ZEGO 구역의 거대 복합 구조물에 이르기까지 메가시티 웨스트 전역에서 모여든 에어프레임 레이서들은 명성과 부, 영광을 위해 경쟁합니다... 1m 위에서 달리다가 지하에 묻히는 한이 있더라도 말입니다. 원하던 모든 것을 가질 수 있습니다. 승리만 쟁취한다면 말이죠. 악명을 떨쳐라 첫 레이스에서 살아남는 건 그저 시작일 뿐입니다. 킬 수를 차곡차곡 쌓아 나가며 결승선을 넘어야 합니다. 새 헬멧, 새 옷. 유니폼으로 존재감을 드러내세요. 부품을 충분히 확보하면 새로운 프레임도 만들 수 있습니다. 트랙의 전설은 악명을 쌓고, 명성을 이용해 돈을 챙기며, 모두의 기억에 남을 새로운 방법을 찾아냅니다. 전설적인 레이서가 되고 싶다면, 이름 없는 평범한 존재로 남아서는 안 되죠. 새롭고, 독특하고, 지금까지 누구도 보거나 들은 적 없는 무언가를 찾아내야 합니다. 모든 것이 복제품인 도시에서 당신만은 독보적인 진짜가 되어야 합니다.",
-   "cats": [
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "스크린 공유 및 분할 PvP",
-    "협동",
-    "온라인 협동",
-    "스크린 공유 및 분할 협동",
-    "공유 및 분할 화면",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "음량 개별 조절",
-    "게임패드 권장",
-    "키보드 전용 옵션",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "인디",
-    "레이싱"
-   ],
-   "price": 14000,
-   "release": "2026-11-05",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2522120/85ae9c79253627eb019c581e2fb2ace76f12cc97/header.jpg",
-   "ko": "none",
-   "publisher": "Akupara Games",
-   "major": false,
-   "reviews": 618
-  }
- },
- {
   "appid": 2537590,
   "name": "Microsoft Flight Simulator 2024",
   "url": "https://store.steampowered.com/app/2537590/",
@@ -45865,44 +44742,6 @@
    "publisher": "Xbox Game Studios",
    "major": true,
    "reviews": 22972
-  }
- },
- {
-  "appid": 2543830,
-  "name": "Way of the Hunter 2",
-  "url": "https://store.steampowered.com/app/2543830/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "북미와 아프리카의 광활한 대자연에서 그 무엇보다 발전된 형태의 사냥, 그리고 모험을 경험해 보세요. 더없이 아름다운 자연이 여러분을 기다리고 있습니다. 실제와 가까운 동물의 행동과 역동적인 생태계, 위험한 야생 동물을 마주하다 보면 어느새 오두막에 트로피 컬렉션 이 채워진 모습을 발견할 수 있을 것입니다..",
-   "text": "살아 숨 쉬는 생태계와 한층 발전된 동물 행동을 자랑하는 Way of the Hunter 2는 각기 다른 세 곳의 사냥 지역을 중심으로 더욱 깊고 역동적인 사냥 경험을 선사해 드립니다. 광활한 북미의 대자연에서 사냥감을 추적하고, 아프리카 사냥터에서 위험한 야생 동물에 도전하세요. 허트 & 헌트 본부 오두막이 자리한 로키산맥 지역을 탐험할 시간입니다. 확장 가능한 사냥 거점인 본부 오두막의 방을 증축해 나가세요. 현재는 물론 앞으로 추가될 사냥터에서 얻은 트로피까지 전시할 수 있게 전시 공간과 트로피 거치대를 추가해 나가야 합니다. 동물들은 주변 환경에 맞춰 자연스럽게 행동하고 반응합니다. 방아쇠를 당기기 전에 발자국과 이동 패턴, 서식지 상태를 꼼꼼히 살피면 더 큰 보상을 얻을 수 있습니다. 언제든 자유롭게 야생으로 떠나 마음 가는 대로 탐험하고, 즉흥적인 사냥을 즐기세요. 충직한 사냥개와 함께 대자연의 아름다움을 만끽할 수도 있습니다. 전작의 토대를 발전시킨 이번 후속작은 사실성과 접근성, 플레이어의 자유도를 한층 끌어올리면서도, 시리즈의 정체성인 진중한 호흡과 정통성은 그대로 지켜냈습니다. 사냥의 전율이 눈앞에 펼쳐집니다! 북미와 아프리카의 다채로운 야생 지역을 마음껏 누벼보세요. 무스, 엘크, 곰, 들소 같은 대형 동물부터 각종 소형 동물과 조류까지, 다양한 동물을 추적하고 전시할 수 있습니다. 아프리카에서는 거대한 하마, 엄청난 위압감을 자랑하는 버팔로, 사냥감을 노리는 사자, 은밀하게 접근하는 나일악어까지, 세계에서 가장 위험한 야생 동물들과 마주하게 됩니다. Way of the Hunter 2는 가장 사실적이고 정교한 가상 사냥 경험을 목표로 합니다. 아울러, 지난 시리즈에서 얻은 노하우와 소중한 플레이어 피드백, 수많은 개선 작업을 토대로 다양한 업데이트와 확장팩, 장기 지원의 기반을 쌓아갈 예정입니다. 허트 & 헌트에 새로 영입된 사냥꾼이 되어 주민들을 돕고, 새로운 동료들과 손발을 맞추며 지역 생태계를 보전해 나가세요. 세 개의 숨 막히는 사냥 지역을 무대로 독특한 도전 과제를 수행하며, 다재다능한 사냥꾼으로서 명성을 쌓을 수 있습니다. 뉴 로렌티아에서는 숙련된 사냥개 조련사와 전직 야생 보호 담당자의 도움을 받아 무스들의 이상 행동을 조사해야 합니다. 킬리마야 보호구역에서는 저명한 사파리 가이드를 지원하고, 개성 넘치는 양궁 전문가와 함께 훈련을 수행하게 됩니다. 은퇴한 전설의 여성 사냥꾼을 찾아 나서는 동안 생태계의 균형을 지키는 데 힘을 보태세요. 한편, 로키산맥 깊숙한 곳에는 개성 넘치는 아일랜드 출신 노인 목수가 있습니다. 열심히 모은 돈으로 방과 트로피 전시 공간을 갖춘 오두막 확장 공사를 수행해 보세요. 작업하는 동안 버섯이나 지역 민담 같은 목수의 흥미진진한 이야기에 푹 빠져 볼 수도 있습니다. 특징: 사냥개: 충성스러운 사냥의 동반자와 함께 동물의 흔적을 찾고, 혈흔을 추적하며, 상처 입은 동물을 찾아내세요. 사냥개는 지속적인 훈련과 활동을 통해 점점 더 성장합니다. 사격 리뷰: 더욱 개선된 탄환 카메라",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam 트레이딩 카드",
-    "DUALSHOCK 컨트롤러 지원",
-    "DUALSHOCK 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "어드벤처",
-    "시뮬레이션"
-   ],
-   "price": 41000,
-   "release": "2026-09-29",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/710a53f9f052dbcd449e31cebb082767139025a1/header.jpg",
-   "ko": "none",
-   "publisher": "THQ Nordic",
-   "major": false,
-   "reviews": 2208
   }
  },
  {
@@ -46022,40 +44861,6 @@
    "publisher": "Qooland Games",
    "major": false,
    "reviews": 18847
-  }
- },
- {
-  "appid": 2670630,
-  "name": "Supermarket Simulator",
-  "url": "https://store.steampowered.com/app/2670630/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "자신만의 슈퍼마켓을 운영하세요! 진열대를 채우고, 가격을 정하며, 결제를 받고, 직원을 고용하고, 매장을 확장하며, 절도범을 처리하고, 매장 레이아웃을 디자인하세요. 온라인 또는 지역 시장에서 상품을 구매하고, 온라인 주문을 고객에게 직접 배달하세요.",
-   "text": "\"Supermarket Simulator\"는 슈퍼마켓 운영의 모든 디테일이 생생하게 살아 숨 쉬는 차가운 1인칭 시뮬레이션입니다. 효율성과 미관을 고려하여 매장을 디자인하세요. 제품을 진열할 위치를 결정하고 통로를 관리하며 고객에게 원활한 쇼핑 환경을 제공하세요. 게임 내 컴퓨터를 사용하여 재고를 주문하세요. 상품의 포장을 풀고 창고에 정리하여 선반, 냉장고, 냉동고에 보관합니다. 상품을 스캔하고 현금 및 신용 카드 결제를 받고 고객이 쇼핑 및 결제 경험에 만족하고 떠날 수 있도록 하세요. 실시간 시장의 복잡한 상황을 탐색하세요. 가격이 하락할 때 제품을 구매하고 베스트셀러 가격을 결정하여 고객 만족도와 수익률의 균형을 맞출 수 있습니다. 수익이 쌓이면 재투자를 고려하세요. 매장의 물리적 공간을 확장하고, 인테리어를 업그레이드하고, 진화하는 소매업계의 수요에 지속적으로 적응하세요. 상점을 독특하게 꾸며보세요. 바닥을 커스터마이징하고, 벽을 칠하며, 카테고리 표지판을 설치하는 등 다양한 작업이 가능합니다. 모든 고객이 매장을 직접 방문하는 것은 아닙니다. 온라인 주문을 받고, 패키지를 준비하여 직접 배송하세요. 배달비를 내는 것이 지겹거나 할인 가격을 찾고 있나요? 현지 시장을 방문하여 최고의 거래를 찾아보세요. 가게를 반짝이게 만드세요. 바닥을 청소하고, 쓰레기를 치우고, 창문을 닦아 가게를 깨끗하게 유지하세요. 모든 사람이 유료 고객은 아닙니다. 카메라나 경보 안테나 같은 보안 도구를 사용하거나 보안 요원을 고용하여 가게를 도둑으로부터 안전하게 지키세요. Supermarket Simulator에서는 최대 네 명의 친구와 팀을 이루어 가게를 운영할 수 있습니다. 선반을 채우고 고객을 응대하고 온라인 주문을 처리하며 배송을 관리하고 시장을 확장하세요. 이 모든 일을 실시간으로 협동하며 진행합니다. 트럭 운전에서 청소, 가격 책정까지, 팀워크가 성공적인 슈퍼마켓 성장을 위한 핵심입니다. \"Supermarket Simulator\"에서는 모든 결정이 중요합니다. 고객 만족과 재무의 균형을 유지하면서 평범한 매장을 소매업의 강자로 탈바꿈시킬 수 있을까요?",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션"
-   ],
-   "price": 21500,
-   "release": "2025-06-19",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/267eef055b0e5d45cb1c874f816a31dded4bb88e/header.jpg",
-   "ko": "text",
-   "publisher": "Nokta Games",
-   "major": false,
-   "reviews": 80324
   }
  },
  {
@@ -46332,74 +45137,6 @@
   }
  },
  {
-  "appid": 3058360,
-  "name": "프랑스 브라세리 시뮬레이터",
-  "url": "https://store.steampowered.com/app/3058360/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "친구들과 함께 파리에서 작은 레스토랑을 운영해 보세요! 직접 메뉴를 구성하고, 손님들에게 최고의 프렌치 다이닝 경험을 선사하며, 특별한 미식 명소를 만들어 보세요. 레스토랑의 분위기부터 세심한 서비스까지, 모든 요소가 평판과 성장에 영향을 미칩니다. 로맨틱한 이 도시에서 정통 프렌치 레스토랑을 운영하는 즐거움을 경험해 보세요.",
-   "text": "흥미진진한 미식 경영의 여정을 시작할 준비가 되셨나요? 세계에서 가장 많은 관광객이 방문하는 파리의 중심에서 직접 프렌치 레스토랑을 운영해 보세요. 파리 특유의 도시 분위기에 몰입하며, 오스만 양식의 건축물과 에펠탑 전망을 감상하고, 정통 프랑스 요리의 매력을 만끽하세요. 시즌별 메뉴를 설계하고, 직원 배치를 최적화하며, 고객 만족도를 높여 작은 레스토랑을 센 강변의 전설적인 맛집으로 성장시키세요! 파리의 활기찬 가로수길에 위치한 작은 레스토랑의 주인으로서, 곧 성대한 개업식을 맞이하게 됩니다. 매장을 정성스럽게 꾸미고, 테이블과 의자를 배치하며, 신선한 식재료를 주문하고, 손님들의 발길을 사로잡을 매력적인 메뉴를 설계하세요. 모든 준비가 끝나면 본격적으로 영업을 시작하고 첫 손님을 맞이하며 미식 경영의 길을 열어가세요! 레스토랑이 문을 열면 원활한 운영이 가장 중요합니다. 팀을 체계적으로 조직하고, 역할을 적절히 분배하여 모든 고객이 신속하고 정중한 서비스를 받을 수 있도록 하세요. 손님을 적절한 테이블에 안내하고, 주문을 효율적으로 처리하며, 고객이 만족한 상태로 레스토랑을 떠나도록 관리하세요. 고객 만족도가 높아질수록 팁과 수익이 빠르게 증가합니다! 바 운영은 레스토랑 경영에서 빼놓을 수 없는 중요한 요소입니다. 최상의 품질을 자랑하는 와인, 커피, 맥주 및 논알콜 음료를 언제나 준비하세요. 음료를 제공할 때는 우아한 태도를 유지하며, 고객이 만족할 수 있도록 세심한 서비스를 제공하세요. 또한 재고를 철저히 관리하여 부족함이 없도록 하고, 다양한 고객의 입맛을 충족시켜 단골손님을 확보하세요. 효율적인 원자재 관리와 수익 최적화는 레스토랑의 성공에 필수적입니다. 원자재 공급을 철저히 모니터링하여 낭비를 방지하고, 공급업체와의 협상을 통해 최적의 가격을 확보하세요. 경영 분석 도구를 활용해 비용을 계산하고, 가격을 조정하며, 최고의 품질과 최고의 수익을 동시에 달성하세요. 고객 만족도, 수익성, 서비스 품질—이 세 가지 핵심 요소를 정복하면 레스토랑은 새로운 도약을 맞이합니다. 특별한 미식 창작 메뉴를 추가하고, 다양한 요리를 선보이며, 파리지앵들이 열광하는 미식 제국을 만들어 보세요!",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션",
-    "전략"
-   ],
-   "price": 21000,
-   "release": "2026-09-18",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058360/4466e833865a34eb3be60bee3516eb3fa758388f/header_koreana.jpg",
-   "ko": "text",
-   "publisher": "Quark Studios",
-   "major": false,
-   "reviews": 566
-  }
- },
- {
-  "appid": 3072120,
-  "name": "Backrooms Lost Runners",
-  "url": "https://store.steampowered.com/app/3072120/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Backrooms Lost Runners는 팀 플레이, 음성 반응형 AI, 몰입형 퍼즐이 특징인 협동 생존 호러 게임입니다. 이건 “워킹 시뮬레이터”가 아닙니다: 경계 공간을 탐험하고, 존재를 속이며, 속삭임 하나로도 들킬 수 있다는 걸 명심하세요.",
-   "text": "Backrooms Lost Runners 는 팀워크가 유일한 진짜 무기가 되는 협동 생존 공포 경험입니다  심지어 당신의 목소리조차 위험을 부를 수 있습니다. 끝없는 백룸의 복도 안에 갇힌 당신과 친구들은 버려진 캠프를 탐험하고, 환경 퍼즐을 풀고, 부족한 자원을 관리하며, 소리와 빛, 움직임에 반응하는 존재들과의 조우에서 살아남아야 합니다. 모든 어두운 복도에는 위협이 숨어 있습니다. 모든 속삭임은 당신의 위치를 드러낼 수 있습니다. 모든 잘못된 결정은 그룹을 영원히 갈라놓을 수 있습니다.\n 주요 특징 몰입감 있는 공포 분위기 \n어둡게 밝혀진 복도, 버려진 은신처, 불안정한 공간을 지나가세요. 그곳은 압도적인 침묵, 역동적인 조명, 사실적인 사운드 디자인으로 가득합니다. 백룸에서는 모든 발걸음이 중요하며, 침묵의 모든 순간이 어딘가 잘못된 듯 느껴집니다.\n 협동 생존 \n생존은 의사소통, 신뢰, 조율에 달려 있습니다. 자원을 공유하고, 역할을 나누고, 함께 퍼즐을 풀고, 팀으로서 어려운 선택을 내리세요. 함께 있으면 더 안전하지만, 때로는 최고의 전리품이 그룹에서 멀리 떨어진 곳에 있습니다. 진정한 협동 게임플레이 협력은 생존에 필수입니다. 자원을 관리하고, 음성 채팅으로 전술을 조율하며, 함께 결정을 내리세요. 음성에 반응하는 위협 \n서로 다른 행동 방식과 약점을 가진 존재들과 맞서세요. 어떤 존재는 소리에 반응합니다. 어떤 존재는 어둠 속에서 사냥합니다. 어떤 존재는 당신의 정신이 무너지기 시작할 때 나타납니다. 그들의 행동을 익히고, 필요할 때 침묵을 지키며, 환경을 이용해 살아남으세요. 이성 시스템  \n어둠, 공포, 고립, 초자연적 사건은 당신의 정신 상태에 영향을 줍니다. 빛, 열원, 안전한 구역 가까이에 머물러 이성 상실을 늦추세요. 당신의 정신이 붕괴하면 백룸은 주변에서 변하기 시작합니다. 테서랙트 사후세계 \n죽음이 끝은 아닙니다. 죽으면 당신은 초현실적인 테서랙트 영역으로 끌려가며, 그곳에서 다시 삶으로 돌아갈 길을 찾아야 합니다. 하지만 귀환에는 시간, 자원, 그리고 팀의 안전이 대가로 따를 수 있습니다. 스토리라인 & 퀘스트 시스템 일지, 오디오 녹음, 플로피 디스크, 그리고 생존자들이 남긴 불길한 흔적을 발견하세요. 재앙의 시간대를 맞춰 보고, 당신보다 먼저 이곳에 있었던 이들의 운명을 밝혀내며, 백룸 안에서 실제로 무슨 일이 벌어지고 있는지 알아내세요. \n 자원 관리 & 캐릭터 성장 음식, 의복, 도구를 찾아 체력, 스태미나, 이성을 유지하세요. 값진 전리품을 얻기 위해 혼자 위험을 무릅쓰겠습니까, 아니면 분대 곁에 머물겠습니까? 캠프, 사물함, 은신처를 탐험해 귀중한 아이템과 자원을 찾으세요. \n 현실을 뒤틀어 버리는 이상 현상 무중력 구역, 갑작스러운 순간이동 관문, 이동하는 벽, 망가진 물리 법칙, 불가능한 공간은 무엇이 진짜인지 의심하게 만들 것입니다. 백룸에서는 환경 그 자체가 적이 될 수 있습니다. 당신의 모험은 이제 막 시작되었습니다.",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처",
-    "인디",
-    "앞서 해보기"
-   ],
-   "price": 15500,
-   "release": "2026-06-17",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3072120/a14378989093e8a774f852ecaf57aa8c04e34648/header.jpg",
-   "ko": "text",
-   "publisher": "ShimStudioGames",
-   "major": false,
-   "reviews": 679
-  }
- },
- {
   "appid": 3105440,
   "name": "Heroes of Might and Magic: Olden Era 히어로즈 오브 마이트 앤 매직: 올든 에라",
   "url": "https://store.steampowered.com/app/3105440/",
@@ -46525,138 +45262,6 @@
   }
  },
  {
-  "appid": 3394840,
-  "name": "Clawed",
-  "url": "https://store.steampowered.com/app/3394840/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Embark on a covert mission to the dinosaur theme park Prehistoria, where you must explore the park's grounds to scavenge resources, solve puzzles, and fight your way through diverse biomes, underground tunnels and deadly enclosures. But beware, you are not the apex predator here.",
-   "text": "Embark on a covert mission to the dinosaur theme park Prehistoria, where you must fight to survive in this Action-Adventure Survival Horror game. Navigate diverse biomes, solve intricate puzzles, and uncover the secrets hidden within the park. With danger lurking at every turn, shoot, strategize, and escape before the park becomes your grave.\n Play Classic Mode or Survival Mode Explore a fully realized dinosaur theme park with two distinct gameplay experiences: Classic Mode: The original Clawed survival horror experience. Survival Mode: Survive against hunger, thirst, dynamic weather, a full day/night cycle, and random dinosaur encounters as you complete your mission. \n EXPLORE THE PARK'S GROUNDS Explore Prehistoria, a rundown dinosaur park that has seen better days. Brave deadly dinosaur enclosures, delve into the underground tunnels, and aquatic environments. The entire park is yours to uncover as you make your way through this action-adventure, survival-horror.\n FIGHT DEADLY PREDATORS \n Face off against terrifying dinosaurs, from the ruthless Deinosuchus to the swamp dwelling Spinosaurus, Prehistoria is home to many prehistoric creatures. SOLVE INTRICATE PUZZLES In traditional survival-horror fashion, your journey through the park will test your mind and wits as you work to solve challenging puzzles and difficult challenges\n Co-Op Play! \nFight dinos, explore the park and solve puzzles with your teammates! Invite your friends to join you on your Journey through Prehistoria.",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "컨트롤러 완벽 지원",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처"
-   ],
-   "price": 21000,
-   "release": "2026-08-13",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394840/header.jpg",
-   "ko": "none",
-   "publisher": "Flatrock Games",
-   "major": false,
-   "reviews": 828
-  }
- },
- {
-  "appid": 3405690,
-  "name": "EA SPORTS FC™ 26",
-  "url": "https://store.steampowered.com/app/3405690/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "EA SPORTS FC™ 26에서 이전과는 다른 방식으로 The World's Game을 경험하세요. 48개 팀 국제 토너먼트 모드에서 영광을 향해 도전하고, 테마별 감독 라이브 챌린지에 도전하고, 새로운 국가대표 아이콘 및 영웅과 함께 선수 커리어를 시작하세요.",
-   "text": "EA SPORTS FC™ 26에서 이전과는 다른 방식으로 The World's Game을 경험하세요. \n최신 업데이트에는 48개 국가대표팀이 참가하는 새로운 국제 대회 모드와 플레이할 수 있는 새로운 실제 스타디움이 추가되었습니다. 국가대표 테마의 감독 라이브 챌린지에 도전하고, 새로운 국가대표 아이콘 및 영웅과 함께 선수 커리어를 시작하세요.\n 게임 정보 \n이 게임은 게임 내에서 사용되는 가상 화폐를 게임 내 구매 및 이용할 수 있으며, 이를 통해 확률형 아이템을 포함한 게임 내 가상 아이템을 구매할 수 있습니다.",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "스크린 공유 및 분할 PvP",
-    "협동",
-    "온라인 협동",
-    "스크린 공유 및 분할 협동",
-    "공유 및 분할 화면",
-    "크로스 플랫폼 멀티플레이어",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "앱 내 구매",
-    "음성 채팅 텍스트 변환",
-    "난이도 조정",
-    "키보드 전용 옵션",
-    "DUALSHOCK 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "스테레오 사운드",
-    "자막 옵션",
-    "HDR 사용 가능"
-   ],
-   "genres": [
-    "시뮬레이션",
-    "스포츠"
-   ],
-   "price": 22000,
-   "release": "2025-09-25",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/2d96aa1b06e453cd62dae9029d412f19e61932c3/header.jpg",
-   "ko": "audio",
-   "publisher": "Electronic Arts",
-   "major": true,
-   "reviews": 105273
-  }
- },
- {
-  "appid": 3407390,
-  "name": "ENDLESS Legend™ 2 엔들리스 레전드 2",
-  "url": "https://store.steampowered.com/app/3407390/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "끊임없이 변화하는 세계에서 강력한 영웅들이 이끄는 비대칭적인 세력을 배경으로 펼쳐지는 이 전략 게임에서 승리를 향해 사람들을 이끌어보세요. ​​제국을 건설하고, 정치적 영향력을 행사하며, 위대한 군대를 일으켜 행성 깊숙이 숨겨진 어두운 비밀을 밝히기 위한 경쟁 속에서 치열한 전쟁을 펼쳐보세요.",
-   "text": "ENDLESS Legend™ 2는 끊임없이 진화하는 멸종 직전의 해양 세계에서 거대한 제국을 건설하고 행성을 넘나드는 전쟁을 벌이며 매우 다양한 세력을 이끄는 판타지 전략 게임입니다. 대격변으로 인해 자연의 질서가 엄청난 혼란에 빠졌고, 시간이 지남에 따라 세계 자체가 변화하면서 대담하고 과감한 사람들에게 탐험과 정복의 새로운 기회가 열리게 됩니다. 영향력을 퍼뜨리고, 경제를 부흥하기 위해 광대한 도시를 건설하고, 군대를 양성하고 턴 기반 전술 전투에서 부대를 지휘하여 무력으로 적을 물리치고, 미지의 세계로 나아가 행성의 핵심에 숨겨진 어두운 비밀을 밝혀내세요. 별에서 내려온 정의로운 전사를 통솔하든, 불운에서 벗어나고자 하는 저주받은 기사를 이끌든, 아니면 싸우고, 먹고, 번식하는 것밖에 모르는 군집 지능의 야수를 지휘하든, ENDLESS Legend™ 2에서는 각기 다른 철학, 역사, 역량, 서사를 지닌 완전히 차별화된 세력을 선보입니다. 각 세력은 전장, 상업, 제국 건설, 외교 등 다양한 사안에서 서로 구별되는 고유한 특성이 있습니다. 각 세력의 강점과 약점에 맞추어 전략과 독특한 플레이 스타일을 확립하는 것은 전적으로 여러분의 몫입니다. 세력 선택은 게임의 모든 측면에 영향을 주게 됩니다. 전쟁을 정당화할 필요성에서 ' 끊임없이 이어지는 전투에서 이득을 얻고, 승리할 때마다 추가 전사가 생성되어 무한히 세력을 키우는 것을 선호하십니까? 아니면 공존과 협력을 통해 혜택을 받으며 전 세계로 영향력을 확대하여 동맹 네트워크를 구축하고, 행성 내 소규모 세력과의 관계를 활용하여 제국을 더욱 풍요롭게 하는 길을 선택하시겠습니까? 아니면 같은 종족을 먹이로 삼아 생존하는 종족을 이끌며, 평범한 필멸자의 욕구에서 자유로운 독특한 경제 구조를 활용하시겠습니까? 각 세력의 특징을 파악하고 이를 활용하여 세력을 이끌거나 파괴하려는 경우 유리하게 활용하십시오. 혹은 기존 세력을 넘어선 자신만의 세력을 만들어 모험을 떠날 수도 있습니다. 게임 전반에 걸쳐 등장하는 친밀도, 특성, 유닛, 인구 등을 자유롭게 조합하여, 직접 창조한 세력으로 세계를 탐험해 보십시오. 군사 교리는 세력마다 큰 차이가 있어, 유능한 지휘관은 전투 중이 아니더라도 적을 능가하는 우위를 점할 수 있는 독특한 기회를 얻을 수 있습니다. 셰레딘의 호전적인 혈족으로서 도시를 방어하기 위해 거대한 요새를 건설하고, 궤도에 대기 중인 강력한 무기 및 지원 시스템과의 연결을 구축하세요. 산호를 확산하는 데 투자하면 심령술사 애스펙트는 아군 영토 밖에도 자급자족할 수 있습니다. 네크로파지 군락으로서 둥지와 굴을 대지 곳곳에 배치하면 엄청난 거리를 신속하게 이동하며 지하에서부터 적을 기습 공격할 수 있습니다. 전투가 시작되면 자동으로 진행하거나 군대 내 개별 부대를 직접 지휘하며 주변 지형을 활용하여 병목 지점, 엄폐물, 고지대를 공략하세요. 각 세력은 세력별 부대, 특성, 무기, 속성 외에도, 적절하게 활용하면 전세를 역전시킬 수 있는 특수한 전장 능력을 보유하고 있습니다. 어떤 세력은 병",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam 트레이딩 카드",
-    "텍스트 크기 조정",
-    "카메라 움직임 조정",
-    "색상 대체",
-    "음량 개별 조절",
-    "난이도 조정",
-    "마우스 전용 옵션",
-    "#category_playable_at_your_own_pace",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "DUALSHOCK 컨트롤러 지원",
-    "DUALSHOCK 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "수시 저장",
-    "Steam Input API 지원",
-    "스테레오 사운드",
-    "자막 옵션",
-    "서라운드 사운드",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "RPG",
-    "시뮬레이션",
-    "전략"
-   ],
-   "price": 49900,
-   "finalPrice": 24950,
-   "discount": 50,
-   "release": "2026-09-17",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/f6b966ed138fd533e8cbedf015a14e73f2328e67/header_koreana.jpg",
-   "ko": "text",
-   "publisher": "Hooded Horse",
-   "major": false,
-   "reviews": 3959
-  }
- },
- {
   "appid": 3450310,
   "name": "Europa Universalis V",
   "url": "https://store.steampowered.com/app/3450310/",
@@ -46689,91 +45294,6 @@
    "publisher": "Paradox Interactive",
    "major": false,
    "reviews": 29198
-  }
- },
- {
-  "appid": 3452720,
-  "name": "Realm of Taiwu",
-  "url": "https://store.steampowered.com/app/3452720/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "《태오이세걸》은 《태오회권》 IP 정식 라이선스를 받은 전리품 파밍형 서바이벌 게임입니다. 원작 세계관의 평행 IF 세계선 이야기: 태오가 나타나지 못하고 복우검이 상추에게 패배하며 천지가 어둠에 잠겼습니다. 절망적인 상황 속 플레이어는 각 문파 생존자가 되어 검령 환심의 인도를 받고 지인들과 함께 검을 들고 극한의 땅으로 향해 열 자루의 신검을 모아 세상을 구원하십시오. 협객 여러분, 풍파를 함께 딛고 마재를 물리칩시다!",
-   "text": "《태오이세걸》은 《태오회권》 IP 기반 동양 다크 무협 풍 파밍 서바이벌 게임입니다. 본작은 원작과 갈라진 운명의 세계선입니다. 태오가 오지 않은 탓에 복우검이 상추에게 패하고 천지가 암흑에 삼켜졌습니다. 파괴된 복우검의 검령 환심만 혼돈 속에서 살아남을 희망을 찾아 헤맵니다. 전설에 따르면 이세에 흩어진 열 자루 신검을 전부 모으면 재앙을 진압하고 세상을 재건할 수 있다고 전해집니다. 각자의 집착을 안고 난세를 살아남은 문파 출신 생존자들은 환심의 인도와 소라선 캠프의 보호 아래 신검 수집과 요마 토벌을 목표로 마지막 여정에 나섭니다.\n   세상의 법칙이 붕괴되고 요괴가 창궐했습니다. 예전의 산과 문파, 신검과 전설들은 상추의 마기에 변질되어 새로운 위협으로 변모했습니다. 마에 오염된 필드에 잡몹부터 정예 변종, 스테이지 보스, 상추의 분신까지 파도처럼 몰려옵니다. 적의 포위를 뚫고 흩어진 신검을 되찾으십시오. 적 처치로 경험치를 얻고 각 문파 무공 중 기술을 골라 자기만의 빌드를 완성하세요. 일반품·희귀품·극품·절품 신병과 영약을 주워 장비하고 빌드를 강화하면 적 떼를 손쉽게 쓸어버릴 수 있습니다! 잉어 용문 뛰어오르기·귀뚜라미 잡기·제물 의식·보물상자 열기·영시 구출 등 각종 기연 이벤트도 존재합니다. 이벤트 클리어 시 추가 보상을 얻어 최종 보스전을 대비할 수 있습니다.\n   천지 붕괴 후 구름 사이를 항해하는 소라선은 생존자들의 거점이 됐습니다. 출전 외 배 안에서 별도의 생활 콘텐츠를 즐길 수 있습니다. 완구 민족이 선 내 각 직책을 맡아 물자와 지원을 제공하며, 여와의 신력으로 싹튼 건목 묘목은 모험가에게 각종 버프를 선사합니다. 옛 지인과 새 NPC가 장비 정비·캐릭터 강화·능력 해금·영시 육성을 도와 다음 전투 출격을 완벽히 준비시켜 줍니다. 출전 캐릭터 교체나 지인과 동반 플레이, NPC와 잡담도 가능해 폐허가 된 세상 속 잠시의 평온을 느낄 수 있습니다.   마에 물든 땅에도 완전히 타락하지 않은 생명이 남아있습니다. 흑안의 쇠사슬에 묶인 탁령은 상추의 사기에 감금된 채 조금의 이성을 붙잡고 있습니다. 플레이어는 청기를 운기해 탁인을 깨뜨리고 본래 모습으로 화로시킵니다. 화로에 성공하면 그들은 마음이 통하는 영시로 아군에 합류합니다. 저마다 성격과 과거, 고유 신통과 전투 방식을 지녔으며 육성·레벨 업을 통해 잠재된 힘을 각성합니다. 인연의 계약으로 묶여 출전해 위기를 함께 헤쳐나갑니다.",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "컨트롤러 완벽 지원",
-    "음량 개별 조절",
-    "난이도 조정",
-    "DUALSHOCK 컨트롤러 지원",
-    "DUALSHOCK 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "수시 저장",
-    "스테레오 사운드",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "인디",
-    "RPG",
-    "앞서 해보기"
-   ],
-   "price": 10500,
-   "release": "2026-10-14",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3452720/632da0a4f67949db8bc27752ba6d09fdcd7e4160/header_koreana.jpg",
-   "ko": "text",
-   "publisher": "4Divinity",
-   "major": false,
-   "reviews": 590
-  }
- },
- {
-  "appid": 3499790,
-  "name": "Ashes of the Singularity II",
-  "url": "https://store.steampowered.com/app/3499790/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "초대형 RTS 게임에서 행성 전체의 지배권을 놓고 싸우는 대군을 지휘하자. 지구 세력, 기계 AI Substrate, 수수께끼에 싸인 포스트휴먼 연합 중 하나를 이끌고 싱글플레이, 협동 멀티플레이, 경쟁 멀티플레이로 태양계 곳곳에서 전투를 펼쳐 봐.",
-   "text": "Premium Edition \n 게임 정보 잿더미에서 다시 일어서라 《Ashes of the Singularity II》에서는 인류, AI Substrate, 그리고 포스트휴먼 연합 중 하나를 선택해 태양계의 운명을 결정해야 해. 반사신경이나 손속도가 중요한 게 아니야. 이 게임에서는 전략을 얼마나 잘 짜고, 병력과 자원을 정확한 타이밍에 정확한 위치로 배치하느냐가 승패를 가르지. 거대한 군대, 광활한 전장 수천 개의 유닛을 실시간으로 지휘하면서 대륙 크기의 전장에서 전투를 벌이자. 전략 줌을 이용해 궤도에서 전선까지 군대 움직임을 조율하고, 싸우면서 지형을 바꿔나가. 단순히 정복하는 걸 넘어서 복원하는 것도 중요한 요소야. 건물이 무너지고, 지형이 투리늄으로 바뀌거나 원래대로 돌아가며 전장이 네 전략의 흔적으로 실시간 변화하는 걸 직접 체험해 봐. 혼자서든, 온라인으로든 캠페인 – 연합 지구군과 함께 인류를 이끌고 포스트휴먼의 확장과 Substrate의 음모에 맞서 싸워. 섬뜩할 만큼 낯익은 가까운 미래를 배경으로, 생존과 복원을 둘러싼 이야기가 펼쳐져. 멀티플레이어 – 친구나 경쟁자와 함께, 온라인에서 PvP 또는 협동 전투를 즐겨봐. 스커미시 – 원하는 전장을 골라, 업계에서 손꼽히는 베테랑 RTS 개발자들이 설계한 컴퓨터 상대와 한판 붙어 봐. 태양계의 영혼을 건 전쟁 각 진영이 분쟁 행성의 지배권을 놓고 맞붙는 장대한 전투에 뛰어들어. 스커미시든 멀티플레이든, 연합 지구군의 인간 병력, 포스트휴먼 연합의 무자비한 구조체, 그리고 압도적인 AI Substrate 중 하나를 선택해. 각 진영은 고유의 유닛, 전략, 철학을 가지고 있어 — 전투 방식 자체가 완전히 달라. 캠페인에서는 연합 지구군의 지휘관으로서 인류의 희망이 되어 몰입감 넘치는 이야기 속 주인공이 될 수 있어. 그리 멀지 않은 미래 《Ashes of the Singularity II》는 2016년에 나왔던 획기적인 원작의 정식 후속작이야. 원작은 강한 AI가 우리의 삶을 근본적으로 바꿔 놓는 가까운 미래를 그렸고, 그 여파로 인간, 포스트휴먼, AI라는 세 핵심 진영이 태양계와 그 너머의 지배권을 놓고 맞붙게 되지. 인류 시점: 운명을 되찾아야 해 한 무리의 포스트휴먼 기술자들이 정부 승인도 없이 달 표면을 투리늄으로 바꿔버리자, 전 세계가 분노했고, 그게 인류가 다시 일어설 계기가 됐어. 세계 주요 강국들은 연합 지구 의회를 구성하고, AI와 포스트휴먼의 위협에 대응하기 위한 새로운 시대를 열기로 결의했지. 환경 과학, 첨단 기술, 외교, 군사 전략 등 각 분야 최고 전문가들이 연합 지구군을 이끌며, 인류가 자신의 운명을 다시 쥘 수 있도록 싸우고 있어… 아직 늦지 않았다면 말이야. 넌 연합 지구군의 지휘관으로서 태양계를 되찾고, 포스트휴먼에게 그 대가를 치르게 해야 해. AI 시점: 인간은 할 일을 다 했다 할리와 그 휘하 에이전트들은 인간이 AI를 탄생시킴으로써 진화적 사명을 다했다고 봐. 반면 포스트휴먼은 그냥 놔두면 우주와 서로를 집어삼킬 테고, 결국 모두를 ",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "텍스트 크기 조정",
-    "음량 개별 조절",
-    "난이도 조정",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "수시 저장",
-    "스테레오 사운드",
-    "서라운드 사운드",
-    "컨트롤러 일부 지원",
-    "Steam Cloud",
-    "통계",
-    "가족 공유"
-   ],
-   "genres": [
-    "시뮬레이션",
-    "전략"
-   ],
-   "price": 45000,
-   "release": "2026-11-10",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499790/0c833c880e8edbf2f798c92f065ec991cd962a65/header.jpg",
-   "ko": "text",
-   "publisher": "Stardock Entertainment",
-   "major": false,
-   "reviews": 599
   }
  },
  {
@@ -46844,42 +45364,6 @@
   }
  },
  {
-  "appid": 3669570,
-  "name": "Alchemy Factory",
-  "url": "https://store.steampowered.com/app/3669570/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "작은 매장에서 시작해 친구들과 함께 컨베이어 벨트와 파이프, 마법 설비를 활용한 자동화 생산 라인을 구축하세요. 포션, 주얼리와 유물을 판매하고 의뢰를 완료하여 부를 축적하면서, 중세 연금 공장을 구축하고 연금술의 대가로 거듭나세요! 「알케미 팩토리」 1.0 정식 버전 출시! 화물차 시스템과 업그레이드된 매장 운영 콘텐츠, 지금 바로 만나보세요!",
-   "text": "「알케미 팩토리」는 중세를 배경으로 한 자동화 생산 게임입니다. 작은 매장에서 시작해 친구들과 힘을 합쳐 컨베이어 벨트와 파이프, 마법 설비를 활용한 자동화 생산 라인을 구축하세요. 포션, 주얼리와 유물을 선반에 올려 판매하고 의뢰를 완료하면서 부를 축적하세요. 그리고 자신만의 중세 연금 공장을 구축하고, 명망 높은 연금술의 대가로 거듭나세요! 모든 것을 움직이는 컨베이어 벨트 「알케미 팩토리」에서 컨베이어 벨트는 공장 곳곳을 연결하여, 밤낮없이 원료와 제품을 운송합니다. 분쇄, 추출, 증류, 제련, 가공... 다양한 설비를 연결해 하나의 완전한 생산 라인을 구축하고, 기존의 복잡했던 연금 공정을 하나씩 자동화하세요. 투입과 추출을 적절히 설계하고 생산 속도를 조절해 물류 정체를 해소하며, 공장 전체를 효율적으로 가동하세요. 입체적인 연금 공장 건설 여러분의 공장은 평면에만 한정되지 않습니다. 컨베이어 벨트와 파이프, 설비, 매장을 자유롭게 배치하고, 다양한 높이와 방향으로 생산 라인을 구축하여 입체적인 구조 속에서 자원을 효율적으로 운송하세요. 공장이 확장됨에 따라 생산 공간을 위아래로 확장하고, 흩어져 있던 기능 구역을 유기적으로 연동되는 자동화 시스템으로 통합할 수 있습니다. 나아가 여러 층이 서로 연결된 방대한 규모의 입체적인 공장을 구축해 보세요. 생산, 판매와 확장 상품 생산은 경영의 첫걸음일 뿐입니다. 포션과 주얼리, 유물을 선반에 올리고 고객을 응대하여 의뢰를 완료하세요. 판매가 자동화되면 공장 설계, 레시피 연구와 규모 확장에 더 많은 시간과 노력을 투자할 수 있습니다. 벌어들인 금화로 토지를 구매하고 설비를 연구하며 기술을 업그레이드하세요. 생산 효율과 생산량을 높여 판매 성장을 이끌고, 공장이 끊임없이 확장되는 선순환 구조를 만들어 보세요. 친구와 함께하는 건설 친구와 함께 생산 라인을 계획하고 매장을 건설하며 물류를 관리해 방대한 규모의 연금 공장을 함께 구축해 나가세요. 생산 라인 최적화의 고수든, 경영 시뮬레이션의 대가든, 공간 설계를 즐기는 건축 전문가든, 누구나 멀티플레이에서 자신에게 맞는 역할을 찾을 수 있습니다. 친구와 오랫동안 함께 플레이하고 싶다면 전용 서버를 구축해 연금 공장을 계속 가동하고, 언제든 돌아와 건설을 이어 나갈 수도 있습니다. 설계도를 활용한 빠른 시작 「알케미 팩토리」는 Steam 창작마당을 지원합니다! 다른 플레이어가 공유한 설계도를 구독하고 활용해 보세요. 초보자를 위한 기본 배치부터 숙련된 플레이어를 위한 복잡한 생산 설계까지 다양하게 만나볼 수 있습니다. 이러한 설계도를 활용하면 「알케미 팩토리」의 생산 구조를 빠르게 익힐 수 있으며, 다른 플레이어의 설계에서 새로운 영감을 얻을 수도 있습니다. 자신만의 설계도를 업로드하고 공장 배치를 전 세계 연금술사들과 공유해 보세요. 1.0 정식 버전 출시 「알케미 팩토리」 1.0 정식 버전이 출시되었습니다! 정식 버전에는 앞서 해보기 기간 동안 업데이트 로드맵에 따라 선보인 주요 콘텐츠를 비롯해 그랜드 포털, 화물차 시스템, 새롭게 개편",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "LAN 협동",
-    "Steam 도전 과제",
-    "Steam 창작마당",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션",
-    "전략"
-   ],
-   "price": 19500,
-   "release": "2026-09-07",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669570/da84f32f1e93388acac5b683e52e9ea143f10f38/header.jpg",
-   "ko": "text",
-   "publisher": " Gamirror Games",
-   "major": false,
-   "reviews": 3113
-  }
- },
- {
   "appid": 3681010,
   "name": "Nioh 3",
   "url": "https://store.steampowered.com/app/3681010/",
@@ -46927,44 +45411,6 @@
    "publisher": "KOEI TECMO GAMES CO., LTD.",
    "major": true,
    "reviews": 12434
-  }
- },
- {
-  "appid": 3738830,
-  "name": "FIRE STATE",
-  "url": "https://store.steampowered.com/app/3738830/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "FIRE STATE는 Unreal Engine 5 기반의 극사실적 Bodycam 시점 슈팅 게임입니다. 고정밀 스캔 머티리얼과 실제 녹음한 총성으로 생생한 시청각 경험을 선사합니다. 멀미 방지 최적화와 3인칭 시점을 지원하며, 총을 움직여 조준하는 사실적인 방식에 정교한 조정을 더해 부드러운 조작감을 구현했습니다. 방대한 무기와 다양한 모드를 합리적인 가격으로 즐기세요.",
-   "text": "개요: FIRE STATE는 Unreal Engine 5로 개발한 Bodycam 시점 슈팅 게임입니다. 고정밀 스캔 머티리얼과 사실적인 총성 시스템을 통해 실제 영상 같은 화면과 현실에 가까운 사격 경험을 제공합니다. 고도로 최적화한 카메라 시스템은 멀미 없이 높은 몰입감을 느낄 수 있는 Bodycam 시점을 제공하며, 3인칭 시점으로도 전환할 수 있어 3D 멀미에 민감한 플레이어도 쾌적하게 즐길 수 있습니다. 기존 슈팅 게임과 달리 총을 움직여 조준하는 사실적인 방식을 채택했으며, 세밀한 조정을 거쳐 조작이 매우 부드럽고 쉽게 익힐 수 있습니다. 또한 동종 게임보다 풍부한 게임 모드와 더 방대한 무기 선택지를 제공합니다. 이 장르의 후발 주자로서 뒤늦게 합류하는 불리함을 잘 알기에, 더욱 충실한 콘텐츠를 정성껏 준비한 합리적인 가격으로 선보입니다. 게임 특징 실제 영상 같은 게임 화면 Unreal Engine 5로 개발하고 고정밀 스캔 머티리얼을 전반적으로 적용했습니다. 현실의 빛과 그림자, 환경의 세부 요소를 충실히 재현하여 실제 촬영 영상 같은 시각적 경험을 선사합니다.\n 사실적인 조준과 부드러운 조작감 기존 슈팅 게임과 달리 총을 움직여 조준하는 사실적인 방식을 통해 더욱 현장감 있는 사격 반응을 제공합니다. 시스템을 고도로 최적화하여 조작감이 매우 매끄럽고 쉽게 익힐 수 있습니다.\n 더 풍부한 모드와 무기 동종 게임보다 많은 게임 모드와 방대한 무기 선택지를 제공하여 더욱 충실한 콘텐츠와 높은 반복 플레이 가치를 선사합니다.\n 사실적인 총성 시스템 실제로 녹음한 총성을 바탕으로 각 총기의 발사음과 주변 환경의 울림을 정밀하게 재현합니다. 방아쇠를 당길 때마다 실제 사격과 같은 청각적 충격을 느낄 수 있습니다.\n 멀미를 줄이는 시점 최적화와 3인칭 지원 카메라 시스템을 고도로 최적화하여 Bodycam 시점의 높은 몰입감을 유지하면서 불편한 화면 흔들림을 없앴습니다. 또한 3인칭 시점을 지원하여 3D 멀미에 민감한 플레이어도 어려움 없이 쾌적하게 즐길 수 있습니다.\n 진심을 담은 합리적인 가격 동종 게임의 후발 주자로서 뒤늦게 합류하는 불리함을 잘 알고 있습니다. 더욱 알찬 콘텐츠와 더 저렴한 가격으로 플레이어에게 보답하여 가격 이상의 가치를 지닌 게임 경험을 제공합니다.",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "LAN PvP",
-    "컨트롤러 일부 지원",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "인디",
-    "대규모 멀티플레이어",
-    "시뮬레이션",
-    "전략",
-    "앞서 해보기"
-   ],
-   "price": 10500,
-   "finalPrice": 8400,
-   "discount": 20,
-   "release": "2026-08-07",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3738830/418ce95ea409a5a13216811d9f43bce70ad4c828/header.jpg",
-   "ko": "text",
-   "publisher": "UnderFire",
-   "major": false,
-   "reviews": 377
   }
  },
  {
@@ -47092,46 +45538,6 @@
   }
  },
  {
-  "appid": 4094350,
-  "name": "Online: 404",
-  "url": "https://store.steampowered.com/app/4094350/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "An open-world survival simulator where even seasoned veterans of the genre will have to rethink their typical survival approach and how they interact with the world around them. Play solo or with friends, follow the story or simply explore — just don’t forget your most important gadget.",
-   "text": "로드맵 \n 게임 정보 You probably wouldn’t start crafting a pickaxe, mining ore, and smelting it in a homemade furnace if you suddenly found yourself alone in an abandoned, quarantined district. We built this game around the idea of what a real person would actually do to survive in such a situation — in today’s world. Your smartphone is your best friend and your worst enemy Your main survival tool is your smartphone. You don’t have a magic book of survival tips, so if you need to figure something out or craft an item — just look it up on the in-game Internet. Your phone also has a map, flashlight, weather forecast, annoying ads, and plenty of unreliable information. But hey — you’ve got to survive somehow, right? Use what’s around you Of course, you won’t be crafting a solar panel from scratch just by following an online guide. If you want electricity in your shelter, it’s probably easier to take one off a nearby abandoned house.\nKeep your eyes open — the world around you is full of things that might help you stay alive. Fortify your shelter Wood is your main building material, but that doesn’t mean your base can’t be reinforced. Rip a car door or hood off an old vehicle and bolt it to your wooden wall — and all of a sudden, unwanted visitors will have a much harder time getting inside. Look around — is there anything else you can use? Explore the world Make your way through a surprisingly vibrant abandoned District, observe animal behavior, hunt, farm, build your shelter, and maybe ",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "수시 저장",
-    "스테레오 사운드",
-    "서라운드 사운드",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처",
-    "인디",
-    "대규모 멀티플레이어",
-    "시뮬레이션",
-    "앞서 해보기"
-   ],
-   "price": 19000,
-   "release": "2026-10-21",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094350/d64835e6cf8346d193f6f029551956716c01b281/header.jpg",
-   "ko": "none",
-   "publisher": " Cornfield Games",
-   "major": false,
-   "reviews": 414
-  }
- },
- {
   "appid": 4126040,
   "name": "애니모",
   "url": "https://store.steampowered.com/app/4126040/",
@@ -47208,157 +45614,6 @@
   }
  },
  {
-  "appid": 4251460,
-  "name": "Godzilla: Destroy All Monsters Melee Remastered",
-  "url": "https://store.steampowered.com/app/4251460/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "궁극의 Godzilla 아레나 격투 게임이 완전히 리마스터되어 돌아왔습니다. 원하는 괴수를 선택하고, 실제 도시를 구현한 도시와 다양한 장소에서 강력한 공격을 펼치며 전투를 벌이세요. 로컬 협동 플레이와 새롭게 추가된 온라인 멀티플레이에서 친구들과 적들을 상대로 맞서 싸울 수 있습니다.",
-   "text": "궁극의 괴수 아레나 격투 게임이 완전히 리마스터되어 돌아왔습니다. Atari와 원 개발사 Pipeworks가 선보이는 Godzilla: Destroy All Monsters Melee Remastered는 2002년작 격투 게임을 향상된 비주얼과 편의성 개선 요소로 새롭게 업데이트했습니다. 원하는 괴수를 선택하고, 낮과 밤 버전이 각각 존재하는 8개의 지역에서 강력한 공격을 펼치며 싸워 보세요. 실제 도시들을 구현한 무대, 몬스터 아일랜드, 그리고 외계 모선까지 다양한 장소에서 전투가 벌어집니다. 로컬 협동 플레이는 물론, 새롭게 추가된 온라인 멀티플레이도 지원합니다.\n익숙한 도시들을 배경으로 펼쳐지는 시네마틱한 괴수 대 괴수 전투 속에서 실력을 갈고닦으세요. 모든 괴수는 고유한 기술 구성을 지니고 있어, 각각의 난투가 색다른 전투 경험을 제공합니다. 잔혹한 근접 공격부터 원거리 에너지 블래스트, 특수한 분노 모드 공격까지 다양하게 활용할 수 있습니다. 주먹질만 하기 지겹다고요? 그렇다면 마천루를 집어 던져 보시는 건 어떠세요? 전장은 단순한 배경이 아니라 전략적으로 활용할 수 있는 공간이며, 건물과 랜드마크를 무기처럼 사용할 수도 있습니다.\n게임 전반의 비주얼은 원작의 시네마틱한 분위기를 더욱 강화하기 위해 완전히 새롭게 리마스터되었습니다. 또한 Godzilla: Destroy All Monsters Melee Remastered는 게임플레이 개선과 함께 향상된 잠금 해제 시스템을 제공하여, 괴수, 지역, 갤러리 아이템을 원하는 순서대로 자유롭게 잠금 해제할 수 있습니다. 특징 2002년 오리지널 Godzilla 아레나 격투 게임의 리마스터 버전\n 각각 독특하고 난폭한 기술 구성을 지닌 12종의 괴수\n 실제 도시들을 구현한 맵, 몬스터 아일랜드, 외계 모선을 포함한 8개의 지역\n 다양한 갤러리 아이템 잠금 해제 가능\n 로컬 협동 플레이 및 완전히 새로워진 온라인 멀티플레이 지원\n 원작의 시네마틱한 분위기를 강화한 리마스터 그래픽\n 괴수, 지역, 갤러리 아이템을 원하는 순서대로 잠금 해제할 수 있는 개선된 시스템\n 각 괴수별 추가 싱글 플레이 캠페인 포함",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "스크린 공유 및 분할 PvP",
-    "공유 및 분할 화면",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "게임패드 권장",
-    "Steam Cloud",
-    "Remote Play Together",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "캐주얼"
-   ],
-   "price": 31000,
-   "release": "2026-11-03",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251460/28023d80b51185fe3dbadadf608523942f47238c/header.jpg",
-   "ko": "text",
-   "publisher": "Atari",
-   "major": false,
-   "reviews": 2169
-  }
- },
- {
-  "appid": 4252290,
-  "name": "먀법사",
-  "url": "https://store.steampowered.com/app/4252290/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "목소리가 마법이 되는 협동 판타지 어드벤처. 고양이 마법사가 되어 마이크에 소리쳐 주문을 시전하고, 동화 같은 세계를 탐험하며 몬스터와 싸운 뒤 전리품을 가득 싣고 열기구로 돌아오세요.",
-   "text": "고양이 마법사가 되세요 귀엽고 어설프며 예측 불가능하고 표정이 풍부한 마법 고양이로 플레이하세요. 원하는 대로 고양이를 꾸밀 수 있습니다. 음성 기반 마법 마이크로 주문을 시전하세요. 새로운 주문을 배우고 고양이 친구들과 연습하세요. 화염구를 날리고, 어떤 물체든 띄우거나 거대한 토네이도를 소환할 수 있습니다.\n 주문을 커스터마이즈하세요 마법 무기고의 모든 주문에 고유한 이름을 붙이세요. 단어, 음절, 기상천외한 조합으로 친구들을 놀라게 하고 나만의 주문 세트를 만들어 보세요!\n 혼돈의 협동 플레이 마법은 모두에게 영향을 줍니다. 친구의 꼬리에 불을 붙이고, 서로를 띄워 장애물을 넘고, 야옹으로 팀원을 부활시키며 함께 웃긴 주문 상호작용을 발견하세요.\n 전리품과 탈출 탐험 중 귀중한 전리품을 모으고, 몬스터로부터 짐을 지키며 열기구까지 싸워 돌아오세요. 동화 같은 분위기 스타일리시한 공중 섬, 판타지 던전, 생동감 넘치는 지역을 탐험하며 가벼운 동화 분위기를 즐기세요.",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처"
-   ],
-   "price": 8400,
-   "release": "2026-07-20",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252290/4170d0c010a6b40ae41639b388b7962dd13f3893/header_koreana.jpg",
-   "ko": "text",
-   "publisher": "Polden Publishing",
-   "major": false,
-   "reviews": 534
-  }
- },
- {
-  "appid": 4285690,
-  "name": "Airport Security Sucks!",
-  "url": "https://store.steampowered.com/app/4285690/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "내면의 권력에 취한 TSA 요원이 되어 군중 속에 숨어 밀수품을 반입하려는 플레이어들을 찾아내세요. 권위적인 음성 명령으로 군중과 말썽 많은 K9 파트너를 통제하고, 각종 \"규정 준수 장비\"를 활용해 대놓고 장난을 치거나 숨어 있는 밀수꾼들을 체포하세요.",
-   "text": "친구들과 함께하거나 공개 로비에서 플레이하세요. PC가 감당할 수 있을 만큼 큰 로비를 만들 수 있습니다! 인터페이스와 음성 제어가 13개 언어를 지원합니다! 4개의 맵, 다양한 게임 모드와 꾸미기 아이템이 준비되어 있습니다! 밀수꾼들 시간이 다 되기 전에 가능한 모든 것을 비행기에 밀반입하고 NPC 항공 승객들 사이에 섞여드세요. 실제 공항에서는 절대 사용할 수 없는 장비, 무기, 폭발물을 사용하세요! 동료 밀수꾼들과 협력해 주의를 끌고, 트롤링하거나, 들키지 않고 버티세요. TSA 요원들 어떤 대가를 치르더라도 밀수꾼들을 체포하세요! 하지만 무고한 여행객은 다치게 하지 마세요. 사람들의 흐름, 엉덩이를 수색하는 앵무새, 공격/탐지견을 통제하기 위해 마음껏 음성 명령을 외치세요. FGM-148 재블린 대전차 미사일이나 강화된 세그웨이처럼 실제 TSA는 꿈도 못 꿀 도구와 무기를 사용하세요. 납치됨 두 진영으로 나뉘는 Among Us 스타일의 사회적 추론 게임 모드입니다: 하이재커와 항공 보안관. 하이재커는 필요한 모든 수단을 동원해 비행기를 추락시키려 하고, 항공 보안관은 모든 하이재커를 제거해 안전한 도착을 보장하려 합니다.",
-   "cats": [
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "협동",
-    "온라인 협동",
-    "음량 개별 조절",
-    "난이도 조정",
-    "스테레오 사운드",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "캐주얼",
-    "인디",
-    "시뮬레이션"
-   ],
-   "price": 8700,
-   "finalPrice": 5390,
-   "discount": 38,
-   "release": "2026-06-05",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285690/83c3f74745f699f49074f3e37b3795ded1ecc841/header.jpg",
-   "ko": "audio",
-   "publisher": "Jatater Worldwide",
-   "major": false,
-   "reviews": 581
-  }
- },
- {
-  "appid": 4324480,
-  "name": "조용한 장사",
-  "url": "https://store.steampowered.com/app/4324480/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "친구들과 함께, 혹은 혼자서 '지하 사업'을 시작하세요. '불꽃놀이' 판매, '세탁' 서비스, '상품권' 인쇄까지, 진정한 사업가는 언제나 '생산과 판매를 동시에 장악하는 법'을 알고 있습니다! 혼란을 이익으로 바꾸고, 첫 번째 검은 돈을 발판 삼아 시장을 독점하세요.",
-   "text": "Add To Wishlist \n Join Our Community \n 게임 정보 친구들과 함께, 혹은 혼자서 '지하 사업'을 시작하세요. '불꽃놀이' 판매, '세탁' 서비스, '상품권' 인쇄까지, 진정한 사업가는 언제나 '생산과 판매를 동시에 장악하는 법'을 알고 있습니다! 혼란을 이익으로 바꾸고, 첫 번째 검은 돈을 발판 삼아 시장을 독점하세요. 확장 또 확장, 계속해서 확장! 근면함과 지혜로 돈 버는 제국을 건설해 보세요. 흔히 말하듯, 성공한 사장님일수록 왠지 모르게 '전과의 향기'가 나는 법이죠! 고객의 수요는 언제나 존재하며, 눈이 부실 정도로 다양합니다. '불꽃놀이' 판매, '세탁' 서비스, '상품권' 인쇄, '무지개사탕' 연구개발까지… 누군가는 나서서 이들의 수요를 충족시켜야 합니다! 당신만의 지하 공장을 건설하고 확장하세요. 생산 라인을 계획하고, 원자재 수입을 엄격히 심사하며, 모든 생산 공정에 최선을 다하세요. 그리고 마침내 그 다양하고 풍성한 상품들을 직접 만들어 내세요. 소규모 주문과 중규모 주문으로 수익과 명성을 쌓아 올리고, 상상하지 못했던 새로운 사업들을 해금하세요. 물류 회사를 인수해 판매 채널을 위한 위장 역할을 마련하고, '육·해·공' 판매 네트워크를 구축하여 대량의 상품을 시장에 끊임없이 공급하세요. 거리의 유통업자들을 고용해 도시 곳곳에 당신의 판매망이 스며들게 하고, 수익이 끊임없이 밀려들게 하세요. 조직원 모집 혼자 창업하는 것도 물론 좋지만, 돈이 된다면 형제들을 불러 함께 벌지 않겠어? 생산 라인을 관리·확장하고 생산을 총괄하든, 유통·물류·판매를 총괄하든, 어느 하나 힘 안 쓰는 일이 없어. 친구들과 역할을 명확히 분담하여 사업 성장에 박차를 가하자. 사업 규모가 커질수록 직원 고용도 잊지 마세요. 이들이 현장 업무와 기본적인 판매를 담당하면, 당신과 동업자 형제들이 더 잘 전략과 미래를 구상할 수 있습니다. 아니면, 재미를 찾는 것도 나쁘지 않겠죠.",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "카메라 움직임 조정",
-    "음량 개별 조절",
-    "난이도 조정",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "DUALSHOCK 컨트롤러 지원",
-    "DUALSHOCK 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "수시 저장",
-    "스테레오 사운드",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "시뮬레이션",
-    "앞서 해보기"
-   ],
-   "price": 16000,
-   "release": "2026-07-22",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324480/d95de115b90826a4a8f28b78a9435647cb4be021/header_koreana.jpg",
-   "ko": "text",
-   "publisher": "Plan Dirty Games",
-   "major": false,
-   "reviews": 1132
-  }
- },
- {
   "appid": 4356780,
   "name": "Screen Stocks 데스크탑 주식시장",
   "url": "https://store.steampowered.com/app/4356780/",
@@ -47391,42 +45646,6 @@
    "publisher": "Oro Interactive",
    "major": false,
    "reviews": 281
-  }
- },
- {
-  "appid": 4450620,
-  "name": "GRAIN ROT",
-  "url": "https://store.steampowered.com/app/4450620/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "온통 불길에 휩싸인 황무지를 누비는 협동 공포 탈출 건설 게임입니다. 친구들과 함께 계속 변화하는 폐허 속으로 내려가 가구를 뜯어내고, 전리품을 찾아 수색하고, 타락한 존재가 들이닥치기 전에 빠져나오세요. 살아 돌아왔다면 전초기지를 재건해 다음 탐사의 생존 확률을 높이세요.",
-   "text": "이 게임에서는 연약한 나무 몸체 안에 깃든 살아 있는 불꽃으로 플레이하게 됩니다. 이 몸체는 쉽게 부서지고, 무너지고, 불이 붙으며, 파괴되면 불꽃이 빠져나옵니다. 죽는다 해도 달라지는 건 풍경뿐이죠. 동료들과 함께 저주받은 엘리베이터를 타고 매번 달라지는 지하 폐허로 내려가세요. 가구를 부숴 자원을 얻거나 분쇄기에 넣어 골드로 바꾸세요. 모두의 그릇이 부서지면 전리품은 사라집니다. 트롤링이 친구의 최후가 될 수도 있습니다. 적에게 드롭킥을 날리거나, '실수로' 친구의 불꽃을 몸체 밖으로 날려 버리세요. 괴물이 들끓는 복도에 가둬 버릴 수도 있고, 난전 한복판에 함께 휘말릴 수도 있습니다. 과연 여러분의 손으로 만든 난장판을 감당해 낼 수 있을까요? 깊이 내려갈수록 부패는 더욱 심해집니다. 육체는 뒤틀리고, 목소리는 일그러지고, 감정표현은... 더 끔찍해지죠. 어쩌면 더 좋아질지도 모르지만요. 심층에 들끓는 타락한 몸체들은 소리, 움직임, 서로의 행동에 예측할 수 없는 방식으로 반응합니다. 싸우고, 건설하고, 도망치고, 패닉에 빠지세요. 그릇이 부서지면 불꽃이 되어 새로운 역할을 맡게 됩니다. 어둠 속에서 팀을 이끌고, 새로운 능력을 지닌 또 다른 그릇을 찾아보세요. 완전히 사라지기 전에 어떻게든 그릇에 들어가야 합니다. 회수해 온 모든 물자는 전초기지 재건에 쓰입니다. 상호작용 가능한 가구, 능력치 업그레이드, 구조한 생존자, 그리고 다음 탐사에서 살아남을 더 기묘한 방법들을 해제하세요. 전초기지가 발전할수록 더 깊은 곳까지 내려갈 수 있습니다. 더 깊이 내려가고, 더 많이 회수하고, 적을 쓰러뜨리고, 부패에 저항하세요. 누군가는 버리고 오는 한이 있더라도, 살아 돌아와 함께 건설하세요. 아니면 영영 돌아오지 못하거나요.  특징 연약한 나무 몸체에 빙의하고 자유롭게 교체 물리 기반 혼돈이 가득한 협동 탈출 공포 게임 상호작용 가구를 활용하는 전술적인 목공 제작 절차적으로 변화하는 지하 던전 지속적인 전초기지 재건 및 성장 저주받은 감정표현으로 친구 약 올리기 심층에 갇힌 생존자 구조 육체 타락 및 변이 시스템 어딘가 이상한 꾸미기 요소",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "컨트롤러 완벽 지원",
-    "음량 개별 조절",
-    "#category_playable_at_your_own_pace",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "스테레오 사운드",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "인디",
-    "시뮬레이션"
-   ],
-   "price": 11700,
-   "release": "2026-08-07",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450620/697974067797577ee1803c37a44b4217d886502a/header.jpg",
-   "ko": "text",
-   "publisher": "Neem Interactive",
-   "major": false,
-   "reviews": 2443
   }
  },
  {
@@ -47504,75 +45723,6 @@
   }
  },
  {
-  "appid": 4739040,
-  "name": "DISCIPLINE SIMULATOR",
-  "url": "https://store.steampowered.com/app/4739040/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "🔥 UP TO 8-PLAYER HARDCORE DISCIPLINE SIMULATOR!!! 💪 Build power at max speed and WIN! Upload your target pics, use gadgets, and wreck faces in insane massive brawls! Dominate, sweat, and become the ABSOLUTE GOD OF DISCIPLINE!!! 😈",
-   "text": "🤯🔥 PURE HARDCORE ACTION!!! YOUR ACCURACY BECOMES A WEAPON OF MASS DESTRUCTION!!! ANNIHILATE ENEMIES IN DUELS OR DESATE TOTAL CARNAGE IN MASSIVE BRAWLS!!! NO MERCY!!! JUST SWEAT AND ABSOLUTE DISCIPLINE!!! 🦾👽 IMPORT YOUR BROS!!! PLAY AS ANYONE!!! UPLOAD YOUR CUSTOM SKINS AND KEEP SHOOTING RELENTLESSLY!!! CHOOSE YOUR PACE AND TEAR THIS REALITY TO SHREDS!!! 🖼️🎯 UPLOAD YOUR OWN MOTIVATION!!! TIRED OF BASIC TARGETS?! APPLY DISCIPLINE TO ANYTHING THAT TRIGGERS YOU!!! A PICTURE OF A NEW POWER DRILL?! BLUEPRINTS FOR A CEMENT MIXER OR A GIANT PIGEON?! WE DON'T EVEN CARE!!! 📈💪 UPGRADE YOUR DISCIPLINE!!! GET YOUR WEAPON COMPLETELY KITTED OUT USING GADGETS!!! MAKE YOUR SHOTS HARDER!!! FASTER!!! MORE ACCURATE!!! TEMPORARILY BECOME A GOD TO YOUR OPPONENTS!!! ⚔️🌐 TOTAL MULTIPLAYER DISCIPLINE (2 TO 8 PLAYERS) DEATHMATCH: From intense 1v1 standoffs to hardcore eight-player chaos. Every man for himself! TEAM DEATHMATCH (Squad up): Unite with your bros! Dozens of guns, one goal, a hail of gunfire, and total chaos! ONLINE MATCHES: Jump into random lobbies and humiliate strangers with your flawless speed and precision! 🛑⚠️ PICK A MAP AND START SHOOTING IN THE WILDEST LOCATIONS!!! 📋🔥 FACTS ABOUT YOUR NEW ADDICTION: BRUTAL PVP AND ONLINE CO-OP UNTIL YOUR HEART STOPS!!! COMPLETE FREEDOM OF IMAGINATION: UPLOAD YOUR TARGET PICS AND OPEN FIRE DIRECTLY ON THEM!!! UPGRADES ON A COSMIC SCALE!!! TONS OF INTENSE LOCATIONS FOR HARDCORE BATTLES IN EXTREME CONDITIONS!!!",
-   "cats": [
-    "멀티플레이어",
-    "PvP",
-    "온라인 PvP",
-    "앱 내 구매",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "어드벤처",
-    "캐주얼",
-    "시뮬레이션",
-    "스포츠",
-    "전략",
-    "무료 플레이"
-   ],
-   "price": 4400,
-   "release": "2026-09-20",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739040/15d6fa18870221184e10caf28bbc88dd12aba2af/header.jpg",
-   "ko": "none",
-   "publisher": "ASI Games",
-   "major": false,
-   "reviews": 999
-  }
- },
- {
-  "appid": 4836540,
-  "name": "Company of Heroes 3: Final Stand",
-  "url": "https://store.steampowered.com/app/4836540/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Company of Heroes 3: Final Stand는 완전히 새로운 독립형 웨이브 방어 경험을 선사하며, 혼자 또는 친구와 함께 곧바로 전투에 뛰어들 수 있습니다.",
-   "text": "탁월한 웨이브 디펜스 게임플레이 Company of Heroes 3: 완전히 새로운 독립형 웨이브 방어 경험을 선사하는 Final Stand에서는 스릴 넘치고 리플레이 가치가 뛰어난 Company of Heroes 게임플레이를 마음껏 즐길 수 있습니다. 이 독립형 경험은 이전 Company of Heroes 타이틀을 보유하지 않아도 플레이할 수 있으며, 따라서 오랜 팬이든 새로운 플레이어든 누구나 쉽게 바로 전투에 뛰어들 수 있습니다.  강력한 보스 & 고유 이벤트  Final Stand는 12번의 점점 더 어려워지는 라운드에 걸쳐 진지를 구축하고, 다층 방어선을 형성하며, 갈수록 거세지는 적의 공세에서 살아남는 도전 거리를 제공합니다. 여기에는 강력한 보스와 더불어 Final Stand만의 고유하고 강력한 이벤트를 마주하게 되는 특수한 적의 「돌발 상황」도 함께합니다.   깊이 있는 로그라이트 진행도 로그라이트 진행 시스템이 특징이며, 매 웨이브가 끝날 때마다 해당 플레이 동안 유지되는 무작위 유닛이나 능력 중 하나를 선택하여 매번 완전히 새로운 플레이를 경험할 수 있습니다.  매 플레이 사이에 진영별 진행도를 통해 강력한 특성 및 고유 능력과 같은 영구적인 업그레이드가 해금됩니다. 업그레이드에 따라 각 진영의 플레이 방식이 의미 있게 변화하며, 따라서 실험적인 전술, 장기적인 숙련도 향상, 그리고 더 높은 난이도에서 반복 플레이할 동기가 부여됩니다.   최후의 순간까지 방어하라 \nFinal Stand에는 압도적인 열세 속에서도 전선을 사수하는 제2차 세계 대전의 고전적인 로망이 담겨 있습니다. 친구들과 함께 싸우든 혼자서 한계까지 밀어붙이든 여러분만의 영웅적인 최후의 항전을 벌일 수 있는 무대를 선사합니다.   특징:  완전히 새로운 Company of Heroes 웨이브 방어 경험  협동 및 싱글 플레이어 중심의 게임플레이 모드  5개의 사용자 지정 맵에서 미군, 영국군, 독일 국방군 또는 독일 아프리카군단으로 플레이   리플레이 가치가 뛰어난 로그라이트 진행도    12개의 점진적인 웨이브 및 강력한 보스와의 전투  궁극의 도전을 위한 무한 모드    고유한 능력과 보상을 지닌 36개의 보스 유닛  16개의 무작위 게임 내 특수 이벤트  신규 및 숙련된 플레이어 모두를 위해 설계된 8개의 난이도  4개의 프리미엄 치장품 스킨 팩 해제(진영당 1개)",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "앱 내 구매",
-    "Steam Cloud",
-    "통계",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "전략"
-   ],
-   "price": 27800,
-   "release": "2026-07-29",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836540/6947d6be8800b8ed737f04c110ad929ae3c86123/header.jpg",
-   "ko": "text",
-   "publisher": "Relic Entertainment",
-   "major": false,
-   "reviews": 1194
-  }
- },
- {
   "appid": 4950470,
   "name": "Tidy Up Together",
   "url": "https://store.steampowered.com/app/4950470/",
@@ -47611,131 +45761,6 @@
    "publisher": "Malum Games",
    "major": false,
    "reviews": 345
-  }
- },
- {
-  "appid": 4954910,
-  "name": "Scam With Your Friends",
-  "url": "https://store.steampowered.com/app/4954910/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "친구들과 사기 콜센터를 운영하세요. 갈수록 황당해지는 수법으로 AI 통화 상대가 평생 모은 돈을 털어 보세요. 일일 할당량을 채우고, 사무실을 난장판으로 만들고, 툭하면 폭발하는 상사의 살벌한 업무 평가에서 살아남으세요.",
-   "text": "인도 콜카타가 여러분과 친구들을 부릅니다! 여러분과 친구들은 무자비한 상사 밑에서 사기 콜센터를 운영합니다. 교묘한 수법으로 AI 통화 상대를 속이고 원하는 대로 휘둘러 보세요! 상대의 컴퓨터를 해킹해 절실히 필요한 개인 정보를 손에 넣으세요. 일일 할당량을 채우지 못하면 상사의 분노를 감당해야 합니다! 하루하루 나아갈수록 쓸 수 있는 사기 수법이 늘어납니다. 죄 없는 사람들이 평생 모은 돈을 털어 일일 할당량을 채우세요. 못 채우면 해고입니다!!! 여러분이 당하느냐, 그들이 당하느냐의 문제입니다! 생산성을 높이세요! 스캠베이터의 해킹도 조심하세요... 한눈팔지 말고 사기에 집중하세요. 만만치 않은 스캠베이터(사기꾼을 골탕 먹이는 사람들) 를 조심하지 않으면 최악의 컴퓨터 바이러스에 감염될지도 모릅니다! 주요 특징 친구 또는 공개 로비의 플레이어와 즐기는 온라인 협동 플레이 싱글 플레이 실시간 AI 대화가 선사하는 폭소 황당무계한 사기 시나리오 회차 단위의 진행 시스템과 날이 갈수록 혼란스러워지는 근무일 피해자 컴퓨터에 원격 접속 게임 내 그림판 앱, 화면 녹화 도구, 카메라 컴퓨터 바이러스, 경찰 급습, 공습 등 온갖 직장 재난에서 살아남기 폭넓은 모드 지원 JSON 파일로 성격을 설정하고 WAV 파일로 목소리를 복제해 개성 있는 나만의 통화 상대 제작",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam 창작마당",
-    "음량 개별 조절",
-    "난이도 조정",
-    "DUALSHOCK 컨트롤러 지원",
-    "DUALSHOCK 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "스테레오 사운드",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "액션",
-    "캐주얼",
-    "인디",
-    "시뮬레이션",
-    "앞서 해보기"
-   ],
-   "price": 10500,
-   "release": "2026-10-15",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg",
-   "ko": "audio",
-   "publisher": "Jatater Worldwide",
-   "major": false,
-   "reviews": 6175
-  }
- },
- {
-  "appid": 5019920,
-  "name": "Tasty Chef",
-  "url": "https://store.steampowered.com/app/5019920/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "《Tasty Chef》는 편안하게 즐길 수 있는 레스토랑 경영 및 요리 게임입니다. 직접 주문을 받고, 재료를 손질하고, 음식을 만들어 손님에게 서빙해 보세요. 식재료 구매와 매장 확장, 시설 배치, 메뉴 구성도 자유롭게 즐길 수 있습니다. 직원을 고용하고 밀크티 가게에서 초밥집까지 사업을 확장해 나만의 외식 브랜드를 만들어 보세요!",
-   "text": "직접 짓고, 직접 요리하며, 나만의 레스토랑을 운영하세요! 《Tasty Chef》에서 여러분은 레스토랑의 경영자이자 현장에서 직접 일하는 직원입니다. 작업 공간을 설계하고, 식재료를 구매하고, 창고를 관리하고, 순서에 따라 음식을 만들어 보세요. 주문이 밀려들기 전에 완성된 요리를 손님에게 제때 전달해야 합니다! 레스토랑의 모든 과정은 여러분의 선택에 달려 있습니다. 영업 공간을 확장하고 조리 기구와 보관 시설, 작업대를 자유롭게 배치하세요. 주방 동선을 개선해 효율적으로 운영되는 레스토랑을 만들어 보세요. 나만의 메뉴를 구성하세요 새로운 레시피를 잠금 해제하고 그날 판매할 음식을 자유롭게 선택하세요. 만들고 싶지 않은 레시피는 비활성화하고, 맛을 조절해 레스토랑만의 개성이 담긴 메뉴를 구성할 수 있습니다. 각 음식에는 고유한 조리 과정이 있습니다. 식재료를 준비하고, 다양한 기구를 사용하고, 모든 조리 단계를 마친 뒤 완성된 음식을 기다리는 손님에게 전달하세요. 믿음직한 직원 팀을 꾸리세요 레스토랑의 모든 일을 혼자 처리할 필요는 없습니다. NPC 직원을 고용하면 주문 접수, 재료 손질, 조리, 서빙, 재고 보충, 식재료 정리 등 플레이어가 할 수 있는 다양한 업무를 맡길 수 있습니다. 스스로 움직이는 팀을 꾸려 레스토랑의 성장에 집중하세요. 손님이 몰리는 시간에는 언제든 주방으로 돌아가 직접 일손을 보탤 수도 있습니다. 저마다 개성 있는 레스토랑을 경험하세요 출시 버전에서는 밀크티 가게와 초밥집을 플레이할 수 있습니다. 아늑한 밀크티 가게에서 시작해 게임을 진행하며 초밥집을 해금해 보세요. 각 레스토랑은 고유한 레시피와 기구, 조리 과정, 운영 방식을 갖추고 있습니다. 업데이트 예정: 베이커리는 출시 버전에 포함되지 않으며, 2026년 10월 업데이트로 추가될 예정입니다. 밀크티 가게에서는 음료 배합과 맛 조절이 중요하지만, 초밥집에서는 회전초밥처럼 전혀 다른 작업 방식이 등장합니다. 각 레스토랑의 특징에 맞춰 공간을 다시 설계하고 알맞은 운영 동선을 구축하세요. 이 게임에는 전통적인 고정 스테이지가 없습니다. 모든 레스토랑은 계속해서 확장하고 개선하며 원하는 모습으로 운영할 수 있는 하나의 사업입니다. 혼자서 운영하거나 친구와 협력하세요 혼자서 레스토랑 전체를 관리하거나 NPC 직원의 도움을 받을 수 있으며, 친구와 함께 플레이할 수도 있습니다. 업무를 효율적으로 나누고 협력해 레스토랑의 모든 공간이 원활하게 돌아가도록 관리하세요. 직접 요리하는 것을 좋아하든, 효율적인 동선을 설계하거나 재고를 관리하고 직원 팀을 키우는 것을 좋아하든, 《Tasty Chef》에서는 자신만의 방식으로 꿈꾸던 레스토랑을 만들 수 있습니다. 음식마다 고유한 조리 단계를 갖춘 직접 참여형 요리 플레이 자유롭게 확장하고 꾸밀 수 있는 레스토랑 식재료 구매, 창고 보관, 재고 보충 관리 자유롭게 조정할 수 있는 메뉴, 레시피, 맛 주문 접수, 조리, 서빙, 재고 보충이 가능한 NPC 직원 서로 다른 시스템과 운영 과정을 갖춘 다양한 레스토랑** 싱글플레이 및",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "LAN 협동",
-    "Steam 도전 과제",
-    "카메라 움직임 조정",
-    "음량 개별 조절",
-    "난이도 조정",
-    "컨트롤러 일부 지원",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션"
-   ],
-   "price": 14000,
-   "release": "2026-09-23",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019920/6b9a5aacc9303f8bac2255b7acef8780a568a1e5/header.jpg",
-   "ko": "text",
-   "publisher": "Xpercent Games",
-   "major": false,
-   "reviews": 567
-  }
- },
- {
-  "appid": 5027520,
-  "name": "Megastore: Tidy Up Together",
-  "url": "https://store.steampowered.com/app/5027520/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Megastore: Tidy Up Together는 혼자 또는 온라인 협동으로 즐기는 편안한 정리 게임입니다. 장난감 가게, 전자제품 매장, 활기찬 슈퍼마켓, 거대한 2층 Megastore까지 규모가 점점 커지는 4개의 매장을 정리하세요. 수천 개의 상품을 줍고, 분류하고, 선반에 배치해 오픈 준비를 마치세요!",
-   "text": "매장을 오픈할 준비를 하세요 Megastore: Tidy Up Together는 어질러진 매장을 깔끔하고 정돈된 쇼핑 공간으로 바꾸는 편안한 정리 게임입니다. 혼자 플레이하거나 온라인 협동으로 친구들과 함께 즐길 수 있습니다. 상품은 매장 곳곳에 흩어져 있으며, 각 상품마다 알맞은 부서, 카테고리, 선반이 있습니다. 표지판을 따라 상품이 어디에 있어야 하는지 찾아내고, 같은 상품끼리 모아 매장이 문을 열기 전에 모든 상품을 올바른 위치에 정리하세요. 함께 협력하고, 팀원들과 매장 구역을 나누고, 정리 전략을 세워 수천 개의 상품을 하나씩 제자리에 돌려놓으세요. 플레이 가능한 4개의 매장 현재 게임에는 규모가 점점 커지는 4개의 완전한 매장이 있으며, 각 매장은 서로 다른 정리 도전, 상품 구성, 분위기를 제공합니다. 장난감 가게: 알록달록한 장난감과 여름용품으로 가득한 아늑한 단층 매장에서 여정을 시작하세요. 3,555개의 상품 을 297개의 선반 에 정리하며 상품을 구분하고, 분류하고, 올바르게 배치하는 방법을 익혀 보세요. 전자제품 매장: 완전히 새로운 상품들로 가득한 대형 전자제품 매장을 정리하세요. 6,203개의 상품 을 477개의 선반 에 배치하세요. 게이밍 PC, 콘솔, 게임, 모니터, 마우스, 키보드, 스마트폰, 노트북과 액세서리부터 TV, 세탁기, 냉장고, 식기세척기, 청소기, 커피 머신 등 다양한 가전제품까지 등장합니다. 슈퍼마켓: 신선식품과 생활필수품으로 가득한 활기찬 슈퍼마켓을 정리하세요. 7,934개의 상품 을 487개의 선반 에 배치하고, 모든 통로와 신선식품 코너를 오픈 준비 상태로 만들어 보세요. Megastore: 13,380개의 상품 , 9개의 부서, 978개의 선반 이 있는 거대한 2층 Megastore에 도전하세요. 건물 전체를 정리하고 다양한 부서에 질서를 되찾으세요. 혼자 플레이할 수 있지만 협동 플레이를 권장합니다. 4개의 매장을 모두 혼자 또는 협동으로 플레이하고, 원하는 난이도를 선택하세요. 역할을 나눠 서로 다른 부서를 담당하거나, 한 선반씩 함께 정리할 수도 있습니다. 분류하고, 모으고, 선반에 정리하세요 매장을 정리하는 것은 단순히 바닥에 떨어진 상품을 줍는 것만으로 끝나지 않습니다. 부서 표지판을 확인하고, 상품 카테고리를 구분하고, 비슷한 상품을 함께 모은 뒤 각 상품에 알맞은 선반을 찾아야 합니다. 비어 있던 선반이 하나씩 채워지고 매장이 점점 제 모습을 되찾을수록, 올바르게 배치한 상품 하나하나가 오픈에 한 걸음 더 가까워지게 합니다. 게임에는 1,350종이 넘는 고유 상품 과 65종의 서로 다른 선반 유형 이 있어, 수많은 상품을 구분하고 정리하는 재미를 제공합니다. 나만의 전략을 세우세요 스킬 트리를 진행하며 정리 속도를 높여 주는 다양한 능력을 잠금 해제하세요. 이동 및 정리 능력을 강화하고, 자신의 플레이 스타일에 맞는 업그레이드를 선택하며, 팀이 각 매장을 어떤 방식으로 정리할지 결정하세요. 어떤 스킬을 우선적으로 강화하느냐에 따라 전략이 달라지고, 점점 더 큰 매장 구역을",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "컨트롤러 완벽 지원",
-    "Steam 창작마당",
-    "음량 개별 조절",
-    "#category_playable_at_your_own_pace",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "DUALSHOCK 컨트롤러 지원",
-    "DUALSHOCK 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "DualSense 컨트롤러 지원",
-    "수시 저장",
-    "Steam Cloud",
-    "가족 공유"
-   ],
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션"
-   ],
-   "price": 6550,
-   "release": "2026-09-02",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5027520/b379f48c766d670878342739cafbdabc59118cad/header.jpg",
-   "ko": "text",
-   "publisher": "Yolo Games Studio",
-   "major": false,
-   "reviews": 984
   }
  },
  {
@@ -47816,48 +45841,6 @@
    "publisher": "Veteran Cat",
    "major": false,
    "reviews": 175
-  }
- },
- {
-  "appid": 5185890,
-  "name": "Zombies Aren't Real",
-  "url": "https://store.steampowered.com/app/5185890/",
-  "found": "2026-11-28",
-  "why": "정리 대기",
-  "tried": "2026-11-28",
-  "info": {
-   "short": "Zombies Aren't Real is a horde-defense, strategy game where you deploy military forces in an attempt to quell a quick-spreading zombie infection and save as many civilians as you can!",
-   "text": "Zombies Aren't Real  is a horde-defense, strategy game where you attempt to control a quick-spreading zombie infection in real-world cities by commanding military forces. \nYou're given a bird's eye view of a city and time to prepare for the outbreak.  With limited resources, carefully choose how you will respond to the infection and establish a plan to save as many civilians as possible. Once you're ready the chaos begins. The zombies will fan out and begin to infect the population.  You are able to adapt your plan on the fly.  If the zombies break through your perimeter you can call in air support such as bombers or gatling gun helicopters to attempt to stop the spread before it gets out of control. If you're able to eliminate all the zombies you win and your score is determined by how many civilians you saved. Features Play in real-world cities Deploy specialized ground forces against the spreading horde, such as snipers, turrets, mortar squads and garrisons Call in air strikes when things get out of hand, but be careful to aim them well to minimize civilian casualties Place safe zones, gates, and more to protect the civilian population Steam Workshop support for custom maps Play with one other friend in Online Co-op Multiplayer Multiplayer (2-player online) Invite a friend to survive the horde with you! In co-op, players split their resources, plan defenses side by side, and call in battle abilities in real time to quell the horde. Each player owns their own budget and bui",
-   "cats": [
-    "싱글 플레이어",
-    "멀티플레이어",
-    "협동",
-    "온라인 협동",
-    "Steam 도전 과제",
-    "Steam 창작마당",
-    "텍스트 크기 조정",
-    "카메라 움직임 조정",
-    "색상 대체",
-    "음량 개별 조절",
-    "난이도 조정",
-    "#category_playable_at_your_own_pace",
-    "퀵타임 이벤트 없이 플레이 가능",
-    "Steam Cloud",
-    "Steam 순위표",
-    "레벨 에디터 포함",
-    "가족 공유"
-   ],
-   "genres": [
-    "전략",
-    "앞서 해보기"
-   ],
-   "price": 11000,
-   "release": "2026-11-13",
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
-   "ko": "text",
-   "publisher": "Jogamedev",
-   "major": false,
-   "reviews": 3522
   }
  },
  {
