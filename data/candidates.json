@@ -42365,5 +42365,1342 @@
    "major": false,
    "reviews": 289
   }
+ },
+ {
+  "appid": 10,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/10/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 70,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/70/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 240,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/240/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4000,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4000/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음(서버마다 다름)"
+ },
+ {
+  "appid": 7940,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/7940/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 8930,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/8930/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 12210,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/12210/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 42680,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/42680/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 48700,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/48700/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글, 멀티는 낯선 사람과의 대규모 대전"
+ },
+ {
+  "appid": 55150,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/55150/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 107410,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/107410/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 203160,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/203160/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 203770,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/203770/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 209650,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/209650/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 211820,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/211820/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 236430,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/236430/",
+  "found": "2026-11-28",
+  "why": "되돌림: 온라인 인원 정보 애매(소환 방식 협동)"
+ },
+ {
+  "appid": 236850,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/236850/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 244210,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/244210/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 244850,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/244850/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 246900,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/246900/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 247970,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/247970/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 261550,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/261550/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글, 멀티는 낯선 사람과의 대규모 대전"
+ },
+ {
+  "appid": 270150,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/270150/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 274940,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/274940/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 281990,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/281990/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 285920,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/285920/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 287700,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/287700/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 300380,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/300380/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 313120,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/313120/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 335300,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/335300/",
+  "found": "2026-11-28",
+  "why": "되돌림: 온라인 인원 정보 애매(소환 방식 협동)"
+ },
+ {
+  "appid": 346110,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/346110/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음(서버마다 다름)"
+ },
+ {
+  "appid": 361280,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/361280/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 368070,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/368070/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 379720,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/379720/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 383120,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/383120/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 394360,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/394360/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 400750,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/400750/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 410340,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/410340/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 418030,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/418030/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 418460,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/418460/",
+  "found": "2026-11-28",
+  "why": "되돌림: 대규모 PvP, 친구 분대 인원 정보 없음"
+ },
+ {
+  "appid": 427520,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/427520/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 429050,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/429050/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 440900,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/440900/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음(서버마다 다름)"
+ },
+ {
+  "appid": 513710,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/513710/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음(서버마다 다름)"
+ },
+ {
+  "appid": 519860,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/519860/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 570940,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/570940/",
+  "found": "2026-11-28",
+  "why": "되돌림: 온라인 인원 정보 애매(소환 방식 협동)"
+ },
+ {
+  "appid": 593600,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/593600/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 601150,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/601150/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 621830,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/621830/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 626690,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/626690/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 629760,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/629760/",
+  "found": "2026-11-28",
+  "why": "되돌림: 대규모 PvP, 친구 분대 인원 정보 없음"
+ },
+ {
+  "appid": 637650,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/637650/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 671860,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/671860/",
+  "found": "2026-11-28",
+  "why": "되돌림: 대규모 PvP, 친구 분대 인원 정보 없음"
+ },
+ {
+  "appid": 686810,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/686810/",
+  "found": "2026-11-28",
+  "why": "되돌림: 대규모 PvP, 친구 분대 인원 정보 없음"
+ },
+ {
+  "appid": 782330,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/782330/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 799600,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/799600/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 805550,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/805550/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음(서버마다 다름)"
+ },
+ {
+  "appid": 826630,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/826630/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 872670,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/872670/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 896250,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/896250/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 916440,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/916440/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 926990,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/926990/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 952060,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/952060/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 960170,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/960170/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 969990,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/969990/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 973580,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/973580/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 1042550,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1042550/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 1062520,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1062520/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1066890,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1066890/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1089090,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1089090/",
+  "found": "2026-11-28",
+  "why": "되돌림: 온라인 인원 정보 애매"
+ },
+ {
+  "appid": 1106840,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1106840/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1114150,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1114150/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1127400,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1127400/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1154030,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1154030/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1158310,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1158310/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1169040,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1169040/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1172710,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1172710/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음(대규모 MMO 성격)"
+ },
+ {
+  "appid": 1211600,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1211600/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1213210,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1213210/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1222680,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1222680/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1237950,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1237950/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글, 멀티는 낯선 사람과의 대규모 대전"
+ },
+ {
+  "appid": 1237970,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1237970/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1252330,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1252330/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 1262540,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1262540/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1262580,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1262580/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1277400,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1277400/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 1295660,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1295660/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1324780,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1324780/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1494420,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1494420/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1583320,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1583320/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1604030,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1604030/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음(서버마다 다름)"
+ },
+ {
+  "appid": 1605850,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1605850/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1611600,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1611600/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1669000,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1669000/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1732430,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1732430/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1766060,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1766060/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1798230,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1798230/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1805110,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1805110/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1812450,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1812450/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1824220,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1824220/",
+  "found": "2026-11-28",
+  "why": "되돌림: 대규모 PvP, 친구 분대 인원 정보 없음"
+ },
+ {
+  "appid": 1849250,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1849250/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1867240,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1867240/",
+  "found": "2026-11-28",
+  "why": "되돌림: 대규모 PvP, 친구 분대 인원 정보 없음"
+ },
+ {
+  "appid": 1874880,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1874880/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음(대규모 서버)"
+ },
+ {
+  "appid": 1913120,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1913120/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1934680,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1934680/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 1974050,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/1974050/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2024070,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2024070/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2080690,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2080690/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2168680,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2168680/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2172910,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2172910/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2174510,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2174510/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2239670,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2239670/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음 (대규모 밀리터리 심)"
+ },
+ {
+  "appid": 2288340,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2288340/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2290180,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2290180/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음 (대규모 오픈월드)"
+ },
+ {
+  "appid": 2317640,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2317640/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2320980,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2320980/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2399420,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2399420/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2399830,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2399830/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음(서버마다 다름)"
+ },
+ {
+  "appid": 2406770,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2406770/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2427700,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2427700/",
+  "found": "2026-11-28",
+  "why": "되돌림: 비동기 대전 위주, 인원 정보 없음"
+ },
+ {
+  "appid": 2440510,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2440510/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2445690,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2445690/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2479810,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2479810/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2487190,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2487190/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2522120,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2522120/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2537590,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2537590/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 비행 시뮬레이션"
+ },
+ {
+  "appid": 2543830,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2543830/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2562390,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2562390/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2624080,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2624080/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2646460,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2646460/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2670630,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2670630/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2695940,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2695940/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2698940,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2698940/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2768430,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2768430/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2799860,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2799860/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 싱글 게임"
+ },
+ {
+  "appid": 2887580,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2887580/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2909110,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2909110/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 2968420,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/2968420/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3009300,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3009300/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3058360,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3058360/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3065940,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3065940/",
+  "found": "2026-11-28",
+  "why": "되돌림: 대규모 PvP, 친구 분대 인원 정보 없음"
+ },
+ {
+  "appid": 3072120,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3072120/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3079210,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3079210/",
+  "found": "2026-11-28",
+  "why": "되돌림: 대규모 PvP, 친구 분대 인원 정보 없음"
+ },
+ {
+  "appid": 3105440,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3105440/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3218230,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3218230/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3274580,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3274580/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3293260,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3293260/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3322630,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3322630/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3394840,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3394840/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3405690,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3405690/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3407390,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3407390/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3450310,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3450310/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3452720,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3452720/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3499790,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3499790/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3561220,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3561220/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3595230,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3595230/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3601830,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3601830/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3669570,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3669570/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3681010,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3681010/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3738830,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3738830/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3787240,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3787240/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3818450,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3818450/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3832030,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3832030/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3936530,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3936530/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 3940610,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/3940610/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4032350,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4032350/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4078430,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4078430/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4094350,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4094350/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4126040,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4126040/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4179280,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4179280/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4241920,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4241920/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4251460,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4251460/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4252290,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4252290/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4285690,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4285690/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음(로비 크기 제한 없음)"
+ },
+ {
+  "appid": 4324480,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4324480/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4356780,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4356780/",
+  "found": "2026-11-28",
+  "why": "되돌림: 사실상 혼자 하는 클리커"
+ },
+ {
+  "appid": 4450620,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4450620/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4508340,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4508340/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4530370,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4530370/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4537100,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4537100/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4570720,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4570720/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4739040,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4739040/",
+  "found": "2026-11-28",
+  "why": "되돌림: 게임 내용과 인원 구성이 불분명"
+ },
+ {
+  "appid": 4836540,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4836540/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4950470,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4950470/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 4954910,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/4954910/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 5019920,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/5019920/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 5027520,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/5027520/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 5031210,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/5031210/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 5094930,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/5094930/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 5155360,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/5155360/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
+ },
+ {
+  "appid": 5185890,
+  "name": "(정보 다시 받는 중)",
+  "url": "https://store.steampowered.com/app/5185890/",
+  "found": "2026-11-28",
+  "why": "되돌림: 인원 정보 없음"
  }
 ]
