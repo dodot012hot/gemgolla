@@ -12428,8 +12428,8 @@
   {
    "appid": 240,
    "name": "Counter-Strike: Source",
-   "min": 0,
-   "max": 0,
+   "min": 1,
+   "max": 32,
    "mode": "pvp",
    "len": "short",
    "tags": [
@@ -12437,7 +12437,6 @@
     "skill"
    ],
    "desc": "Source 엔진으로 다시 만든 카운터 스트라이크 팀 대전 FPS",
-   "group": "noinfo",
    "price": 11000,
    "kind": "gem",
    "release": "2004-11-01",
@@ -12525,15 +12524,14 @@
    "appid": 48700,
    "name": "Mount & Blade: Warband",
    "min": 1,
-   "max": 1,
-   "mode": "solo",
+   "max": 100,
+   "mode": "pvp",
    "len": "long",
    "tags": [
     "strategy",
     "rpg"
    ],
-   "desc": "군대를 이끌고 칼라디아 왕좌를 노리는 중세 전투 RPG",
-   "group": "single",
+   "desc": "군대를 이끌고 칼라디아를 정복하거나 온라인 대규모 기병전을 벌이는 중세 RPG",
    "price": 24000,
    "kind": "gem",
    "release": "2010-03-31",
@@ -12672,15 +12670,14 @@
    "appid": 261550,
    "name": "Mount & Blade II: Bannerlord",
    "min": 1,
-   "max": 1,
-   "mode": "solo",
+   "max": 100,
+   "mode": "pvp",
    "len": "long",
    "tags": [
     "strategy",
     "rpg"
    ],
-   "desc": "군대를 모아 중세 대륙을 정복하는 전략 액션 RPG",
-   "group": "single",
+   "desc": "중세 대륙 정복 캠페인과 온라인 5대5 지휘관 전투가 있는 액션 RPG",
    "price": 60000,
    "kind": "gem",
    "release": "2022-10-25",
@@ -13035,8 +13032,8 @@
   {
    "appid": 1604030,
    "name": "V Rising",
-   "min": 0,
-   "max": 0,
+   "min": 1,
+   "max": 4,
    "mode": "both",
    "len": "long",
    "tags": [
@@ -13044,7 +13041,6 @@
     "rpg"
    ],
    "desc": "뱀파이어가 되어 성을 짓고 보스를 사냥하는 생존 액션",
-   "group": "noinfo",
    "price": 34500,
    "kind": "gem",
    "release": "2024-05-08",
